@@ -6,7 +6,7 @@
 （Claude Codeが入っていないPCからでもリンクだけで閲覧できます）
 
 ## 仕組み
-- `data/news.json` — 収集済み記事の正データ（URLで重複排除、`collected_at`から30日経過した記事は自動削除）
+- `data/news.json` — 収集済み記事の正データ（URLで重複排除。`published_at`が分かる記事はそこから30日、不明な記事は`collected_at`から30日経過すると自動削除。表示は新しい順）
 - `templates/site_template.html` — ダッシュボードのHTML/CSS/JSテンプレート
 - `scripts/build_site.py` — `data/news.json` を `templates/site_template.html` に埋め込み `dist/index.html` を生成（Python3標準ライブラリのみ、依存なし）
 - `dist/index.html` — 生成物。この内容をArtifactとしてpublishしている

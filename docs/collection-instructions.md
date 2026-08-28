@@ -25,7 +25,9 @@
 - category: "alt_investment" — 金融業界のオルタナ投資・インフラ投資。例クエリ: "infrastructure fund alternative investment news", "infrastructure private equity fundraise", "transportation asset-backed securities leasing"
 - category: "other_real_assets" — その他実物資産（航空機・海上コンテナ・シャーシ等のリース）。例クエリ: "aircraft leasing news lessor fleet", "marine container leasing news", "intermodal chassis leasing news"
 
-各カテゴリ2〜3クエリをWebSearchし、直近数日以内の実際のニュース記事（見出し・出典・URL・可能なら日付）を候補として集めてください。市場調査レポートの販売ページなど恒常的に出てくる非ニュース系ページは優先度を下げてください。
+各カテゴリ2〜3クエリをWebSearchし、実際のニュース記事（見出し・出典・URL・可能なら日付）を候補として集めてください。
+
+**収集範囲は公開日から30日（1ヶ月）以内に限定してください。** 検索結果や記事本文から発行日をできる限り確認し、30日より古いと判明した記事は候補から除外してください。発行日がどうしても特定できない場合のみ、直近で話題になっている（＝WebSearch結果の上位に出てくる）ものに限り候補にしてください。市場調査レポートの販売ページなど、恒常的に検索結果に出てくる日付不明の非ニュース系ページは避けてください。
 
 ## 2. 重複排除
 data/news.json を読み込み、既存の "url" と一致する候補は除外してください（同じ記事の再掲載を防ぐため）。

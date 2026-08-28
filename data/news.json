@@ -46,24 +46,6 @@
   },
   {
     "category": "rail_industry",
-    "title": "Union Pacific Wins CN Support for Norfolk Southern Deal With New Rail Access Agreement",
-    "source": "Sourcing Journal (WWD)",
-    "url": "https://wwd.com/sourcing-journal/logistics/union-pacific-cn-norfolk-southern-merger-railroad-access-agreement-bnsf-1239081167/",
-    "published_at": "2026-07-23",
-    "summary_ja": "ユニオン・パシフィックがカナディアン・ナショナルとの新たな線路アクセス協定によりノーフォーク・サザン買収案への支持を獲得。BNSF・CSX・CPKCは合併に反対を表明している。",
-    "collected_at": "2026-08-27T20:40:00+09:00"
-  },
-  {
-    "category": "rail_industry",
-    "title": "AAR Reports Weekly Rail Traffic for the Week Ending August 1, 2026",
-    "source": "Association of American Railroads",
-    "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-august-1-2026/",
-    "published_at": "2026-08-01",
-    "summary_ja": "2026年8月1日終了週の北米貨物輸送量は前年比2.5%増。インターモーダル輸送が牽引し、年初来累計も3.3%増と底堅い伸びを示している。",
-    "collected_at": "2026-08-27T20:40:00+09:00"
-  },
-  {
-    "category": "rail_industry",
     "title": "Class I Briefs: UP, NS, CPKC",
     "source": "Railway Age",
     "url": "https://www.railwayage.com/freight/class-i/class-i-briefs-up-ns-cpkc-3/",
@@ -78,15 +60,6 @@
     "url": "https://www.pionline.com/alternative-investments/infastructure/pi-kkr-infrastructure-fundraise-2026/",
     "published_at": null,
     "summary_ja": "KKRのグローバル・インフラ・インベスターズVが192億ドルでクローズし、2026年最大級のインフラファンドとなった。実物資産への資金調達は7月に大きく伸びている。",
-    "collected_at": "2026-08-27T20:40:00+09:00"
-  },
-  {
-    "category": "alt_investment",
-    "title": "NOVA Infrastructure closes second fund at $1.5bn, doubling debut vehicle",
-    "source": "Alternatives Watch",
-    "url": "https://www.alternativeswatch.com/2026/04/07/nova-infrastructure-second-fund-ii-1-5-billion/",
-    "published_at": "2026-04-07",
-    "summary_ja": "NOVAインフラストラクチャーが2本目のファンドを約15億ドルでクローズ。前号ファンド（7億ドル）から倍増し、目標額を30%以上上回った。",
     "collected_at": "2026-08-27T20:40:00+09:00"
   },
   {
@@ -109,15 +82,6 @@
   },
   {
     "category": "other_real_assets",
-    "title": "Aviation Capital Group Orders 50 Boeing 737 MAX Jets",
-    "source": "Boeing Mediaroom",
-    "url": "https://boeing.mediaroom.com/2026-01-13-Aviation-Capital-Group-Orders-50-Boeing-737-MAX-Jets",
-    "published_at": "2026-01-13",
-    "summary_ja": "航空機リース大手アビエーション・キャピタル・グループがボーイング737 MAXを50機発注。リース各社による同型機の発注は累計で受注残の約2割に達する。",
-    "collected_at": "2026-08-27T20:40:00+09:00"
-  },
-  {
-    "category": "other_real_assets",
     "title": "The biggest commercial aircraft lessors by fleet size in 2026",
     "source": "Aerospace Global News",
     "url": "https://aerospaceglobalnews.com/news/the-biggest-commercial-aircraft-lessors-by-fleet-size-in-2026/",
@@ -126,21 +90,12 @@
     "collected_at": "2026-08-27T20:40:00+09:00"
   },
   {
-    "category": "other_real_assets",
-    "title": "ITE Management Expands Intermodal Platform With Acquisition of CS Leasing",
-    "source": "PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/ite-management-expands-intermodal-platform-with-acquisition-of-cs-leasing-302731494.html",
-    "published_at": "2026-04-01",
-    "summary_ja": "投資会社ITEマネジメントがコンテナリース会社CSリーシング（ISOタンクコンテナ等約5.5万台を保有）を買収し、複合輸送プラットフォームを拡大。シャーシリース会社マイルストーンの買収に続く動き。",
-    "collected_at": "2026-08-27T20:40:00+09:00"
-  },
-  {
-    "category": "other_real_assets",
-    "title": "TRAC begins transition out of Pool of Pools chassis-sharing arrangement",
-    "source": "Pool of Pools",
-    "url": "https://pop-lalb.com/",
-    "published_at": "2026-06-01",
-    "summary_ja": "シャーシリース大手TRACが2026年6月1日付でプール・オブ・プールズからの離脱手続きを開始。DCLIとのシャーシ共有体制は同月末で解消される。",
+    "category": "rail_industry",
+    "title": "AAR Reports Weekly Rail Traffic for the Week Ending August 1, 2026",
+    "source": "Association of American Railroads",
+    "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-august-1-2026/",
+    "published_at": "2026-08-01",
+    "summary_ja": "2026年8月1日終了週の北米貨物輸送量は前年比2.5%増。インターモーダル輸送が牽引し、年初来累計も3.3%増と底堅い伸びを示している。",
     "collected_at": "2026-08-27T20:40:00+09:00"
   }
 ]

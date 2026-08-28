@@ -17,19 +17,31 @@ RETENTION_DAYS = 30
 JST = timezone(timedelta(hours=9))
 
 
+def _is_recent(article, cutoff):
+    """An article is recent if its published date is known and within the
+    retention window; when the publish date is unknown, fall back to how
+    recently it was collected."""
+    published = article.get("published_at")
+    if published:
+        try:
+            pub_dt = datetime.strptime(published, "%Y-%m-%d").replace(tzinfo=JST)
+            return pub_dt >= cutoff
+        except ValueError:
+            pass  # unparseable published_at: fall through to collected_at
+    collected = article.get("collected_at")
+    if collected:
+        try:
+            return datetime.fromisoformat(collected) >= cutoff
+        except ValueError:
+            pass
+    return True
+
+
 def load_articles():
     articles = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     cutoff = datetime.now(JST) - timedelta(days=RETENTION_DAYS)
-    kept = []
-    for a in articles:
-        collected = a.get("collected_at")
-        try:
-            collected_dt = datetime.fromisoformat(collected) if collected else None
-        except ValueError:
-            collected_dt = None
-        if collected_dt is not None and collected_dt < cutoff:
-            continue
-        kept.append(a)
+    kept = [a for a in articles if _is_recent(a, cutoff)]
+    kept.sort(key=lambda a: a.get("published_at") or a.get("collected_at") or "", reverse=True)
     return kept
 
 
