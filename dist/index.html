@@ -1,0 +1,419 @@
+<title>Railcar Wire</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #eef0f1;
+    --surface: #ffffff;
+    --surface-alt: #e2e6e8;
+    --text: #1b2024;
+    --text-muted: #52606b;
+    --border: #cbd2d6;
+    --accent: #c8531a;
+    --accent-ink: #ffffff;
+    --cat-railcar: #2f5f7d;
+    --cat-rail: #55606a;
+    --cat-alt: #256b58;
+    --cat-assets: #93641f;
+    --focus: #1c6fae;
+    --shadow: rgba(20, 24, 27, 0.08);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #14181b;
+      --surface: #1d2226;
+      --surface-alt: #262c30;
+      --text: #e7e9ea;
+      --text-muted: #9aa5ac;
+      --border: #333b40;
+      --accent: #e8763f;
+      --accent-ink: #14181b;
+      --cat-railcar: #78b0d4;
+      --cat-rail: #99a4ac;
+      --cat-alt: #63b699;
+      --cat-assets: #d6a24d;
+      --focus: #6bb6ef;
+      --shadow: rgba(0, 0, 0, 0.4);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #14181b;
+    --surface: #1d2226;
+    --surface-alt: #262c30;
+    --text: #e7e9ea;
+    --text-muted: #9aa5ac;
+    --border: #333b40;
+    --accent: #e8763f;
+    --accent-ink: #14181b;
+    --cat-railcar: #78b0d4;
+    --cat-rail: #99a4ac;
+    --cat-alt: #63b699;
+    --cat-assets: #d6a24d;
+    --focus: #6bb6ef;
+    --shadow: rgba(0, 0, 0, 0.4);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "IBM Plex Sans", "Hiragino Kaku Gothic ProN", sans-serif;
+    line-height: 1.55;
+  }
+  h1, h2, .display {
+    font-family: "Big Shoulders Display", "Hiragino Sans", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.01em;
+    text-wrap: balance;
+  }
+  .mono { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+  a { color: inherit; }
+
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 1.1rem clamp(1rem, 3vw, 2.5rem);
+  }
+  .header-top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .brand {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+  }
+  .brand h1 {
+    margin: 0;
+    font-size: clamp(1.5rem, 2.6vw, 2.1rem);
+    line-height: 1;
+  }
+  .brand .tagline {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+  }
+  .updated {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    text-align: right;
+    white-space: nowrap;
+  }
+  .controls {
+    display: flex;
+    gap: 0.7rem;
+    align-items: center;
+    margin-top: 0.9rem;
+    flex-wrap: wrap;
+  }
+  .pills {
+    display: flex;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+  }
+  .pill {
+    border: 1px solid var(--border);
+    background: var(--surface-alt);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 0.35rem 0.85rem;
+    font-size: 0.82rem;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
+  }
+  .pill .dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: var(--dot, var(--text-muted));
+  }
+  .pill[aria-pressed="true"] {
+    background: var(--accent);
+    color: var(--accent-ink);
+    border-color: var(--accent);
+  }
+  .pill[aria-pressed="true"] .dot { background: var(--accent-ink); }
+  .pill:focus-visible, .search-box input:focus-visible, .refresh-note a:focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+  .search-box {
+    margin-left: auto;
+    position: relative;
+  }
+  .search-box input {
+    background: var(--surface-alt);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 0.4rem 0.9rem 0.4rem 2rem;
+    font-size: 0.85rem;
+    font-family: inherit;
+    width: 15rem;
+    max-width: 40vw;
+  }
+  .search-box::before {
+    content: "";
+    position: absolute;
+    left: 0.75rem;
+    top: 50%;
+    width: 0.7rem;
+    height: 0.7rem;
+    border: 1.5px solid var(--text-muted);
+    border-radius: 50%;
+    transform: translateY(-60%);
+  }
+  .search-box::after {
+    content: "";
+    position: absolute;
+    left: 1.35rem;
+    top: 62%;
+    width: 0.45rem;
+    height: 1.5px;
+    background: var(--text-muted);
+    transform: rotate(45deg);
+  }
+
+  main {
+    max-width: 68rem;
+    margin: 0 auto;
+    padding: 1.6rem clamp(1rem, 3vw, 2.5rem) 4rem;
+  }
+  .count-row {
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    margin: 0 0 1rem;
+  }
+  .grid {
+    display: grid;
+    gap: 0.85rem;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--cat-color, var(--border));
+    border-radius: 0.5rem;
+    padding: 0.95rem 1.15rem;
+    box-shadow: 0 1px 2px var(--shadow);
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .card-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.74rem;
+    color: var(--text-muted);
+    flex-wrap: wrap;
+  }
+  .tag {
+    color: var(--cat-color);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.7rem;
+  }
+  .card h2 {
+    margin: 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+    font-family: "IBM Plex Sans", sans-serif;
+    letter-spacing: 0;
+  }
+  .card h2 a {
+    text-decoration: none;
+  }
+  .card h2 a:hover { text-decoration: underline; }
+  .card p {
+    margin: 0;
+    color: var(--text);
+    font-size: 0.92rem;
+  }
+  .empty {
+    color: var(--text-muted);
+    text-align: center;
+    padding: 3rem 1rem;
+    font-size: 0.95rem;
+  }
+  footer {
+    max-width: 68rem;
+    margin: 0 auto;
+    padding: 0 clamp(1rem, 3vw, 2.5rem) 3rem;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+  }
+  footer a { color: var(--focus); }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .pill, .card { transition: background 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease; }
+  }
+</style>
+
+<header>
+  <div class="header-top">
+    <div class="brand">
+      <h1>Railcar Wire</h1>
+      <span class="tagline">North American Leasing &amp; Rail Intelligence</span>
+    </div>
+    <div class="updated mono" id="updated-at">最終更新: --</div>
+  </div>
+  <div class="controls">
+    <div class="pills" id="pills"></div>
+    <div class="search-box">
+      <input id="search" type="search" placeholder="キーワードで絞り込み" aria-label="記事を検索">
+    </div>
+  </div>
+</header>
+
+<main>
+  <p class="count-row" id="count-row"></p>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  収集対象: 北米貨車リース / 鉄道業界全般 / オルタナ投資・インフラ投資 / その他実物資産（航空機・海上コンテナ・シャーシ）。英語ソースを1日3回（07:00 / 13:00 / 21:00 JST）自動巡回し、日本語要約を付与しています。見出しは原文リンク先の記事タイトルです。
+</footer>
+
+<script id="news-data" type="application/json">[{"category": "railcar_leasing", "title": "GATX Projects Significant Gains From Railcar Fleet Expansion", "source": "Trains.com", "url": "https://www.trains.com/pro/mechanical/freight-cars/gatx-projects-significant-gains-from-railcar-fleet-expansion/", "published_at": null, "summary_ja": "GATXは2026年末までに北米の拡大した貨車リース事業が稼働率98〜99%に達すると見込む。2026年1月に完了したウェルズ・ファーゴのレールリース事業取得により、北米利益は約4億1,500万ドルまで拡大する見通し。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "railcar_leasing", "title": "Wells Fargo offloads $4.4B railcar business", "source": "Banking Dive", "url": "https://www.bankingdive.com/news/wells-fargo-offloads-railcar-business-4-billion-dollars/749572/", "published_at": null, "summary_ja": "ウェルズ・ファーゴが44億ドル規模の貨車リース事業を売却。大手銀行系リース会社の資産入れ替えが続き、業界再編が進んでいる。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "railcar_leasing", "title": "North America Railcar Leasing Market Growth Analysis 2026-2030", "source": "Technavio", "url": "https://www.technavio.com/report/railcar-leasing-market-industry-in-north-america-analysis", "published_at": null, "summary_ja": "北米の貨車リース市場は2026〜2030年にかけて年平均成長率9.2%で拡大すると予測されている。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "railcar_leasing", "title": "Anemic Railcar Orders an Industry Travesty", "source": "Railway Age", "url": "https://www.railwayage.com/news/anemic-railcar-orders-an-industry-travesty/", "published_at": null, "summary_ja": "新造貨車の発注低迷が業界の課題として指摘されており、リース各社の車両投資判断にも影響を与えている。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "rail_industry", "title": "STB Resumes Union Pacific-Norfolk Southern Merger Review", "source": "Sourcing Journal (WWD)", "url": "https://wwd.com/sourcing-journal/logistics/union-pacific-norfolk-southern-merger-stb-review-resumes-rail-1239143795/", "published_at": null, "summary_ja": "米国陸上輸送委員会（STB）がユニオン・パシフィックとノーフォーク・サザンの850億ドル規模の合併審査を再開。最終決定は2027年5月以降になる見通し。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "rail_industry", "title": "Union Pacific Wins CN Support for Norfolk Southern Deal With New Rail Access Agreement", "source": "Sourcing Journal (WWD)", "url": "https://wwd.com/sourcing-journal/logistics/union-pacific-cn-norfolk-southern-merger-railroad-access-agreement-bnsf-1239081167/", "published_at": "2026-07-23", "summary_ja": "ユニオン・パシフィックがカナディアン・ナショナルとの新たな線路アクセス協定によりノーフォーク・サザン買収案への支持を獲得。BNSF・CSX・CPKCは合併に反対を表明している。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "rail_industry", "title": "AAR Reports Weekly Rail Traffic for the Week Ending August 1, 2026", "source": "Association of American Railroads", "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-august-1-2026/", "published_at": "2026-08-01", "summary_ja": "2026年8月1日終了週の北米貨物輸送量は前年比2.5%増。インターモーダル輸送が牽引し、年初来累計も3.3%増と底堅い伸びを示している。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "rail_industry", "title": "Class I Briefs: UP, NS, CPKC", "source": "Railway Age", "url": "https://www.railwayage.com/freight/class-i/class-i-briefs-up-ns-cpkc-3/", "published_at": null, "summary_ja": "ユニオン・パシフィックの穀物輸出好調、ノーフォーク・サザンの産業開発パイプライン拡大、CPKCの安全実績など、主要クラスI鉄道各社の最新動向をまとめたブリーフ。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "alt_investment", "title": "KKR's $19.2 billion infrastructure fund close builds on a big July for hard asset fundraising", "source": "Pensions & Investments", "url": "https://www.pionline.com/alternative-investments/infastructure/pi-kkr-infrastructure-fundraise-2026/", "published_at": null, "summary_ja": "KKRのグローバル・インフラ・インベスターズVが192億ドルでクローズし、2026年最大級のインフラファンドとなった。実物資産への資金調達は7月に大きく伸びている。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "alt_investment", "title": "NOVA Infrastructure closes second fund at $1.5bn, doubling debut vehicle", "source": "Alternatives Watch", "url": "https://www.alternativeswatch.com/2026/04/07/nova-infrastructure-second-fund-ii-1-5-billion/", "published_at": "2026-04-07", "summary_ja": "NOVAインフラストラクチャーが2本目のファンドを約15億ドルでクローズ。前号ファンド（7億ドル）から倍増し、目標額を30%以上上回った。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "alt_investment", "title": "Infrastructure Outlook 2026: Fundraising Momentum Returns", "source": "With Intelligence", "url": "https://www.withintelligence.com/insights/infrastructure-outlook-2026/", "published_at": null, "summary_ja": "インフラ資産クラスは固定収益の代替・分散投資先としての魅力から資金調達モメンタムが回復。エネルギー転換やデータセンター戦略への需要が特に高い。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "alt_investment", "title": "Alts In Focus: 2026 Outlook | Infrastructure", "source": "Morgan Stanley Investment Management", "url": "https://www.morganstanley.com/im/en-us/individual-investor/insights/outlooks/infrastructure-2026-outlook.html", "published_at": null, "summary_ja": "モルガン・スタンレーによるインフラ投資の2026年見通し。オルタナティブ資産としてインフラが選好される背景を解説している。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "other_real_assets", "title": "Aviation Capital Group Orders 50 Boeing 737 MAX Jets", "source": "Boeing Mediaroom", "url": "https://boeing.mediaroom.com/2026-01-13-Aviation-Capital-Group-Orders-50-Boeing-737-MAX-Jets", "published_at": "2026-01-13", "summary_ja": "航空機リース大手アビエーション・キャピタル・グループがボーイング737 MAXを50機発注。リース各社による同型機の発注は累計で受注残の約2割に達する。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "other_real_assets", "title": "The biggest commercial aircraft lessors by fleet size in 2026", "source": "Aerospace Global News", "url": "https://aerospaceglobalnews.com/news/the-biggest-commercial-aircraft-lessors-by-fleet-size-in-2026/", "published_at": null, "summary_ja": "AerCapが約2,000機規模のフリートで航空機リース会社の首位を維持。機体・エンジン不足を背景にリース条件はリース会社優位の状況が続く。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "other_real_assets", "title": "ITE Management Expands Intermodal Platform With Acquisition of CS Leasing", "source": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/ite-management-expands-intermodal-platform-with-acquisition-of-cs-leasing-302731494.html", "published_at": "2026-04-01", "summary_ja": "投資会社ITEマネジメントがコンテナリース会社CSリーシング（ISOタンクコンテナ等約5.5万台を保有）を買収し、複合輸送プラットフォームを拡大。シャーシリース会社マイルストーンの買収に続く動き。", "collected_at": "2026-08-27T20:40:00+09:00"}, {"category": "other_real_assets", "title": "TRAC begins transition out of Pool of Pools chassis-sharing arrangement", "source": "Pool of Pools", "url": "https://pop-lalb.com/", "published_at": "2026-06-01", "summary_ja": "シャーシリース大手TRACが2026年6月1日付でプール・オブ・プールズからの離脱手続きを開始。DCLIとのシャーシ共有体制は同月末で解消される。", "collected_at": "2026-08-27T20:40:00+09:00"}]</script>
+<script>
+(function () {
+  var CATEGORY_META = {
+    railcar_leasing: { label: "貨車リース", varName: "--cat-railcar" },
+    rail_industry: { label: "鉄道業界", varName: "--cat-rail" },
+    alt_investment: { label: "オルタナ投資", varName: "--cat-alt" },
+    other_real_assets: { label: "実物資産", varName: "--cat-assets" }
+  };
+  var ORDER = ["railcar_leasing", "rail_industry", "alt_investment", "other_real_assets"];
+
+  var raw = document.getElementById("news-data").textContent;
+  var articles = [];
+  try { articles = JSON.parse(raw); } catch (e) { articles = []; }
+
+  articles.sort(function (a, b) {
+    var da = a.published_at || a.collected_at || "";
+    var db = b.published_at || b.collected_at || "";
+    return db.localeCompare(da);
+  });
+
+  var state = { category: "all", query: "" };
+
+  var pillsEl = document.getElementById("pills");
+  function makePill(key, label) {
+    var btn = document.createElement("button");
+    btn.className = "pill";
+    btn.type = "button";
+    btn.setAttribute("aria-pressed", key === state.category ? "true" : "false");
+    btn.dataset.key = key;
+    var dot = document.createElement("span");
+    dot.className = "dot";
+    if (key !== "all") dot.style.setProperty("--dot", "var(" + CATEGORY_META[key].varName + ")");
+    btn.appendChild(dot);
+    btn.appendChild(document.createTextNode(label));
+    btn.addEventListener("click", function () {
+      state.category = key;
+      Array.prototype.forEach.call(pillsEl.children, function (c) {
+        c.setAttribute("aria-pressed", c.dataset.key === key ? "true" : "false");
+      });
+      render();
+    });
+    return btn;
+  }
+  pillsEl.appendChild(makePill("all", "すべて"));
+  ORDER.forEach(function (key) { pillsEl.appendChild(makePill(key, CATEGORY_META[key].label)); });
+
+  document.getElementById("search").addEventListener("input", function (e) {
+    state.query = e.target.value.trim().toLowerCase();
+    render();
+  });
+
+  function fmtDate(article) {
+    var d = article.published_at;
+    if (!d) return "日付不明";
+    return d;
+  }
+
+  function render() {
+    var grid = document.getElementById("grid");
+    grid.innerHTML = "";
+    var filtered = articles.filter(function (a) {
+      if (state.category !== "all" && a.category !== state.category) return false;
+      if (state.query) {
+        var hay = (a.title + " " + (a.summary_ja || "") + " " + (a.source || "")).toLowerCase();
+        if (hay.indexOf(state.query) === -1) return false;
+      }
+      return true;
+    });
+
+    document.getElementById("count-row").textContent = filtered.length + " 件表示中（全 " + articles.length + " 件）";
+
+    if (filtered.length === 0) {
+      var empty = document.createElement("div");
+      empty.className = "empty";
+      empty.textContent = "該当する記事が見つかりませんでした。";
+      grid.appendChild(empty);
+      return;
+    }
+
+    filtered.forEach(function (a) {
+      var meta = CATEGORY_META[a.category] || { label: a.category, varName: "--text-muted" };
+      var card = document.createElement("article");
+      card.className = "card";
+      card.style.setProperty("--cat-color", "var(" + meta.varName + ")");
+
+      var metaRow = document.createElement("div");
+      metaRow.className = "card-meta mono";
+      var tag = document.createElement("span");
+      tag.className = "tag";
+      tag.textContent = meta.label;
+      metaRow.appendChild(tag);
+      var sep = document.createElement("span");
+      sep.textContent = "·";
+      metaRow.appendChild(sep);
+      var src = document.createElement("span");
+      src.textContent = a.source || "";
+      metaRow.appendChild(src);
+      var sep2 = document.createElement("span");
+      sep2.textContent = "·";
+      metaRow.appendChild(sep2);
+      var date = document.createElement("span");
+      date.textContent = fmtDate(a);
+      metaRow.appendChild(date);
+      card.appendChild(metaRow);
+
+      var h2 = document.createElement("h2");
+      var link = document.createElement("a");
+      link.href = a.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = a.title;
+      h2.appendChild(link);
+      card.appendChild(h2);
+
+      if (a.summary_ja) {
+        var p = document.createElement("p");
+        p.textContent = a.summary_ja;
+        card.appendChild(p);
+      }
+
+      grid.appendChild(card);
+    });
+  }
+
+  document.getElementById("updated-at").textContent = "最終更新: 2026-08-28 12:41 JST";
+  render();
+})();
+</script>
