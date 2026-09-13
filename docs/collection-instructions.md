@@ -6,12 +6,12 @@
 （このファイルを直すだけではスケジュールタスクの動作は変わりません）。
 
 - taskId: `railcar-news-collect`
-- 狙い: 毎日 07:03 / 13:03 / 21:03 JST に実行
-- 実際のcron: `3 5,15,21 * * *`（このPCのローカルタイムゾーンである太平洋時間・PDT基準。scheduled-tasksのcronはPCのローカル時刻で評価されるため、JSTではなくPDTで指定している）
+- 実行時刻: 毎日 05:03 / 15:03 / 21:03（太平洋時間、PDT/PST。このPCのローカルタイムゾーン）
+- cron: `3 5,15,21 * * *`（scheduled-tasksのcronはPCのローカル時刻＝太平洋時間で評価される。夏時間PDT/冬時間PSTの切り替えはOSが自動処理するため、cron側は変更不要）
 - Artifact URL: https://claude.ai/code/artifact/b178d6f5-2fc5-4b3c-b20a-af5c8d81dd9b
 - 作業ディレクトリ: `/Users/koheitakahashi/Documents/RailcarNewsHub`
 
-**夏時間（DST）の注意**: 米国太平洋時間はPDT（夏時間, UTC-7）とPST（冬時間, UTC-8）を切り替えるが、日本時間（JST, UTC+9）は年間を通じて変わらない。そのため、PST期間中（おおむね11月〜3月）は上記cronの時刻が実際のJST時刻から1時間ずれる（実行が1時間遅くなる）。正確にJST 07:00/13:00/21:00を保ちたい場合は、切り替え時期に `mcp__scheduled-tasks__update_scheduled_task` で `cronExpression` を `3 4,14,20 * * *`（PST用）に変更する。
+サイトの「最終更新」表示や記事の`collected_at`もすべて太平洋時間（PDT/PST自動切替）で統一している（`scripts/build_site.py`が`zoneinfo`で処理）。
 
 ## プロンプト本文
 
@@ -44,7 +44,7 @@ data/news.json を読み込み、既存の "url" と一致する候補は除外�
   "url": "記事URL",
   "published_at": "YYYY-MM-DD（不明な場合は null）",
   "summary_ja": "1〜2文の日本語要約",
-  "collected_at": "現在時刻のISO8601（JST, 例: 2026-08-27T21:03:00+09:00）"
+  "collected_at": "現在時刻のISO8601（太平洋時間, 例: 2026-08-27T21:03:00-07:00）"
 }
 新規記事が1件もない場合はdata/news.jsonを変更しなくて構いません。
 

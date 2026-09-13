@@ -5,8 +5,9 @@ Usage: python3 scripts/build_site.py
 """
 import json
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_PATH = ROOT / "data" / "news.json"
@@ -14,7 +15,9 @@ TEMPLATE_PATH = ROOT / "templates" / "site_template.html"
 OUTPUT_PATH = ROOT / "dist" / "index.html"
 
 RETENTION_DAYS = 30
-JST = timezone(timedelta(hours=9))
+# Pacific Time (auto-switches PDT/PST) -- matches the machine's local
+# timezone, which is also what the scheduled task's cron runs in.
+PT = ZoneInfo("America/Los_Angeles")
 
 
 def _is_recent(article, cutoff):
@@ -24,7 +27,7 @@ def _is_recent(article, cutoff):
     published = article.get("published_at")
     if published:
         try:
-            pub_dt = datetime.strptime(published, "%Y-%m-%d").replace(tzinfo=JST)
+            pub_dt = datetime.strptime(published, "%Y-%m-%d").replace(tzinfo=PT)
             return pub_dt >= cutoff
         except ValueError:
             pass  # unparseable published_at: fall through to collected_at
@@ -39,7 +42,7 @@ def _is_recent(article, cutoff):
 
 def load_articles():
     articles = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-    cutoff = datetime.now(JST) - timedelta(days=RETENTION_DAYS)
+    cutoff = datetime.now(PT) - timedelta(days=RETENTION_DAYS)
     kept = [a for a in articles if _is_recent(a, cutoff)]
     kept.sort(key=lambda a: a.get("published_at") or a.get("collected_at") or "", reverse=True)
     return kept
@@ -53,7 +56,7 @@ def main():
     )
 
     news_json = json.dumps(articles, ensure_ascii=False).replace("</", "<\\/")
-    last_updated = datetime.now(JST).strftime("%Y-%m-%d %H:%M JST")
+    last_updated = datetime.now(PT).strftime("%Y-%m-%d %H:%M %Z")
 
     template = TEMPLATE_PATH.read_text(encoding="utf-8")
     output = template.replace("__RAILCAR_NEWS_JSON__", news_json).replace(

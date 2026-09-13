@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python3 scripts/build_site.py)",
+      "Bash(git add -A)",
+      "Bash(git commit *)",
+      "Bash(git status)",
+      "Artifact"
+    ]
+  }
+}

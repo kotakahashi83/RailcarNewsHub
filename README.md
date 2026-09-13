@@ -13,7 +13,7 @@
 - `docs/collection-instructions.md` — 自動収集タスク（scheduled task）のプロンプトの控えと運用メモ
 
 ## 自動更新
-Claudeのスケジュールタスク `railcar-news-collect` が1日3回（狙いはJST 07:00/13:00/21:00、実際のcronはこのPCのローカルタイムゾーン基準）自動実行され、WebSearch/WebFetchでニュースを収集し、要約を付けて `dist/index.html` を再生成し、同じArtifact URLに再publishします。詳細・タイムゾーンの注意点は [docs/collection-instructions.md](docs/collection-instructions.md) を参照してください。
+Claudeのスケジュールタスク `railcar-news-collect` が1日3回、**太平洋時間の05:00 / 15:00 / 21:00**（このPCのローカルタイムゾーン）に自動実行され、WebSearch/WebFetchでニュースを収集し、要約を付けて `dist/index.html` を再生成し、同じArtifact URLに再publishします。サイトの「最終更新」表示も太平洋時間（PDT/PSTは自動切替）です。詳細は [docs/collection-instructions.md](docs/collection-instructions.md) を参照してください。
 
 スケジュールタスクはClaude Codeアプリが起動している間に発火します。アプリを閉じていた場合、次回起動時にまとめて実行されます（完全に独立したサーバー常駐ではありません）。
 
