@@ -1,0 +1,68 @@
+name: Publish site
+
+# The Claude cloud routine pushes its news update to `main` (or, if direct
+# pushes to main are refused, to a `claude/**` branch). Either way this workflow
+# fast-forwards main to the pushed commit and deploys dist/ to GitHub Pages.
+# No secrets or paid services are involved.
+
+on:
+  push:
+    branches:
+      - main
+      - "claude/**"
+    paths:
+      - "data/news.json"
+      - "dist/index.html"
+      - "templates/**"
+      - "scripts/**"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-site
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main with the pushed branch
+        if: github.ref != 'refs/heads/main'
+        run: |
+          git config user.name "railcar-wire-bot"
+          git config user.email "railcar-wire-bot@users.noreply.github.com"
+          git fetch origin main
+          # Fast-forward only: the routine always starts from a fresh clone of main.
+          if git merge-base --is-ancestor origin/main HEAD; then
+            git push origin HEAD:main
+            git push origin --delete "${GITHUB_REF_NAME}" || true
+          else
+            echo "::warning::${GITHUB_REF_NAME} is not a fast-forward of main; merging"
+            git merge -X theirs origin/main -m "merge main into ${GITHUB_REF_NAME}"
+            git push origin HEAD:main
+          fi
+
+      - name: Rebuild site (prunes articles older than 30 days)
+        run: python3 scripts/build_site.py
+
+      - name: Upload site for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
