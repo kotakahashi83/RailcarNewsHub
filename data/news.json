@@ -1,5 +1,47 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Hazardous Materials: Notice of Applications for New Special Permits",
+    "source": "Federal Register (Pipeline and Hazardous Materials Safety Administration)",
+    "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18915/hazardous-materials-notice-of-applications-for-new-special-permits",
+    "published_at": "2026-09-16",
+    "summary_ja": [
+      "PHMSAが危険物規則に基づく特別許可（special permit）の新規申請を官報に公告し、意見提出を受け付ける。",
+      "同日付で既存特別許可の変更申請と、処分結果（actions on special permits）に関する公告も併せて掲載された。",
+      "特別許可はタンク車の仕様など危険物規則の代替措置を認める制度で、タンク車リース会社や荷主の運用に直結する。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Stibbe advises European Locomotive Leasing on landmark EUR 1.4 billion refinancing",
+    "source": "Stibbe",
+    "url": "https://www.stibbe.com/publications-and-insights/stibbe-advises-european-locomotive-leasing-on-landmark-eur-14-billion",
+    "published_at": "2026-09-16",
+    "summary_ja": [
+      "電気機関車リース大手European Locomotive Leasing（ELL）が約14億ユーロ規模の借換えを完了した。",
+      "ルクセンブルク法人向けに9億500万ユーロの融資枠を設定し、ユーロ建て私募債2億8,500万ユーロと米国私募債2億3,800万ユーロを発行。",
+      "既存債務を英国法準拠の共通条件プラットフォームに移行し、欧米の銀行団と私募投資家を束ねた資金調達となった。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Rail freight transport dropped by 1.8% in 2025",
+    "source": "EU Reporter",
+    "url": "https://www.eureporter.co/economy/transport/2026/09/16/rail-freight-transport-dropped-by-1-8-in-2025/",
+    "published_at": "2026-09-16",
+    "summary_ja": [
+      "Eurostatが9月14日に公表したデータで、2025年のEU鉄道貨物輸送量は3,682億トンキロと前年比1.8%減となった。",
+      "減少は4年連続で、16カ国が減少・8カ国が増加、下落幅はアイルランド（-35.2%）が最大だった。",
+      "国別ではドイツがEU全体の33.5%（1,235億トンキロ）で最大、ポーランド14.7%、フランス9.3%が続く。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
     "category": "alt_investment",
     "kind": "news",
     "title": "Carlyle inks $2.3bn for infra credit",
@@ -100,6 +142,76 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "Vena: Single-Line Service Will Drive the Next Era of Intermodal Growth",
+    "source": "Union Pacific",
+    "url": "https://www.up.com/news/service/single-line-intermodal-service-260915",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "UPのVena CEOがIANA Expoで、UP-NS合併によりプレミアムレーン7本の新設と既存1万レーンの単一運行化を実現すると説明。",
+      "統合ネットワークは約100の港湾と、カナダ・メキシコに通じる10の国際ゲートウェイに直結すると強調した。",
+      "ハリスバーグ〜ソルトレイクシティ間ではシカゴでの陸送中継が不要となり、輸送時間を20〜24時間短縮できるとした。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BNSF partners with heavy haul logistics firm at Barstow International Gateway",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/bnsf-partners-with-heavy-haul-logistics-firm-at-barstow-international-gateway/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "BNSFが重量物物流を手がけるSpearpoint Logisticsと、バーストー国際ゲートウェイ（BIG）での戦略的提携を発表。",
+      "Spearpointは4,500エーカーのBIG構内で倉庫・配送・ブローカレッジ機能を提供する。",
+      "BIGは南カリフォルニア港湾に到着する国際貨物を鉄道経由で効率的に流し、高速道路の混雑を緩和する構想。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "North Carolina Railroad invests in warehouse spur",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/short-lines-regionals/north-carolina-railroad-invests-in-warehouse-spur/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "North Carolina RailroadがAtlantic Packagingの倉庫拡張に伴う新規引込線の建設へ最大25万ドルを拠出する。",
+      "稼働後は年間480両以上の貨車を受け入れる見込み。",
+      "Atlantic Packaging側は500万ドル超を投資し、常用16人の雇用を新設する計画。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hormuz deadlock sends Gulf container rates to record highs",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/hormuz-deadlock-sends-gulf-container-rates-to-record-highs/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "ホルムズ海峡の通航再開を目指したオマーン仲介の協議が決裂し、湾岸向けコンテナ運賃が過去最高を更新した。",
+      "米国・イスラエルとイランの紛争は7カ月目に入り、コンテナ船の同海峡通航は事実上停止している。",
+      "湾岸の輸入業者が直面するスポット運賃はコロナ禍のピークをも上回る水準に達した。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "BlueOrchard raises $250m for climate-focused private debt fund",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/15/blueorchard-raises-250m-for-climate-focused-private-debt-fund/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "BlueOrchardが気候変動対応の新興国プライベートデット・ファンド（BOCAMF）で2億5,000万ドルの初回クローズを達成した。",
+      "Aviva Investorsと大同生命が投資適格の債券形式で資金を拠出し、Schroders、BII、FinDev Canadaも参加した。",
+      "シニア債はSolvency UKの規制要件に対応する設計で、資金は現地の銀行やマイクロファイナンス機関への融資に充てられる。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "SC Ports, Norfolk Southern expand intermodal access to Huntsville",
     "source": "FreightWaves",
     "url": "https://www.freightwaves.com/news/sc-ports-norfolk-southern-expand-intermodal-access-to-huntsville",
@@ -124,6 +236,62 @@
       "Neuberger Specialty Financeは50社超のポートフォリオ企業と各種ビークルで50億ドル超を運用しており、輸送実物資産に対するアセットベース・ファイナンスの拡大を示す事例となる。"
     ],
     "collected_at": "2026-09-15T22:01:53-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "IMO Net-Zero Framework penalties could face FMC threat in US",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/regulations/imo-net-zero-framework-penalties-could-face-fmc-threat-in-us",
+    "published_at": "2026-09-14",
+    "summary_ja": [
+      "法律事務所Holland & Knightが、IMOネットゼロ枠組み（NZF）の費用転嫁に伴う米国での規制リスクを指摘した。",
+      "NZFはCO2換算1トンあたり100〜380ドルの段階的な課徴金を課す案となっている。",
+      "コストを荷主に転嫁する船社はFMCによる調査や契約停止、寄港制限を招きかねないと警告している。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Latest freight car procurements and supplies: Tatravagonka, Duro Dakovic, Jupiter, PT INKA, UGL, Trinity, UWC",
+    "source": "RollingStockWorld",
+    "url": "https://rollingstockworld.com/freight-cars/latest-freight-car-procurements-and-supplies-tatravagonka-duro-dakovic-jupiter-wagons-pt-inka-ugl-trinity-rail-uwc/",
+    "published_at": "2026-09-14",
+    "summary_ja": [
+      "Rosneft DeutschlandがGATX Rail Europeとタンク車450両の契約を締結した。",
+      "車種はZans type 1698（タンク容量98立方メートル、積載68.2トン）で軽質石油製品を輸送する。",
+      "製造はポーランド・オストルダのGATX自社工場でTatravagonkaやDuro Dakovicの協力を得て行い、2026年9月から2027年第2四半期にかけて納入される。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Battery Global Advisors closes $208M digital infrastructure fund, beating its target",
+    "source": "Dealroom",
+    "url": "https://app.dealroom.co/news/note/battery-global-advisors-closes-208m-digital-infrastructure-fund-beating-its-target",
+    "published_at": "2026-09-14",
+    "summary_ja": [
+      "Battery Global Advisorsがデジタルインフラ特化ファンドを2億850万ドルでクローズしたと9月14日に発表した。",
+      "調達額は1億5,000万ドルの目標を上回り、機関投資家やテック起業家、PE・VC幹部が出資、PJT Park Hillがプレースメントエージェントを務めた。",
+      "契約済み収益と電力を確保したデータセンター事業会社に投資し、すでに5社へ全体の約40%を投下済み。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "NeS adds three Akiem-leased Alstom Traxx Universal locomotives to its fleet",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/rolling-stock/62944-nes-adds-three-akiem-leased-alstom-traxx-universal-locomotives-to-its-fleet",
+    "published_at": "2026-09-13",
+    "summary_ja": [
+      "ドイツの民間貨物鉄道Netzwerkbahn Sachsen（NeS）が、AkiemからAlstom Traxx Universal機関車3両をリースで導入した。",
+      "3両はドイツ・オーストリア・ポーランド・チェコ・ハンガリー・スロバキアでの運行に対応し、最高速度160km/h、多電源時5.6MWの出力を持つ。",
+      "保有約20両の同社にとって、従来型電気機関車とStadler Eurodualの中間を埋める選択肢となる。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
   },
   {
     "category": "macro_indicators",
@@ -178,6 +346,20 @@
       "資本コストは収益十分性(revenue adequacy)の判定や運賃上限審査、RCAFの算定に用いられるため、Class I各社の規制上の位置づけ に直接影響する。"
     ],
     "collected_at": "2026-09-15T22:01:53-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "FTA issues $233M for rail accessibility upgrades",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/passenger_rail/news/FTA-issues-233M-for-rail-accessibility-upgrades--77733",
+    "published_at": "2026-09-11",
+    "summary_ja": [
+      "連邦公共交通局FTAが2026年All Stations Accessibility Grantsの交付先を公表し、総額2億3,300万ドルを配分した。",
+      "対象は5州8件の旅客鉄道駅のバリアフリー改修プロジェクト。",
+      "同制度は2021年のインフラ投資雇用法に基づくもので、申請者には20%の自己負担が求められる。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -329,6 +511,34 @@
     "collected_at": "2026-09-15T22:01:53-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "W&LE and Reading Blue Mountain & Northern among short lines seeking expansions as part of UP-NS merger",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/short-lines-regionals/wle-and-reading-blue-mountain-northern-among-short-lines-seeking-expansions-as-part-of-up-ns-merger/",
+    "published_at": "2026-09-10",
+    "summary_ja": [
+      "短距離・地域鉄道11社が、UP-NS合併に関連してトラック使用権などの条件を求める意向をSTBに届け出た。",
+      "Wheeling & Lake ErieはNS線経由でシカゴ・フィラデルフィア・デトロイトへの運行権を、Genesee & Wyomingは傘下路線間の接続・交換権強化を求める方針。",
+      "各社は11月18日の期限までに正式な対抗申請（responsive application）を提出する見通し。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "ACC Statement on BNSF TRR Proposal",
+    "source": "American Chemistry Council",
+    "url": "https://www.americanchemistry.com/chemistry-in-america-industry-innovation-impact/news-trends/press-release/2026/acc-statement-on-bnsf-trr-proposal",
+    "published_at": "2026-09-10",
+    "summary_ja": [
+      "米化学工業協会ACCが、BNSFの9月9日付提出書面を受けてUP/NS合併への反対姿勢を改めて表明。",
+      "ACCは申請鉄道側が合併の公共の利益適合性を立証できていないと主張している。",
+      "一方でBNSFが提案する湾岸地域のターミナル鉄道創設は、競争上の弊害を一部緩和する条件として検討に値するとした。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
     "category": "macro_indicators",
     "title": "Bessent Dares Traders to Bet Against Yen: 'I Am the House Now'",
     "source": "The Japan Times",
@@ -436,6 +646,62 @@
     "collected_at": "2026-09-15T22:01:53-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Two more unions join Stop the Rail Merger Coalition",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/two-more-unions-join-stop-the-rail-merger-coalition/",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "IAM傘下のTransportation Communications UnionとIAM District 19が、UP-NS合併に反対するStop the Rail Merger Coalitionに参加した。",
+      "同連合は鉄道会社・荷主・労働団体で構成される反対勢力で、労組の参加が相次いでいる。",
+      "IAM鉄道部門は、大規模統合のコストを組合員に負担させるべきではないとして雇用保護を訴えている。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container trade volumes hit record high in July",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/container-trade-volumes-hit-record-high-in-july",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "Container Trades Statistics（CTS）によると、2026年7月の世界コンテナ荷動きは1,730万TEUと過去最高を記録した。",
+      "前年同月比は5.1%増で、これまでのピークだった5月を約2万5,000TEU上回った。",
+      "年初来では欧州の輸入が6.1%増と堅調な一方、インド亜大陸・中東は4.2%減と唯一のマイナスだった。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Brookfield Wins $1 Billion Multi-Decade Investment Mandate From Nuclear Liabilities Fund",
+    "source": "Pulse 2.0",
+    "url": "https://pulse2.com/brookfield-wins-1-billion-multi-decade-investment-mandate-from-nuclear-liabilities-fund/",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "英Nuclear Liabilities Fund（NLF）がBrookfield Asset Managementを長期マルチアセット運用者に選定した。",
+      "初期コミットメントは10億ドル（約7億5,000万ポンド）で、原発8基の廃炉費用を賄う超長期運用を想定する。",
+      "運用はHoward Marks氏が会長を務めるInvestment Solutions Groupが担当し、インフラ・エネルギー・PE・不動産・プライベートクレジットに分散投資する。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Seahawk Investments Launches Maritime Credit Fund",
+    "source": "IndexBox",
+    "url": "https://www.indexbox.io/blog/seahawk-investments-launches-maritime-credit-fund/",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "Seahawk Investmentsがルクセンブルク籍RAIFの「Seahawk Maritime Credit Fund（SMCF）」を立ち上げた。",
+      "第1サブファンドSMCF Iは、海運業界で実績を持つファミリーオフィスが出資者として支援する。",
+      "コンテナ船やタンカーに加えインターモーダルコンテナも担保対象とし、中小船主向けに第一順位担保ローンやファイナンスリースを提供する。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Singamas profit falls 56.5% as specialised container sales grow",
@@ -517,6 +783,34 @@
       "同社は現時点で後任を採用する計画を固めておらず、コンテナリースを含む輸送実物資産分野の投資体制に注目が集まる。"
     ],
     "collected_at": "2026-09-15T22:01:53-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Why FreightCar America (RAIL) Could Benefit as North America's Railcar Fleet Gets Older",
+    "source": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-freightcar-america-rail-could-142719673.html",
+    "published_at": "2026-09-04",
+    "summary_ja": [
+      "Diamond Hill Capitalが2026年第2四半期のスモールキャップ戦略書簡でFreightCar America（RAIL）に言及。",
+      "同戦略の四半期リターンは24.01%で、ラッセル2000指数の21.49%を上回った。",
+      "北米貨車フリートの高齢化に伴う更新需要が、実物資産関連の同社の追い風になるとの見方を示している。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Samsung Electronics America, Inc., Complainant v. CMA CGM S.A., Respondent; Notice of Filing of Complaint and Assignment",
+    "source": "Federal Register (Federal Maritime Commission)",
+    "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18122/samsung-electronics-america-inc-complainant-v-cma-cgm-sa-respondent-notice-of-filing-of-complaint",
+    "published_at": "2026-09-04",
+    "summary_ja": [
+      "Samsung Electronics AmericaがCMA CGMを相手取ってFMCに申立てを行い、FMCが受理と審理官への割り当てを公告した。",
+      "請求額は1億8,600万ドル超で、不当なデマレージ・ディテンション・鉄道保管料1億4,800万ドルなどが内訳。",
+      "争点はコロナ禍のstore door輸送で船社が内陸輸送義務を果たさなかったとの主張で、対象は12万件を超える課金に及ぶ。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
   },
   {
     "category": "rail_industry",
@@ -654,6 +948,20 @@
   },
   {
     "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "ASLRRA Backs Progress, Finalization of FRA Rulemakings",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/regulatory/aslrra-backs-progress-finalization-of-fra-rulemakings/",
+    "published_at": "2026-09-01",
+    "summary_ja": [
+      "米短距離鉄道協会ASLRRAが、FRAによる貨車関連2規則の最終化を支持する立場を表明。",
+      "対象は築50年超の貨車に対する特別承認要件の撤廃と車端緩衝装置（EOCC）の規制緩和で、いずれも2026年9月30日に発効する。",
+      "ASLRRAはAARと共同意見書を提出し、安全に寄与しない追加の試験・記録保持義務の削除を求めていた。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
+    "category": "railcar_leasing",
     "title": "Greenbrier Announces CEO Succession Upon Planned Retirement of Lorie Tekorius",
     "source": "Greenbrier Companies",
     "url": "https://pressroom.gbrx.com/2026-08-31-Greenbrier-Announces-CEO-Succession-Upon-Planned-Retirement-of-Lorie-Tekorius",
@@ -747,6 +1055,20 @@
     "collected_at": "2026-09-15T21:28:55-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Contracts for Aug. 25, 2026 (USTRANSCOM intermodal container leasing options)",
+    "source": "U.S. Department of War",
+    "url": "https://www.war.gov/News/Contracts/Contract/Article/4582621/contracts-for-aug-25-2026/",
+    "published_at": "2026-08-25",
+    "summary_ja": [
+      "USTRANSCOMがSeaCube Leasing International、Triton Container International、Textainer Equipment Managementの3社にインターモーダルコンテナリース契約のオプション行使分を発注。",
+      "3件の変更契約の推計総額は4,590万ドルで、プログラム累計額は1億3,740万ドルに達する。",
+      "オプション期間は2026年9月1日から2027年8月31日までで、コンテナのリースに加え整備・修繕・検査やIT支援も対象となる。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
+  },
+  {
     "category": "eu_railcar_leasing",
     "kind": "regulatory",
     "title": "Swiss court favours wagon keepers as 'unilateral' BAV wheel rules are struck down",
@@ -799,6 +1121,20 @@
       "大手金融機関のシンジケートが引受"
     ],
     "collected_at": "2026-08-28T13:00:44+09:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Greenbrier, SSAB and Alter Help Close the Loop on Steel",
+    "source": "PR Newswire (The Greenbrier Companies)",
+    "url": "https://www.prnewswire.com/news-releases/greenbrier-ssab-and-alter-help-close-the-loop-on-steel-302855860.html",
+    "published_at": "2026-08-20",
+    "summary_ja": [
+      "GreenbrierがSSAB Americas、Alter Tradingとの循環型プロジェクトでゴンドラ車50両を完成させたと発表。",
+      "車体には再生鋼と化石燃料フリー電力で製造されたSSAB Zero鋼を採用し、高張力鋼で軽量化して積載量を高めた。",
+      "完成車はAlterに納入され、SSABのアイオワ州製鋼所へ廃鋼を運ぶことで鋼材の閉ループ循環を形成する。"
+    ],
+    "collected_at": "2026-09-16T03:12:32-07:00"
   },
   {
     "category": "rail_industry",
