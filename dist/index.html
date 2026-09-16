@@ -15,6 +15,8 @@
     --cat-railcar: #2f5f7d;
     --cat-rail: #55606a;
     --cat-alt: #256b58;
+    --cat-container: #1f6e7a;
+    --cat-eu: #7a4a8f;
     --cat-assets: #93641f;
     --cat-macro: #6b4c93;
     --focus: #1c6fae;
@@ -33,6 +35,8 @@
       --cat-railcar: #78b0d4;
       --cat-rail: #99a4ac;
       --cat-alt: #63b699;
+      --cat-container: #5fc1cf;
+      --cat-eu: #c39be0;
       --cat-assets: #d6a24d;
       --cat-macro: #b79bd9;
       --focus: #6bb6ef;
@@ -51,6 +55,8 @@
     --cat-railcar: #78b0d4;
     --cat-rail: #99a4ac;
     --cat-alt: #63b699;
+    --cat-container: #5fc1cf;
+    --cat-eu: #c39be0;
     --cat-assets: #d6a24d;
     --cat-macro: #b79bd9;
     --focus: #6bb6ef;
@@ -230,6 +236,15 @@
     letter-spacing: 0.05em;
     font-size: 0.7rem;
   }
+  .kind {
+    border: 1px solid var(--cat-color);
+    color: var(--cat-color);
+    border-radius: 0.25rem;
+    padding: 0 0.35rem;
+    font-size: 0.66rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+  }
   .card h2 {
     margin: 0;
     font-size: 1.15rem;
@@ -284,7 +299,7 @@
   <div class="header-top">
     <div class="brand">
       <h1>Railcar Wire</h1>
-      <span class="tagline">North American Leasing &amp; Rail Intelligence</span>
+      <span class="tagline">Railcar &amp; Container Leasing Intelligence</span>
     </div>
     <div class="updated mono" id="updated-at">最終更新: --</div>
   </div>
@@ -302,20 +317,24 @@
 </main>
 
 <footer>
-  収集対象: 北米貨車リース / 鉄道業界全般 / オルタナ投資・インフラ投資 / その他実物資産（航空機・海上コンテナ・シャーシ）/ マクロ指標（鉄鋼価格・通商政策・金利・ドル円）。英語ソースを1日3回（05:00 / 15:00 / 21:00 太平洋時間）自動巡回し、日本語要約を付与しています。見出しは原文リンク先の記事タイトルです。
+  収集対象: 北米貨車リース / 北米鉄道業界 / 海上コンテナリース / 欧州貨車リース / オルタナ投資（貨車・コンテナリースは各社の決算発表・人事・規制当局のリリースを含む）。英語ソースを毎日2回（06:00 / 13:00 米国東部時間）自動巡回し、日本語の要点3点を付与しています。見出しをクリックすると原文記事が開きます。
 </footer>
 
 <script id="news-data" type="application/json">[{"category": "macro_indicators", "title": "BOJ set to raise interest rate to 1.25% next week", "source": "The Japan Times", "url": "https://www.japantimes.co.jp/business/2026/09/12/economy/boj-interest-rate/", "published_at": "2026-09-12", "summary_ja": ["日銀は9月18日の金融政策決定会合で政策金利を0.25%引き上げ1.25%とする観測が優勢で、約31年ぶりの水準となる見通し。", "6月の前回利上げからわずか3か月というハイペースな引き締めを示唆。", "ロイター調査では2027年4〜6月期にさらに1.75%まで追加利上げするとの見方も出ている。"], "collected_at": "2026-09-14T21:26:57-07:00"}, {"category": "alt_investment", "title": "EIG raises $4bn across infrastructure debt platform", "source": "Alternative Credit Investor", "url": "https://alternativecreditinvestor.com/2026/09/11/eig-raises-4bn-across-infrastructure-debt-platform/", "published_at": "2026-09-11", "summary_ja": ["EIGがダイレクトレンディング・プラットフォーム全体で40億ドルを調達", "最新のシニア・インフラ債務ファンドの最終クローズを含む", "米欧の電力・再生可能エネルギー等、重要インフラ向け優先担保付債権に投資"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "railcar_leasing", "title": "Trinity Industries Declares 31-Cent Quarterly Dividend, Its 250th Consecutive Payment", "source": "Investing.com", "url": "https://ca.investing.com/news/stock-market-news/trinity-industries-declares-31cent-quarterly-dividend-93CH-4835658", "published_at": "2026-09-10", "summary_ja": ["Trinity Industriesが1株当たり31セントの四半期配当を発表", "支払日は10月30日、10月15日時点の株主が対象", "250回連続の配当支払いを達成"], "collected_at": "2026-09-13T11:41:36-07:00"}, {"category": "rail_industry", "title": "Union Pacific Hypes Rail Merger at Republican Midterm Convention", "source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-09-10/union-pacific-hypes-rail-merger-at-republican-midterm-convention", "published_at": "2026-09-10", "summary_ja": ["ユニオン・パシフィックが共和党中間選挙大会の場でノーフォーク・サザン買収をアピール", "「米国初の大陸横断鉄道」実現を政治的にも訴求", "STBでの審査が続く中、世論・政界への働きかけを強化"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "alt_investment", "title": "Prime Capital inks €305m for sustainable infra debt", "source": "Alternative Credit Investor", "url": "https://alternativecreditinvestor.com/2026/09/10/prime-capital-inks-e305m-for-sustainable-infra-debt/", "published_at": "2026-09-10", "summary_ja": ["プライム・キャピタルが「Prime Sustainable Infrastructure Debt Fund」を最終クローズ", "調達額は3億500万ユーロ", "欧州大陸・北欧地域の中小インフラ開発事業者向け債務性資金を提供"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "other_real_assets", "title": "Avianca, BOC Aviation enter into sale-and-leaseback deal", "source": "FlightGlobal", "url": "https://www.flightglobal.com/airlines/2026/09/avianca-boc-aviation-enter-into-sale-and-leaseback-deal/", "published_at": "2026-09-10", "summary_ja": ["BOCアビエーションとコロンビアの航空会社アビアンカがセール・アンド・リースバック契約を締結", "対象はエアバスA320neo12機、CFMリープ1Aエンジン搭載", "納入は2029年予定"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "alt_investment", "title": "ICG Launches European Infrastructure Debt Strategy", "source": "Alternative Credit Investor", "url": "https://alternativecreditinvestor.com/2026/09/10/icg-launches-european-infrastructure-debt-strategy/", "published_at": "2026-09-10", "summary_ja": ["ICGが欧州インフラ向けの新たなデット戦略を立ち上げ、コア/コアプラス分野のインフラ案件に融資", "元Schroders CapitalのAugustin Segard氏と元Antin Infrastructure PartnersのGrégoire Castres Saint Martin氏が戦略の立ち上げ・運営を担当", "既存のインフラ・クレジット事業を拡張し、投資家需要に応える狙い"], "collected_at": "2026-09-14T22:09:11-07:00"}, {"category": "macro_indicators", "title": "Bessent Dares Traders to Bet Against Yen: 'I Am the House Now'", "source": "The Japan Times", "url": "https://www.japantimes.co.jp/business/2026/09/09/markets/bessent-yen-trader-challenge/", "published_at": "2026-09-09", "summary_ja": ["ベッセント米財務長官が円買い介入を巡り「自分がハウス（胴元）だ」と発言し、円売り筋を強く牽制", "米国と日本は7月31日に協調円買い介入を実施、7月30日〜8月26日の介入額は約15兆4,000億円（約960億ドル）と過去最大規模", "日米金利差の大きさが円安の主因であり、無秩序な円安が進めば米国債利回り上昇にもつながりかねないと指摘"], "collected_at": "2026-09-13T11:56:01-07:00"}, {"category": "railcar_leasing", "title": "AITX Strengthens Leadership for Next Phase of Integrated Railcar Solutions", "source": "PR Newswire", "url": "https://www.prnewswire.com/news-releases/aitx-strengthens-leadership-for-next-phase-of-integrated-railcar-solutions-302872974.html", "published_at": "2026-09-09", "summary_ja": ["貨車リース・サービス大手AITX（American Industrial Transport）が幹部人事を発表", "統合型貨車ソリューション事業の次段階に向けて経営体制を強化", "事業拡大を見据えたリーダーシップ体制の刷新"], "collected_at": "2026-09-13T11:41:36-07:00"}, {"category": "rail_industry", "title": "AAR Reports Weekly Rail Traffic for the Week Ending September 5, 2026", "source": "Railpace Newsmagazine", "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-september-5-2026/", "published_at": "2026-09-09", "summary_ja": ["9月5日終了週の輸送量は貨車・インターモーダル合計53万3545ユニット", "前年比13.8%増と大幅な伸び", "北米全体でも前年比12.4%増"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "rail_industry", "title": "BNSF, CPKC, and CSX to request broad access to a combined UP-NS network", "source": "Trains.com", "url": "https://www.trains.com/pro/freight/class-i/bnsf-cpkc-and-csx-to-request-broad-access-to-a-combined-up-ns-network/", "published_at": "2026-09-09", "summary_ja": ["BNSF・CPKC・CSXの競合3社がSTBへの規制当局提出書類を提出", "UP-NS合併が承認された場合の統合ネットワークへの乗り入れ権（トラッケージライト）を要求", "合併審査における競合他社の防衛姿勢が鮮明に"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "macro_indicators", "title": "Kevin Warsh Says There's Still 'Work to Do' to Fight Inflation: What to Expect at the September 2026 Fed Meeting", "source": "Chase", "url": "https://www.chase.com/personal/investments/learning-and-insights/article/kevin-warsh-work-to-do-fighting-inflation-what-to-expect-september-2026-federal-reserve-meeting", "published_at": "2026-09-09", "summary_ja": ["FRB議長ケビン・ウォーシュ氏はジャクソンホールで、インフレ対応は「道半ば」であり必要なら追加措置も辞さないと発言。", "JPモルガン・ウェルス・マネジメントは9月15〜16日のFOMCで0.25%の利上げを予想。", "一方でウォラーFRB理事は、CPI統計次第では金利据え置き(3.50〜3.75%)を支持する考えを示しており、委員会内の意見は割れている。"], "collected_at": "2026-09-14T21:26:57-07:00"}, {"category": "alt_investment", "title": "BNP Paribas AM Alts closes junior infra debt fund at €1.2bn", "source": "Alternative Credit Investor", "url": "https://alternativecreditinvestor.com/2026/09/07/bnp-paribas-am-alts-closes-junior-infra-debt-fund-at-e1-2bn/", "published_at": "2026-09-07", "summary_ja": ["BNPパリバAMアルツが欧州向けジュニア・インフラ債務ファンドの第2号を12億ユーロで最終クローズ。", "欧州・アジアの機関投資家から新規・既存双方の出資を獲得し、再生可能エネルギーやデジタルインフラ、クリーンモビリティ等に投資。", "同社のインフラ債務プラットフォーム全体の運用残高は150億ユーロ、累計投資実行額は240億ユーロに達する。"], "collected_at": "2026-09-14T21:26:57-07:00"}, {"category": "rail_industry", "title": "102 Dems to STB: Put labor first in UP-NS rail merger review", "source": "FreightWaves", "url": "https://www.freightwaves.com/news/102-dems-to-stb-put-labor-first-in-up-ns-rail-merger-review", "published_at": "2026-09-03", "summary_ja": ["連邦議会民主党議員102名がSTBに書簡を送付", "ユニオン・パシフィックによるノーフォーク・サザン買収審査で労働者保護を最優先するよう要請", "雇用・安全面への影響を精査するよう求めた"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "macro_indicators", "title": "Yen jumps to one-month intraday high as traders weigh chance of further intervention", "source": "CNBC", "url": "https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html", "published_at": "2026-09-03", "summary_ja": ["円が一時1か月ぶりの高値まで上昇し、投資家は日本当局による為替介入の可能性を意識。", "日銀の追加利上げ観測やキャリートレードの巻き戻し、邦人投資家の資金国内回帰が円買い材料となっている。", "ベッセント米財務長官は日銀に一段の金融引き締めを促す発言を繰り返している。"], "collected_at": "2026-09-14T21:26:57-07:00"}, {"category": "other_real_assets", "title": "SpiceJet Seals Lease Agreements for 20 Aircraft, Targets 200 Daily Flights in Winter", "source": "The Tribune", "url": "https://www.tribuneindia.com/news/business/spicejet-seals-lease-agreements-for-20-aircraft-targets-200-daily-flights-in-winter/", "published_at": "2026-09-03", "summary_ja": ["インド格安航空会社SpiceJetがボーイング15機・エアバス5機の計20機のリース契約を締結", "10月中旬〜11月中旬に順次導入し、冬季ダイヤで1日200便体制を目指す", "ウェットリース・ダンプリース方式を活用し、保有機材の追加購入を待たずに輸送力を迅速に拡大"], "collected_at": "2026-09-14T22:09:11-07:00"}, {"category": "railcar_leasing", "title": "200,000 Railcars Face Retirement — What Comes Next?", "source": "FreightWaves", "url": "https://www.freightwaves.com/news/200000-railcars-face-retirement-what-comes-next", "published_at": "2026-09-02", "summary_ja": ["北米で約20万両の貨車が耐用年数末期に近づき、大量の代替需要が発生する見通し(TrinityRail幹部)。", "2026年の新造両数は関税不透明感と鋼材コスト高により約2.5万両にとどまる見込みで、2027年は3〜3.5万両に回復すると予測。", "主要レッサーのリース車両稼働率は90%台後半と逼迫しており、穀物輸送や原油動向など地政学要因も荷動きを押し上げている。"], "collected_at": "2026-09-14T21:26:57-07:00"}, {"category": "alt_investment", "title": "NIIF Infrastructure Fund II Reaches $2 Billion First Close Toward $3.2 Billion Target", "source": "Pulse2.com", "url": "https://pulse2.com/niif-infrastructure-fund-ii-reaches-2-billion-first-close-toward-3-2-billion-target/", "published_at": "2026-09-01", "summary_ja": ["インドの国家投資インフラ基金（NIIF）が第2号ファンドでファーストクローズ", "調達額20億ドル、目標額32億ドルの6割超に到達", "テマセク、CPP Investments、ADIA系列などが出資"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "rail_industry", "title": "Norfolk Southern Completes Work to Expand Alabama Rail Capacity, Strengthen Port Connections", "source": "Norfolk Southern", "url": "https://www.norfolksouthern.com/en/newsroom/news-releases/norfolk-southern-completes-work-to-expand-alabama-rail-capacity-strengthen-port-connections", "published_at": "2026-09-01", "summary_ja": ["Norfolk Southernがアラバマ州の3B回廊で2億ドル超のインフラ投資を完了したと発表", "州中部・南西部の線路容量増強やモービル港への接続強化など、2024年開始の複数プロジェクトを含む", "北部アラバマの顧客専用設備や踏切改良も実施し、貨物需要の増加に備える"], "collected_at": "2026-09-14T22:09:11-07:00"}, {"category": "railcar_leasing", "title": "Greenbrier Announces CEO Succession Upon Planned Retirement of Lorie Tekorius", "source": "Greenbrier Companies", "url": "https://pressroom.gbrx.com/2026-08-31-Greenbrier-Announces-CEO-Succession-Upon-Planned-Retirement-of-Lorie-Tekorius", "published_at": "2026-08-31", "summary_ja": ["グリーンブライアーがローリー・テコリアスCEO兼社長の退任を発表", "退任は2027年1月の予定", "後任にはブライアン・コムストック氏（現エグゼクティブVP兼米州担当社長）が即座に就任"], "collected_at": "2026-09-13T14:05:00+09:00"}, {"category": "macro_indicators", "title": "Canada Targets US Steel and Aluminum as Part of Retaliatory Tariffs", "source": "Manufacturing Dive", "url": "https://www.manufacturingdive.com/news/canada-targets-us-steel-aluminum-retaliatory-tariffs-september-2026/828812/", "published_at": "2026-08-26", "summary_ja": ["カナダが9月8日発効で米国産品700品目超に15〜25〜50%の報復関税を発動", "米国製鋼材・アルミへの既存対抗関税を25%から50%に引き上げ、米国の新税率に合わせる形に", "背景には米国が6月に発動した鉄鋼・アルミ・銅へのSection 232関税の改定があり、HRC（熱間圧延コイル）等の北米市場価格を押し上げている"], "collected_at": "2026-09-13T11:56:01-07:00"}, {"category": "rail_industry", "title": "AAR Reports Rail Traffic for the Week Ending August 22, 2026", "source": "AJOT", "url": "https://www.ajot.com/news/aar-reports-rail-traffic-for-the-week-ending-august-22-2026", "published_at": "2026-08-26", "summary_ja": ["8月22日終了週の輸送量は貨車・インターモーダル合計53万2462ユニット", "前年比4.2%増、化学品・穀物などが伸びを牽引", "通年累計も前年比3.3%増と堅調"], "collected_at": "2026-09-03T11:47:00+09:00"}, {"category": "alt_investment", "title": "StepStone Group Closes its Infrastructure Secondaries Fund, Raising $1.7 Billion Across the Fund and Related Separate Accounts", "source": "GlobeNewswire", "url": "https://www.globenewswire.com/news-release/2026/08/26/3351309/0/en/stepstone-group-closes-its-infrastructure-secondaries-fund-raising-1-7-billion-across-the-fund-and-related-separate-accounts.html", "published_at": "2026-08-26", "summary_ja": ["ステップストーンが初のインフラ・セカンダリー専用ファンドをクローズ", "関連separate accountsと合わせ17億ドルを調達し、ハードキャップに到達", "既に約50%を26件の案件に投資済み"], "collected_at": "2026-08-26T00:00:00+09:00"}, {"category": "macro_indicators", "title": "Fall, Winter Outages to Take Out 1 mln Tons of HRC in US Market", "source": "Fastmarkets", "url": "https://www.fastmarkets.com/insights/fall-winter-outages-to-take-out-1-mln-tons-of-hrc-in-us-market/", "published_at": "2026-08-21", "summary_ja": ["米国の熱間圧延コイル(HRC)メーカー各社が9〜12月に計画するメンテナンス休止で、生産量が100万トン超減少する見通し", "US Steel Gary工場やBig River Steel Worksなど大手拠点が対象で、供給逼迫要因に", "Midwest HRC指数は8月20日時点で1トン1,202.40ドルと2022年5月以来の高値、納期も8〜12週に長期化"], "collected_at": "2026-09-14T22:09:11-07:00"}, {"category": "alt_investment", "title": "Brookfield Infrastructure to Issue $100 Million of Preferred Units", "source": "GlobeNewswire", "url": "https://www.globenewswire.com/news-release/2026/08/20/3348425/0/en/brookfield-infrastructure-to-issue-100-million-of-preferred-units.html", "published_at": "2026-08-20", "summary_ja": ["ブルックフィールド・インフラストラクチャーが優先株式（シリーズ19）を発行", "発行額1億ドル、利率5.75%", "大手金融機関のシンジケートが引受"], "collected_at": "2026-08-28T13:00:44+09:00"}, {"category": "rail_industry", "title": "STB Streamlines Procedures with Updated Delegations of Authority and Expanded Grant Stamp Process", "source": "Surface Transportation Board", "url": "https://www.stb.gov/news-communications/latest-news/pr-26-20/", "published_at": "2026-08-18", "summary_ja": ["STBが手続き効率化のための規則改定を採択", "首席法律顧問（Chief Counsel）への権限委譲を拡大", "定型的な無異議案件向け「グラントスタンプ」手続きを正式導入"], "collected_at": "2026-09-13T11:41:36-07:00"}, {"category": "rail_industry", "title": "STB Restarts Union Pacific-Norfolk Southern Merger Review, Sets November 18 Comment Deadline", "source": "Pulse2.com", "url": "https://pulse2.com/stb-restarts-union-pacific-norfolk-southern-merger-review-and-sets-november-18-comment-deadline/amp/", "published_at": "2026-08-18", "summary_ja": ["STBがUP-NS合併の審査手続きを再開し、審理スケジュールを採択", "850億ドル規模の合併案が対象", "最終決定は2027年後半にずれ込む見通し"], "collected_at": "2026-08-28T13:00:44+09:00"}]</script>
 <script>
 (function () {
   var CATEGORY_META = {
-    railcar_leasing: { label: "貨車リース", varName: "--cat-railcar" },
-    rail_industry: { label: "鉄道業界", varName: "--cat-rail" },
+    railcar_leasing: { label: "北米貨車リース", varName: "--cat-railcar" },
+    rail_industry: { label: "北米鉄道業界", varName: "--cat-rail" },
+    container_leasing: { label: "海上コンテナリース", varName: "--cat-container" },
+    eu_railcar_leasing: { label: "欧州貨車リース", varName: "--cat-eu" },
     alt_investment: { label: "オルタナ投資", varName: "--cat-alt" },
+    // legacy categories: still rendered for older articles until they age out
     other_real_assets: { label: "実物資産", varName: "--cat-assets" },
     macro_indicators: { label: "マクロ指標", varName: "--cat-macro" }
   };
-  var ORDER = ["railcar_leasing", "rail_industry", "alt_investment", "other_real_assets", "macro_indicators"];
+  var ORDER = ["railcar_leasing", "rail_industry", "container_leasing", "eu_railcar_leasing", "alt_investment"];
+  var KIND_LABEL = { earnings: "決算", personnel: "人事", regulatory: "規制当局" };
 
   var raw = document.getElementById("news-data").textContent;
   var articles = [];
@@ -404,6 +423,12 @@
       tag.className = "tag";
       tag.textContent = meta.label;
       metaRow.appendChild(tag);
+      if (KIND_LABEL[a.kind]) {
+        var kind = document.createElement("span");
+        kind.className = "kind";
+        kind.textContent = KIND_LABEL[a.kind];
+        metaRow.appendChild(kind);
+      }
       var sep = document.createElement("span");
       sep.textContent = "·";
       metaRow.appendChild(sep);
@@ -443,7 +468,7 @@
     });
   }
 
-  document.getElementById("updated-at").textContent = "最終更新: 2026-09-14 22:11 PDT";
+  document.getElementById("updated-at").textContent = "最終更新: 2026-09-15 20:19 PDT";
   render();
 })();
 </script>

@@ -1,0 +1,106 @@
+name: Collect news
+
+on:
+  schedule:
+    # GitHub cron is UTC only. These four slots cover 06:00 and 13:00 US Eastern
+    # in both EDT (UTC-4) and EST (UTC-5); the gate step below keeps the two
+    # that match the current Eastern-time hour and skips the rest.
+    - cron: "0 10,11,17,18 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even outside the 06:00 / 13:00 ET window"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Schedule gate (06:00 / 13:00 US Eastern)
+        id: gate
+        env:
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.force }}
+        run: python scripts/collect_news.py --check-window >> "$GITHUB_OUTPUT"
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Collect and summarise news
+        if: steps.gate.outputs.run == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_MODEL: ${{ vars.NEWS_MODEL }}
+          NEWS_EFFORT: ${{ vars.NEWS_EFFORT }}
+        run: python scripts/collect_news.py
+
+      - name: Build site
+        if: steps.gate.outputs.run == 'true'
+        run: python scripts/build_site.py
+
+      - name: Commit data and site
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "railcar-wire-bot"
+          git config user.email "railcar-wire-bot@users.noreply.github.com"
+          git add data/news.json dist/index.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "news update $(TZ=America/New_York date '+%Y-%m-%dT%H:%M %Z') ($(cat .run/summary.txt))"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Upload site for GitHub Pages
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        if: steps.gate.outputs.run == 'true'
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      # Optional e-mail digest. Runs only when the MAIL_TO secret is set
+      # (plus SMTP_SERVER / SMTP_USERNAME / SMTP_PASSWORD / MAIL_FROM).
+      - name: Check mail settings
+        if: steps.gate.outputs.run == 'true'
+        id: mail
+        env:
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: echo "enabled=$([ -n "$MAIL_TO" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Send e-mail digest
+        if: steps.gate.outputs.run == 'true' && steps.mail.outputs.enabled == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT || 465 }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          from: ${{ secrets.MAIL_FROM }}
+          to: ${{ secrets.MAIL_TO }}
+          subject: "Railcar Wire ${{ github.run_id }} - ${{ steps.deploy.outputs.page_url }}"
+          html_body: file://.run/digest.html
