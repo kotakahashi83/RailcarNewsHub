@@ -1,14 +1,92 @@
 {
- "generated_at": "2026-09-16T16:23:27+00:00",
+ "generated_at": "2026-09-16T21:23:00+00:00",
  "window_days": 30,
  "counts_by_hint": {
   "rail_industry": 78,
-  "container_leasing": 70,
+  "container_leasing": 67,
   "alt_investment": 70,
-  "railcar_leasing": 44,
-  "eu_railcar_leasing": 70
+  "railcar_leasing": 39,
+  "eu_railcar_leasing": 68
  },
  "candidates": [
+  {
+   "title": "Container delays by rail increase at busiest U.S. ports",
+   "url": "https://www.freightwaves.com/news/container-delays-by-rail-increase-at-busiest-u-s-ports",
+   "source": "FreightWaves",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "rss:freightwaves.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "Container dwell times were mixed in August, with truck-bound cargo moving through marine terminals improving while rail-destined containers remained longer at the nation’s busiest port complex. Average local truck dwell was 2.95 days in August, down slightly from 3.03 days in July and broadly consistent with the sub-three-day levels recorded over the past year, the Pacific Merchant Shipping Association said. Rail-destined cargo dwell, however, rose to 6.75 days from 6.34 days in July, extending a period of elevated intermodal dwell at the Los Angeles-Long Beach gateway. The increase came as the ports handled near-record 1.88 million twenty-foot equivalent units (TEUs) in August. The volume total of 1,875,899 TEUs shows sustained import, export and transshipment activity even as inland rail capacity and terminal operations face pressure from traffic flows moving through the gateway. Truck flows remain stable The modest month-to-month decline in truck dwell suggests that local drayage op"
+  },
+  {
+   "title": "Union Pacific pans rival railroads’ trackage rights requests",
+   "url": "https://www.trains.com/pro/freight/class-i/union-pacific-pans-rival-railroads-trackage-rights-requests/",
+   "source": "Trains",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "LAGUNA BEACH, Calif. — Union Pacific CEO Jim Vena is critical of rival railroads’ plans to request trackage rights over a combined UP-Norfolk Southern system. “The idea to give up tracks of your railroad for no reason at all just goes against the fundamental principle of how …. business should work,” Vena told an investor conference today. Last week BNSF Railway, CPKC, and CSX — along with 11 short lines — told the Surface Transportation Board that they planned to seek widespread trackage rights and access to customers UP-NS, should the proposed merger gain regulatory approval. [See “BNSF, CPKC, and CSX to request…,” Trains.com, Sept. 10, 2026, and “W&LE and Reading Blue Mountain & Northern…,” Sept. 10, 2026.] BNSF put forward two major proposals. First, the railway said it would seek 824 miles of trackage rights over Norfolk Southern between Chicago and intermodal terminals in Harrisburg and Bethlehem, Pa. Second, it called for the creation of a neutral switching carrier that would se"
+  },
+  {
+   "title": "NETX Railway begins operations in Northeast Texas",
+   "url": "https://www.trains.com/pro/freight/short-lines-regionals/netx-railway-begins-operations-in-northeast-texas/",
+   "source": "Trains",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "DALLAS — TNW Corp., whose subsidiaries operate short lines and logistics facilities across Texas, today announced that its 66-mile NETX Railway (Northeast Texas Railway) has begun operations. NETX Railway operates the corridor under a long-term agreement with the Northeast Texas Rural Rail Transportation District and is investing to strengthen freight rail service and support economic growth across the region’s communities. NETX Railway spans approximately 66 miles between Greenville and Winfield, serving customers in Hunt, Delta, Hopkins, Franklin, and Titus counties. NETX Railway interchanges with Union Pacific and CPKC. The railway serves a diverse base of customers across agriculture, building materials, chemicals, pipe, and recycling industries. “We are proud of our Texas roots and solid reputation for customer service, safety, employee culture, and investing in the communities we serve. This opportunity aligns with our core competencies; NETX Railway will provide competitive, dep"
+  },
+  {
+   "title": "National Museum of Railroad History & Innovation to present symposium at 2027 National Model Railroad Association convention",
+   "url": "https://www.trains.com/trn/railroads/heritage-rail/railroad-museums/national-museum-of-railroad-history-innovation-to-present-symposium-at-2027-national-model-railroad-association-convention/",
+   "source": "Trains",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "TACOMA, Wash. — The National Museum of Railroad History & Innovation and the National Model Railroad Association announced a partnership to host a symposium celebrating 200 years of railroading in the United States. The American Rail 200 Symposium will take place Aug. 12, 2027, at the Tacoma Convention Center as part of the NMRA’s annual national convention, Puget Sound Express 2027, Aug. 10–15. The symposium will be included for registered convention attendees. The symposium will feature presentations covering major chapters, including the beginnings of American railroading with the Baltimore & Ohio Railroad’s chartering in 1827, the crucial role railroads played during the Civil War and both world wars, and the transcontinental railroads that helped bind together the United States and Canada. Planned topics will also explore the expansion of railroads into the Pacific Northwest, connecting the symposium’s content to the convention’s 2027 location. Organizers state that additional det"
+  },
+  {
+   "title": "FTA awards $233 million for station accessibility projects",
+   "url": "https://www.trains.com/pro/passenger/fta-awards-233-million-for-station-accessibility-projects/",
+   "source": "Trains",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "WASHINGTON — The Federal Transit Administration has awarded $233 million for accessibility projects on eight rail transit systems, the agency announced last week. The funds come from the All Stations Accessibility Program, created under the Infrastructure Investment and Jobs Act of 2021. That law provided $350 million a year for five years; 2026 is the final year of funding. Recipients must provide at least 20% in matching funds. Grants awarded include: - $80 million to the Southeastern Pennsylvania Transportation Authority for improvements at its 22nd, 33rd, and 36th Street trolley stations. - Three grants totaling $68.2 million to Chicago’s Metra. Two grants will go to station projects on the Metra Electric District: the 111th Street station serving Pullman National Park ($17.8 million), and the Olympia Fields station ($26.9 million). The other will go to the Hubbard Woods station on the Union Pacific North Line ($23.5 million). - $48 million to the Maryland Transit Administration fo"
+  },
+  {
+   "title": "CN eyes Mexico growth thanks to haulage rights deal with Union Pacific",
+   "url": "https://www.trains.com/pro/freight/class-i/cn-eyes-mexico-growth-thanks-to-haulage-rights-deal-with-union-pacific/",
+   "source": "Trains",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "LAGUNA BEACH, Calif. — Canadian National CEO Tracy Robinson expects big things from the railway’s deal to reach Mexico via haulage rights on Union Pacific. “I am really happy to be sitting here this year with a network that now extends into Mexico,” Robinson told an investor conference today. “This agreement that we’ve reached with the Union Pacific to extend our network to Mexico to connect with the FXE through Memphis is a once-in-a-generation opportunity for us.” Under a deal announced in July, CN won haulage rights over UP between Memphis and the Eagle Pass, Texas, gateway to Mexico, improving CN’s position against rival CPKC, which can provide single-line service between Canada and Mexico. In exchange, CN granted UP access to its former Elgin, Joliet & Eastern bypass around Chicago. The railroads have said they expect to finalize the arrangements later this year. Canada and Mexico trade is valued at $45 billion per year across all commodities, Robinson notes. “We’ve got this treme"
+  },
   {
    "title": "Useful model railroading apps",
    "url": "https://www.trains.com/mrr/how-to/useful-model-railroading-apps/",
@@ -19,21 +97,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Apps are all around us these days. Some are helpful, some are annoying, and some are required to just get through our days. As we get used to the idea of an app for everything, you might wonder if there were model railroading apps that would make running trains or building models more fun, or easier, or both! Let’s take a look at what’s available. I took two approaches. First, I asked members of a modeling list if they could recommend any model railroading apps, and I got a great response. Lots of people suggested the biggies: Blunami, Engine Driver, and WiThrottle. These three will all be available on your phone’s app portal, the App Store for iPhone, or Google Play for Androids. Use your phone to run trains If you haven’t heard of these before, they’re all apps that allow you to run your trains. But none of them work on their own. There’s hardware and possibly software you’ll need to make them work. They’re all a variation of Digital Command Control, or work directly with DCC systems"
-  },
-  {
-   "title": "Pennsylvania county agency to sell rail line to R.J. Corman Railroad Group",
-   "url": "https://www.trains.com/pro/freight/short-lines-regionals/pennsylvania-county-agency-to-sell-rail-line-to-r-j-corman-railroad-group/",
-   "source": "Trains",
-   "published": "2026-09-16",
-   "category_hint": "rail_industry",
-   "feed": "rss:trains.com",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "WEST PITTSTON, Pa. — The Luzerne County Redevelopment Authority has voted to sell the county’s 60-mile rail line to current operator R.J. Corman Railroad Group for $8.2 million, rather than accept a $10 million offer from Reading and Northern. The Reading and Northern’s offer was for $7 million cash at closing plus $3 million to repair track during the first three years of ownership. Reading and Northern had offered to bring passenger excursions to Wilkes-Barre, extending its current excursion route from Reading and Jim Thorpe, Pa., in addition to providing freight service. R.J. Corman has operated 27 miles of the trackage as the Luzerne & Susquehanna Line since October 2020. The railroad serves 11 customers. The Times-Leader newspaper reported that Korey Colyer, R.J. Corman’s chief strategy officer, said during public comment before the vote on Tuesday that its bid “put forth the highest value” with $8.2 million in cash. Reading and Northern Chairman and CEO Andy Muller Jr. said Tuesd"
+   "excerpt": "Apps are all around us these days. Some are helpful, some are annoying, and some are required to just get through our days. As we get used to the idea of an app for everything, you might wonder if there were model railroading apps that would make running trains or building models more fun, or easier, or both! Let’s take a look at what’s available. I took two approaches. First, I asked members of a modeling list if they could recommend any model railroading apps, and I got a great response. Lots of people suggested the biggies: Blunami, Engine Driver, and WiThrottle. These three will all be available on your phone’s app portal, the App Store for iPhone, or Google Play for Androids. Use your phone to run trains If you haven’t heard of these before, they’re all apps that allow you to run your trains. But none of them work on their own. There’s hardware and possibly software you’ll need to make them work. They’re all a variation of Digital Command Control, or work directly with DCC systems",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Hai An launches direct Vietnam–India container service",
@@ -45,8 +110,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Hai An Container Transport (HACT) will launch a new container shipping service connecting China, Vietnam, Malaysia and India. The CVI service will expand Hai An’s international network and provide a direct transportation option between Vietnam and India. The inaugural voyage will depart from Nansha, China, on 22 September 2026. The 1,781 TEU Haian Beta will operate the first sailing. CVI service rotation The service will follow this rotation: Nansha – Hai Phong – Port Klang – Chennai Hai An plans to operate one round voyage per month. Samsara Shipping Private Limited will act as the company’s General Shipping Agent in India, supporting local operations and market development. According to Hai An, CVI is the first direct service to India operated independently by a Vietnamese container shipping line. Before launching the new service, HACT had established a presence in the Indian market through non-vessel-operating common carrier services connecting Vietnam with Chennai and Kolkata. The "
+   "excerpt": "Hai An Container Transport (HACT) will launch a new container shipping service connecting China, Vietnam, Malaysia and India. The CVI service will expand Hai An’s international network and provide a direct transportation option between Vietnam and India. The inaugural voyage will depart from Nansha, China, on 22 September 2026. The 1,781 TEU Haian Beta will operate the first sailing. CVI service rotation The service will follow this rotation: Nansha – Hai Phong – Port Klang – Chennai Hai An plans to operate one round voyage per month. Samsara Shipping Private Limited will act as the company’s General Shipping Agent in India, supporting local operations and market development. According to Hai An, CVI is the first direct service to India operated independently by a Vietnamese container shipping line. Before launching the new service, HACT had established a presence in the Indian market through non-vessel-operating common carrier services connecting Vietnam with Chennai and Kolkata. The ",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Explainer: The shipping industry’s borrowed tailwind",
@@ -58,34 +123,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions. Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen. The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. The technica"
-  },
-  {
-   "title": "Rebalancing, not retreat: The Middle East’s diverging chokepoints",
-   "url": "https://container-news.com/rebalancing-not-retreat-the-middle-easts-diverging-chokepoints/",
-   "source": "Container News",
-   "published": "2026-09-16",
-   "category_hint": "container_leasing",
-   "feed": "rss:container-news.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions. Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen. The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. The technica"
-  },
-  {
-   "title": "Port of Savannah exports rise 4% in August",
-   "url": "https://container-news.com/port-of-savannah-exports-rise-4-in-august/",
-   "source": "Container News",
-   "published": "2026-09-16",
-   "category_hint": "container_leasing",
-   "feed": "rss:container-news.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "The Port of Savannah handled 529,523 TEUs in August, with loaded exports rising 4.2% compared with the same month last year. Overall container volumes were broadly stable, declining by less than 1% year on year. Loaded imports increased 1.5% to 265,859 TEUs, while loaded exports reached 117,242 TEUs. Asia weather and Panama Canal affect volumes Georgia Ports Authority (GPA) said supply chains were affected by weather conditions in Asia and low water levels at the Panama Canal during August. “Asia weather and Panama Canal water levels are being felt in August supply chains,” said Griff Lynch, CEO of Georgia Ports Authority. Lynch added that customer demand remains strong in Savannah. He also pointed to stronger volumes on the water for September and signs of increased activity at the Suez Canal. Savannah handled 1.03 million TEUs during July and August, the first two months of GPA’s fiscal year. This represents an increase of 2.2%, or 22,537 TEUs, compared with the same period last year"
+   "excerpt": "To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions. Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen. The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. The technica",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "General Average declared on CMA CGM Petra as Maersk wins $13m fire case",
@@ -97,8 +136,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Maersk on cusp of doubling orderbook with 40-ship ‘mega’ newbuild spree Rumours are gaining ground in shipbroking circles that Maersk is on the verge of making ... CMA CGM yesterday declared General Average on the 8,000 teu CMA CGM Petra, which suffered a fire in one of its containers on 23 August, while the vessel was en route from Singapore to Colombo. The fire was initially contained by the crew, with no injuries reported, and was later assisted by professional salvors with the firefighting and salvage operations while the vessel was at anchor near Penang. It was subsequently towed to Port Klang, where some 450 containers were unloaded for inspection. The 2024-built vessel is owned and operated by the French carrier, which yesterday declared General Average “as a consequence of the extraordinary costs incurred for the safety of the common maritime adventure”. As a result “General Average security will be required from all Cargo Interests prior to the delivery of their cargo,” said c"
+   "excerpt": "Maersk on cusp of doubling orderbook with 40-ship ‘mega’ newbuild spree Rumours are gaining ground in shipbroking circles that Maersk is on the verge of making ... CMA CGM yesterday declared General Average on the 8,000 teu CMA CGM Petra, which suffered a fire in one of its containers on 23 August, while the vessel was en route from Singapore to Colombo. The fire was initially contained by the crew, with no injuries reported, and was later assisted by professional salvors with the firefighting and salvage operations while the vessel was at anchor near Penang. It was subsequently towed to Port Klang, where some 450 containers were unloaded for inspection. The 2024-built vessel is owned and operated by the French carrier, which yesterday declared General Average “as a consequence of the extraordinary costs incurred for the safety of the common maritime adventure”. As a result “General Average security will be required from all Cargo Interests prior to the delivery of their cargo,” said c",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Maersk overtakes Cosco to top intra-Asia capacity rankings",
@@ -110,8 +149,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Vessel test runs shows viability of China's new Pinglu Canal Beibu Gulf Port Group has executed a test river-sea trip through the Pinglu Canal, prior ... Maersk has overtaken Cosco to become the largest container shipping line in the intra-Asia market by deployed capacity, according to the latest analysis by Alphaliner. The analyst’s mid-August review revealed capacity on the intra-Asia trade grew 6.2% year on year to just below 2.6m teu. This was slightly ahead of the global container fleet’s growth of more than 5% over the same period, underlining the continued expansion and competitiveness of the intra-Asia market. Alphaliner’s survey found more than 80 active carriers in the trade, although the majority are small regional and feeder operators. These carriers accounted for 37% of deployed capacity, while mainline operators controlled more than 63%, despite operating fewer ships. The difference is largely explained by vessel size, with mainline operators averaging 2,699 teu per vesse"
+   "excerpt": "Vessel test runs shows viability of China's new Pinglu Canal Beibu Gulf Port Group has executed a test river-sea trip through the Pinglu Canal, prior ... Maersk has overtaken Cosco to become the largest container shipping line in the intra-Asia market by deployed capacity, according to the latest analysis by Alphaliner. The analyst’s mid-August review revealed capacity on the intra-Asia trade grew 6.2% year on year to just below 2.6m teu. This was slightly ahead of the global container fleet’s growth of more than 5% over the same period, underlining the continued expansion and competitiveness of the intra-Asia market. Alphaliner’s survey found more than 80 active carriers in the trade, although the majority are small regional and feeder operators. These carriers accounted for 37% of deployed capacity, while mainline operators controlled more than 63%, despite operating fewer ships. The difference is largely explained by vessel size, with mainline operators averaging 2,699 teu per vesse",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "South Korea’s Arctic shipping ambitions on ice due to high costs and low volumes",
@@ -123,8 +162,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Gemini steps up return to Suez with four more Asia-Europe services The Gemini Cooperation partners Maersk and Hapag-Lloyd today announced that four more Asia-Europe services are ... South Korea’s Ministry of Oceans and Fisheries (MOF) is struggling to attract local shipping companies to build ice-class container ships, despite dangling $8m of subsidies. The idea was to build ice-class ships in a local shipyard in the hope of running regular liner services through the Northern Sea Route by 2030. South Korea is keen to tap the NSR as an expedited shipping lane from South Korea to Europe, following the lead of China. On 22 August, South Korean ferry operator Panstar Line executed a test voyage from Busan to Rotterdam, using the 2,758 teu Panstar Acro. However, the market uncertainties – including the key factor of attracting sufficient cargo volumes – and the high construction price of ice-class ships are discouraging shipping companies from signing up. The initial tender published by the"
+   "excerpt": "Gemini steps up return to Suez with four more Asia-Europe services The Gemini Cooperation partners Maersk and Hapag-Lloyd today announced that four more Asia-Europe services are ... South Korea’s Ministry of Oceans and Fisheries (MOF) is struggling to attract local shipping companies to build ice-class container ships, despite dangling $8m of subsidies. The idea was to build ice-class ships in a local shipyard in the hope of running regular liner services through the Northern Sea Route by 2030. South Korea is keen to tap the NSR as an expedited shipping lane from South Korea to Europe, following the lead of China. On 22 August, South Korean ferry operator Panstar Line executed a test voyage from Busan to Rotterdam, using the 2,758 teu Panstar Acro. However, the market uncertainties – including the key factor of attracting sufficient cargo volumes – and the high construction price of ice-class ships are discouraging shipping companies from signing up. The initial tender published by the",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "CMA CGM tipped for $3bn Yangzijiang megamax order",
@@ -136,8 +175,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "CMA CGM has emerged as the likely liner behind plans for another dozen 24,000 teu megamax containerships at China’s Yangzijiang Shipbuilding in a programme potentially worth around $3bn, as rival Maersk is also reported to be sounding out yards for a major new round of ultra-large tonnage. Broker MB Shipbrokers has linked Yangzijiang to the 12-ship project with an unnamed leading liner, while Alphaliner has identified Rodolphe Saadé-led CMA CGM as the most likely owner and said a letter of intent has been signed. Neither CMA CGM nor the Singapore-listed Chinese shipbuilder has confirmed the deal. The ships are expected to feature LNG dual-fuel propulsion and deliver in 2029 and 2030. Market estimates put pricing at around $245m to $250m per vessel, giving the full programme a value approaching $3bn. CMA CGM has been sounding out yards for another series of megamaxes for several months. Shipbroking reports earlier this summer linked the French liner, along with MSC and Maersk, to fresh "
+   "excerpt": "CMA CGM has emerged as the likely liner behind plans for another dozen 24,000 teu megamax containerships at China’s Yangzijiang Shipbuilding in a programme potentially worth around $3bn, as rival Maersk is also reported to be sounding out yards for a major new round of ultra-large tonnage. Broker MB Shipbrokers has linked Yangzijiang to the 12-ship project with an unnamed leading liner, while Alphaliner has identified Rodolphe Saadé-led CMA CGM as the most likely owner and said a letter of intent has been signed. Neither CMA CGM nor the Singapore-listed Chinese shipbuilder has confirmed the deal. The ships are expected to feature LNG dual-fuel propulsion and deliver in 2029 and 2030. Market estimates put pricing at around $245m to $250m per vessel, giving the full programme a value approaching $3bn. CMA CGM has been sounding out yards for another series of megamaxes for several months. Shipbroking reports earlier this summer linked the French liner, along with MSC and Maersk, to fresh ",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Maersk overtakes COSCO to become largest intra-Asia carrier",
@@ -153,8 +192,8 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Shipping Rates Near 3-Year High as Costs Surge",
-   "url": "https://www.hellenicshippingnews.com/shipping-rates-near-3-year-high-as-costs-surge/",
+   "title": "Savannah exports up 4 percent in August",
+   "url": "https://www.hellenicshippingnews.com/savannah-exports-up-4-percent-in-august/",
    "source": "Hellenic Shipping News",
    "published": "2026-09-16",
    "category_hint": "container_leasing",
@@ -163,7 +202,7 @@
     "container_leasing"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "Shipping Rates Near 3-Year High as Costs Surge The Shanghai Containerized Freight Index (SCFI), a key global measure of container shipping rates, reached 3,662.18 in the second week of September, extending its upward streak to seven consecutive weeks. The figure was up 72.13 points from the previous week and is approaching the all-time high of 3,733.8 recorded in 2024. With geopolitical risks in the Middle East showing no signs of abating and international oil prices continuing to rise, the logistics cost burden on South Korean exporters is approaching a critical level. The primary driver of the shipping rate surge is a “double bottleneck” caused by the blockade of the Strait of Hormuz and escalating tensions around the Red Sea. As key shipping routes have been disrupted by the conflict between the United States and Iran, vessels have been rerouting around the Cape of Good Hope, adding about 30 days to transit times and more than doubling fuel costs. The situation has become even more "
+   "excerpt": "Savannah exports up 4 percent in August The Port of Savannah moved 529,523 twenty-foot equivalent container units in August which was flat with less than a 1 percent decline compared to the same month last year. Export loads totaled 117,242 TEUs in August, up nearly 4,700 TEUs or 4.2 percent. Import loads totaled 265,859, up approximately 3,800 TEUs or 1.5 percent. “Asia weather and Panama Canal water levels are being felt in August supply chains. For September, we are seeing strong numbers on the water and the Suez Canal seems to be picking up,” said Griff Lynch, CEO of Georgia Ports Authority. “The customer demand is present for Savannah, however typhoons in Asia and El Nino in Panama are affecting volumes.” The Georgia Ports Authority handled 1.03 million TEUs in July and August, the first two months of its fiscal year. The fiscal year-to-date number is up 2.2 percent or 22,537 TEUs compared to the same period last year. “We’re off to a strong start, with more than a million TEUs mo"
   },
   {
    "title": "Stockdale launches real estate credit platform",
@@ -175,8 +214,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Stockdale launches real estate credit platform Los Angeles-headquartered Stockdale Capital Partners has launched a real estate credit platform, expanding the real estate investment firm’s strategy beyond equity investments. The new platform will focus on providing flexible capital solutions across the US, including senior bridge loans, mezzanine loans, note purchases and special situation investments across a broad range of commercial real estate asset classes. Stockdale has set a short-term goal of deploying roughly $300m (£222.8m) over the next 12 months. Read more: BridgeInvest raises $612m for US speciality RE credit fund “Stockdale has selectively invested in credit opportunities over the years and the launch of a dedicated credit vertical formalizes that effort and positions us to leverage our growing operating platform to pursue debt investments with greater scale, focus, and consistency,” said co-founder and managing partner, Daniel Michaels. Read more: Delancey hires capital s"
+   "excerpt": "Stockdale launches real estate credit platform Los Angeles-headquartered Stockdale Capital Partners has launched a real estate credit platform, expanding the real estate investment firm’s strategy beyond equity investments. The new platform will focus on providing flexible capital solutions across the US, including senior bridge loans, mezzanine loans, note purchases and special situation investments across a broad range of commercial real estate asset classes. Stockdale has set a short-term goal of deploying roughly $300m (£222.8m) over the next 12 months. Read more: BridgeInvest raises $612m for US speciality RE credit fund “Stockdale has selectively invested in credit opportunities over the years and the launch of a dedicated credit vertical formalizes that effort and positions us to leverage our growing operating platform to pursue debt investments with greater scale, focus, and consistency,” said co-founder and managing partner, Daniel Michaels. Read more: Delancey hires capital s",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Savills expands into Italian real estate debt",
@@ -188,8 +227,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Savills expands into Italian real estate debt The Italian arm of Savills Investment Management has received authorisation from the Bank of Italy to extend its operations to the management of Italian alternative investment funds (AIFs) focused on direct lending. Savills IM SGR will offer institutional investors access to a range of direct lending solutions funding Italian borrowers, with the suite of products centred on income-producing assets owned by institutional capital. Read more: Italy and Spain become hunting ground for direct lending deals The strategy, which is separate from Savills IM’s European debt strategy, will be led by Giovanni Trespidi, who has been with the firm since 2021 and has over a decade of experience in the Italian real estate lending market and management of real estate AIFs. Cristiano Ronchi, chief executive of Savills IM SGR said: “By expanding our product offering, we are able to leverage the deep investment expertise and the strong track record we have bui"
+   "excerpt": "Savills expands into Italian real estate debt The Italian arm of Savills Investment Management has received authorisation from the Bank of Italy to extend its operations to the management of Italian alternative investment funds (AIFs) focused on direct lending. Savills IM SGR will offer institutional investors access to a range of direct lending solutions funding Italian borrowers, with the suite of products centred on income-producing assets owned by institutional capital. Read more: Italy and Spain become hunting ground for direct lending deals The strategy, which is separate from Savills IM’s European debt strategy, will be led by Giovanni Trespidi, who has been with the firm since 2021 and has over a decade of experience in the Italian real estate lending market and management of real estate AIFs. Cristiano Ronchi, chief executive of Savills IM SGR said: “By expanding our product offering, we are able to leverage the deep investment expertise and the strong track record we have bui",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Saudi Arabia’s Fina launches SME financing fund",
@@ -205,8 +244,22 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Rail News - Spearpoint Logistics to serve BNSF's Barstow International Gateway. For Railroad Career Professionals",
-   "url": "https://www.progressiverailroading.com/bnsf_railway/news/Spearpoint-Logistics-to-serve-BNSFs-Barstow-International-Gateway--77756",
+   "title": "Honoring Award Recipients at Women in Rail 2026",
+   "url": "https://www.railwayage.com/news/honoring-award-recipients-at-women-in-rail-2026/",
+   "source": "Railway Age",
+   "published": "2026-09-16",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "railcar_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
+  },
+  {
+   "title": "Rail News - NCRR awards $250K grant for Atlantic Packaging expansion. For Railroad Career Professionals",
+   "url": "https://www.progressiverailroading.com/short_lines_regionals/news/NCRR-awards-250K-grant-for-Atlantic-Packaging-expansion--77755",
    "source": "Progressive Railroading",
    "published": "2026-09-16",
    "category_hint": "railcar_leasing",
@@ -215,12 +268,25 @@
     "railcar_leasing"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 9/16/2026 Spearpoint Logistics will provide warehousing and transportation services for BNSF Railway's Barstow International Gateway (BIG), a master-planned inland intermodal facility in Southern California that was approved for development in June. Through the collaboration, Spearpoint Logistics will provide shippers with additional supply chain options, including warehousing, distribution and brokerage services for freight moving through Southern California from Asia and Mexico to destinations across the United States, BNSF officials said in a press release. BIG will enhance supply chain resiliency by enabling freight arriving through Southern California gateways to move more efficiently via rail through BNSF's network while reducing congestion on highways, they added. Spearpoint's services will give customers access to integrated logistics solutions in one location, building on the co-locat"
+   "excerpt": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 9/16/2026 The North Carolina Railroad Co. (NCRR) will invest up to $250,000 in NCRR Invests grant funds to support the construction of a new rail spur serving Atlantic Packaging's warehouse expansion in Tabor City, North Carolina. Atlantic Packaging will invest more than $5 million in the project. The new warehouse will be the company’s sixth facility in Tabor City. The rail spur will connect the warehouse to the freight-rail network; once operational, the facility is expected to receive and distribute at least 480 rail cars annually, NCRR officials said in a press release. Atlantic Packaging provides innovative packaging solutions for consumer products and ships to more than 35 locations in the United States and internationally. It imports paper and other raw materials by rail. Through the NCRR Invests grant program, NCRR uses private revenue to fund rail infrastructure projects that attract "
   },
   {
-   "title": "Rail News - South Carolina Gov. McMaster voices support for UP-NS merger. For Railroad Career Professionals",
-   "url": "https://www.progressiverailroading.com/class_is/news/South-Carolina-Gov-McMaster-voices-support-for-UP-NS-merger--77753",
-   "source": "Progressive Railroading",
+   "title": "American Shipper - News Provider in Global Trade",
+   "url": "https://www.freightwaves.com/american-shipper",
+   "source": "FreightWaves",
+   "published": "2026-09-16",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "railcar_leasing"
+   ],
+   "excerpt": "More American Shipper Headlines American Shipper Houthi gains deepen risk as carriers restore Red Sea services American Shipper Almost 1 million TEUs in new record for this U.S. container gateway Maritime Railroad SC Ports, Norfolk Southern expand intermodal access to Huntsville SC Ports and Norfolk Southern launched daily intermodal rail service between Charleston and Huntsville, expanding the port’s inland reach. American Shipper Groundbreaking for $669M East Coast container terminal American Shipper 25 dead as fire engulfs cargo ship at China shipyard American Shipper Colonial Terminals opens new Savannah breakbulk hub Container News American Shipper World container volumes post record 17.3 million TEUs in July Unprecedented volumes demonstrate the underlying strength of global container trade, analyst says. American Shipper Drinking water or warships? Panama Canal reverses ship restrictions American Shipper Fuel, congestion push trans-Pacific ocean rates near $9,500 American Shipper Jones Act service gets new 10-year port deal American Shipper Infographics American Shipper Expect ‘subdued’ peak container season in wake of tariffs, says analyst The Trump administration is reshaping global trade, and the effects are being felt in the ocean and air freight sectors. Most Popular American Shipper Articles Air Cargo CooperVision contact lens shipment stranded on disabled Amazon c",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Train Merger Raises Questions in Medicine Bow",
+   "url": "https://bigfoot99.com/bigfoot99-news/train-merger-raises-questions-in-medicine-bow/",
+   "source": "Bigfoot 99 Radio",
    "published": "2026-09-16",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -228,7 +294,34 @@
     "rail_industry"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 9/16/2026 South Carolina Gov. Henry McMaster has written a letter to the Surface Transportation Board (STB) in support of the proposed Union Pacific Railroad-Norfolk Southern Railway merger In the letter, McMaster emphasized the importance of a strong and efficient freight transportation network to support the state's continued economic growth. “Over the last several decades, South Carolina has become a premier destination for investment in part because of the transportation networks necessary to allow businesses to compete and grow,” McMaster wrote. “I believe the proposed combination of Union Pacific and Norfolk Southern presents meaningful opportunities to reinforce South Carolina's position as a national leader in commerce and trade.” \"We are grateful to have Gov. McMaster's support and appreciate his recognition of what this combination can mean for South Carolina and states across the co"
+   "excerpt": "WEDNESDAY, September 16, 2026| Photo – Big Boy in Medicine Bow – Bigfoot99 file photo Medicine Bow officials expressed concern about the anticipated increase in train traffic stemming from a proposed Union Pacific merger. Last July, Union Pacific and Norfolk Southern railroads announced plans to combine into a single system. The Surface Transportation Board, the federal agency responsible for regulating railroad business practices, is currently reviewing the proposal to ensure it will benefit the public and enhance and expand market competition. During Monday evening’s Medicine Bow Town Council meeting, Mayor Justin George announced that the Surface Transportation Board had asked the town to collect public comments on the Union Pacific and Norfolk Southern merger. Mayor George said the town has no official concerns as the impact will be confined to the railroad tracks. Public Works Director Brian Lashley countered, saying that in an emergency, increased train traffic from the merger co"
+  },
+  {
+   "title": "More Than 500 Customers Back Union Pacific–Norfolk Southern Combination as a Catalyst for American Growth",
+   "url": "https://www.up.com/press-releases/growth/customers-back-combination-260916",
+   "source": "Union Pacific",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "Omaha & Atlanta |September 16, 2026 More than 500 customers representing nearly every segment of the American freight economy have publicly supported the proposed Union Pacific (NYSE: UNP) and Norfolk Southern (NYSE: NSC) combination, with support continuing to grow through recent Surface Transportation Board (STB) filings. Twenty-three new shippers from industries including agriculture, energy, fertilizer, forest products, food and automotive cited the benefits of a single, integrated coast-to-coast rail network, including expanded market access, stronger supply chains, improved reliability and new opportunities for growth. Recent filings included more than 150 new letters from customers, first responder organizations, community leaders and elected officials. Combined with the more than 2,000 statements submitted with the railroads' amended application, the filings underscore the broad and growing coalition supporting the proposed transaction. “Customers are evaluating this transactio"
+  },
+  {
+   "title": "Union Pacific says high diesel prices shifting freight from trucks to rail",
+   "url": "https://www.reuters.com/business/energy/union-pacific-says-high-diesel-prices-shifting-freight-trucks-rail-2026-09-16/",
+   "source": "Reuters",
+   "published": "2026-09-16",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
   },
   {
    "title": "Why are trains blowing their whistles in St. Louis? Warnings piled up for 18 years",
@@ -240,13 +333,13 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "If over the last few days you’ve been wondering why trains are suddenly blowing their whistles all over St. Louis, and why they’re doing so at 2 a.m., the answer is an 18-year-old problem at City Hall. Aldermen Bret Narayan and Matt Devoti, who represent areas around Dogtown and The Hill, respectively, say they’ve been hearing from residents wondering why they’re getting woken up at night by trains blowing their whistles every time they roll through town. Get a fresh take on the day’s top news Subscribe to the St. Louis Daily newsletter for a smart, succinct guide to local news from award-winning journalists Sarah Fenske and Ryan Krull. “The trains have been running forever and their whistles have only been sounding day and night recently,” says Narayan. “So they’re wondering, what’s changed?” Narayan is sympathetic: He’s been hearing the whistles from his own house. It turns out the reason for the noise dates back to at least 2008. Narayan says it’s his understanding that 18 years ago"
+   "excerpt": "If over the last few days you’ve been wondering why trains are suddenly blowing their whistles all over St. Louis, and why they’re doing so at 2 a.m., the answer is an 18-year-old problem at City Hall. Aldermen Bret Narayan and Matt Devoti, who represent areas around Dogtown and The Hill, respectively, say they’ve been hearing from residents wondering why they’re getting woken up at night by trains blowing their whistles every time they roll through town. Get a fresh take on the day’s top news Subscribe to the St. Louis Daily newsletter for a smart, succinct guide to local news from award-winning journalists Sarah Fenske and Ryan Krull. “The trains have been running forever and their whistles have only been sounding day and night recently,” says Narayan. “So they’re wondering, what’s changed?” Narayan is sympathetic: He’s been hearing the whistles from his own house. It turns out the reason for the noise dates back to at least 2008. Narayan says it’s his understanding that 18 years ago",
+   "first_seen": "2026-09-16"
   },
   {
-   "title": "TOUAX",
-   "url": "https://via.ritzau.dk/pressemeddelelse/15166435/touax?publisherId=90446&lang=en",
-   "source": "via.ritzau.dk",
+   "title": "Touax swings to €4.2M loss but shores up balance sheet with India deal",
+   "url": "https://app.dealroom.co/news/note/touax-swings-to-4-2m-loss-but-shores-up-balance-sheet-with-india-deal",
+   "source": "Dealroom",
    "published": "2026-09-16",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -255,7 +348,35 @@
     "alt_investment"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "TOUAX 16.9.2026 17:45:00 CEST | Globenewswire | Press release Touax: 2026 HALF-YEAR RESULTS A temporary slowdown but several strategic milestones PRESS RELEASE Paris, 16 September 2026 – 5:45pm YOUR OPERATIONAL LEASING SOLUTION FOR SUSTAINABLE TRANSPORTATION 2026 HALF-YEAR RESULTS A temporary slowdown but several strategic milestones “The first half of 2026 witnessed a temporary setback in an increasingly complex geopolitical environment, marked by disruptions in global supply chains and weak European industrial activity. The Container activity was impacted both by geopolitical tensions in the Middle East which affected customers in the region, and by limited leasing demand. However, shipping companies resumed leasing during the summer. As geopolitical factors are lengthening shipping routes, containerized traffic in TEUs / miles is now expected to increase in 2026, slightly exceeding global GDP growth (+3.7% according to last Clarksons’ estimates in August 2026). The Freight Railcars "
+   "excerpt": "What's the deal? Touax posted a net loss of €4.2 million in the first half of 2026, reversing a €2.5 million profit a year earlier. Restated revenue fell 13% to €72.9 million and operating EBITDA dropped 34% to €20.1 million. Why now? The Paris-based leasing group cited weak European industrial activity, Middle East geopolitical tensions, and delayed African infrastructure projects. Lower leasing revenues in freight railcars and containers, fewer syndication deals, and adverse euro-dollar effects all weighed on results. What does Touax do? It leases sustainable transport assets — freight railcars, river barges, shipping containers, and modular buildings — to industrial customers and logistics operators across Europe, India, and Africa. What's the endgame? Despite the slowdown, Touax strengthened its balance sheet. Trinity Industries took a 32% stake in Touax Rail India, injecting more than €30 million in fresh equity, while renewed $115 million asset-backed container financing and new "
+  },
+  {
+   "title": "Touax: 2026 HALF-YEAR RESULTS A temporary slowdown but several strategic milestones",
+   "url": "https://www.manilatimes.net/2026/09/16/tmt-newswire/globenewswire/touax-2026-half-year-results-a-temporary-slowdown-but-several-strategic-milestones/2426855/amp",
+   "source": "The Manila Times",
+   "published": "2026-09-16",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
+  },
+  {
+   "title": "Touax H1FY26 Results: Net loss widens to €4.2m as revenue falls 13%",
+   "url": "https://scanx.trade/stock-market-news/companies/touax-h1fy26-results-net-loss-widens-4-2m-revenue-falls-13/51120644",
+   "source": "scanx.trade",
+   "published": "2026-09-16",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "container_leasing",
+    "alt_investment"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "Touax H1FY26 Results: Net loss widens to €4.2m as revenue falls 13% - Net loss widens to €4.2 million in H1 2026 from €2.5 million profit in H1 2025 - Revenue falls 13% to €72.9 million due to weak European rail demand and container leasing slowdown - River barges division sees 7% revenue growth to €8.7 million on higher Rhine charter rates - Trinity Industries injects €30 million for 32% stake in Indian subsidiary Touax Rail India - Loan-to-Value ratio improves to 60.4% as net financial debt drops to €295.9 million *this image is generated using AI for illustrative purposes only. Touax SCA reported a group share of net loss of €4.2 million for the first half of 2026, reversing a €2.5 million profit in the same period last year. The operational leasing company recorded €72.9 million in restated revenue, a 13% decline year-on-year, driven by sluggish European industrial activity and geopolitical disruptions. The company navigated a challenging macroeconomic environment, citing temporary"
   },
   {
    "title": "Containers recovered after falling overboard at Port of Los Angeles",
@@ -274,7 +395,7 @@
   {
    "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
    "url": "https://container-news.com/jiangnan-shipyard-wins-bv-approval-for-electric-propelled-ammonia-carrier/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-16",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -287,7 +408,20 @@
   {
    "title": "HD Hyundai Samho, Avikus and ClassNK advance autonomous LNG carrier design",
    "url": "https://container-news.com/hd-hyundai-samho-avikus-and-classnk-advance-autonomous-lng-carrier-design/",
-   "source": "Container News",
+   "source": "container-news.com",
+   "published": "2026-09-16",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "excerpt": "HD Hyundai Samho, Avikus and ClassNK have signed a memorandum of understanding to develop and verify a ship design incorporating autonomous navigation technology. The companies signed the agreement during Gastech 2026 in Bangkok, Thailand. The joint development project will integrate Avikus’ HINAS Control autonomous navigation solution into a vessel design. ClassNK will then assess whether the design meets the requirements for its autonomous navigation notation. Technology to be assessed on 180,000 m³ LNG carrier The partners will study the technical feasibility of installing HINAS Control on a 180,000 m³ LNG carrier currently under construction. The project will follow ClassNK’s Guidelines for Automated/Autonomous Operation of Ships. Under the agreement: - HD Hyundai Samho will develop the basic vessel design based on the requirements of the targeted ClassNK notation. - Avikus will provide HINAS Control and technical support covering autonomous navigation algorithms and system functio",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "title": "MITSUI E&S verifies ship thrust measurement system in tanker sea trials",
+   "url": "https://container-news.com/mitsui-es-verifies-ship-thrust-measurement-system-in-tanker-sea-trials/",
+   "source": "container-news.com",
    "published": "2026-09-16",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -295,7 +429,7 @@
     "container_leasing"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "HD Hyundai Samho, Avikus and ClassNK have signed a memorandum of understanding to develop and verify a ship design incorporating autonomous navigation technology. The companies signed the agreement during Gastech 2026 in Bangkok, Thailand. The joint development project will integrate Avikus’ HINAS Control autonomous navigation solution into a vessel design. ClassNK will then assess whether the design meets the requirements for its autonomous navigation notation. Technology to be assessed on 180,000 m³ LNG carrier The partners will study the technical feasibility of installing HINAS Control on a 180,000 m³ LNG carrier currently under construction. The project will follow ClassNK’s Guidelines for Automated/Autonomous Operation of Ships. Under the agreement: - HD Hyundai Samho will develop the basic vessel design based on the requirements of the targeted ClassNK notation. - Avikus will provide HINAS Control and technical support covering autonomous navigation algorithms and system functio"
+   "excerpt": "MITSUI E&S has completed sea trials of a new high-precision ship thrust measurement system aboard the crude oil tanker ENEOS DREAM. The company developed the system to measure vessel propulsion performance more accurately under actual operating conditions. According to MITSUI E&S, the trials confirmed stable measurements and high reproducibility across different operating conditions. System directly measures vessel thrust Traditional vessel performance analysis often relies on data such as ship speed and shaft power. However, wind, waves and currents can affect these measurements and make it difficult to identify the reasons behind changes in vessel performance. MITSUI E&S developed its system to measure thrust directly. Thrust represents the force that moves a vessel forward and can therefore provide additional information about propulsion performance. The technology measures small levels of strain in engine structural components and uses this information to calculate thrust. It also "
   },
   {
    "title": "Former Route Director joins rail consultancy AARC Professional Services",
@@ -314,7 +448,20 @@
   {
    "title": "In-depth: ÖBB demonstrates Digital Automatic Coupling technology for European rail freight in Vienna",
    "url": "https://www.globalrailwayreview.com/in-depth-%C3%B6bb-demonstrates-digital-automatic-coupling-technology-for-european-rail-freight-in-vienna/2136467.article",
-   "source": "Global Railway Review",
+   "source": "globalrailwayreview.com",
+   "published": "2026-09-16",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "excerpt": "ÖBB has demonstrated Digital Automatic Coupling under real operating conditions at Floridsdorf freight station in Vienna, comparing the technology directly against the screw coupler currently used across European rail freight, as the sector moves towards its deployment in commercial operations. ÖBB has demonstrated Digital Automatic Coupling (DAC) at the Floridsdorf freight yard in Vienna under real operating conditions, comparing the screw coupler currently used across European rail freight with the capabilities of DAC. DAC is regarded across Europe as one of the most important innovation projects for rail freight, combining automation, digitalisation and productivity improvements as part of a joint European initiative aiming to make rail freight more efficient, competitive and attractive. Peter Hanke, Federal Minister for Innovation, Mobility and Infrastructure, said: “An efficient railway freight transport system is crucial for Austria as a business location. The Digital Automatic C",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "title": "ÖBB Demonstrates Digital Automatic Coupling in Major Step Towards Europe’s Digital Freight Future",
+   "url": "https://www.railtechnologymagazine.com/articles/obb-demonstrates-digital-automatic-coupling-major-step-towards-europes-digital-freight",
+   "source": "Rail Technology Magazine",
    "published": "2026-09-16",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -322,7 +469,7 @@
     "eu_railcar_leasing"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "ÖBB has demonstrated Digital Automatic Coupling under real operating conditions at Floridsdorf freight station in Vienna, comparing the technology directly against the screw coupler currently used across European rail freight, as the sector moves towards its deployment in commercial operations. ÖBB has demonstrated Digital Automatic Coupling (DAC) at the Floridsdorf freight yard in Vienna under real operating conditions, comparing the screw coupler currently used across European rail freight with the capabilities of DAC. DAC is regarded across Europe as one of the most important innovation projects for rail freight, combining automation, digitalisation and productivity improvements as part of a joint European initiative aiming to make rail freight more efficient, competitive and attractive. Peter Hanke, Federal Minister for Innovation, Mobility and Infrastructure, said: “An efficient railway freight transport system is crucial for Austria as a business location. The Digital Automatic C"
+   "excerpt": "The digital transformation of European rail freight took a significant step forward this week as ÖBB demonstrated the capabilities of Digital Automatic Coupling (DAC) under real operating conditions at its Floridsdorf freight yard in Vienna. The showcase provided a direct comparison between the traditional screw coupler, still widely used across Europe's freight network, and the next-generation DAC system that many industry leaders believe will underpin the future of rail freight operations. DAC has emerged as one of the most important innovation projects within the European rail sector. Designed to improve efficiency, competitiveness and productivity, the technology combines automation and digitalisation to modernise freight operations while supporting the wider shift towards more sustainable transport. Speaking at the event, Peter Hanke, Federal Minister for Innovation, Mobility and Infrastructure, highlighted the strategic importance of the technology for both Austria and the wider "
   },
   {
    "title": "PJM and Voith combine DAC for freight use",
@@ -334,8 +481,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "PJM has presented a DAC package developed together with Voith for use in freight operations. The system combines Voith’s CargoFlex coupling technology with PJM’s digital train functions, including an automatic brake test. The package covers mechanical, pneumatic and electrical coupling functions, as well as push-button uncoupling. It also includes wagon sequencing and train integrity functions. PJM is also offering system integration and support with vehicle approval. This includes the development of modification concepts and documentation for installation, testing of strength, running characteristics and derailment safety, EMC testing and approval management. The group also covers AsBo assessment and NoBo, and where required DeBo, conformity assessment. DAC tested in limestone traffic According to PJM, the system has already been used on a DAC-equipped freight train in commercial operation. The train uses Voith’s CargoFlex coupling system together with PJM’s automatic brake test and o"
+   "excerpt": "PJM has presented a DAC package developed together with Voith for use in freight operations. The system combines Voith’s CargoFlex coupling technology with PJM’s digital train functions, including an automatic brake test. The package covers mechanical, pneumatic and electrical coupling functions, as well as push-button uncoupling. It also includes wagon sequencing and train integrity functions. PJM is also offering system integration and support with vehicle approval. This includes the development of modification concepts and documentation for installation, testing of strength, running characteristics and derailment safety, EMC testing and approval management. The group also covers AsBo assessment and NoBo, and where required DeBo, conformity assessment. DAC tested in limestone traffic According to PJM, the system has already been used on a DAC-equipped freight train in commercial operation. The train uses Voith’s CargoFlex coupling system together with PJM’s automatic brake test and o",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "European Union's rail freight transport falls 1.8% in 2025",
@@ -374,8 +521,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Hapag-Lloyd relies on rail freight amid Rhine drought",
@@ -388,8 +535,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Market Chatter: Blackstone Seeks At Least $8 Billion For Green Infrastructure Credit Fund",
@@ -414,8 +561,21 @@
    "category_hints": [
     "alt_investment"
    ],
+   "excerpt": "Carlyle has raised about $2.3bn for its second infrastructure credit fund, taking in more than three-and-a-half times th Sorry, you need to subscribe to read this article. If you would like to access this article you must become a Premium Subscriber. Premium subscribers receive complete access to our daily breaking news, premium stories, weekly Fundraising & IR Review, Knowledge Bank and LP profiles - all which are accessible via our mobile platform. Portobello Capital has closed its fifth flagship buyout fund on €710m, beating its €600m target after less than 18 months of fundraising. The Madrid-based manager... Goldman Sachs Alternatives has closed its ninth flagship buyout fund on $9.6bn, almost matching its $9.7bn predecessor despite the prolonged slowdown in global private capital fundraising. Apollo has completed a €3bn investment in Bayer's long-acting reversible contraceptives business, with KKR joining the transaction as a significant minority participant. Apollo-managed funds",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Rothschild amasses €2bn for latest infra debt strategy",
+   "url": "https://www.infrastructureinvestor.com/rothschild-amasses-e2bn-for-latest-infra-debt-strategy/",
+   "source": "Infrastructure Investor",
+   "published": "2026-09-16",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "category_hints": [
+    "alt_investment"
+   ],
    "first_seen": "2026-09-16",
-   "excerpt": "Carlyle has raised about $2.3bn for its second infrastructure credit fund, taking in more than three-and-a-half times th Sorry, you need to subscribe to read this article. If you would like to access this article you must become a Premium Subscriber. Premium subscribers receive complete access to our daily breaking news, premium stories, weekly Fundraising & IR Review, Knowledge Bank and LP profiles - all which are accessible via our mobile platform. Portobello Capital has closed its fifth flagship buyout fund on €710m, beating its €600m target after less than 18 months of fundraising. The Madrid-based manager... Goldman Sachs Alternatives has closed its ninth flagship buyout fund on $9.6bn, almost matching its $9.7bn predecessor despite the prolonged slowdown in global private capital fundraising. Apollo has completed a €3bn investment in Bayer's long-acting reversible contraceptives business, with KKR joining the transaction as a significant minority participant. Apollo-managed funds"
+   "excerpt": "Edmond de Rothschild (EdR) has raised €2 billion for the sixth vintage of its infrastructure debt fund, buoyed by commitments from existing investors. Benjamin de Rothschild Infrastructure Debt Generation VI (BRIDGE VI) launched in April 2023 with a €2.5 billion target, according to PEI Group data. There is no hard-cap. It reached approximately €1.1 billion and €1.7 billion in capital raised in November 2024 and October 2025, respectively. A final close was initially expected in Q1 2026. The latest fundraising means that the manager has raised about 80 percent, or €2 billion, of its target, consisting of €1.15 billion for senior debt and €850 million for yield-plus. A final close is expected by the end of 2026. The vehicle’s fundraising points to a more elongated timeline than the roughly two-year average fundraising cycle for funds – particularly over the last three years, according to Infrastructure Investor‘s H1 2026 fundraising report. Jean-Francis Dusch, EdR global head of infrast"
   },
   {
    "title": "Partner Insight: How a K-shaped economy affects opportunities in asset based finance",
@@ -440,8 +600,21 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Sept 16 (Reuters) – Australian companies have attracted a wave of takeover interest from private equity firms and overseas investors so far in 2026, although only a limited number of those approaches have advanced beyond the preliminary stages. Here are some Australian companies that have received takeover approaches this year: Atlas Arteria: Australia’s Atlas Arteria received a takeover offer from IFM Global Infrastructure Fund in April for all the shares the fund did not own at the time, valuing the former at A$6.89 billion ($4.91 billion). The fund’s unit, Diamond Infraco 1, also dangled a potential sweetener for shareholders of the toll road operator at the time, saying the offer price would rise to a maximum A$5.10 per share if it secured a 45% or higher stake in the company before the offer closed. BlueScope Steel: Australia’s BlueScope Steel received a A$13.15 billion ($9.37 billion) takeover proposal in early January from an investor group comprising billionaire Kerry Stokes-ow"
+   "excerpt": "Sept 16 (Reuters) – Australian companies have attracted a wave of takeover interest from private equity firms and overseas investors so far in 2026, although only a limited number of those approaches have advanced beyond the preliminary stages. Here are some Australian companies that have received takeover approaches this year: Atlas Arteria: Australia’s Atlas Arteria received a takeover offer from IFM Global Infrastructure Fund in April for all the shares the fund did not own at the time, valuing the former at A$6.89 billion ($4.91 billion). The fund’s unit, Diamond Infraco 1, also dangled a potential sweetener for shareholders of the toll road operator at the time, saying the offer price would rise to a maximum A$5.10 per share if it secured a 45% or higher stake in the company before the offer closed. BlueScope Steel: Australia’s BlueScope Steel received a A$13.15 billion ($9.37 billion) takeover proposal in early January from an investor group comprising billionaire Kerry Stokes-ow",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "title": "TOUAX",
+   "url": "https://via.ritzau.dk/pressemeddelelse/15166435/touax?publisherId=90446&lang=en",
+   "source": "Via Ritzau",
+   "published": "2026-09-16",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "excerpt": "TOUAX 16.9.2026 17:45:00 CEST | Globenewswire | Press release Touax: 2026 HALF-YEAR RESULTS A temporary slowdown but several strategic milestones PRESS RELEASE Paris, 16 September 2026 – 5:45pm YOUR OPERATIONAL LEASING SOLUTION FOR SUSTAINABLE TRANSPORTATION 2026 HALF-YEAR RESULTS A temporary slowdown but several strategic milestones “The first half of 2026 witnessed a temporary setback in an increasingly complex geopolitical environment, marked by disruptions in global supply chains and weak European industrial activity. The Container activity was impacted both by geopolitical tensions in the Middle East which affected customers in the region, and by limited leasing demand. However, shipping companies resumed leasing during the summer. As geopolitical factors are lengthening shipping routes, containerized traffic in TEUs / miles is now expected to increase in 2026, slightly exceeding global GDP growth (+3.7% according to last Clarksons’ estimates in August 2026). The Freight Railcars ",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Why ADIC and Skandia Mutual Life are split on infra secondaries",
@@ -453,8 +626,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Why ADIC and Skandia Mutual Life are split on infra secondaries In respect of their longstanding infrastructure portfolios, Abu Dhabi Investment Council is a keen trader of secondaries but the Swedish insurer isn’t, explain infra specialists Saoud Al Mulla and Hans Forssman."
+   "excerpt": "Why ADIC and Skandia Mutual Life are split on infra secondaries In respect of their longstanding infrastructure portfolios, Abu Dhabi Investment Council is a keen trader of secondaries but the Swedish insurer isn’t, explain infra specialists Saoud Al Mulla and Hans Forssman.",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Infra transitions rarely follow a straight line",
@@ -466,8 +639,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "News & AnalysisInfra transitions rarely follow a straight lineFrom digital to the energy transition to AI, there are patterns common in any infrastructure revolution, writes Finadvice's Jeffrey Altman.ByGuest Writer5 hours ago•5 mins readTrendsData CentresDigital InfrastructureEnergyEnergy TransitionRenewablesAIRegulation"
+   "excerpt": "News & AnalysisInfra transitions rarely follow a straight lineFrom digital to the energy transition to AI, there are patterns common in any infrastructure revolution, writes Finadvice's Jeffrey Altman.ByGuest Writer5 hours ago•5 mins readTrendsData CentresDigital InfrastructureEnergyEnergy TransitionRenewablesAIRegulation",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "SVP appoints Goldman executive as president",
@@ -479,21 +652,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "SVP appoints Goldman executive as president US investment firm Strategic Value Partners (SVP) has appointed Goldman Sachs partner Matt Gibson as president, effective from February 2027. Gibson leaves the American investment bank after more than 25 years, having held a series of senior leadership positions. Most recently, Gibson led the global client business within Goldman Sachs Asset Management, overseeing a team of over 1,000 sales and product specialists across the institutional, wealth and insurance client distribution channels. Read more: Market volatility creates distressed debt opportunity As president of SVP, Gibson will lead the firm’s non-investment activities, including client relations, firmwide infrastructure and drive longer-term strategic initiatives. He will also actively engage in deal sourcing across industry sectors, such as power and infrastructure, where he gained previous expertise. He will sit on SVP’s management and investment committees and report to SVP founde"
-  },
-  {
-   "title": "Asset owners increasing exposure to private markets",
-   "url": "https://alternativecreditinvestor.com/2026/09/16/asset-owners-increasing-exposure-to-private-markets/",
-   "source": "Alternative Credit Investor",
-   "published": "2026-09-16",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Asset owners increasing exposure to private markets Asset owners expect their allocation to private markets to increase from 19 per cent of assets under management (AUM) today to 23 per cent within the next five years, according to Morningstar’s asset owner perspectives survey. The study surveyed over 500 asset owners across 11 countries in North America, Europe and Asia-Pacific, with combined AUM of over $20tn (£14.9tn). Investors in Europe appear to be the most prone to private markets, with respondents indicating they expect 25 per cent of AUM to be dedicated to private markets strategies. This compares with 21 per cent in North America and 23 per cent in Asia-Pacific. However, Asia-Pacific respondents are the most likely to report increasing allocations to private equity (47 per cent) and direct lending (38 per cent), while North American asset owners lead in infrastructure (41 per cent) and private debt (32 per cent). Last year, asset owners directed new capital in private markets"
+   "excerpt": "SVP appoints Goldman executive as president US investment firm Strategic Value Partners (SVP) has appointed Goldman Sachs partner Matt Gibson as president, effective from February 2027. Gibson leaves the American investment bank after more than 25 years, having held a series of senior leadership positions. Most recently, Gibson led the global client business within Goldman Sachs Asset Management, overseeing a team of over 1,000 sales and product specialists across the institutional, wealth and insurance client distribution channels. Read more: Market volatility creates distressed debt opportunity As president of SVP, Gibson will lead the firm’s non-investment activities, including client relations, firmwide infrastructure and drive longer-term strategic initiatives. He will also actively engage in deal sourcing across industry sectors, such as power and infrastructure, where he gained previous expertise. He will sit on SVP’s management and investment committees and report to SVP founde",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Surface Transportation Project Delivery Program; Ohio Department of Transportation Audit Report",
@@ -548,58 +708,6 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Hazardous Materials: Notice of Actions on Special Permits",
-   "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18917/hazardous-materials-notice-of-actions-on-special-permits",
-   "source": "Federal Register (Transportation Department, Pipeline and Hazardous Materials Safety Administration)",
-   "published": "2026-09-16",
-   "category_hint": "railcar_leasing",
-   "feed": "federalregister",
-   "excerpt": "Hazardous Materials: Notice of Actions on Special Permits. Transportation Department, Pipeline and Hazardous Materials Safety Administration. Notice. In accordance with the procedures governing the application for, and the processing of, special permits from the Department of Transportation's Hazardous Material Regulations, notice is hereby given that the Office of Hazardous Materials Safety has granted or denied the application described herein.",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Hazardous Materials: Notice of Applications for Modification to Special Permits",
-   "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18916/hazardous-materials-notice-of-applications-for-modification-to-special-permits",
-   "source": "Federal Register (Transportation Department, Pipeline and Hazardous Materials Safety Administration)",
-   "published": "2026-09-16",
-   "category_hint": "railcar_leasing",
-   "feed": "federalregister",
-   "excerpt": "Hazardous Materials: Notice of Applications for Modification to Special Permits. Transportation Department, Pipeline and Hazardous Materials Safety Administration. Notice. In accordance with the procedures governing the application for, and the processing of, special permits from the Department of Transportation's Hazardous Material Regulations, notice is hereby given that the Office of Hazardous Materials Safety has received the application described herein.",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "News photo: Mohawk on the move",
-   "url": "https://www.trains.com/trn/railroads/heritage-rail/heritage-railroads/news-photo-mohawk-on-the-move/",
-   "source": "Trains",
-   "published": "2026-09-15",
-   "category_hint": "rail_industry",
-   "feed": "rss:trains.com",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "ELKHART, Ind. — Fort Wayne Railroad Historical Society’s former New York Central 4-8-2 Mohawk No. 3001 moved on the main line for the first time in decades today — behind Norfolk Southern’s New York Central heritage SD70ACe No. 1066, no less. The big 1940 Alco was towed from a track near the National New York Central Railroad Museum in Elkhart to NS’s Elkhart Yard nearby. After a mechanical inspection, the train departed for the NS Marion District en route Claypool, Ind., junction with the former Nickel Plate main line, and eventually on to the FWRHS shop in East Haven, Ind. “Several months of mechanical work on the brakes, bearings, running gear, and other components have prepared this storied machine for its first mainline adventure since 1984, and marks the start of its restoration,” the railroad group said in a Facebook post today. — To report news or errors, contact trainsnewswire@firecrown.com. Share this article",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "UP 2-10-2 on the run",
-   "url": "https://www.trains.com/ctr/photos-videos/photo-of-the-day/up-2-10-2-on-the-run/",
-   "source": "Trains",
-   "published": "2026-09-15",
-   "category_hint": "rail_industry",
-   "feed": "rss:trains.com",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "UP 2-10-2 on the run By Mitch Horner | September 15, 2026 Email Newsletter Get the newest photos, videos, stories, and more from Trains.com brands. Sign-up for email today! Get Updates The 2-10-2 Santa Fe type wasn’t generally known for speed, but Union Pacific 5015 looks like a real racehorse heading west across Nebraska with empty reefers in the late 1940s. Linn W. Westcott photo Share this article Facebook Twitter LinkedIn",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "Direct lending: What has (and hasn’t) changed",
    "url": "https://alternativecreditinvestor.com/2026/09/15/direct-lending-what-has-and-hasnt-changed/",
    "source": "Alternative Credit Investor",
@@ -623,19 +731,6 @@
     "alt_investment"
    ],
    "excerpt": "PRIVATE EQUITY INTERNATIONAL Former Children’s Health LP launches secondaries shop focused on overlooked deals After years of buying and selling secondaries as an allocator, Yangge Seaman believes that while institutional investors often have the appetite and capital to pursue deals, they aren’t able to follow through. Her new firm, Gordian Investment Group, aims to bridge that gap.",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "American Shipper - News Provider in Global Trade",
-   "url": "https://www.freightwaves.com/american-shipper",
-   "source": "FreightWaves",
-   "published": "2026-09-15",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "excerpt": "More American Shipper Headlines American Shipper Houthi gains deepen risk as carriers restore Red Sea services American Shipper Almost 1 million TEUs in new record for this U.S. container gateway Maritime Railroad SC Ports, Norfolk Southern expand intermodal access to Huntsville SC Ports and Norfolk Southern launched daily intermodal rail service between Charleston and Huntsville, expanding the port’s inland reach. American Shipper Groundbreaking for $669M East Coast container terminal American Shipper 25 dead as fire engulfs cargo ship at China shipyard American Shipper Colonial Terminals opens new Savannah breakbulk hub Container News American Shipper World container volumes post record 17.3 million TEUs in July Unprecedented volumes demonstrate the underlying strength of global container trade, analyst says. American Shipper Drinking water or warships? Panama Canal reverses ship restrictions American Shipper Fuel, congestion push trans-Pacific ocean rates near $9,500 American Shipper Jones Act service gets new 10-year port deal American Shipper Infographics American Shipper Expect ‘subdued’ peak container season in wake of tariffs, says analyst The Trump administration is reshaping global trade, and the effects are being felt in the ocean and air freight sectors. Most Popular American Shipper Articles Air Cargo CooperVision contact lens shipment stranded on disabled Amazon c",
    "first_seen": "2026-09-16"
   },
   {
@@ -704,19 +799,6 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "State to Consider More Active Oversight of RR Grade Crossings",
-   "url": "https://franklinobserver.town.news/g/franklin-town-ma/n/387413/state-consider-more-active-oversight-rr-grade-crossings",
-   "source": "franklinobserver.town.news",
-   "published": "2026-09-15",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Above, People Killed Annually at Grade Crossings Nationally, (Source, Federal Railroad Administration) The Massachusetts Department of Public Utilities (DPU) has opened a rulemaking to strengthen safety standards at railroad grade crossings across Massachusetts. The proposed regulations would establish clearer and more consistent requirements to help protect drivers, pedestrians, cyclists, and rail passengers. Franklin has a total of five grade crossings. The proposal would give DPU, railroads, municipalities and other entities a stronger framework for identifying safety risks and making improvements at grade crossings. It would also establish clearer procedures for evaluating crossings, recommending safety upgrades and ensuring that concerns are addressed before they result in serious incidents. The proposed regulations come as passenger rail service continues to grow across Massachusetts, including the opening of South Coast Rail in 2025 and continued planning for West-East Rail. The"
-  },
-  {
    "title": "VICT starts Phase 3B expansion",
    "url": "https://www.worldcargonews.com/automation/2026/09/vict-starts-phase-3b-expansion/",
    "source": "WorldCargo News",
@@ -771,7 +853,7 @@
   {
    "title": "KR and HD HHI explore WindWings for 174K LNG carrier",
    "url": "https://container-news.com/kr-and-hd-hhi-explore-windwings-for-174k-lng-carrier/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-15",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -784,7 +866,7 @@
   {
    "title": "Accurate begins conversion of six vessels to autonomous USVs for Indian Navy",
    "url": "https://container-news.com/accurate-begins-conversion-of-six-vessels-to-autonomous-usvs-for-indian-navy/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-15",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -793,33 +875,6 @@
    ],
    "excerpt": "Indian marine automation specialist Accurate Industrial Controls is moving ahead with the conversion of six vessels into Unmanned Surface Vessels (USVs) for the Indian Navy. The company has completed a feasibility assessment of the first three vessels. They will be converted into fully autonomous craft at Mumbai’s Naval Dockyard. First three vessels assessed for conversion The first phase covers one 13-metre Fast Interceptor Craft (FIC) and two 23-metre Immediate Support Vessels (ISVs). The FIC is used for coastal reconnaissance, while the larger ISVs operate alongside frigates and other naval assets. The ISVs have a range of around 400 nautical miles, according to Accurate. The vessels form part of a six-vessel agreement signed with the Indian Navy in 2022. All six will be equipped with Accurate’s Intelligent Situational Awareness and Collision Avoidance (ISACA) system. Technology completes 2,500 hours of trials As part of the development programme, Accurate built two test USVs. These included a 13-metre interceptor craft and a five-metre Search and Rescue workboat. The vessels completed 2,500 hours of sea and river trials with the Indian Navy. Following the trials, the Indian Register of Shipping certified the ISACA technology to IRS AUTN 4-R(N). Accurate said the system is designed to operate in line with the International Regulations for Preventing Collisions at Sea (COLREG",
    "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Giant Lock Box Publishes Twin Market Analyses Showing Why Container Price Headlines and Container Quotes Are Moving on Separate Tracks",
-   "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_3641ddc5-d81e-56fc-9b04-36c48fae37ca.html",
-   "source": "mycarrollcountynews.com",
-   "published": "2026-09-15",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "Middletown, New York - September 15, 2026 - PRESSADVANTAGE - Giant Lock Box, a family-operated shipping container dealer serving all 50 states from its Middletown, New York depot, today published two companion analyses with a shared warning for fall container buyers: the number in the headline is not the number on the quote. Factory selling prices are falling without producing retail discounts, and Panama Canal surcharges are climbing without touching the used inventory already sitting in Northeast yards. Buyers who read one market and shop in the other, the company says, will either wait for a discount that isn’t coming or rush a purchase that faces no pressure at all. The first analysis, Giant Lock Box’s report on falling factory prices and rising retail quotes, works through the half-year numbers behind the split. Singamas sold 43,000 TEU of new containers in the first half of 2026, down 49% year over year, with its 20-foot dry container average selling price falling to $1,613 from $1,845, per the company’s August 25 interim results. Triton’s gain on used equipment sales dropped to $2.0 million from $7.9 million on lower resale prices. Over the same stretch, U.S. retail used container prices rose 2.6% to 3.3%, with the nationwide average for a used 20-foot unit at $1,786 per Container Management’s 2026 cost guide. The explanation: a factory price change works through an orde",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Hungary restores single wagonload subsidies in a reduced format",
-   "url": "https://www.railfreight.com/railfreight/2026/09/15/hungary-restores-single-wagonload-subsidies-in-a-reduced-format/",
-   "source": "RailFreight.com",
-   "published": "2026-09-15",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
   },
   {
    "title": "Moldova takes step towards EU membership: a separate rail infrastructure manager",
@@ -831,33 +886,6 @@
    "snippet": "",
    "category_hints": [
     "eu_railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
-  },
-  {
-   "title": "Carlyle closes $2.3B infrastructure credit fund, 3x its predecessor",
-   "url": "https://app.dealroom.co/news/note/carlyle-closes-2-3b-infrastructure-credit-fund-3x-its-predecessor",
-   "source": "Dealroom",
-   "published": "2026-09-15",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "What's the deal? The Carlyle Group has raised $2.3 billion at final close for its Carlyle Infrastructure Credit Fund II, beating a $2 billion target. The vehicle is three times larger than its predecessor, drawing commitments from institutions across North America, Europe, and Asia. What's the endgame? The fund finances infrastructure businesses and assets, targeting below-investment-grade opportunities. Focus areas span the energy transition, digital infrastructure, low-carbon power, and water and waste treatment. Where does it stand? The fund already holds six investments across North America and Europe, with roughly $500 million committed. Carlyle's infrastructure credit arm manages around $8.7 billion, part of a global credit platform with $211 billion in assets. Why it matters: \"This fundraise reflects the continued momentum across Carlyle's global credit platform and investor demand for differentiated private credit strategies,\" said Mark Jenkins, co-president and head of global ",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Blackstone Seeks At Least $8 Billion For Green Infrastructure Credit Fund",
-   "url": "https://www.marketscreener.com/news/blackstone-seeks-at-least-8-billion-for-green-infrastructure-credit-fund-ce785bd2d98df62c",
-   "source": "marketscreener.com",
-   "published": "2026-09-15",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
    ],
    "excerpt": "",
    "first_seen": "2026-09-16"
@@ -879,7 +907,7 @@
   {
    "title": "Private Credit’s Greatest Risk Could Be Missing Out",
    "url": "https://www.wealthsolutionsreport.com/private-credits-greatest-risk-could-be-missing-out/",
-   "source": "wealthsolutionsreport.com",
+   "source": "Wealth Solutions Report",
    "published": "2026-09-15",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -892,7 +920,7 @@
   {
    "title": "Private credit has Matured. Operational Excellence is the Next Differentiator",
    "url": "https://ibsintelligence.com/blogs/private-credit-has-matured-operational-excellence-is-the-next-differentiator/",
-   "source": "IBS Intelligence",
+   "source": "ibsintelligence.com",
    "published": "2026-09-15",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -1005,8 +1033,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Pacific West Environmental & Infrastructure Acquires Coleman Industrial Construction",
@@ -1022,19 +1050,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Kelso Technologies Inc Announces Approval of the Angle Valve - New Pressure Car Component Completes Kelso's Complete Pressure Car Kit Portfolio",
-   "url": "https://finance.yahoo.com/technology/articles/kelso-technologies-inc-announces-approval-120100796.html",
-   "source": "finance.yahoo.com",
-   "published": "2026-09-14",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "West Kelowna, British Columbia and Bonham, Texas--(Newsfile Corp. - September 14, 2026) - Kelso Technologies Inc. (TSX: KLS) (\"Kelso\" or the \"Company\"), a leading developer and manufacturer of proprietary rail tank car equipment, announced today that it has received full production approval from the Association of American Railroads (AAR) for its new 2\" angle valve (K2AV). The valve has successfully completed the required AAR field service trial and is approved for commercial manufacturing and sales across North America. The K2AV, a 2\" angle valve engineered for loading and unloading pressure tank cars carrying liquefied compressed gases such as propane, butane, propylene, and anhydrous ammonia, completes the Kelso Pressure Car Kit (KPCK). The KPCK now offers customers a comprehensive one-stop solution that includes a pressure relief valve, excess flow check valve, thermometer well, needle sampling valve, magnetic gauging device, and three K2AV units per tank car. Product Features and "
   },
   {
    "title": "Firms develop fire-mitigation system for railroads",
@@ -1063,19 +1078,6 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "News & Products for the week of September 14th 2026",
-   "url": "https://www.trains.com/mrr/news-reviews/news/news-products-for-the-week-of-september-14th-2026/",
-   "source": "trains.com",
-   "published": "2026-09-14",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "News & Products for the week of September 14th 2026 Model railroad operators and builders can get the latest information about locomotives, freight cars, passenger cars, tools, track, and more by reading Model Railroader’s frequent product updates. The following are the products Model Railroader editors have news on for the week of September 14th 2026. HO scale rolling stock Wabash streamlined-cupola caboose. Ann Arbor (Ferry in the Fog and red with yellow ends), Chicago & Eastern Illinois, Norfolk & Western (block lettering, round herald, and American Revolution Bicentennial schemes), and Wabash. One to two road numbers per scheme; also available painted red but unlettered and undecorated kit. Prototype-specific details; see-through, etched-metal step treads; detailed interior; and Proto-Max metal couplers. Minimum radius, 18”; recommended radius, 22”. $74.98. WalthersProto. Wm. K. Walthers Inc., 414-527-0770, walthers.com N scale locomotives California Zephyr diesel locomotives. Chic",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "Vena Sees Union Pacific’s Intermodal Growth Strategy in Action in the Inland Empire",
    "url": "https://www.up.com/news/growth/vena-sees-growth-inland-empire-260914",
    "source": "Union Pacific",
@@ -1089,22 +1091,9 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "WSC urges governments to close lithium battery loophole",
-   "url": "https://www.worldcargonews.com/news/2026/09/wsc-urges-governments-to-close-lithium-battery-loophole/",
-   "source": "WorldCargo News",
-   "published": "2026-09-14",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "WSC urges governments to close lithium battery loophole The World Shipping Council (WSC) is calling for governments to close a dangerous gap in international rules that can allow containers packed with thousands of lithium batteries to sail without carriers being told what they contain. The gap is widening as battery use surges and container fires remain a persistent threat. Global lithium-ion battery deployment was six times higher in 2025 than in 2020, according to the International Energy Agency, while demand is expected to double by 2030. At the same time, Allianz data shows a container ship fire every 17 days, with lithium-ion batteries, used in electric vehicles and many consumer goods, are increasingly linked to major ship fire claims. According to WSC, the problem lies in Special Provision 188 of the International Maritime Dangerous Goods (IMDG) Code. It exempts smaller batteries from certain dangerous goods requirements if they meet specified testing, packaging and capacity criteria — but puts no cap on how many exempt batteries can be packed into one container. The result is a regulatory blind spot: a container carrying around 4,200 laptops could hold roughly 416 kWh of stored energy, equivalent to three or four electric vehicles, without dangerous goods documentation or container placarding, WSC said. “Right now, a container can be packed with thousands of lithium ba",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "Hapag-Lloyd and Maersk return four Gemini services to Red Sea route",
    "url": "https://container-news.com/hapag-lloyd-and-maersk-return-four-gemini-services-to-red-sea-route/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-14",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1117,7 +1106,7 @@
   {
    "title": "MacGregor wins equipment orders for four research vessels",
    "url": "https://container-news.com/macgregor-wins-equipment-orders-for-four-research-vessels/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-14",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1130,7 +1119,7 @@
   {
    "title": "IMO Net-Zero Framework: FMC Oversight and Shipping Act Implications for U.S. Maritime Trade",
    "url": "https://indiashippingnews.com/maritime/imo-net-zero-framework-fmc-oversight-and-shipping-act-implications-for-u-s-maritime-trade/",
-   "source": "indiashippingnews.com",
+   "source": "India Shipping News",
    "published": "2026-09-14",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1141,17 +1130,30 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "US FMC chief calls for maritime enforcement arm",
-   "url": "https://www.themorning.lk/articles/XCIuXLmtA3GiE8jgJgPN",
-   "source": "The Morning",
+   "title": "USS acquires VTG Rail UK and its 4,500-vehicle wagon fleet",
+   "url": "https://railmarket.com/news/business/62915-uss-acquires-vtg-rail-uk-and-its-4-500-vehicle-wagon-fleet",
+   "source": "RAILMARKET.com",
    "published": "2026-09-14",
-   "category_hint": "container_leasing",
+   "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
    "category_hints": [
-    "container_leasing"
+    "eu_railcar_leasing"
    ],
-   "excerpt": "- Laura DiBella says stronger competition framework could boost investment and Colombo’s growth as a transhipment hub Sri Lanka should establish a dedicated maritime enforcement and competition mechanism modelled on the United States Federal Maritime Commission (FMC) to strengthen competition, attract foreign investment and support the growth of Colombo as a major Indian Ocean transhipment hub, FMC Chair Laura DiBella said recently. Addressing the Colombo International Maritime & Logistics Conference (CIMC) 2026 in Colombo on Wednesday (9), DiBella said Sri Lanka needed to establish “guardrails” and a competitive framework to ensure that competition exists and flourishes, particularly in Colombo’s maritime sector. Stronger competition needed “You need to establish an enforcement arm similar to the FMC here. You need to put guardrails up,” she said. She stressed that competition was essential to encourage innovation, economic growth and foreign direct investment. “Competition is good. Competition makes everyone duke it out against each other,” DiBella said, adding that Sri Lanka needed to de-risk its business environment to attract greater foreign investment. “If there’s only a certain amount of foreign investment that is allowed in, that is too risky. No one will take that leap,” she said. Business should lead, Government support At the international conference organised by Roh",
-   "first_seen": "2026-09-16"
+   "first_seen": "2026-09-16",
+   "excerpt": "VTG has agreed to sell VTG Rail UK to the Universities Superannuation Scheme (USS), transferring one of the largest wagon leasing businesses in the British rail freight market to one of the UK's biggest pension funds. VTG Rail UK operates around 4,500 rail freight vehicles and serves supply chains across several sectors of the UK economy. The business has operated with a high degree of autonomy within VTG Group and will continue to be led by CEO Marc Hurn after completion of the sale. VTG started reviewing strategic options for the British business earlier in 2026. Following a competitive sale process, the Hamburg-based group chose USS as the buyer. The disposal will also sharpen VTG's focus on its continental European activities. VTG operates a fleet of more than 75,000 rail freight wagons across more than 20 European countries and describes itself as Europe's largest wagon lessor. VTG CEO Alberto Nobis said VTG Rail UK had developed into the leading rail freight wagon lessor in the B"
+  },
+  {
+   "title": "VTG Rail UK sale to USS would put wagon leasing into pension hands",
+   "url": "https://www.railway.supply/vtg-rail-uk-sale-to-uss-would-put-wagon-leasing-into-pension-hands/",
+   "source": "railway.supply",
+   "published": "2026-09-14",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "VTG Rail UK sale to USS would put wagon leasing into pension hands In the United Kingdom, VTG signed an agreement for the VTG Rail UK sale to USS, a transaction covering roughly 4,500 freight vehicles and expected to close in Q4 2026. VTG announced the transaction on 11 September 2026. It also confirmed that the deal requires no regulatory approvals. Marc Hurn will continue as chief executive after completion. Until then, the company remains part of VTG Group. The published announcements did not disclose the transaction value. What USS is buying Companies House records show an incorporation date of 1 July 2002. The registry lists two activities: freight rail transport, plus renting and leasing. The company’s fleet page groups the wagon examples shown into three main families. Tank wagons carry chemicals, powders and mineral oil. Standard wagons take steel, aggregates and building materials. Intermodal equipment such as Ecofret, Megafret and pocket wagons handles containers and semitrai"
   },
   {
    "title": "Swiss wagon safety regulations overturned",
@@ -1164,13 +1166,13 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Netzwerkbahn Sachsen runs three Traxx Universal last-mile locomotives",
    "url": "https://www.railway.supply/netzwerkbahn-sachsen-runs-three-traxx-universal-last-mile-locomotives/",
-   "source": "Railway Supply",
+   "source": "railway.supply",
    "published": "2026-09-14",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1196,7 +1198,7 @@
   {
    "title": "ÖBB Digital Automatic Coupling demonstration points to pioneer trains",
    "url": "https://www.railway.supply/obb-digital-automatic-coupling-demonstration-points-to-pioneer-trains/",
-   "source": "Railway Supply",
+   "source": "railway.supply",
    "published": "2026-09-14",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1302,7 +1304,7 @@
   {
    "title": "Midtjyske Jernbaner assists DSB in taking over ex-GoCollective route in western Denmark",
    "url": "https://www.railwaygazette.com/denmark/2026/09/14/midtjyske-jernbaner-assists-dsb-in-taking-over-ex-gocollective-route-in-western-denmark/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-14",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1310,13 +1312,13 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "A smart aid to operations and maintenance",
    "url": "https://www.railwaygazette.com/sponsored-content/2026/09/14/a-smart-aid-to-operations-and-maintenance/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-14",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1394,6 +1396,20 @@
    "first_seen": "2026-09-16"
   },
   {
+   "title": "Semiquincentennial at Spencer",
+   "url": "https://www.railwayage.com/mechanical/locomotives/semiquincentennial-at-spencer/",
+   "source": "Railway Age",
+   "published": "2026-09-13",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
+  },
+  {
    "title": "Flooding shuts down Northeast Corridor in Connecticut",
    "url": "https://www.trains.com/pro/passenger/flooding-shuts-down-northeast-corridor-in-connecticut/",
    "source": "trains.com",
@@ -1409,7 +1425,7 @@
   {
    "title": "Storm blows over BNSF train near Washburn, damages railroad tracks",
    "url": "https://www.newschannel10.com/2026/09/13/storm-blows-over-bnsf-train-near-washburn-damages-railroad-tracks/",
-   "source": "KFDA | NewsChannel 10 | Amarillo Texas",
+   "source": "newschannel10.com",
    "published": "2026-09-13",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -1422,7 +1438,7 @@
   {
    "title": "MOL names world’s first LNG carrier with Wind Challenger sails",
    "url": "https://container-news.com/mol-names-worlds-first-lng-carrier-with-wind-challenger-sails/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-13",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1443,27 +1459,13 @@
     "railcar_leasing",
     "rail_industry"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Today, CSX Transportation and Norfolk Southern Railway resumed normal freight operations in New York City, Boston and Washington, a day after operations were suspended due to terrorist attacks on the World Trade Center and Pentagon. However, NS officials decided to suspend operations in the North Jersey Shared Asset Area for another day and CSXT's New York/New Jersey Port Authority terminal at Dockside will remain closed. NS and CSXT officials warned customers to expect delays in New York, Boston and Washington due to congestion caused by the restricted operations. On Sept. 11, both Class Is reduced speeds throughout the remainder of their eastern networks, but railroad officials now expect all traffic to run at normal velocity. Meanwhile, CSXT's 17 TRANSFLO facilities — including terminals in Boston, Elizabeth, N.J., Philadelphia, Wilmington, Del., and Baltimore — reopened Sept. 12 after closing following the attacks. Although the East Coast terrorism mostly affected the two eastern C"
-  },
-  {
-   "title": "CN, BNSF Filings ID Conditions for ‘Preserving Rail Competition’",
-   "url": "https://www.railwayage.com/regulatory/cn-bnsf-filings-id-conditions-for-preserving-rail-competition/",
-   "source": "Railway Age",
-   "published": "2026-09-12",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
+   "excerpt": "Today, CSX Transportation and Norfolk Southern Railway resumed normal freight operations in New York City, Boston and Washington, a day after operations were suspended due to terrorist attacks on the World Trade Center and Pentagon. However, NS officials decided to suspend operations in the North Jersey Shared Asset Area for another day and CSXT's New York/New Jersey Port Authority terminal at Dockside will remain closed. NS and CSXT officials warned customers to expect delays in New York, Boston and Washington due to congestion caused by the restricted operations. On Sept. 11, both Class Is reduced speeds throughout the remainder of their eastern networks, but railroad officials now expect all traffic to run at normal velocity. Meanwhile, CSXT's 17 TRANSFLO facilities — including terminals in Boston, Elizabeth, N.J., Philadelphia, Wilmington, Del., and Baltimore — reopened Sept. 12 after closing following the attacks. Although the East Coast terrorism mostly affected the two eastern C",
    "first_seen": "2026-09-16"
   },
   {
    "title": "Svitzer orders six more TRAnsverse tugs from Cheoy Lee Shipyards",
    "url": "https://container-news.com/svitzer-orders-six-more-transverse-tugs-from-cheoy-lee-shiyards/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-12",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1489,7 +1491,7 @@
   {
    "title": "Skills: Understanding the train driver shortage",
    "url": "https://www.railwaygazette.com/research-training-skills/2026/09/12/skills-understanding-the-train-driver-shortage/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-12",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1502,7 +1504,7 @@
   {
    "title": "AITX announces leadership changes to three C-Suite positions",
    "url": "https://transportationtodaynews.com/news/38698-aitx-announces-leadership-changes-to-three-c-suite-positions/",
-   "source": "Transportation Today",
+   "source": "transportationtodaynews.com",
    "published": "2026-09-11",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -1525,20 +1527,6 @@
     "rail_industry"
    ],
    "excerpt": "",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Rail News - CN files requested conditions in UP-NS merger. For Railroad Career Professionals",
-   "url": "https://www.progressiverailroading.com/class_is/news/CN-files-requested-conditions-in-UP-NS-merger--77735",
-   "source": "Progressive Railroading",
-   "published": "2026-09-11",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "railcar_leasing",
-    "rail_industry"
-   ],
-   "excerpt": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 9/11/2026 CN on Sept. 9 filed with the Surface Transportation Board (STB) a description of the anticipated conditions it plans to seek in connection with the proposed Union Pacific Railroad-Norfolk Southern Railway merger. The filing builds on the binding memorandum of understanding CN and UP announced in July, which established a framework for CN to secure access to new locations and customers as a remedy for competitive harms of the proposed $85 billion transaction, CN officials said in a press release. \"The conditions we are proposing would preserve competitive access in key Midwest markets, expand CN’s reach and create additional opportunities to grow with our customers,\" said Olivier Chouc, CN senior vice president and chief legal officer. CN's proposed conditions would preserve competitive rail access for shippers in central and southern Illinois, including Hillsboro and Carlinville, Bloomington, Mt. Vernon, Granite City, Momence, Federal, Alton and Danville, as well as Des Moines, Iowa, where the proposed transaction would reduce Class I rail options from two to one. CN also would gain access to shippers in Des Moines and Avon, Iowa, where the merger would reduce Class I rail options from three to two. Under CN's proposed conditions, the railroad would gain new rights between Ka",
    "first_seen": "2026-09-16"
   },
   {
@@ -1568,17 +1556,17 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Rail News - LA Port posts record summer cargo movement. For Railroad Career Professionals",
-   "url": "https://www.progressiverailroading.com/intermodal/news/LA-Port-posts-record-summer-cargo-movement--77734",
-   "source": "Progressive Railroading",
+   "title": "Union Pacific opens cross-border coal export route via Mexico’s Port of Guaymas",
+   "url": "https://www.trains.com/pro/freight/class-i/union-pacific-opens-cross-border-coal-export-route-via-mexicos-port-of-guaymas/",
+   "source": "trains.com",
    "published": "2026-09-11",
    "category_hint": "rail_industry",
    "feed": "gnews",
    "category_hints": [
     "rail_industry"
    ],
-   "excerpt": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 9/11/2026 The Port of Los Angeles processed 955,907 20-foot equivalent units (TEUs) in August, capping the busiest three consecutive months in the port’s history. More than 2.9 million TEUs moved across port docks throughout June, July and August. August volume was 6% above the port’s five-year average for the month and on par with last year. Volume was driven by resilient consumer demand, early holiday shipments and a broad mix of cargo, port officials said. “We’ve got good momentum heading into the final months of the year,” said Port Executive Director Gene Seroka. “September is shaping up to be another strong month, and Los Angeles is well positioned to respond as global trade patterns continue to evolve.” Loaded imports for the month reached 500,302 TEUs, nearly even with last year and 7% above the five-year August average. Loaded exports totaled 115,561 TEUs, down 9% compared with last August. Empty containers totaled 340,044 TEUs, up 4%. During the first eight months of 2026, the port handled just over 7 million TEUs, 1.5% above the same period last year. Pacific Harbor Line serves the Ports of Long Beach and Los Angeles and connects the ports to the national rail network.",
-   "first_seen": "2026-09-16"
+   "first_seen": "2026-09-16",
+   "excerpt": "OMAHA, Neb. — Union Pacific Railroad has completed test shipments of Wyoming Powder River Basin coal through the Port of Guaymas in Sonora, Mexico, establishing a new cross-border export route to Asia. Originating at Peabody’s North Antelope Rochelle Mine, the coal was hauled by UP to the interchange with Ferromex in Nogales, Ariz. From there, shipments traveled to the Port of Guaymas to be loaded onto a fleet of vessels, with the first shipload headed to Vietnam. The initiative reflects efforts to identify additional export capacity as U.S. West Coast terminals face persistent challenges. Efforts to export Powder River Basin coal through these ports have consistently met opposition from environmentalists, leaving producers with limited options for reaching international buyers. The only other current option is through British Columbia via BNSF Railway. “This effort shows how Union Pacific can connect U.S. production to global markets through a cross-border supply chain,” Kelli Sweet, "
   },
   {
    "title": "150th anniversary of SF–LA rail connection celebrated",
@@ -1607,22 +1595,9 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "CN files proposal with STB regarding UP-NS merger",
-   "url": "https://www.world-grain.com/articles/23204-cn-files-proposal-with-stb-regarding-up-ns-merger",
-   "source": "World Grain",
-   "published": "2026-09-11",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "MONTREAL, QUEBEC, CANADA — Canadian National Railway Co. (CN) on Sept. 10 filed with the US Surface Transportation Board (STB) a description of the anticipated conditions it plans to seek in connection with the proposed Union Pacific (UP) and Norfolk Southern (NS) merger. The filing builds on the binding memorandum of understanding announced by CN and UP in July, which established a framework for CN to secure access to new locations and customers as a remedy for competitive harms of the proposed transaction. The conditions are designed to preserve meaningful rail competition and customer choice while expanding access to CN’s network and service in key US Midwest markets. “Competition matters because it supports better service, stronger customer options and incentivizes investment,” said Olivier Chouc, senior vice president and chief legal officer, CN. “The conditions we are proposing would preserve competitive access in key Midwest markets, expand CN’s reach and create additional oppor",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "CN Wants Strings Attached To The UP-NS Rail Deal",
    "url": "https://finimize.com/content/cn-wants-strings-attached-to-the-up-ns-rail-deal",
-   "source": "Finimize",
+   "source": "finimize.com",
    "published": "2026-09-11",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -1646,9 +1621,22 @@
    "first_seen": "2026-09-16"
   },
   {
+   "title": "CN files proposal with STB regarding UP-NS merger",
+   "url": "https://www.world-grain.com/articles/23204-cn-files-proposal-with-stb-regarding-up-ns-merger",
+   "source": "World Grain",
+   "published": "2026-09-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "excerpt": "MONTREAL, QUEBEC, CANADA — Canadian National Railway Co. (CN) on Sept. 10 filed with the US Surface Transportation Board (STB) a description of the anticipated conditions it plans to seek in connection with the proposed Union Pacific (UP) and Norfolk Southern (NS) merger. The filing builds on the binding memorandum of understanding announced by CN and UP in July, which established a framework for CN to secure access to new locations and customers as a remedy for competitive harms of the proposed transaction. The conditions are designed to preserve meaningful rail competition and customer choice while expanding access to CN’s network and service in key US Midwest markets. “Competition matters because it supports better service, stronger customer options and incentivizes investment,” said Olivier Chouc, senior vice president and chief legal officer, CN. “The conditions we are proposing would preserve competitive access in key Midwest markets, expand CN’s reach and create additional oppor",
+   "first_seen": "2026-09-16"
+  },
+  {
    "title": "Norfolk Southern Railroad Crossings to Close for Repairs",
    "url": "https://www.taylorvilledailynews.com/norfolk-southern-railroad-crossings-to-close-for-repairs/",
-   "source": "Taylorville Daily News",
+   "source": "taylorvilledailynews.com",
    "published": "2026-09-11",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -1688,7 +1676,7 @@
   {
    "title": "K Line names new LNG carrier Toho Emerald",
    "url": "https://container-news.com/k-line-names-new-lng-carrier-toho-emerald/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-11",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1701,7 +1689,7 @@
   {
    "title": "Emirates SkyCargo strengthens capacity and connectivity to India",
    "url": "https://container-news.com/emirates-skycargo-strengthens-capacity-and-connectivity-to-india/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-11",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1710,6 +1698,32 @@
    ],
    "excerpt": "Emirates SkyCargo is reinforcing its role in supporting India’s export ambitions, operating more than 3,000 tonnes of weekly air cargo capacity across nine gateways and connecting Indian businesses, manufacturers and exporters to markets across the Middle East, Europe, the Americas, Africa and beyond. India handles an estimated 2.2 million tonnes of international air cargo annually, and Emirates SkyCargo plays a significant role within this ecosystem. During fiscal year 2025/26, Emirates SkyCargo transported over 153,000 tonnes of Indian exports, spanning pharmaceuticals, perishables, high-tech electronics, engineering and automotive components and fashion goods. On a weekly basis, the carrier transports more than 650 tonnes of pharmaceuticals and over 600 tonnes of fresh food and perishables from India via Dubai to global destinations. Seasonal exports included close to 2,900 tonnes of Indian mangoes transported to global customers between April and June 2026. Beyond its online gatewa",
    "first_seen": "2026-09-16"
+  },
+  {
+   "title": "USS to acquire VTG Rail UK fleet in infrastructure deal",
+   "url": "https://realassets.ipe.com/news/uss-to-acquire-vtg-rail-uk-fleet-in-infrastructure-deal/10138426.article",
+   "source": "IPE Real Assets",
+   "published": "2026-09-11",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "European wagon lessor VTG is selling its UK rail wagon hire business, VTG Rail UK, to the Universities Superannuation Scheme (USS) for an undisclosed sum. The transaction follows an evaluation process initiated by VTG earlier this year to assess strategic options for its UK business. VTG Rail UK operates the country’s largest private wagon and tank container fleet, comprising approximately 4,500 wagons. Alberto Nobis, CEO of VTG, said: “Under our ownership, VTG Rail UK has developed into the leading lessor of rail freight wagons in a major European rail freight market. “This achievement reflects the commitment of our UK management team and employees, their strong customer relationships and their consistent focus on innovation.” Mani Herold, CFO of VTG, said: “Following a comprehensive process, we are pleased to have reached an agreement with USS that recognises the quality of the VTG Rail UK platform and its future potential, while allowing us to further focus our capital and managemen"
+  },
+  {
+   "title": "VTG signed definitive agreement to sell VTG Rail U Universities Superannuation Scheme",
+   "url": "https://www.ajot.com/news/vtg-signed-definitive-agreement-to-sell-vtg-rail-u-universities-superannuation-scheme",
+   "source": "American Journal of Transportation",
+   "published": "2026-09-11",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "VTG GmbH (VTG) announces that it has entered into a binding purchase and sale agreement for the sale of all shares in VTG Rail UK Ltd. (VTG Rail UK) to the Universities Superannuation Scheme (USS), one of the largest pension funds in Great Britain. VTG Rail UK is an established, high-performing wagon leasing business serving the British rail freight market. Over the past four years, the company has experienced significant growth and built a strong track record through customer-focused innovation. VTG Rail UK operates with a high degree of autonomy as a separate company within the VTG Group, led by an experienced local management team. With assets of approximately £84.0 billion, USS is one of the UK's largest pension schemes and has a strong track record of long-term investments in British companies. Under USS ownership, VTG Rail UK will continue to invest in expanding its fleet and building on its strong customer base, while maintaining its focus on operational excellence, innovation, "
   },
   {
    "title": "VTG to sell UK wagon leasing business to university pension scheme",
@@ -1726,9 +1740,9 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "USS acquires VTG Rail UK - Multimodal",
-   "url": "https://www.multimodal.org.uk/article/uss-acquires-vtg-rail-uk",
-   "source": "NEC Birmingham",
+   "title": "VTG GmbH signs definitive agreement to sell VTG Rail UK to the Universities Superannuation Scheme",
+   "url": "https://news.railbusinessdaily.com/vtg-gmbh-signs-definitive-agreement-to-sell-vtg-rail-uk-to-the-universities-superannuation-scheme/",
+   "source": "Rail Business Daily",
    "published": "2026-09-11",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1736,7 +1750,7 @@
     "eu_railcar_leasing"
    ],
    "first_seen": "2026-09-16",
-   "excerpt": "VTG has announced that it has entered into a definitive sale and purchase agreement to sell all shares in VTG Rail UK Ltd. to the Universities Superannuation Scheme (USS), one the UK’s largest pension funds. VTG Rail UK is a well-established, high-performing wagon leasing business serving the UK rail freight market. Over the past four years, the company has shown substantial growth and built a strong track record of customer-focused innovation. VTG Rail UK operates with a high degree of autonomy as a stand-alone business within the VTG Group under the leadership of an experienced local management team. Earlier this year, VTG commenced a process to evaluate options for VTG Rail UK and assess opportunities to maximise value for VTG. Following a comprehensive and competitive process, VTG concluded that the transaction with USS represents an attractive outcome for the VTG Group and its stakeholders. USS is one of the largest pension schemes in the UK with assets of around £84 billion, with"
+   "excerpt": "VTG has announced that it has entered into a definitive sale and purchase agreement to sell all shares in VTG Rail UK Ltd. to the Universities Superannuation Scheme (USS), one the UK’s largest pension funds. VTG Rail UK is a high-performing wagon leasing business serving the UK rail freight market. Over the past four years, the company has shown substantial growth and built a strong track record of customer-focused innovation. Earlier this year, VTG commenced a process to evaluate options for VTG Rail UK and assess opportunities to maximise value for VTG. Following a comprehensive and competitive process, VTG concluded that the transaction with USS represents an attractive outcome for the VTG Group and its stakeholders. USS is one of the largest pension schemes in the UK with assets of around £84 billion*, with a strong track record of investing its long-term, patient capital into UK businesses. A statement announcing the sale, says that under USS’s ownership, VTG Rail UK will continue"
   },
   {
    "title": "Europe’s rail associations push back on Capacity Regulation penalty rules",
@@ -1780,7 +1794,7 @@
   {
    "title": "Wake up to the latest night train concepts at InnoTrans 2026",
    "url": "https://www.railwaygazette.com/night-trains/2026/09/11/wake-up-to-the-latest-night-train-concepts-at-innotrans-2026/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-11",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1793,7 +1807,7 @@
   {
    "title": "Alstom awarded £1bn UK battery-electric train contract",
    "url": "https://www.railwaygazette.com/transpennine-express/2026/09/11/alstom-awarded-1bn-transpennine-express-battery-electric-train-order-to-bring-faster-more-reliable-journeys-to-the-north/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-11",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -1948,20 +1962,6 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Port of LA Marks Third Consecutive Month of ‘Strong’ Cargo Volume",
-   "url": "https://www.railwayage.com/intermodal/port-of-la-marks-third-consecutive-month-of-strong-cargo-volume/",
-   "source": "Railway Age",
-   "published": "2026-09-10",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "At the Terminal Railroad Association of St. Louis, a capacity upgrade is a catalyst for growth",
    "url": "https://www.progressiverailroading.com/RailPrime/Details/Atthe-Terminal-Railroad-Association-of-St-Louis-a-capacity-upgradeis-a-catalyst-for-growth--77725",
    "source": "Progressive Railroading",
@@ -1999,6 +1999,19 @@
    ],
    "excerpt": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. 9/10/2026 The Federal Transit Administration (FTA) has awarded $20 million in grant funds to the Greater Cleveland Regional Transit Authority (GCRTA) to rehab seven stations along the light-rail Green Line and make them accessible to people with disabilities. The work will be performed at the Belvoir, Courtland, Coventry, Eaton, South Park, Southington (Green Line) and West Green stations. Upgrades will include new concrete platforms with tactile warning panels, redesigned ramps, new sidewalks, elevated platform sections and improved parking stalls with curb ramps. “This award represents a major milestone for GCRTA and Greater Cleveland. Once this work is complete, every rail station in our system will be ADA accessible,” said India Birdsong Terry, GCRTA's general manager and CEO. Each station’s reconstruction will also make the platforms compatible with GCRTA’s new rail cars, which are schedu",
    "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Canadian National Railway Submits Proposed Conditions to U.S. Surface Transportation Board to Safeguard Midwest Rail Competition Amid Union Pacific-Norfolk Southern Merger",
+   "url": "https://kalkinemedia.com/ca/news/announcements/canadian-national-railway-submits-proposed-conditions-to-us-surface-transportation-board-to-safeguard-midwest-rail-competition-amid-union-pacific-norfolk-southern-merger",
+   "source": "Kalkine Media",
+   "published": "2026-09-10",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "Canadian National Railway Company (TSX: CNR | NYSE: CNI) has submitted a detailed proposal of conditions to the U.S. Surface Transportation Board (STB) regarding the planned merger between Union Pacific and Norfolk Southern. Filed on September 10, 2026, the proposal outlines CN’s strategy to maintain competitive rail alternatives for shippers throughout critical Midwest markets. This filing builds upon a binding memorandum of understanding announced in July between CN and Union Pacific and could significantly expand CN’s network reach if the STB grants approval. Key Points - Canadian National Railway Company (TSX: CNR | NYSE: CNI) has filed proposed conditions with the U.S. Surface Transportation Board concerning the Union Pacific–Norfolk Southern merger. - CN’s conditions aim to preserve competitive rail access for shippers in Illinois, Iowa, Kansas City, and St. Louis, where Class I rail options would otherwise diminish. - The filing follows a binding memorandum of understanding betw"
   },
   {
    "title": "Sidewalk closure for new track columns from S. Wentworth from W. 114th St. to the Union Pacific Railroad",
@@ -2042,7 +2055,7 @@
   {
    "title": "CMA CGM introduces PSS of up to US$10,000 on Asia-US trades",
    "url": "https://container-news.com/cma-cgm-introduces-pss-of-up-to-us10000-on-asia-us-trades/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-10",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -2055,7 +2068,7 @@
   {
    "title": "US Maritime Regulator visits Colombo Port to discuss the Future of Global Shipping",
    "url": "https://indiashippingnews.com/foreign-ports/us-maritime-regulator-visits-colombo-port-to-discuss-the-future-of-global-shipping/",
-   "source": "indiashippingnews.com",
+   "source": "India Shipping News",
    "published": "2026-09-10",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -2064,19 +2077,6 @@
    ],
    "excerpt": "Discussions focus on Colombo’s future, regional port development, shipping connectivity and the resilience of global supply chains COLOMBO: A delegation led by Chairperson Laura DiBella and Commissioner Robert J. Harvey of the United States Federal Maritime Commission (FMC) visited the Port of Colombo this morning for discussions with the Chairman and senior management of the Sri Lanka Ports Authority (SLPA) on port operations, services, capacity development, and ongoing and future development initiatives. The meeting provided an opportunity for both sides to exchange views on developments in international shipping, the evolving role of regional ports, and the importance of strengthening maritime connectivity and supply-chain resilience. Speaking about regional port development, the Chairman of the SLPA noted that the development of ports across the region ultimately supports broader regional trade while enhancing the resilience and flexibility of global supply chains. In this context,",
    "first_seen": "2026-09-16"
-  },
-  {
-   "title": "One vision — next generation rail: What TAS group is bringing to Europe",
-   "url": "https://railmarket.com/news/business/62852-one-vision-next-generation-rail-what-tas-group-is-bringing-to-europe?region=na",
-   "source": "RAILMARKET.com",
-   "published": "2026-09-10",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "At InnoTrans 2026 in Berlin, TAS Group will present two new wagons, one customer project and a Y25 bogie manufactured by TAS Dniprovagonmash. But the three exhibits are only the visible part of a broader transformation of the Group’s railway business. “One Vision — Next Generation Rail” is the message behind TAS Group’s presence in Berlin. Behind the slogan is an industrial ambition: to bring together manufacturing, engineering, component production and logistics capabilities around one strategy and build a more integrated railway business for customers in Ukraine and Europe. One vision: an integrated railway business TAS Group is currently integrating its railway assets with the objective of creating a new industrial holding. The planned structure will bring together TransAnt, TAS Dniprovagonmash, TAS Poltavvagon, Steel Works TAS, Caravan Trade Cargo, TAS Logistics and other relevant assets. Within this integrated model, TransAnt provides the Group’s product and commercial interface w"
   },
   {
    "title": "Combined Transport Directive: back on the agenda, but where are we headed now?",
@@ -2094,7 +2094,7 @@
   {
    "title": "InnoTrans 2026 rolling stock line up includes 113 vehicles from 17 countries",
    "url": "https://www.railwaygazette.com/innotrans/2026/09/10/innotrans-2026-rolling-stock-line-up-includes-113-vehicles-from-17-countries/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-10",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -2102,8 +2102,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "EIG nearly doubles infrastructure debt fund to $1.9bn, total raised for latest series tops $4bn",
@@ -2145,19 +2145,6 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Why hybrid lending is gaining ground in the mid-market",
-   "url": "https://www.privatedebtinvestor.com/why-hybrid-lending-is-gaining-ground-in-the-mid-market/",
-   "source": "pei-privatecredit.com",
-   "published": "2026-09-10",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "Why hybrid lending is gaining ground in the mid-market Asset-based lending and term lending are coming together to meet challenges for a wide range of companies under pressure, argues Richard Gumbrecht. Asset-based lending and term lending are coming together to meet challenges for a wide range of companies under pressure, argues Richard Gumbrecht.",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "Expansion of private credit into retail investment market impacting institutional investors: expert",
    "url": "https://www.benefitscanada.com/canadian-investment-review/alts/expansion-of-private-credit-into-retail-investment-market-impacting-institutional-investors-expert/",
    "source": "Benefits Canada.com",
@@ -2168,6 +2155,19 @@
     "alt_investment"
    ],
    "excerpt": "Institutional investors are facing the expansion of private credit as an asset class increasingly available to a segment of the retail investment community, according to a new report by the CFA Institute Research & Policy Center. “The market has grown significantly — [approximately] tenfold between 2010, when it was about US$250 billion, to more than $2.6 trillion in assets under management as of mid 2025,” says Cheryll-Ann Wilson, a finance and technology scholar and a senior affiliate with the CFA Institute. “It also started to reach a much wider investment base through like semi-liquid funds.” Market risk and regulatory complexity is evolving within private credit as it becomes more available to retail and semi-retail channels, Wilson argued in the report. Private credit is seeing this expansion through semi-liquid funds, non-traded business development companies, feeder structures, digital platforms and regulated long-term investment vehicles. Olivier Fines, head of advocacy and ca",
+   "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Why hybrid lending is gaining ground in the mid-market",
+   "url": "https://www.privatedebtinvestor.com/why-hybrid-lending-is-gaining-ground-in-the-mid-market/",
+   "source": "pei-privatecredit.com",
+   "published": "2026-09-10",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "excerpt": "Why hybrid lending is gaining ground in the mid-market Asset-based lending and term lending are coming together to meet challenges for a wide range of companies under pressure, argues Richard Gumbrecht. Asset-based lending and term lending are coming together to meet challenges for a wide range of companies under pressure, argues Richard Gumbrecht.",
    "first_seen": "2026-09-16"
   },
   {
@@ -2357,7 +2357,7 @@
   {
    "title": "Fincantieri to support transfer of two FREMM frigates to Greece",
    "url": "https://container-news.com/fincantieri-to-support-transfer-of-two-fremm-frigates-to-greece/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-09",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -2391,19 +2391,6 @@
     "eu_railcar_leasing"
    ],
    "excerpt": "Railway Industry Association takes rail supply chain into UK party conference season The Railway Industry Association (RIA) is taking its message to the UK’s autumn party conference season. The RIA has already attended the Reform UK party gathering and is slated to present at the Liberal Democrats, Labour, the Green Party and the Conservatives over this month and October. The programme is intended to give the association access to political stakeholders and industry leaders as debate continues over the future structure, investment and procurement of Britain’s railway. The Reform UK conference in Birmingham concluded at the weekend, with the Liberal Democrats next to hold their conference in Brighton from 19–22 September. RIA will also host two editions of its Big Rail Conversation, bringing together politicians, party representatives and industry leaders. The events will take place in Liverpool on 27 September at the ruling Labour Party conference and in Birmingham on 5 October at the ",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "EIG Announces Final Close of Senior Infrastructure Debt Fund VI With $4.0 Billion Raised Across Its Direct Lending Platform",
-   "url": "https://finance.yahoo.com/energy/articles/eig-announces-final-close-senior-120000090.html",
-   "source": "finance.yahoo.com",
-   "published": "2026-09-09",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "EIG Announces Final Close of Senior Infrastructure Debt Fund VI With $4.0 Billion Raised Across Its Direct Lending Platform Platform exceeds original $3 billion fundraising target, reflecting broad institutional demand for infrastructure credit WASHINGTON, September 09, 2026--(BUSINESS WIRE)--EIG, a leading institutional investor in the global energy and infrastructure sectors, today announced the final close of EIG Senior Infrastructure Debt Fund VI (\"SIDF VI\") at $1.9 billion, nearly double the size of its predecessor fund. Together with $2.1 billion committed to single investor vehicles, this exceeds the strategy's original $3 billion target and reflects strong demand from investors seeking customized and evergreen exposure to senior infrastructure debt. Since launching in July 2024, SIDF VI has already committed approximately $1 billion across 16 investments, reflecting strong proprietary origination capabilities. SIDF VI seeks to make directly originated, senior secured debt inves",
    "first_seen": "2026-09-16"
   },
   {
@@ -2485,6 +2472,19 @@
    ],
    "excerpt": "9 September 2026 – Tether, the largest company in the digital asset industry, and Fasanara Capital, a leading specialist asset manager in technology-enabled private credit, today announced the launch of StableFund, a Tether-Fasanara Lending Fund. The jointly sponsored evergreen private credit vehicle is anchored by $400 million in co-investment across both sponsors and targets up to $3 billion in third-party institutional capital. The launch comes as private credit has grown into an approximately $3 trillion global market and is projected to reach $5 trillion by 2029, reflecting increasing demand for alternative sources of financing and institutional exposure to real-economy lending opportunities. The fund is designed to direct institutional capital toward small and medium-sized businesses, which face a global financing gap estimated at $5.7 trillion. Fasanara will serve as Investment Manager, deploying capital through its global fintech lending network into short-duration, asset-backe",
    "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Texas Teachers assign $798m across six funds",
+   "url": "https://www.alternativeswatch.com/2026/09/09/texas-teachers-798-million-private-markets/",
+   "source": "Alternatives Watch",
+   "published": "2026-09-09",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "The Teacher Retirement System of Texas added real estate, private equity, and energy and infrastructure funds totaling another $798 million in fresh capital commitments in August. Get the Whole Story AW Monthly $39 / Month • Instantly unlock all new and archived articles • Access to AW Research articles & data • Daily, weekly and monthly e-mail newsletters AW Annual $390 / Year • Everything in Monthly at a 20% discount • Access to AW Research data downloads and annual Manager/Investor Compendiums • Discounts on advertisement rates"
   },
   {
    "title": "Antin launches continuation vehicle for Norwegian aquaculture firm",
@@ -2617,8 +2617,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Class I Briefs: NS, BNSF",
@@ -2631,8 +2631,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "If This Railroad Merger Isn’t Approved, It Hurts America",
@@ -2690,7 +2690,7 @@
   {
    "title": "Germany opens €36m digital automatic coupler funding call",
    "url": "https://www.railwaygazette.com/digital-automatic-coupler/2026/09/08/germany-opens-e36m-funding-call-for-dac-freight-trains/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-08",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -2729,7 +2729,7 @@
   {
    "title": "A tale of two tenders: understanding Poland’s complex high speed fleet procurement plans",
    "url": "https://www.railwaygazette.com/poland/2026/09/08/a-tale-of-two-tenders-understanding-polands-complex-high-speed-fleet-procurement-plans/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-08",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -2768,27 +2768,14 @@
   {
    "title": "Texmaco Rail Gets Two Orders Worth ₹131.36 Crores",
    "url": "https://www.sahi.com/news/texmaco-rail-gets-two-orders-worth-131-36-crores-3620-PE1_COR",
-   "source": "sahi.com",
+   "source": "Sahi",
    "published": "2026-09-07",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Texmaco Rail Gets Two Orders Worth ₹131.36 Crores Texmaco Rail has bagged two domestic orders worth ₹131.36 crore for wagon manufacturing and supplies. While the smaller contract from TCI must be delivered within 16 weeks, the larger order from its joint venture partner Touax Texmaco is slated for completion by May 2027. Market snapshot: Texmaco Rail & Engineering Limited has secured two separate domestic orders collectively valued at ₹131.36 crore. The mandate comprises a ₹24.48 crore contract from Transport Corporation of India Limited and a ₹106.88 crore related-party contract from Touax Texmaco Railcar Leasing Private Limited. Data Snapshot - Texmaco Rail secured two domestic orders totaling ₹131.36 crore. - The order from Touax Texmaco Railcar Leasing is valued at ₹106.88 crore for the supply of 4 BFNS rakes and 4 brake vans. - The contract from Transport Corporation of India is valued at ₹24.48 crore for the supply of 1 ACT wagon rake and 1 brake van. What's Changed - The related"
-  },
-  {
-   "title": "Texmaco Rail & Engineering secures orders worth Rs 131.36 cr",
-   "url": "https://www.business-standard.com/markets/capital-market-news/texmaco-rail-engineering-secures-orders-worth-rs-131-36-cr-126090700441_1.html",
-   "source": "business-standard.com",
-   "published": "2026-09-07",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "excerpt": "Texmaco Rail & Engineering secures orders worth Rs 131.36 cr Texmaco Rail & Engineering has received two orders worth Rs 131.36 crore. The first order from Transport Corporation of India is worth Rs 24.48 crore for manufacture and supply of 1 rake of Type: ACT-1 wagon alongwith 1 BVCM wagon. The second order valued at Rs 106.88 crore is from Touax Texmaco Railcar Leasing for manufacture and supply of 4 rakes of BFNS22.9 wagons alongwith 4 BVCM wagons. This order is considered related party transaction as the company is one of the promoters of the M/s Touax Texmaco Railcar Leasing. Disclaimer: No Business Standard Journalist was involved in creation of this content More From This Section Don't miss the most important news and views of the day. Get them on our Telegram channel First Published: Sep 07 2026 | 12:16 PM IST",
+   "excerpt": "Texmaco Rail Gets Two Orders Worth ₹131.36 Crores Texmaco Rail has bagged two domestic orders worth ₹131.36 crore for wagon manufacturing and supplies. While the smaller contract from TCI must be delivered within 16 weeks, the larger order from its joint venture partner Touax Texmaco is slated for completion by May 2027. Market snapshot: Texmaco Rail & Engineering Limited has secured two separate domestic orders collectively valued at ₹131.36 crore. The mandate comprises a ₹24.48 crore contract from Transport Corporation of India Limited and a ₹106.88 crore related-party contract from Touax Texmaco Railcar Leasing Private Limited. Data Snapshot - Texmaco Rail secured two domestic orders totaling ₹131.36 crore. - The order from Touax Texmaco Railcar Leasing is valued at ₹106.88 crore for the supply of 4 BFNS rakes and 4 brake vans. - The contract from Transport Corporation of India is valued at ₹24.48 crore for the supply of 1 ACT wagon rake and 1 brake van. What's Changed - The related",
    "first_seen": "2026-09-16"
   },
   {
@@ -2807,7 +2794,7 @@
   {
    "title": "Texmaco Rail & Engineering rallies on Rs 131-crore order win",
    "url": "https://www.business-standard.com/markets/capital-market-news/texmaco-rail-engineering-rallies-on-rs-131-crore-order-win-126090700194_1.html",
-   "source": "business-standard.com",
+   "source": "Business Standard",
    "published": "2026-09-07",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -2816,19 +2803,6 @@
    ],
    "excerpt": "Texmaco Rail & Engineering rallies on Rs 131-crore order win Texmaco Rail & Engineering rose 5.07% to Rs 121.87 after the company announced orders worth a combined Rs 131.36 crore. The company received two domestic orders. Transport Corporation of India awarded a Rs 24.48-crore order for the manufacture, supply and commissioning of one rake of Type ACT-1 wagons along with one BVCM wagon. The order is to be executed within 16 weeks from the date of the letter of intent.Touax Texmaco Railcar Leasing awarded a Rs 106.88-crore order for the manufacture and supply of four rakes of BFNS22.9 wagons along with four BVCM wagons. The order is to be completed by 26 May 2027. Texmaco Rail & Engineering is one of the promoters of Touax Texmaco Railcar Leasing. The company said there is no conflict of interest and the transaction has been carried out on an arm's-length basis. Separately, the company also appointed Shibu Mathews as its chief financial officer with effect from 5 September 2026. Mathew",
    "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Cordillera Police Seize P2.37-M Illegal Drugs in Weeklong Operations, Arrest High-Value Suspects",
-   "url": "https://tribune.net.ph/2026/09/07/cordillera-police-seize-p237-m-illegal-drugs-in-one-week",
-   "source": "Daily Tribune",
-   "published": "2026-09-07",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "BAGUIO CITY — Police in the Cordillera seized more than P2.3 million worth of illegal drugs and arrested six individuals during a weeklong series of operations from 31 August to 6 September 2026. The Police Regional Office Cordillera said authorities conducted 10 anti-illegal drug operations across the region, including four marijuana eradication operations, two buy-busts, one search warrant operation, one arrest warrant service, one police response and one checkpoint operation. The operations yielded 11,350 fully grown marijuana plants, 280 marijuana seedlings and 13.17 grams of suspected shabu. Police placed the total standard drug price of the seized contraband at P2,370,756. Six suspects were arrested and are facing charges for violating Republic Act 9165, or the Comprehensive Dangerous Drugs Act of 2002. Police classified two of the suspects as high-value individuals and four as street-level individuals. The Kalinga Police Provincial Office recorded the largest share of confiscati"
   },
   {
    "title": "Hays County wins $39 million for Centerpoint Road rail overpass project",
@@ -2854,8 +2828,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "News Empties handling dispute at Mundra heats up as the boxes pile up",
@@ -2897,6 +2871,20 @@
    "first_seen": "2026-09-16"
   },
   {
+   "title": "The Netherlands seeks rail partners for military transport",
+   "url": "https://www.railfreight.com/railfreight/2026/09/07/the-netherlands-seeks-rail-partners-for-military-transport/",
+   "source": "RailFreight.com",
+   "published": "2026-09-07",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
+  },
+  {
    "title": "The Pipeline: Aberdeen's £200m fibre write-down, Hall joins Dalmore, La Caisse’s Indian towerco deal",
    "url": "https://www.infrastructureinvestor.com/the-pipeline-aberdeens-200m-fibre-write-down-hall-joins-dalmore-la-caisses-indian-towerco-deal/",
    "source": "Infrastructure Investor",
@@ -2925,7 +2913,7 @@
   {
    "title": "Singamas container sales plunge 49% in first half of 2026",
    "url": "https://container-news.com/singamas-container-sales-plunge-49-in-first-half-of-2026/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-06",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -3033,7 +3021,7 @@
   {
    "title": "KfW IPEX-Bank finances next-generation bulk carriers",
    "url": "https://container-news.com/kfw-ipex-bank-finances-next-generation-bulk-carriers/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-05",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -3046,7 +3034,7 @@
   {
    "title": "Alfa Laval launches new waste heat recovery boiler for cruise vessels",
    "url": "https://container-news.com/alfa-laval-launches-new-waste-heat-recovery-boiler-for-cruise-vessels/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-09-05",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -3097,20 +3085,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Now On Line: Railway Age September 2026 Digital Edition",
-   "url": "https://www.railwayage.com/news/now-on-line-railway-age-september-2026-digital-edition/",
-   "source": "Railway Age",
-   "published": "2026-09-04",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
   },
   {
    "title": "Rail News - APTA honors Jacobs for sustainability efforts. For Railroad Career Professionals",
@@ -3166,7 +3140,7 @@
   },
   {
    "title": "U.S. Federal Maritime Commission Chiefs To Arrive in Sri Lanka",
-   "url": "https://english.newsfirst.lk/2026/09/04/u-s-federal-maritime-commission-chiefs-to-arrive-in-sri-lanka",
+   "url": "https://www.newsfirst.lk/2026/09/04/u-s-federal-maritime-commission-chiefs-to-arrive-in-sri-lanka",
    "source": "Newsfirst",
    "published": "2026-09-04",
    "category_hint": "container_leasing",
@@ -3174,13 +3148,13 @@
    "category_hints": [
     "container_leasing"
    ],
-   "excerpt": "COLOMBO (News 1st) U.S. Federal Maritime Commission (FMC) Chairman Laura DiBella and FMC Commissioner Robert J. Harvey are scheduled to visit Sri Lanka from September 6 to 10 to advance cooperation between the United States and Sri Lanka on maritime trade, investment, and the shipping networks that connect American businesses and consumers with markets across the Indo-Pacific region. During their visit, Chairman DiBella and Commissioner Harvey are expected to hold discussions with senior Sri Lankan government officials and leaders of the maritime sector as part of efforts to strengthen collaboration in a sector that remains vital to regional and global trade. The visit will also see Chairman DiBella deliver remarks at the 8th Colombo International Maritime and Logistics Conference, while Commissioner Harvey will participate as a panelist at the event. Highlighting Sri Lanka's significance in global shipping, U.S. Ambassador to Sri Lanka Eric Meyer noted that more than 80 percent of the",
-   "first_seen": "2026-09-16"
+   "first_seen": "2026-09-16",
+   "excerpt": "COLOMBO (News 1st) U.S. Federal Maritime Commission (FMC) Chairman Laura DiBella and FMC Commissioner Robert J. Harvey are scheduled to visit Sri Lanka from September 6 to 10 to advance cooperation between the United States and Sri Lanka on maritime trade, investment, and the shipping networks that connect American businesses and consumers with markets across the Indo-Pacific region. During their visit, Chairman DiBella and Commissioner Harvey are expected to hold discussions with senior Sri Lankan government officials and leaders of the maritime sector as part of efforts to strengthen collaboration in a sector that remains vital to regional and global trade. The visit will also see Chairman DiBella deliver remarks at the 8th Colombo International Maritime and Logistics Conference, while Commissioner Harvey will participate as a panelist at the event. Highlighting Sri Lanka's significance in global shipping, U.S. Ambassador to Sri Lanka Eric Meyer noted that more than 80 percent of the"
   },
   {
    "title": "Toma Bačić",
    "url": "https://www.railwaygazette.com/author/toma-2/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-04",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3201,8 +3175,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Henry Posner, III-Control Exemption-Morristown & Erie Railway, Inc.",
@@ -3227,26 +3201,13 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Rail traffic on U.S. carriers totaled 543,212 carloads and intermodal units, up 4.1% from the same week a year ago, according to the Association of American Railroads. For the week ending August 29, commodity freight came to 240,021 carloads, better by 2.2%, while intermodal volume was 303,191 containers and trailers, ahead 5.7% y/y. Seven of 10 carload commodity group shipments tracked by AAR increased from the same week in 2025. They were led by metallic ores and metals typically used in steelmaking, 11%; petroleum and related products, 8.4%; and grain, 8.3%. Decreases were seen in chemicals, 3.8%, and motor vehicles and parts, 6%. Analysts have speculated that steel production for data center construction is likely boosting shipments of metallic ore, while uneven manufacturing output has produced off-and-on results in chemicals. Intermodal continues to benefit from the wide delta between truck and rail rates, now at around 34%, according to SONAR data. A pause in rising truck rates "
-  },
-  {
-   "title": "DOT unveils plan to turn highways, rail lines into multi‑use utility arteries",
-   "url": "https://www.freightwaves.com/news/dot-unveils-plan-to-turn-highways-rail-lines-into-multi-use-utility-arteries",
-   "source": "FreightWaves",
-   "published": "2026-09-03",
-   "category_hint": "rail_industry",
-   "feed": "rss:freightwaves.com",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "The U.S. Department of Transportation has unveiled “America’s Great Corridors of Commerce,” a federal initiative designed to convert existing highway and railroad rights‑of‑way into shared corridors for electric transmission, fiber optic cables, water pipelines and other critical utilities. The voluntary program, run through DOT’s Build America Bureau, is intended to accelerate utility deployment, cut permitting timelines and create a new revenue stream to help repair roads, bridges, tunnels and rail lines along the same corridors, according to the department. Under the initiative, state departments of transportation and railroads could lease portions of land alongside roads, tracks or in shared utility tunnels to private “corridor managers” that would oversee the design, development, operation and maintenance of the added infrastructure. Transportation Secretary Sean Duffy in an August 26 announcement said using existing transportation land instead of acquiring new private property re"
+   "excerpt": "Rail traffic on U.S. carriers totaled 543,212 carloads and intermodal units, up 4.1% from the same week a year ago, according to the Association of American Railroads. For the week ending August 29, commodity freight came to 240,021 carloads, better by 2.2%, while intermodal volume was 303,191 containers and trailers, ahead 5.7% y/y. Seven of 10 carload commodity group shipments tracked by AAR increased from the same week in 2025. They were led by metallic ores and metals typically used in steelmaking, 11%; petroleum and related products, 8.4%; and grain, 8.3%. Decreases were seen in chemicals, 3.8%, and motor vehicles and parts, 6%. Analysts have speculated that steel production for data center construction is likely boosting shipments of metallic ore, while uneven manufacturing output has produced off-and-on results in chemicals. Intermodal continues to benefit from the wide delta between truck and rail rates, now at around 34%, according to SONAR data. A pause in rising truck rates ",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Is Greenbrier Companies (GBX) Fairly Valued Following Its CEO Succession Plan?",
    "url": "https://finance.yahoo.com/markets/stocks/articles/greenbrier-companies-gbx-fairly-valued-090601861.html",
-   "source": "finance.yahoo.com",
+   "source": "Yahoo Finance",
    "published": "2026-09-03",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -3255,6 +3216,20 @@
    ],
    "excerpt": "Greenbrier Companies (GBX) is back in focus after announcing that long serving CEO and President Lorie Tekorius plans to retire in January 2027, with industry veteran Brian Comstock set to take over both roles. The leadership announcement comes after a weak stretch in Greenbrier Companies' share price, with the stock down 14.1% over the past month and 9.6% year to date. The 1-year total shareholder return has declined 4.1%, while longer-term 3- and 5-year total shareholder returns are positive, suggesting recent momentum has faded even as the longer record remains constructive. Spot potential leadership transition opportunities beyond Greenbrier Companies by scanning our hand picked 20 high quality undiscovered gems. These companies combine established operations with under the radar market interest. For Greenbrier Companies, the recent share price slide sits against a record of positive multi year shareholder returns and growing revenue and net income. Is this move saying more about s",
    "first_seen": "2026-09-16"
+  },
+  {
+   "title": "FRA Issues Safety Advisory on Restricted-Speed Compliance in PTC Territory",
+   "url": "https://www.railwayage.com/regulatory/fra-issues-safety-advisory-on-restricted-speed-compliance-in-ptc-territory/",
+   "source": "Railway Age",
+   "published": "2026-09-03",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "railcar_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
   },
   {
    "title": "‘Over 90 rail projects at risk with Germany’s new 2027 budget plan’",
@@ -3279,20 +3254,7 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "LBP AM European Private Markets expands team with two hires LBP AM European Private Markets has expanded its team as it grows internationally and in France with two appointments. The private markets manager has named Phuong Anh Nguyen as investment manager and Adrien de La Grange as senior investor relations manager. Nguyen has joined the firm’s infrastructure debt unit from BNP Paribas Asset Management, where she worked on structured financing transactions in the energy, transport, telecommunications and public services sectors. Read more: La Banque Postale to create €72bn manager in private markets push “We are delighted to welcome Phuong Anh to the team,” said Bérénice Arbona, head of infrastructure debt at LBP AM. “Her appointment reflects our ongoing efforts to develop our teams to support our growth and keep pace with developments in the infrastructure debt market.” De La Grange will work to increase the firm’s presence among institutional investors in France and Europe. He most "
-  },
-  {
-   "title": "Safety Advisory 2026-01; Restricted Speed",
-   "url": "https://www.federalregister.gov/documents/2026/09/03/2026-17996/safety-advisory-2026-01-restricted-speed",
-   "source": "Federal Register (Transportation Department, Federal Railroad Administration)",
-   "published": "2026-09-03",
-   "category_hint": "rail_industry",
-   "feed": "federalregister",
-   "excerpt": "Safety Advisory 2026-01; Restricted Speed. Transportation Department, Federal Railroad Administration. Notice. FRA is issuing Safety Advisory 2026-01 to remind railroads and their employees of the importance of compliance with Federal regulations and railroad operating rules governing restricted speed. This Safety Advisory contains a summary of seven recent train accidents involving failure to operate at restricted speed and makes recommendations to railroads to ensure employee compliance with restricted speed requirements, with particular emphasis on operations in positive train control (PTC) Restricted Mode.",
-   "category_hints": [
-    "rail_industry"
-   ],
+   "excerpt": "LBP AM European Private Markets expands team with two hires LBP AM European Private Markets has expanded its team as it grows internationally and in France with two appointments. The private markets manager has named Phuong Anh Nguyen as investment manager and Adrien de La Grange as senior investor relations manager. Nguyen has joined the firm’s infrastructure debt unit from BNP Paribas Asset Management, where she worked on structured financing transactions in the energy, transport, telecommunications and public services sectors. Read more: La Banque Postale to create €72bn manager in private markets push “We are delighted to welcome Phuong Anh to the team,” said Bérénice Arbona, head of infrastructure debt at LBP AM. “Her appointment reflects our ongoing efforts to develop our teams to support our growth and keep pace with developments in the infrastructure debt market.” De La Grange will work to increase the firm’s presence among institutional investors in France and Europe. He most ",
    "first_seen": "2026-09-16"
   },
   {
@@ -3307,19 +3269,6 @@
     "railcar_leasing"
    ],
    "excerpt": "The Greenbrier Companies will transition to new executive leadership in January, with Chief Executive and President Lorie Tekorius set to retire following the company’s 2027 annual shareholders meeting. Brian Comstock, Greenbrier’s executive vice president and president of The Americas, will immediately become president and CEO. The Lake Oswego, Ore.-based railcar manufacturer and freight-transportation services provider (NYSE: GBX) said the move is the result of the board’s long-term succession-planning process. Tekorius’ retirement will become effective Jan. 6, 2027. Tekorius has spent more than 30 years at Greenbrier, joining the company in 1995 and moving through senior financial and operating roles before becoming president and CEO in 2022. She previously served as chief operating officer and as chief financial officer. During her tenure as CEO, Greenbrier said it strengthened its commercial position, pursued operational improvements and continued to develop its railcar leasing an",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Railpool adds Duisburg site to its Lokservice",
-   "url": "https://railmarket.com/news/business/62341-railpool-brings-its-duisburg-and-hamburg-workshops-under-one-company?region=cis",
-   "source": "RAILMARKET.com",
-   "published": "2026-09-02",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "KTG operated the RAILPOOL workshop in Duisburg, while RAILPOOL Lokservice runs two workshop locations in Hamburg. Following the merger, all three sites are now part of RAILPOOL Lokservice. RAILPOOL says the new structure is intended to simplify cooperation between the workshops and clarify organisational responsibilities without changing local operations or removing the existing technical expertise at the individual sites. The current managing directors will remain in place and work as a joint management team. Christoph Engel will primarily be responsible for the two Hamburg locations, while Carsten Janneck will continue to oversee Duisburg. According to RAILPOOL COO Alexander Ketterl, the merger should make cooperation between the locations easier while preserving the experience and established structures of each workshop. For customers and other business partners, the change will have little practical effect at local level. Existing contacts at the individual workshops will remain un",
    "first_seen": "2026-09-16"
   },
   {
@@ -3351,7 +3300,7 @@
   {
    "title": "Rhein drought heightens pressure to invest in Germany’s rail freight capacity",
    "url": "https://www.railwaygazette.com/news/2026/09/02/rhein-drought-heightens-pressure-to-invest-in-germanys-rail-freight-capacity/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-02",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3364,7 +3313,7 @@
   {
    "title": "Urban rail industry news round-up",
    "url": "https://www.railwaygazette.com/news/2026/09/02/urban-rail-industry-news-round-up-20/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-02",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3377,7 +3326,7 @@
   {
    "title": "Topic: BASF",
    "url": "https://www.railwaygazette.com/tag/basf/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-02",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3390,7 +3339,7 @@
   {
    "title": "Basel transport ticket machines to be replaced",
    "url": "https://www.railwaygazette.com/ticketing/2026/09/02/basel-transport-ticket-machines-to-be-replaced/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-09-02",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3485,20 +3434,6 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "HHLA expands rail role for empty containers in Hamburg",
-   "url": "https://www.railfreight.com/intermodal/2026/09/01/hhla-expands-rail-role-for-empty-containers-in-hamburg/",
-   "source": "RailFreight.com",
-   "published": "2026-09-01",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "container_leasing",
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "HHLA expands rail role for empty containers in Hamburg HHLA is boosting the use of rail for empty containers in the port complex around Hamburg. Its subsidiary HCCR is increasing movements from its Altenwerder Damm depot to hinterland storage areas. Around 20,000 TEU were transported by rail in 2025, with volumes expected to increase further this year. HCCR stores, inspects and repairs empty containers before they are returned to shipping lines, freight forwarders and leasing companies. The company recommissioned a previously disused railway siding at the Altenwerder Damm site in 2015 and completed a comprehensive refurbishment in 2022. Since then, the volume of cargo handled by rail has increased steadily. The facility can handle block trains up to 720 metres long, carrying as many as 100 containers with a storage capacity of 12,000 TEUs. The arrangement allows shipping lines, freight forwarders and container leasing companies to consolidate large numbers of empty containers at the de",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "COSCO sees higher volumes as US$3bn newbuild programme expands its fleet",
    "url": "https://www.worldcargonews.com/news/2026/09/cosco-reports-higher-volumes-as-us3bn-newbuild-programme-expands-its-fleet/",
    "source": "WorldCargo News",
@@ -3510,6 +3445,19 @@
    ],
    "excerpt": "COSCO sees higher volumes as US$3bn newbuild programme expands its fleet COSCO SHIPPING Holdings handled 14.28m TEU in the first half of 2026, up 7.52% year-on-year. The company also reported higher revenue but lower profit. At the same time, it is continuing to expand its fleet with an order for 18 container ships. Operating revenue reached RMB111.92 billion (US$16.51 billion) in the first six months, up 2.59% from the same period last year. EBIT was RMB19.63 billion (US$2.89 billion), while net profit attributable to shareholders fell to RMB13.42 billion (US$1.98 billion). Performance improved in the second quarter. Net profit attributable to shareholders reached RMB7.54 billion (US$1.11 billion), up 28.3% from the previous quarter. Container shipping generated RMB107.30 billion (US$15.82 billion) in revenue, an increase of 2.38% year-on-year. Volumes increased across several major trades, including Asia–Europe and the transpacific, supporting overall growth in container shipping vol",
    "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Beijing Allegedly Hid Spy Equipment Aboard Commercial Ships Operating Near US",
+   "url": "https://dailycaller.com/2026/09/01/china-spy-equipment-cosco-miltary-communications-ships-us/",
+   "source": "dailycaller.com",
+   "published": "2026-09-01",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "Chinese state-owned shipping giant COSCO is allegedly using concealed equipment aboard commercial vessels to spy on military communications near the United States and other countries, U.S. officials say. The surveillance operation gives Beijing access to communications and information involving military vessels and aircraft across North America, Europe and Asia, Reuters reported, citing two anonymous senior Trump administration officials. The allegations raise new questions about the security implications of allowing a state-owned Chinese company already linked to Beijing’s military to maintain a major presence in American ports and supply chains. “This is a very serious accusation and if true should lead legislators in the United States and abroad to put in place safeguards in and around both military facilities and civilian ports,” Zack Cooper, senior fellow at the American Enterprise Institute, told the Daily Caller News Foundation. “I suspect that many in Congress would support a b"
   },
   {
    "title": "Alteo’s return to rail at Fos-sur-Mer hinges on space, not ambition",
@@ -3550,6 +3498,19 @@
    ],
    "excerpt": "",
    "first_seen": "2026-09-16"
+  },
+  {
+   "title": "Top Private Credit Firms | PEI Private Credit 200",
+   "url": "https://www.privatedebtinvestor.com/pdi-200/",
+   "source": "pei-privatecredit.com",
+   "published": "2026-09-01",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": "PEI Private Credit 200 – the largest private credit fund managers 1 September 2026 Welcome to PEI Private Credit’s annual ranking of the world’s largest private debt fundraisers. We show the top fundraisers in the industry, based on a five-year rolling total. This year’s ranking confirms the dominance of North America-headquartered fund managers when it comes to capital-raising efforts, while firms in the top 10 close in on the leader. Our annual ranking of private credit's biggest fundraisers also shows capital raising increasing overall – and rising especially fast for the largest fund managers. The PEI Private Credit BDC ranking looks at the biggest managers of business development companies in North America, with rankings for both public and private BDCs. The PEI Private Credit 200 is based on the amount of private debt investment capital raised by firms between 1 January 2021 and 31 December 2025. Where two firms have raised the same amount of capital over this period, the higher "
   },
   {
    "title": "Wired for success: Vauban on data centre investment that delivers",
@@ -3619,7 +3580,7 @@
   {
    "title": "Ulaanbaatar rail freight bypass nears completion",
    "url": "https://www.railwaygazette.com/mongolia/2026/08/31/ulaanbaatar-rail-freight-bypass-nears-completion/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-08-31",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3670,22 +3631,9 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "SAAM Towage adds new tug to Colombian fleet",
-   "url": "https://container-news.com/saam-towage-adds-new-tug-to-colombian-fleet/",
-   "source": "Container News",
-   "published": "2026-08-30",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "SAAM Towage has taken delivery of a new tugboat from Turkish shipbuilder Sanmar as part of its fleet renewal programme. The company will deploy SAAM Caribe to support LNG terminals in Colombia. SAAM Towage expects demand in this segment to increase due to Colombia’s growing energy requirements and the effects of the El Niño phenomenon. SAAM Caribe delivers 72 tonnes of bollard pull SAAM Caribe belongs to Sanmar’s Boğaçay class and is based on Robert Allan’s RAmparts 2400SX-MKII design. The tug measures 24.4 metres in length and 12 metres in width. It can reach a maximum speed of 13 knots and delivers 72 tonnes of bollard pull. “The SAAM Caribe is a versatile harbour tug with high installed power and top-of-the-line equipment that will strengthen our operations and help us continue to provide reliable and safe service to our customers,” said Pablo Cáceres, Manager of Innovation and New Construction at SAAM Towage. Tug designed for LNG operations The tug features twin Z-drive propulsion ",
-   "first_seen": "2026-09-16"
-  },
-  {
    "title": "Rail freight: Opportunities and risks in the Baltic states",
    "url": "https://www.railwaygazette.com/freight/2026/08/30/freight-opportunities-and-risks-in-the-baltic-states/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-08-30",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3698,7 +3646,7 @@
   {
    "title": "Smyril Line takes delivery of new Ro-Ro vessel Skipanes",
    "url": "https://container-news.com/smyril-line-takes-delivery-of-new-ro-ro-vessel-skipanes/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-08-29",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -3724,7 +3672,7 @@
   {
    "title": "Wärtsilä to supply 14 MW power plant for Senegal gold project",
    "url": "https://container-news.com/wartsila-to-supply-14-mw-power-plant-for-senegal-gold-project/",
-   "source": "Container News",
+   "source": "container-news.com",
    "published": "2026-08-28",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -3761,6 +3709,20 @@
    "first_seen": "2026-09-16"
   },
   {
+   "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+   "source": "Bloomberg.com",
+   "published": "2026-08-28",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-09-16",
+   "excerpt": ""
+  },
+  {
    "title": "Exclusive | Andreessen Horowitz Launches ‘Machine Age’ Fund to Tackle AI Supply Bottlenecks",
    "url": "https://www.wsj.com/finance/investing/andreessen-horowitz-hardware-fund-ai-supply-chain-887774c5",
    "source": "WSJ",
@@ -3777,7 +3739,7 @@
   {
    "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
    "url": "https://finance.yahoo.com/technology/ai/articles/andreessen-horowitz-raises-1-1-152116882.html",
-   "source": "finance.yahoo.com",
+   "source": "Yahoo Finance",
    "published": "2026-08-28",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -3799,19 +3761,6 @@
    ],
    "excerpt": "Garrington Capital, a senior secured, asset-based lender to the middle market, provided a $2 million equipment financing facility to an oil and gas service entity operating in Nevada. The facility, sized at 80% of the appraised value of the company’s equipment, will fund the purchase of additional equipment, increasing capacity to serve customer demand. The financing follows the company’s recent Reverse Vesting Order (RVO) restructuring, which transferred all assets free and clear and gave it a clean balance sheet. The facility allows the company to draw in $500,000 increments as equipment needs arise, with repayment tied into the company’s existing factoring facility with Garrington. “We already knew this group through our factoring relationship, so we understood the business and could move quickly. Structuring the term loan to draw in increments and tie into their existing facility let us match the financing to how the business actually operates,” Erica Axani, executive vice presiden",
    "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Apollo, KKR pair up on pipeline and aviation infrastructure deals",
-   "url": "https://www.alternativeswatch.com/2026/08/28/apollo-kkr-enbridge-atlantic-aviation-infrastructure-deals/",
-   "source": "Alternatives Watch",
-   "published": "2026-08-28",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Apollo and KKR unveiled a C$2.7 billion ($1.9 billion) funding package for Enbridge's Westcoast pipeline system Thursday, along with a transaction valuing Atlantic Aviation at nearly $10 billion. The deals bring two alternative asset giants together across infrastructure assets backed by long-term contracts and concessions, but the structures differ. In Canada, KKR and Apollo are […] Get the Whole Story AW Monthly $39 / Month • Instantly unlock all new and archived articles • Access to AW Research articles & data • Daily, weekly and monthly e-mail newsletters AW Annual $390 / Year • Everything in Monthly at a 20% discount • Access to AW Research data downloads and annual Manager/Investor Compendiums • Discounts on advertisement rates"
   },
   {
    "title": "Short Lines Support Agriculture Growth With Rail Infrastructure Upgrades",
@@ -3866,33 +3815,6 @@
     "container_leasing"
    ],
    "excerpt": "More disruption at Mundra Port as operators refuse to move boxes Empty-container depot owners, enraged by new regulations by Adani Ports at Mundra, have won the ... DHL: BOLT-ON DEAL DISCLOSEDDHL: BULLISH DOES IT STILLDSV: ANOTHER BAD DAY FOR SHAREHOLDERSDSV: MIND THE GAPMAERSK: NEW MULTI-YEAR HIGH DSV: THE SLIDE CONTINUESEXPD: KEEP GOINGGXO: AMAZON RELATIONSHIP ON THE RADARGXO: WITH REGARD TO AMAZON RISK GXO: AMAZON RIVALRY INSIGHTAMZN: SUCCESSFUL BOND OFFERINGFDX: AI EDGE DHL: BOLT-ON DEAL DISCLOSEDDHL: BULLISH DOES IT STILLDSV: ANOTHER BAD DAY FOR SHAREHOLDERSDSV: MIND THE GAPMAERSK: NEW MULTI-YEAR HIGH DSV: THE SLIDE CONTINUESEXPD: KEEP GOINGGXO: AMAZON RELATIONSHIP ON THE RADARGXO: WITH REGARD TO AMAZON RISK GXO: AMAZON RIVALRY INSIGHTAMZN: SUCCESSFUL BOND OFFERINGFDX: AI EDGE A controversial move by Adani Ports (APSEZ) to prevent box lines using offsite container yards is threatening to hobble supply chains at Mundra, India’s leading container gateway. In what is being portrayed ",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "The jewel in Macquarie’s crown is now its problem child",
-   "url": "https://www.afr.com/companies/infrastructure/the-jewel-in-macquarie-s-crown-is-now-its-problem-child-20260827-p60s1g",
-   "source": "AFR",
-   "published": "2026-08-27",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": "The jewel in Macquarie’s crown is now its problem child The Millionaires Factory built its reputation as an investment powerhouse in infrastructure assets, but a troubled business unit threatens to tarnish that legacy. Macquarie put its balance sheet on the line to pick up prize assets. But now cracks are starting to emerge in that strategy. Bethany Rae Macquarie Capital’s infrastructure and energy investment business was long considered a jewel in the group’s crown – a place where obscure assets were turned into billion-dollar transactions. The business helped Macquarie Group cement its reputation as one of the world’s savviest infrastructure investors, as it picked up prize assets including Sydney and Rome airports, explosives manufacturer Dyno Nobel, California-based developer Prime Data Centers, and developed Sydney’s flagship metro station in Martin Place. Joanne TranInvestment banking reporterJoanne Tran is The Australian Financial Review’s investment banking reporter. She covers"
-  },
-  {
-   "title": "Topic: Courts",
-   "url": "https://www.railfreight.com/tag/courts/",
-   "source": "RailFreight.com",
-   "published": "2026-08-26",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "",
    "first_seen": "2026-09-16"
   },
   {
@@ -3977,36 +3899,9 @@
    "first_seen": "2026-09-16"
   },
   {
-   "title": "Rosneft Deutschland will get 450 GATX tank wagons",
-   "url": "https://railmarket.com/news/rolling-stock/61861-zentralbahn-receives-first-new-stadler-fink?region=na",
-   "source": "RAILMARKET.com",
-   "published": "2026-08-24",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "GATX Rail Europe has signed a contract with Rosneft Deutschland for 450 new type 1698 tank cars, expanding an existing leasing relationship between the two companies. The wagons will be delivered in three batches, starting in September 2026. The final cars are expected to enter service by the end of the second quarter of 2027, in line with production schedules. The tank cars will be manufactured by Duro Dakovic, Tatravagonka and WSO, GATX Rail Europe’s in-house workshop in Ostróda, Poland. They will be commissioned at the PCK refinery in Schwedt, Germany. The fleet is intended mainly for gasoline, diesel and other light petroleum products. According to GATX, the cars will be used for flows from PCK, MiRO and Bayernoil to customer storage terminals in Germany and other European markets. For Rosneft Deutschland, the order increases long-term rail transport capacity for refined products. For GATX Rail Europe, the contract deepens a customer relationship that the lessor says will make Rosn",
-   "first_seen": "2026-09-16"
-  },
-  {
-   "title": "Llangennech derailment: Network Rail sues DB Cargo and Touax",
-   "url": "https://swanseabaynews.com/llangennech-six-years-on-network-rail-wants-5m-from-the-firms-behind-the-diesel-train-fire/",
-   "source": "Swansea Bay News",
-   "published": "2026-08-24",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
-  },
-  {
    "title": "Indonesian manufacturer PT Inka ships wagons to New Zealand",
    "url": "https://www.railwaygazette.com/new-zealand/2026/08/23/indonesian-manufacturer-pt-inka-ships-wagons-to-new-zealand/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-08-23",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -4020,7 +3915,7 @@
   {
    "title": "Topic: PT Inka",
    "url": "https://www.railwaygazette.com/tag/pt-inka/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-08-23",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -4103,7 +3998,7 @@
   {
    "title": "FreightCar America, Inc. to Present at Midwest IDEAS Conference",
    "url": "https://finance.yahoo.com/markets/stocks/articles/freightcar-america-inc-present-midwest-201500540.html",
-   "source": "finance.yahoo.com",
+   "source": "Yahoo Finance",
    "published": "2026-08-19",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -4150,27 +4045,13 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": "Technical inspections of freight railcars in Europe are set to become much more frequent following the accident in the Gotthard Base Tunnel in 2023. The new measures, strongly championed by Switzerland, provide for checks based on the type of wheels after approximately 50,000–300,000 km, compared with intervals that could previously be as long as 660,000 km. The serious accident that occurred three years ago in the Gotthard Base Tunnel is changing the safety regulations for European rail freight transport. The authorities and the rail industry have agreed on harmonised measures involving more frequent inspections of railcars and, in particular, their wheels, after investigations into the derailment in August 2023 revealed the risk of cracks and fractures. The measures were developed within the Joint Network Secretariat (JNS), a mechanism coordinated by the European Union Agency for Railways (ERA), specifically created to harmonise the European rail sector’s response following accidents"
-  },
-  {
-   "title": "FS Logistix expands use of HVO",
-   "url": "https://www.railfreight.com/technology/2026/08/18/fs-logistix-expands-use-of-hvo/",
-   "source": "RailFreight.com",
-   "published": "2026-08-18",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "Technical inspections of freight railcars in Europe are set to become much more frequent following the accident in the Gotthard Base Tunnel in 2023. The new measures, strongly championed by Switzerland, provide for checks based on the type of wheels after approximately 50,000–300,000 km, compared with intervals that could previously be as long as 660,000 km. The serious accident that occurred three years ago in the Gotthard Base Tunnel is changing the safety regulations for European rail freight transport. The authorities and the rail industry have agreed on harmonised measures involving more frequent inspections of railcars and, in particular, their wheels, after investigations into the derailment in August 2023 revealed the risk of cracks and fractures. The measures were developed within the Joint Network Secretariat (JNS), a mechanism coordinated by the European Union Agency for Railways (ERA), specifically created to harmonise the European rail sector’s response following accidents",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Deutsche Bahn puts DB Cargo UK up for sale as it focuses on central Europe",
    "url": "https://www.railwaygazette.com/freight/2026/08/18/deutsche-bahn-puts-db-cargo-uk-up-for-sale-as-it-focuses-on-central-europe/",
-   "source": "Railway Gazette International",
+   "source": "railwaygazette.com",
    "published": "2026-08-18",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -4178,8 +4059,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-09-16",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-09-16"
   },
   {
    "title": "Notice of Agreements Filed",
