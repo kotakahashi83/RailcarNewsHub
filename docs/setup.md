@@ -28,7 +28,7 @@ Claude Code のセッションで「routine を登録して」と依頼すると
 
 - cron: `0 10,11,17,18 * * *`（UTC。06:00 / 13:00 米国東部時間を夏時間・冬時間の両方でカバー）
 - リポジトリ: `https://github.com/kotakahashi83/RailcarNewsHub`
-- モデル: `claude-sonnet-5`
+- モデル: `claude-opus-5`
 - ツール: Bash, Read, Write, Edit, Glob, Grep, WebSearch, WebFetch
 
 登録後、一度「Run now」で通し実行し、`https://kotakahashi83.github.io/RailcarNewsHub/` が更新されることを確認してください。

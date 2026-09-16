@@ -66,5 +66,5 @@ GitHub Actions (.github/workflows/publish.yml)
 
 - 収集元（RSS・検索クエリ・対象企業のCIK）: `scripts/collect_candidates.py` の `RSS_FEEDS` / `GNEWS_QUERIES` / `EDGAR_COMPANIES`
 - カテゴリ・件数の上限・要約ルール: `docs/routine-prompt.md` を編集し、routine 本体にも反映
-- モデル: routine の `session_context.model`（既定 `claude-sonnet-5`）
+- モデル: routine の `session_context.model`（既定 `claude-opus-5`。利用枠を抑えたい場合は `claude-sonnet-5`）
 - 収集時刻: routine の cron（UTC）と、プロンプト冒頭の時刻チェック
