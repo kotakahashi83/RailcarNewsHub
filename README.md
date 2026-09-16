@@ -10,18 +10,28 @@
 ## 仕組み
 
 ```
+GitHub Actions (.github/workflows/collect-candidates.yml, 1日4回)
+  └─ scripts/collect_candidates.py
+       業界メディアRSS・Google News検索・SEC EDGAR 8-K・Federal Register から
+       発行日付きの候補記事を集め、本文抜粋を付けて data/candidates.json にコミット
 Claude Code routine (cloud, 06:00 / 13:00 ET)
-  ├─ このリポジトリを clone
-  ├─ WebSearch / WebFetch で収集・要約 → data/news.json に追記
+  ├─ このリポジトリを clone、scripts/list_candidates.py で候補を確認
+  ├─ 候補（＋補助的に WebSearch）から選別し、日本語の要点3点を作成 → data/news.json に追記
   ├─ python3 scripts/build_site.py → dist/index.html
   └─ git push origin main（拒否時は claude/news-update ブランチ）
 GitHub Actions (.github/workflows/publish.yml)
   └─ push を検知 → main を同期 → dist/ を GitHub Pages に公開
 ```
 
+収集元をAIの検索任せにせず、GitHub Actions 側で決定的に集める理由は、クラウド routine の環境では多くのニュースサイトへの直接アクセスが遮断され、検索エンジン経由だけでは貨車リース・コンテナリースのような専門分野の新着記事を取りこぼすためです。
+
 | ファイル | 役割 |
 |---|---|
-| `docs/routine-prompt.md` | routine に登録しているプロンプトの控え（カテゴリ・検索方針・要約ルールはここ） |
+| `docs/routine-prompt.md` | routine に登録しているプロンプトの控え（カテゴリ・選別方針・要約ルールはここ） |
+| `scripts/collect_candidates.py` | 候補記事の収集（RSS / Google News / EDGAR / Federal Register の一覧と検索クエリはここ） |
+| `scripts/list_candidates.py` | 候補の一覧表示（routine が最初に実行） |
+| `data/candidates.json` | 直近30日の候補記事（発行日・カテゴリ目安・本文抜粋）。Actions が自動更新 |
+| `.github/workflows/collect-candidates.yml` | 候補収集ワークフロー（UTC 03:15 / 09:15 / 16:15 / 21:15） |
 | `scripts/build_site.py` | `data/news.json` → `dist/index.html`（標準ライブラリのみ） |
 | `templates/site_template.html` | ダッシュボードのHTML/CSS/JS |
 | `data/news.json` | 収集済み記事（URLで重複排除、公開日から30日で自動削除） |
@@ -48,11 +58,13 @@ GitHub Actions (.github/workflows/publish.yml)
 ## 手動更新
 
 - routine を今すぐ動かす: https://claude.ai/code/routines で「Run now」（時間外チェックがあるので、手動実行時は「時間外でも実行」と一言添えたプロンプトで動かすか、Claude Code のセッションで `RemoteTrigger` の `run` を使う）
-- サイトだけ再公開: GitHub の Actions タブ →「Publish site」→「Run workflow」
+- 候補だけ今すぐ集め直す: Actions タブ →「Collect candidates」→「Run workflow」
+- サイトだけ再公開: Actions タブ →「Publish site」→「Run workflow」
 - ローカルで再生成: `python3 scripts/build_site.py`
 
 ## 調整できる項目
 
-- カテゴリ・検索対象・件数の上限・要約ルール: `docs/routine-prompt.md` を編集し、routine 本体にも反映
+- 収集元（RSS・検索クエリ・対象企業のCIK）: `scripts/collect_candidates.py` の `RSS_FEEDS` / `GNEWS_QUERIES` / `EDGAR_COMPANIES`
+- カテゴリ・件数の上限・要約ルール: `docs/routine-prompt.md` を編集し、routine 本体にも反映
 - モデル: routine の `session_context.model`（既定 `claude-sonnet-5`）
 - 収集時刻: routine の cron（UTC）と、プロンプト冒頭の時刻チェック

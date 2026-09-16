@@ -39,7 +39,7 @@ Claude Code アプリ側のタスク `railcar-news-collect`（PC上で実行、A
 
 ## 費用と利用枠
 
-- GitHub: public リポジトリの Actions と Pages は無料枠内（1回の公開は1分程度）。
+- GitHub: public リポジトリの Actions と Pages は無料（public リポジトリの Actions は分数制限なし）。候補収集は1回5〜15分、公開は1分程度。
 - Claude: routine の実行はお使いのプランの利用枠を消費します（追加請求はなし）。1回の収集は数分〜10分程度のセッションで、1日2回＋時間外の即終了2回です。利用枠が気になる場合はモデルを `claude-sonnet-5` のまま運用してください。
 
 ## 注意
