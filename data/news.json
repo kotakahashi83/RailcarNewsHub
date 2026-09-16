@@ -1,5 +1,33 @@
 [
   {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Carlyle inks $2.3bn for infra credit",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/15/carlyle-inks-2-3bn-for-infra-credit/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "Carlyleがインフラ向けクレジット2号ファンド（Carlyle Infrastructure Credit Fund II）の最終クローズを発表した。",
+      "調達額は約23億ドルで目標の20億ドルを上回り、前号ファンドの3倍の規模となった。",
+      "北米・欧州・アジアの機関投資家から資金を集め、エネルギー転換やデジタルインフラ、水・廃棄物処理など6件に約5億ドルを投資済み。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "GTIS rebrands as Brightshore and launches credit strategy",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/15/gtis-rebrands-as-brightshore-and-launches-credit-strategy/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "米不動産投資会社GTIS Partnersが社名をBrightshore Capitalへ変更し、新たにクレジット戦略を立ち上げた。",
+      "新プラットフォームBrightshore Creditは2億5,000万ドルをアンカー資金に、ハイイールド不動産デットやメザニン、優先出資、Bノートへ投資する。",
+      "同社の運用資産はグロスで56億ドルに上り、パートナーによる100%保有体制への移行を機にブランドを刷新した。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
+  },
+  {
     "category": "macro_indicators",
     "title": "BOJ set to raise interest rate to 1.25% next week",
     "source": "The Japan Times",
@@ -24,6 +52,20 @@
       "米欧の電力・再生可能エネルギー等、重要インフラ向け優先担保付債権に投資"
     ],
     "collected_at": "2026-09-13T14:05:00+09:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "VTG Rail UK to be sold to university pension scheme USS",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/09/11/vtg-to-sell-uk-wagon-leasing-business-to-university-pension-scheme/",
+    "published_at": "2026-09-11",
+    "summary_ja": [
+      "VTGが英子会社VTG Rail UKの全株式を英大手年金基金USS（Universities Superannuation Scheme）へ売却する最終契約を締結した。",
+      "対象は約4,500両の貨車リース事業で、運用資産約840億ポンドのUSSが取得し、2026年第4四半期の完了を見込む。",
+      "規制当局の承認は不要で、現CEOのMarc Hurnが引き続き事業を率いるなど、英国の鉄道貨物拡大方針に沿った年金マネーの実物資産投資となる。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -169,6 +211,20 @@
     "collected_at": "2026-09-14T21:26:57-07:00"
   },
   {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Germany provides EUR 36 million for DAC pioneer trains",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/09/07/germany-provides-e36-million-for-dac-pioneer-trains/",
+    "published_at": "2026-09-07",
+    "summary_ja": [
+      "ドイツ連邦交通省（BMV）が、デジタル自動連結器（DAC）を搭載する先行列車を支援する補助制度「PioDAK」を立ち上げた。",
+      "予算は2026〜2029年で3,612万ユーロ、補助率は最大80%とし、2030年までに10〜13編成のDAC改造を目指す。",
+      "第1回公募は2026年9月14〜25日に連邦物流・モビリティ庁（BALM）が受け付け、欧州で初の国家規模のDAC支援策となる。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
+  },
+  {
     "category": "rail_industry",
     "title": "102 Dems to STB: Put labor first in UP-NS rail merger review",
     "source": "FreightWaves",
@@ -206,6 +262,20 @@
       "ウェットリース・ダンプリース方式を活用し、保有機材の追加購入を待たずに輸送力を迅速に拡大"
     ],
     "collected_at": "2026-09-14T22:09:11-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Strike disrupts Mundra empty-container flows",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/09/strike-disrupts-mundra-empty-container-flows/",
+    "published_at": "2026-09-03",
+    "summary_ja": [
+      "インド最大のコンテナ拠点ムンドラ港で空コンテナヤード事業者がストに入り、コンテナの搬出入が滞っている。",
+      "1日あたり約5,000本のコンテナが滞留し、Hapag-Lloydは工場詰め用の空コンテナ手配とゲートインの停止を顧客に通知した。",
+      "発端はAdani Ports（APSEZ）が9月1日から空の輸出入コンテナを港湾SEZ内の指定ヤードに集約し、港外ヤードの指名を認めない方針へ転換したこと。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -247,6 +317,20 @@
     "collected_at": "2026-09-14T22:09:11-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB extends deadline for participation in UP-NS merger review",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/stb-extends-deadline-for-participation-in-up-ns-merger-review/",
+    "published_at": "2026-09-01",
+    "summary_ja": [
+      "STBがUP-NS合併審査への参加意思表明（notice of intent）の提出期限を9月4日から9月30日へ延長した。",
+      "首席法律顧問Anika S. Cooperが8月31日に決定し、全米都市連盟（NLC）が8月26日付書簡で要請していたもの。",
+      "NLCは鉄道沿線の地方自治体が推計1万2000に上り参加の可否を判断しきれないと主張しており、8月18日決定のその他の期限は据え置かれた。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "title": "Greenbrier Announces CEO Succession Upon Planned Retirement of Lorie Tekorius",
     "source": "Greenbrier Companies",
@@ -258,6 +342,20 @@
       "後任にはブライアン・コムストック氏（現エグゼクティブVP兼米州担当社長）が即座に就任"
     ],
     "collected_at": "2026-09-13T14:05:00+09:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAが、製造から50年を超える貨車の使用に必要だった特別承認要件を撤廃する最終規則を官報に掲載した。",
+      "規則の発効は2026年9月30日で、同日掲載の10本を含む計57本から成るFRA初の「規制緩和スプリント」の一環。",
+      "今後は事前の承認申請に代えてFRAへの届出で足りるため、老朽貨車の継続使用が容易になり、リース各社の車齢管理や退役計画に影響する。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
   },
   {
     "category": "macro_indicators",
@@ -297,6 +395,20 @@
       "既に約50%を26件の案件に投資済み"
     ],
     "collected_at": "2026-08-26T00:00:00+09:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Norfolk Southern and Wabtec expand locomotive modernization program",
+    "source": "Norfolk Southern",
+    "url": "https://www.norfolksouthern.com/en/newsroom/news-releases/norfolk-southern-and-wabtec-expand-locomotive-modernization-program",
+    "published_at": "2026-08-26",
+    "summary_ja": [
+      "Norfolk SouthernとWabtecが、DC駆動のES44DC型機関車33両を対象に近代化改造プログラムを拡大すると発表した。",
+      "AC駆動モーターと制御系・デジタル技術を搭載したES44ACMへ改造し、1両目は2026年8月に納入、残る32両は2027年にかけて引き渡す。",
+      "両社は2015年以来、北米最大級の機関車近代化で1,000両超のDC-AC改造を実施しており、粘着性能と牽引力の改善や保守費の削減を狙う。"
+    ],
+    "collected_at": "2026-09-15T21:28:55-07:00"
   },
   {
     "category": "macro_indicators",
