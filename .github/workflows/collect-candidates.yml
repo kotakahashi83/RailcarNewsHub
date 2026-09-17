@@ -7,8 +7,8 @@ name: Collect candidates
 
 on:
   schedule:
-    # ~45 min before the routine slots (10/11/17/18 UTC), plus overnight.
-    - cron: "15 3,9,16,21 * * *"
+    # ~45 min before the routine slots (13/14 and 20/21 UTC = 06:00 / 13:00 US Pacific), plus one overnight run.
+    - cron: "15 6,12,19 * * *"
   workflow_dispatch:
 
 permissions:

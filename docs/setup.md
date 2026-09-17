@@ -26,7 +26,7 @@ Web UI なら Settings → Pages → Source を「GitHub Actions」にするの�
 
 Claude Code のセッションで「routine を登録して」と依頼すると、`docs/routine-prompt.md` の内容で `railcar-wire-collect` が作成されます（手作業なら https://claude.ai/code/routines から同じ内容で作成）。
 
-- cron: `0 10,11,17,18 * * *`（UTC。06:00 / 13:00 米国東部時間を夏時間・冬時間の両方でカバー）
+- cron: `0 13,14,20,21 * * *`（UTC。06:00 / 13:00 米国太平洋時間を夏時間・冬時間の両方でカバー）
 - リポジトリ: `https://github.com/kotakahashi83/RailcarNewsHub`
 - モデル: `claude-opus-5`
 - ツール: Bash, Read, Write, Edit, Glob, Grep, WebSearch, WebFetch
@@ -44,5 +44,5 @@ Claude Code アプリ側のタスク `railcar-news-collect`（PC上で実行、A
 
 ## 注意
 
-- routine は UTC の cron で1日4回起動し、米国東部時間の06時台・13時台でない2回はプロンプト冒頭のチェックで数秒で終了します。
+- routine は UTC の cron で1日4回起動し、米国太平洋時間の06時台・13時台でない2回はプロンプト冒頭のチェックで数秒で終了します。
 - リポジトリに60日間コミットがないと GitHub はスケジュール系のワークフローを止めますが、この構成は push 起動なので影響しません。
