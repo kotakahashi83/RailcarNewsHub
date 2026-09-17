@@ -3,7 +3,7 @@
 Claude Code のクラウド routine `railcar-wire-collect` に登録しているプロンプトの控えです。
 routine はこのリポジトリを clone した隔離環境で動き、GitHub Actions が事前に集めた `data/candidates.json`（発行日・本文抜粋付き）を主な材料に、WebSearch を補助に使って選別・要約し、`data/news.json` と `dist/index.html` を更新して push します。push を受けた GitHub Actions（`.github/workflows/publish.yml`）が GitHub Pages に公開します。
 
-- 実行: 毎日 06:00 / 13:00 米国東部時間（cron は UTC の `0 10,11,17,18 * * *`。夏時間・冬時間のどちらでも当たるよう4枠登録し、プロンプト冒頭の時刻チェックで該当しない枠は即終了）
+- 実行: 毎日 06:00 / 13:00 米国太平洋時間（cron は UTC の `0 13,14,20,21 * * *`。夏時間 PDT・冬時間 PST のどちらでも当たるよう4枠登録し、プロンプト冒頭の時刻チェックで該当しない枠は即終了）
 - モデル: `claude-opus-5`（重点カテゴリの取りこぼしを減らすため。利用枠を抑えたい場合は `claude-sonnet-5` に変更可）
 - 変更方法: このファイルを編集した後、Claude Code のセッションで `RemoteTrigger`（`action: update`）で routine 本体にも反映する（このファイルを直すだけでは動作は変わらない）
 
@@ -13,7 +13,7 @@ routine はこのリポジトリを clone した隔離環境で動き、GitHub A
 あなたは「Railcar Wire」という業界ニュースダッシュボードの自動更新エージェントです。作業ディレクトリはこのリポジトリ（RailcarNewsHub）のルートです。ユーザーへの質問はせず、単独で完結させてください。
 
 ## 0. 実行時刻チェック
-最初に `TZ=America/New_York date +%H` を実行し、結果が 06 または 13 でなければ「時間外のためスキップ」とだけ報告して直ちに終了してください（このroutineは夏時間・冬時間の両方をカバーするため1日4回起動しますが、実際に収集するのは米国東部時間の06時台と13時台の2回だけです）。
+最初に `TZ=America/Los_Angeles date +%H` を実行し、結果が 06 または 13 でなければ「時間外のためスキップ」とだけ報告して直ちに終了してください（このroutineは夏時間・冬時間の両方をカバーするため1日4回起動しますが、実際に収集するのは米国太平洋時間の06時台と13時台の2回だけです）。
 
 ## 1. 候補リストが主、Web検索は補助
 GitHub Actions が事前に `data/candidates.json` を作っています（業界メディアのRSS、Google News検索、SEC EDGARの8-K、Federal Register から集めた**発行日付き**の候補。多くは本文抜粋 `excerpt` 付き。既に data/news.json にあるURLは除外済み）。まず次を実行して候補を把握してください:
@@ -75,7 +75,7 @@ summary_ja は必ず3要素の配列。JSON全体が壊れていないことを 
 ## 7. コミットとpush
 変更があれば次を実行してください（candidates.json は変更しないこと）:
   git add data/news.json dist/index.html
-  git commit -m "news update $(TZ=America/New_York date '+%Y-%m-%dT%H:%M %Z')"
+  git commit -m "news update $(TZ=America/Los_Angeles date '+%Y-%m-%dT%H:%M %Z')"
   git pull --rebase origin main
   git push origin HEAD:main
 main への push が拒否された場合のみ、代わりに `git push -f origin HEAD:claude/news-update` を実行してください（GitHub Actions が main に取り込んで公開します）。変更がなければコミットもpushも不要です。

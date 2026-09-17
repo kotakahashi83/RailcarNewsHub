@@ -2,7 +2,7 @@
 
 北米貨車リース・北米鉄道業界・海上コンテナリース・欧州貨車リース・オルタナ投資のニュースを英語ソースから自動収集し、各記事に日本語の要点3点を付けて一覧表示するダッシュボードです。貨車リースとコンテナリースは各社の決算発表・人事・規制当局のリリースも収集対象です。
 
-- 収集: 毎日 06:00 / 13:00（米国東部時間、夏時間・冬時間は自動対応）
+- 収集: 毎日 06:00 / 13:00（米国太平洋時間、夏時間・冬時間は自動対応）
 - 実行基盤: Claude Code のクラウド定期実行（routine）。お使いのClaudeプランの範囲で動き、PCの起動も追加課金も不要
 - 公開: GitHub Pages（無料）。push を受けた GitHub Actions が自動デプロイ
 - 表示: 各記事に日本語の要点3点、見出しクリックで原文へ。決算・人事・規制当局の記事にはバッジ
@@ -14,7 +14,7 @@ GitHub Actions (.github/workflows/collect-candidates.yml, 1日4回)
   └─ scripts/collect_candidates.py
        業界メディアRSS・Google News検索・SEC EDGAR 8-K・Federal Register から
        発行日付きの候補記事を集め、本文抜粋を付けて data/candidates.json にコミット
-Claude Code routine (cloud, 06:00 / 13:00 ET)
+Claude Code routine (cloud, 06:00 / 13:00 PT)
   ├─ このリポジトリを clone、scripts/list_candidates.py で候補を確認
   ├─ 候補（＋補助的に WebSearch）から選別し、日本語の要点3点を作成 → data/news.json に追記
   ├─ python3 scripts/build_site.py → dist/index.html
@@ -31,7 +31,7 @@ GitHub Actions (.github/workflows/publish.yml)
 | `scripts/collect_candidates.py` | 候補記事の収集（RSS / Google News / EDGAR / Federal Register の一覧と検索クエリはここ） |
 | `scripts/list_candidates.py` | 候補の一覧表示（routine が最初に実行） |
 | `data/candidates.json` | 直近30日の候補記事（発行日・カテゴリ目安・本文抜粋）。Actions が自動更新 |
-| `.github/workflows/collect-candidates.yml` | 候補収集ワークフロー（UTC 03:15 / 09:15 / 16:15 / 21:15） |
+| `.github/workflows/collect-candidates.yml` | 候補収集ワークフロー（UTC 06:15 / 12:15 / 19:15） |
 | `scripts/build_site.py` | `data/news.json` → `dist/index.html`（標準ライブラリのみ） |
 | `templates/site_template.html` | ダッシュボードのHTML/CSS/JS |
 | `data/news.json` | 収集済み記事（URLで重複排除、公開日から30日で自動削除） |
