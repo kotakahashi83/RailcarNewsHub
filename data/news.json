@@ -2,6 +2,146 @@
   {
     "category": "rail_industry",
     "kind": "regulatory",
+    "title": "Quarterly Rail Cost Adjustment Factor",
+    "source": "Federal Register (Surface Transportation Board)",
+    "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19184/quarterly-rail-cost-adjustment-factor",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "STBが2026年第4四半期の鉄道コスト調整係数（RCAF）とAARが提出したコスト指数を承認したと官報で公示した。",
+      "未調整RCAFは1.193、生産性調整後RCAFは0.453、5年移動平均ベースのRCAF-5は0.429で、適用開始は2026年10月1日。",
+      "RCAFは大手鉄道のコスト変動を示す指数で、運賃規制上の判断や長期輸送契約の価格改定の基準として用いられる。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Federal and state transportation agencies are behind the times in the new intermodal age, ITI's Carmichael says",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/railPrime/details/Federal-and-state-transportation-agencies-are-behind-the-times-in-the-new-intermodal-age-ITIs-Carmichael-says-9182006--77732",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "元FRA長官でデンバー大学Intermodal Transportation Institute会長のGil Carmichael氏が、米連邦・州の運輸当局はインターモーダル時代に対応できていないと批判した。",
+      "発言は9月14日にミシシッピ州上院の道路・運輸委員会で行った講演でのもの。",
+      "同氏は過去四半世紀の輸送イノベーションは民間主導で実現したとし、単一モードの施設整備に偏った計画づくりを問題視した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Midwest Maintenance Facility Renderings",
+    "source": "Amtrak Media",
+    "url": "https://media.amtrak.com/2026/09/midwest-maintenance-facility-renderings/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "Amtrakが、FRAの助成を受けて整備するミッドウェスト車両保守施設の完成イメージ図を公開した。",
+      "FRAは2026年8月に保守施設向けで最大5億7200万ドル、橋梁・高架橋の修繕向けで最大8700万ドルを交付している。",
+      "施設はシカゴのUnion Pacific所有の既存操車場に建設され、定時運行改善の目標を10年以上前倒しできるとByl Herrmann暫定社長は説明した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Transpacific spot rates top $10,000 as Asia-Europe slide accelerates",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/transpacific-spot-rates-top-10000-as-asia-europe-slide-accelerates/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "アジア発米東岸のコンテナスポット運賃が節目の1万ドルを突破したとThe Loadstarが報じた。",
+      "DrewryのWCI上海–ニューヨークは前週比7%高の40フィート当たり1万394ドルと、2022年7月以来の水準になった。",
+      "スペース確保を急ぐ荷主は指数を約1000ドル上回る1万1000ドル前後で予約しており、下落が続くアジア–欧州航路との二極化が7週連続で続いている。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "No post-peak relief for ocean freight as capacity tightens",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/no-post-peak-relief-for-ocean-freight-as-capacity-tightens/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "ピークシーズン明けに見込まれていた海上運賃の下落が起きず、需給の逼迫が続いているとの分析が示された。",
+      "CargoTransのウェビナーでは、9月の米国輸入量が約230万TEUと前年同月比約10%増になる見通しが示された。",
+      "7月末時点ではピーク通過との見方が大勢だったが、米輸入需要の底堅さ、悪天候による混乱、船社の船腹削減が重なりピークが長期化している。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "VesselBot finds wide gap between EU ETS surcharges and voyage exposure",
+    "source": "Container News",
+    "url": "https://container-news.com/vesselbot-finds-wide-gap-between-eu-ets-surcharges-and-voyage-exposure/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "VesselBotが、コンテナ船の実際の航海別CO2排出量とEU ETS関連サーチャージの間に大きな乖離があるとの分析を公表した。",
+      "2026年第2四半期のEU・EEA関連2万航海超を対象に排出量は1180万トンCO2eで、うち60%の715万トンが排出枠償却の対象、EUA価格80ユーロ換算で負担は5億7240万ユーロとなる。",
+      "対象航海の輸送量4280万TEUから平均負担は1TEU当たり13.4ユーロだが、コンテナが複数の航海区間をまたぐため個別貨物の基準にはならないと同社は注意を促した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Melbourne records second consecutive year of record container trade",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-melbourne-records-second-consecutive-year/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "メルボルン港が2026会計年度のコンテナ取扱量で2年連続の過去最高を記録したと発表した。",
+      "取扱量は352万TEUで、豪州最大のコンテナ港としての地位を維持した。",
+      "Saul Cannon CEOは消費需要に加え産業・建設関連の輸入が増えたとし、米関税政策の変更やホルムズ海峡の情勢下でも取扱が底堅かったと説明した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Knorr-Bremse wins Europe's first DAC contract",
+    "source": "Railway PRO",
+    "url": "https://www.railwaypro.com/wp/knorr-bremse-wins-europes-first-dac-contract/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "Knorr-BremseとÖBB Rail Cargo Groupが、貨車にデジタル自動連結器（DAC）を装備する欧州初の商用契約を締結した。",
+      "装備した車両はPioDACプロジェクトの一環として2028年から営業運行に投入される予定。",
+      "連結作業の自動化で列車組成時間を短縮し、鉄道貨物の競争力とEUの気候目標への貢献を狙うとKnorr-Bremse鉄道部門担当役員のNicolas Lange氏は述べた。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "personnel",
+    "title": "Rithm Capital appoints head of investor relations",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/18/rithm-capital-appoints-head-of-investor-relations/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "オルタナティブ運用会社Rithm CapitalがAnn DeVries氏をIR責任者に起用した。",
+      "同氏はIRと戦略財務で25年超の経験を持ち、直近はBanc of Californiaで戦略財務・IR責任者を務めていた。",
+      "既存・新規株主やセルサイドアナリストとの対話を統括し、統合プラットフォームの収益モデルと成長戦略を発信する役割を担う。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "personnel",
+    "title": "Constitution Capital hires WTW director to expand DC private markets push",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/18/constitution-capital-hires-wtw-director-to-expand-dc-private-markets-push/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "Constitution Capital PartnersがWTW出身のRich Schainker氏をマネージングディレクターとして採用した。",
+      "同氏は集団投資信託「Horizon」の立ち上げに続き、確定拠出年金（DC）向けのプライベート市場戦略の拡大を担当する。",
+      "WTWの年金部門でDCストラテジスト兼コンサルタントを務めたほか、Bank of America Merrill LynchやInvescoでも要職を歴任した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
     "title": "Safety Advisory 2025-02; Track Is Clear Determination During Shoving or Pushing Movements Across Highway-Rail Grade Crossings Equipped Only With Flashing Lights or Passive Warning Devices (Supplement)",
     "source": "Federal Register (FRA)",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19031/safety-advisory-2025-02-track-is-clear-determination-during-shoving-or-pushing-movements-across",
@@ -124,6 +264,76 @@
       "報告書『From Scale to Impact』は、単一資産クラスへの集中ではなくインフラや実物資産を含む幅広い分散が進むと指摘している。"
     ],
     "collected_at": "2026-09-17T13:20:55-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "ASLRRA announces 2026 President's safety award recipients",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/short_lines_regionals/news/ASLRRA-announces-2026-Presidents-safety-award-recipients--77763",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "米短距離・地域鉄道協会（ASLRRA）が2026年President's Awardの受賞鉄道を発表した。",
+      "3部門で計16社が選ばれ、選考は前年にFRAへ報告された安全データに基づく。",
+      "2026年からは会員各社の事業規模や業態の幅を反映する新しい選考基準を導入し、Chuck Baker会長は短距離貨物鉄道の安全文化を評価した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "J.B. Hunt struggles to hire drayage drivers amid intermodal boom",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/intermodal/j-b-hunt-struggles-to-hire-drayage-drivers-amid-intermodal-boom/",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "J.B. Huntの経営陣がカリフォルニア州での説明会で、インターモーダル需要が好調な一方でドレージ運転手の確保に苦戦していると述べた。",
+      "同社は年間約200万件のインターモーダル輸送を扱い、第2四半期はスポットのトラック運賃が30%上昇、インターモーダル数量は二桁増だった。",
+      "Brad Delco CFOらは鉄道のサービス品質への不満に触れず、トラック運賃の上昇が通常2四半期遅れでインターモーダル運賃に波及すると指摘した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Commissioner Dye Visits the Port of Los Angeles",
+    "source": "Federal Maritime Commission",
+    "url": "https://www.fmc.gov/ftdo/commissioner-dye-visits-the-port-of-los-angeles/",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "連邦海事委員会（FMC）のRebecca F. Dye委員が、全米最大のコンテナ貨物ゲートウェイであるロサンゼルス港を視察したとFMCが公表した。",
+      "視察は8月24日で、APM Terminals Los AngelesのJon Poelmaマネージングディレクターらの案内でPier 400を回った。",
+      "ターミナル側は取扱量増に備えた技術・インフラ投資を説明し、ネットゼロ運営への移行に要する大型設備投資についても報告した。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Nvidia Invests $2 Billion Into Brookfield's AI Fund",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-committed-2-billion-to-brookfield-ai-infrastructure-fund",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "NvidiaがBrookfield Asset ManagementのAIインフラ向けファンドに20億ドルを拠出していたことが投資家向け資料で明らかになった。",
+      "Nvidiaはクウェート投資庁（KIA）と並ぶアンカー投資家で、同ファンドは100億ドルの調達を目指している。",
+      "Brookfieldは今後2年でインフラ事業全体で約500億ドルの調達を計画しており、AI関連の実物資産に機関投資家マネーが集中している構図が続く。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "CIFC launches direct lending strategy on iCapital",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/17/cifc-launches-direct-lending-strategy-on-icapital/",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "運用資産470億ドルのオルタナティブ信用運用会社CIFC Asset Managementが、ダイレクトレンディング戦略をiCapital Marketplaceで提供開始した。",
+      "対象は売上高5000万〜5億ドルの米ロワーミドルマーケット企業向けシニア担保付き変動金利ローンで、財務コベナンツと現金金利の確保を重視する。",
+      "これまでのポートフォリオにコベナンツライト案件は含まれていないとしており、ウェルス層へのプライベートクレジット開放が一段と進んでいる。"
+    ],
+    "collected_at": "2026-09-18T06:22:12-07:00"
   },
   {
     "category": "railcar_leasing",
