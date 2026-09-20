@@ -1,5 +1,19 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Hazardous Materials: Information Collection Activities",
+    "source": "Federal Register (PHMSA)",
+    "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19276/hazardous-materials-information-collection-activities",
+    "published_at": "2026-09-21",
+    "summary_ja": [
+      "PHMSAが、危険物輸送中の事故を報告する様式DOT Form 5800.1の改訂案について意見募集を開始した。",
+      "対象はOMB承認番号2137-0039の情報収集で、データ項目の新設と既存項目の明確化に加え、項目の削除・簡素化・再編と書式レイアウトの刷新を行う。",
+      "PHMSAは提出者と当局双方の負担軽減を狙いとし、regulations.govの電子ドケットに掲載した新様式ドラフト（PDF）の確認を求めている。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Port of Helsinki reports growth through August 2026",
@@ -26,6 +40,20 @@
       "Marseille-Fos ではインフラ改良が鉄道貨物を押し上げており、同港はフランスの港湾のなかで鉄道・河川輸送の分担率が最も高い。"
     ],
     "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Kenya enforces mandatory Advance Cargo Declaration for container imports",
+    "source": "Container News",
+    "url": "https://container-news.com/kenya-enforces-mandatory-advance-cargo-declaration-for-container-imports/",
+    "published_at": "2026-09-20",
+    "summary_ja": [
+      "ケニアがコンテナ輸入に対する事前貨物申告（ACD）の義務を本格適用し、船社は不遵守貨物が遅延や積み残しになる恐れを警告している。",
+      "ケニア歳入庁（KRA）は2026年8月3日に同要件を導入し、CMA CGMの顧客通知によれば9月1日から厳格な運用が始まった。",
+      "荷主・輸出者・フォワーダーは船積み前に15桁のACD参照番号を取得して最終B/Lに記載する必要があり、ケニアを経由する第三国向け通過貨物は対象外とされる。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
   },
   {
     "category": "container_leasing",
@@ -560,6 +588,20 @@
     "collected_at": "2026-09-20T06:28:39-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Asian carriers target India-East Africa trade with new dual-string service launch",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/asian-carriers-target-india-east-africa-trade-with-new-dual-string-service-launch/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "アジア船社がインド西岸と東アフリカを結ぶ週2便の新サービスを今月立ち上げ、伸びるインド発アフリカ向け荷動きを取り込む。",
+      "PIL、HMM、Cosco、Interasia Lines、OOCL、ONEが共同運航し、JNPA（Nhava Sheva）とMundraからケニアのMombasa、タンザニアのDar es Salaamへ結ぶ。",
+      "GIA1・GIA2と名付けられた2ループには2,300〜2,800TEU型船が投入され、インド輸出者向けの船腹とコンテナ需要が大きく増える見通しとなる。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "regulatory",
     "title": "Safety Advisory 2025-02; Track Is Clear Determination During Shoving or Pushing Movements Across Highway-Rail Grade Crossings Equipped Only With Flashing Lights or Passive Warning Devices (Supplement)",
@@ -810,6 +852,20 @@
       "同団体は申請が旅客輸送義務を「現行サービス水準の維持」に限定して狭く解釈していると批判し、荷主団体が提起した略式却下の申立ても支持した。"
     ],
     "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Alstom and three Quebec universities join forces to advance smart rail manufacturing",
+    "source": "Alstom",
+    "url": "https://www.alstom.com/press-releases-news/2026/9/alstom-and-three-quebec-universities-join-forces-advance-smart-rail-manufacturing",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "Alstomがケベック州のLaval大学・UQAM・ÉTSの3大学と、鉄道車両の設計・製造にAIとインダストリー4.0を適用する研究提携を結んだ。",
+      "研究テーマは溶接手順、溶接・組立作業者向けAR支援、ロボット溶接セルのスケジューリング、AIによる車体設計で、Laval大学Lab-UsineのMichael Morin教授が主任研究者を務める。",
+      "成果はLa Pocatière工場で検証され、VIA Rail・トロント交通局・ケベック市トラムの受注案件への活用が見込まれるほか、NSERCとMITACSも資金を拠出する。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -1122,6 +1178,20 @@
   {
     "category": "alt_investment",
     "kind": "news",
+    "title": "Factbox-Private equity, foreign investors fuel Aussie M&A activity in 2026",
+    "source": "Reuters (WTVB)",
+    "url": "https://wtvbam.com/2026/09/15/factbox-private-equity-foreign-investors-fuel-aussie-ma-activity-in-2026/",
+    "published_at": "2026-09-16",
+    "summary_ja": [
+      "2026年のオーストラリア企業にはPEファンドや海外投資家からの買収提案が相次いでいるが、初期検討段階を越えた案件は限られるとロイターがまとめた。",
+      "有料道路運営のAtlas Arteriaは4月にIFM Global Infrastructure Fundから未保有株全てを対象とする買収提案を受け、企業価値は68.9億豪ドル（49.1億米ドル）と評価された。",
+      "IFM傘下のDiamond Infraco 1は、募集締切前に45%以上の株式を確保できれば提示価格を1株5.10豪ドルまで引き上げる条件も提示した。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
     "title": "Carlyle inks $2.3bn for infra credit",
     "source": "Alternative Credit Investor",
     "url": "https://alternativecreditinvestor.com/2026/09/15/carlyle-inks-2-3bn-for-infra-credit/",
@@ -1416,6 +1486,20 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "Trial starts for engineer charged with manslaughter in fatal train wreck in Prichard",
+    "source": "FOX10 News (WALA)",
+    "url": "https://www.fox10tv.com/2026/09/15/trial-starts-engineer-charged-with-manslaughter-fatal-train-wreck-prichard/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "2020年11月17日にアラバマ州Prichardで発生した保線作業員死亡事故をめぐり、機関士の過失致死罪を問う公判が始まった。",
+      "被告はAlabama Export Railroad所属のJames Jeffery Elder（53）で、Canadian National所有の貨物列車を運転中にContinental Railsの作業班へ衝突しDexter Scottさんが死亡した。",
+      "FRAの運転取扱安全監督官Byrl McCoyは、乗務中に携帯電話を視界外へ収納するよう義務付けた規則に被告が違反したと証言した。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "SC Ports, Norfolk Southern expand intermodal access to Huntsville",
     "source": "FreightWaves",
     "url": "https://www.freightwaves.com/news/sc-ports-norfolk-southern-expand-intermodal-access-to-huntsville",
@@ -1624,6 +1708,20 @@
     "collected_at": "2026-09-16T03:12:32-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Flooding shuts down Northeast Corridor in Connecticut",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/passenger/flooding-shuts-down-northeast-corridor-in-connecticut/",
+    "published_at": "2026-09-13",
+    "summary_ja": [
+      "コネチカット州での冠水と路盤流失により、Metro-North鉄道が9月13日にSouth Norwalk〜New Haven間の運行を停止した。",
+      "同区間はAmtrakの北東回廊（ボストン〜ニューヨーク）やVermonterも走行しており、運行追跡地図上ではニューヨーク〜ボストン間のAmtrak列車が消えた。",
+      "Valley Flyerの461列車はWallingfordで打ち切られ乗客はCTrailのバスに振り替えられ、CTrailもNew HavenのState Street駅冠水で運行に乱れが出た。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
     "category": "macro_indicators",
     "title": "BOJ set to raise interest rate to 1.25% next week",
     "source": "The Japan Times",
@@ -1802,6 +1900,48 @@
       "申請者は輸送サービス水準・運行体制・グループ外事業者との競争関係に変化は生じないとしており、差し止めがなければ適用除外は2026年9月27日に発効する。"
     ],
     "collected_at": "2026-09-19T13:28:03-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "personnel",
+    "title": "AITX announces leadership changes to three C-Suite positions",
+    "source": "Transportation Today",
+    "url": "https://transportationtodaynews.com/news/38698-aitx-announces-leadership-changes-to-three-c-suite-positions/",
+    "published_at": "2026-09-11",
+    "summary_ja": [
+      "米貨車リースのAmerican Industrial Transport（AITX）が、CEO・社長兼COO・最高戦略責任者の3ポストを刷新する幹部人事を発表した。",
+      "2025年11月から暫定CEOを務めてきたPeter Appelが正式にCEOへ就任し、Tim Kubiakが社長兼COO、Eric Engが最高戦略責任者に就く。",
+      "AppelはITE Managementで12年間レール部門を率いAITX取締役も8年務めた人物で、貨車ライフサイクル全体をカバーする統合型サービス戦略を主導する。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Maersk issues waste and scrap cargo booking guidance",
+    "source": "Container News",
+    "url": "https://container-news.com/maersk-issues-waste-and-scrap-cargo-booking-guidance/",
+    "published_at": "2026-09-11",
+    "summary_ja": [
+      "Maerskが廃棄物・スクラップ貨物の予約手順に関する指針を公表し、電池と電子廃棄物の扱いに特に注意を促した。",
+      "処分・リサイクル・回収を目的とする貨物は廃棄物として予約し、バーゼル条約とOECD決定に加え通過国・積替国を含む航路上すべての国の廃棄物法令を順守する必要があるとした。",
+      "密閉コンテナ内で電池セルが短絡すると洋上では消火困難な火災になり得るとして、廃棄物・有害廃棄物・危険品の3分類は別個の判定だと明確化した。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Private operators lead rail freight growth in Croatia",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/business/2026/09/11/private-operators-lead-rail-freight-growth-in-croatia/",
+    "published_at": "2026-09-11",
+    "summary_ja": [
+      "クロアチアの鉄道貨物市場では民間事業者が成長を牽引し、国有のHŽ Cargoがシェアを落としている。",
+      "2026年第2四半期に民間事業者は輸送量が17.3%増、輸送実績が21.1%増となった一方、HŽ Cargoはそれぞれ2.9%減・3.5%減と落ち込んだ。",
+      "市場全体では輸送量が9.2%増の330万トン超、輸送実績が9.7%増の8億700万トンキロ超となり、HŽ Cargoのトン数シェアは2025年末の43%から36%へ低下した。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -2051,6 +2191,62 @@
     "collected_at": "2026-09-19T13:28:03-07:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Trinity Industries, Inc. Declares Quarterly Dividend",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com/news/home/20260910361494/en/",
+    "published_at": "2026-09-10",
+    "summary_ja": [
+      "TrinityRailを擁するTrinity Industriesが、普通株1株当たり31セントの四半期配当を宣言した。",
+      "配当は2026年10月15日時点の株主名簿登録株主に対し10月30日に支払われ、同社にとって250回連続の配当支払いとなる。",
+      "同社はRailcar Leasing and Services GroupとRail Products Groupの2セグメント構成で、貨車リース・製造・改造に加えRSI LogisticsやHolden Americaも傘下に持つ。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Downing expands credit platform with £500m funding line",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/10/downing-expands-credit-platform-with-500m-funding-line/",
+    "published_at": "2026-09-10",
+    "summary_ja": [
+      "運用資産26億ポンドの英Downingが、プライベートクレジット事業の投融資能力を高めるため5億ポンドの機関投資家向けファンディングラインを新設した。",
+      "併せてVenn PartnersやESR Europeを経たGeorge Cotterellを、パートナー兼商業用不動産貸付責任者として迎えた。",
+      "副CEO兼プライベートマーケット投資責任者のKostas Manolisは、両施策をプラットフォーム拡大の次段階における重要な節目だと位置付けた。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Principal debuts North American corporate hybrid fund",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/10/principal-debuts-north-american-corporate-hybrid-fund/",
+    "published_at": "2026-09-10",
+    "summary_ja": [
+      "Principal Asset Managementが、AI関連の電力インフラ投資に伴う資金需要を狙う北米社債ハイブリッド証券ファンドを立ち上げた。",
+      "「PGIF Spectrum North American Corporate Hybrid Income Fund」はUCITS形式で、米ドル建て北米ハイブリッド証券に特化した初の戦略だとしている。",
+      "運用は優先証券に強いSpectrum Asset Managementが担い、電力網・データセンター・エネルギー転換・送配電網の近代化などを投資テーマに据える。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Why UK pension fund Nest is still bullish on private credit",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/10/why-uk-pension-fund-nest-is-still-bullish-on-private-credit/",
+    "published_at": "2026-09-10",
+    "summary_ja": [
+      "英最大の職域年金Nestのクレジット責任者James Turnerが、米ダイレクトレンディングへの懸念が広がる中でもプライベートクレジットへの強気姿勢を維持すると語った。",
+      "運用資産684億ポンドのDCマスタートラストであるNestは2018年に米欧のプライベートクレジットへ参入し、企業向けダイレクトレンディング、インフラデット、不動産デットの3分野に配分している。",
+      "配分はインフラデットと不動産デットに厚く、Turnerは「プライベート市場で行うことの多くは公開市場では得られない」と述べた。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
     "category": "macro_indicators",
     "title": "Bessent Dares Traders to Bet Against Yen: 'I Am the House Now'",
     "source": "The Japan Times",
@@ -2284,6 +2480,20 @@
     "collected_at": "2026-09-20T06:28:39-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "NCRR awards $1M in build ready grants, opens next funding round",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/short_lines_regionals/news/NCRR-awards-1M-in-build-ready-grants-opens-next-funding-round--77715",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "ノースカロライナ鉄道（NCRR）が、鉄道接続型の産業用地を整備する「Build Ready Sites」助成金2件を交付した。",
+      "交付額は各50万ドルの計100万ドルで、Harnett郡とGreensboro市が伐採・造成・設計・アクセス改良などの用地準備に充てる。",
+      "Harnett郡では83エーカーの用地が対象となり、NCRRのCarl Warren社長兼CEOは開発リスク低減による鉄道利用企業の誘致競争力向上を狙いとして次回募集も開始した。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Singamas profit falls 56.5% as specialised container sales grow",
@@ -2310,6 +2520,20 @@
       "carload は8カ月連続、インターモーダルは7カ月連続の前年超えで、主要20品目のうち15品目が前年を上回った。"
     ],
     "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Germany opens €36m digital automatic coupler funding call",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/digital-automatic-coupler/2026/09/08/germany-opens-e36m-funding-call-for-dac-freight-trains/",
+    "published_at": "2026-09-08",
+    "summary_ja": [
+      "ドイツ連邦政府が、貨物列車へのデジタル自動連結器（DAC）装着と実運用試験を支援する総額3,600万ユーロのプログラムで第1回公募を開始した。",
+      "連邦交通省（BMV）は支援制度「PioDAK」の助成指針を9月4日に官報で公示し、執行は連邦物流・モビリティ庁（BALM）が担い、企画書の提出期間は9月14〜25日とされた。",
+      "対象はパイオニア列車のDAC装着・改造、研究開発・イノベーション、実現可能性調査の3分野で、DB・SBB・Rail Cargo GroupとGATX・Ermewa・VTGが参加した先行プロジェクトDAC4EUを引き継ぐ位置付けとなる。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
   },
   {
     "category": "alt_investment",
@@ -2873,6 +3097,20 @@
       "Trinityは事故直後に当該エリアの操業を停止して現場を保全し、当局と協力して原因を調査したうえで必要な改善策を講じるとしている。"
     ],
     "collected_at": "2026-09-19T13:28:03-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Change in Spanish rail freight subsidies",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/freight-rail/61964-freightliner-de-puts-alpha-trains-euro9000-on-nsw-stone-flows?region=eu",
+    "published_at": "2026-08-26",
+    "summary_ja": [
+      "スペイン運輸・持続可能モビリティ省が、鉄道貨物向け補助金の新たな省令案について公開協議を開始した。",
+      "意見提出期間は8月24日から9月21日までで、事業者・業界団体などの意見を踏まえたうえで条文の承認手続きに進む。",
+      "新制度はEU復興基金によるエコインセンティブ制度の後継として省の自己予算から補助金を交付する枠組みで、支給額は今後の予算配分と公募次第となる。"
+    ],
+    "collected_at": "2026-09-20T13:27:29-07:00"
   },
   {
     "category": "container_leasing",
