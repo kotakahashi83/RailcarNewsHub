@@ -2,6 +2,34 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Port of Helsinki reports growth through August 2026",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-helsinki-reports-growth-through-august-2026/",
+    "published_at": "2026-09-20",
+    "summary_ja": [
+      "ヘルシンキ港の2026年1〜8月のユニット貨物取扱量は79万1,330ユニットとなり、前年同期比5.8%増加した。",
+      "トン数ベースでは840万トン(3.6%増)で、なかでもコンテナ取扱が前年同期を上回る活発さを示した。",
+      "輸出は2025年終盤から、輸入は2026年上半期から回復しており、港湾の貨物データは貿易統計に先行するため、フィンランド経済の加速を示唆すると港湾側はみている。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Rail traffic grows at France's two largest container ports in H1 2026",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/09/rail-traffic-grows-at-frances-two-largest-container-ports-in-h1-2026/",
+    "published_at": "2026-09-20",
+    "summary_ja": [
+      "フランス最大のコンテナ港である Le Havre と Marseille-Fos で、2026年上半期の鉄道輸送がそろって伸びた。",
+      "Le Havre 発着の列車輸送量は7万8,000TEUで前年同期比15.3%増となり、既存サービスの増便が主因となった。",
+      "Marseille-Fos ではインフラ改良が鉄道貨物を押し上げており、同港はフランスの港湾のなかで鉄道・河川輸送の分担率が最も高い。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Maersk introduces LCL emergency surcharge to Gulf markets",
     "source": "Container News",
     "url": "https://container-news.com/maersk-introduces-lcl-emergency-surcharge-to-gulf-markets/",
@@ -464,6 +492,76 @@
   {
     "category": "rail_industry",
     "kind": "regulatory",
+    "title": "The Great Walton Railroad Company, Inc.-Continuance in Control Exemption-The Athens Line, LLC",
+    "source": "Federal Register (Surface Transportation Board)",
+    "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19105/the-great-walton-railroad-company-inc-continuance-in-control-exemption-the-athens-line-llc",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "STB は Class III 鉄道 Great Walton Railroad が子会社 The Athens Line の支配を継続することを認める適用除外通知を公示した(Docket No. FD 36950)。",
+      "決定は9月15日付で連邦官報掲載は9月18日、執行停止を求める申立ては発効7日前にあたる9月25日までに提出する必要がある。",
+      "The Athens Line は Central of Georgia Railroad から路線をリースした後に取得して鉄道事業者となった Great Walton の完全子会社である。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Ventura County Railroad Company-Operation Exemption-Ventura County Railway Company, LLC",
+    "source": "Federal Register (Surface Transportation Board)",
+    "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19099/ventura-county-railroad-company-operation-exemption-ventura-county-railway-company-llc",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "Class III 鉄道 Ventura County Railroad が、Ventura County Railway との運行・保守契約の期間延長について STB に適用除外通知を提出した(Docket No. FD 36937)。",
+      "対象路線は Union Pacific との接続点から Port Hueneme 埠頭までの本線5.8マイルと Diamond・Edison・Patterson の3支線を含む計約12.19マイル。",
+      "契約期間は5年延長し、さらに5年の延長オプションを付す内容で、取引は適用除外の発効日である2026年10月4日以降に実行できる。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Rail Vision Launches YardFlow",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/cs/rail-vision-launches-yardflow/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "Rail Vision (NASDAQ: RVSN) が、産業用・貨物用の操車場向け AI 認識システム「YardFlow」を発表した。",
+      "電子光学センサーと独自の深層学習アルゴリズムで最大200メートル先の線路上・線路脇の障害物を検知して即時警報を出し、入換機関車や railcar mover に搭載しやすいモジュール構造を採る。",
+      "従来の ShuntingYard は悪天候・低視界向けの多波長版「YardFlow Flex」として併売され、同社は9月22〜25日の InnoTrans 2026 で新製品を展示する。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Notice of Request for Additional Information",
+    "source": "Federal Register (Federal Maritime Commission)",
+    "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19203/notice-of-request-for-additional-information",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "FMC が Terminal Emissions Sustainability Agreement(協定番号201476)の当事者に対し、追加情報の提出を求める通知を出した。",
+      "対象は Everport Terminal Services、International Transportation Services、LBCT、Pacific Terminal Services、SSA Marine、TraPac、West Basin Container Terminal、Yusen Terminals の8社で、南カリフォルニアの主要コンテナターミナル運営者が並ぶ。",
+      "通知は9月16日付で9月18日に連邦官報へ掲載され、追加情報が提出されるまで Shipping Act に基づく協定の待機期間は進行しない。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "'A waste of public money': EUR 17 million invested in unused French freight line",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/infrastructure/2026/09/18/a-waste-of-public-money-e17-million-invested-in-unused-french-freight-line/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "フランス西部の Thouars〜Niort 間の貨物線が、1,700万ユーロを投じた部分改修から3年を経ても使われていない。",
+      "勾配の問題で列車を走らせられないことが理由で、地元からは「公金の無駄遣い」との批判が出ている。",
+      "Thouars の議会は9月24日の会合でこの問題を議題に取り上げる予定である。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
     "title": "Safety Advisory 2025-02; Track Is Clear Determination During Shoving or Pushing Movements Across Highway-Rail Grade Crossings Equipped Only With Flashing Lights or Passive Warning Devices (Supplement)",
     "source": "Federal Register (FRA)",
     "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19031/safety-advisory-2025-02-track-is-clear-determination-during-shoving-or-pushing-movements-across",
@@ -698,6 +796,20 @@
       "CEOのWill Hannafordは「資金は潤沢にあるが、それをリターンに変えられる経営人材を見つける方が難しい」と述べ、案件のストラクチャーより事業運営力が収益を左右する局面に入ったと指摘した。"
     ],
     "collected_at": "2026-09-19T13:28:03-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Rail Passengers Association asks STB to deny UP-NS merger application",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/passenger_rail/news/Rail-Passengers-Association-asks-STB-to-deny-UP-NS-merger-application--77764",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "旅客鉄道利用者団体 Rail Passengers Association が、Union Pacific と Norfolk Southern の合併申請を却下するよう求める意見書を STB に提出した。",
+      "63ページの意見書は、FRA の Corridor Identification and Development Program 69件のうち43件(62.3%)が UP または NS の線路を使う可能性があり、うち22件は両社が貨物増加を見込む区間と重なると指摘している。",
+      "同団体は申請が旅客輸送義務を「現行サービス水準の維持」に限定して狭く解釈していると批判し、荷主団体が提起した略式却下の申立ても支持した。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -1286,6 +1398,20 @@
       "コンテナ、小売貨物、生鮮品を扱い、デラウェア川港湾群のコンテナ取扱能力をほぼ倍増させるとともに、船社・荷主にClass I鉄道へのアクセスを提供する。"
     ],
     "collected_at": "2026-09-19T06:27:12-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Tanjung Pelepas resumes operations after cyber attack",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/09/port-of-tanjung-pelepas-resumes-operations-after-cyber-attack/",
+    "published_at": "2026-09-15",
+    "summary_ja": [
+      "マレーシアのタンジュン・ペレパス港(PTP)が、サイバー攻撃で停止していたコンテナターミナル業務を再開した。",
+      "攻撃は現地時間9月9日23時34分にターミナル運営システムを直撃し、予防措置として荷役を一時停止した後、10日から段階的な再稼働に入った。",
+      "PTP は2025年に1,400万TEU超を扱った Maersk・Hapag-Lloyd の Gemini 連合の主要ハブで、Direwolf を名乗る集団が犯行を主張したが港湾側はランサムウェア感染もデータ窃取も確認していない。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
   },
   {
     "category": "rail_industry",
@@ -2145,6 +2271,20 @@
   },
   {
     "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Notice of Agreement Filed (Hoegh/Grimaldi Space Charter Agreement)",
+    "source": "Federal Register (Federal Maritime Commission)",
+    "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18373/notice-of-agreement-filed",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "FMC が Hoegh/Grimaldi Space Charter Agreement(協定番号012208-006)の届出を公示した。",
+      "当事者は単一当事者として扱われる Grimaldi Deep Sea と Grimaldi Euromed、および Hoegh Autoliners AS の自動車船運航各社。",
+      "Shipping Act に基づく届出協定は公示を経て所定の待機期間後に発効し、この間に利害関係者が意見を提出できる。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
+  },
+  {
+    "category": "container_leasing",
     "kind": "earnings",
     "title": "Singamas profit falls 56.5% as specialised container sales grow",
     "source": "WorldCargo News",
@@ -2156,6 +2296,20 @@
       "一方でESS(エネルギー貯蔵システム)向けを中心に特殊・カスタムコンテナの販売が伸びており、ISOドライの生産過剰による価格下押しを部分的に補っている。"
     ],
     "collected_at": "2026-09-15T22:01:53-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Intermodal sets record for August, while carload volume remains strongest in years",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/intermodal-sets-record-for-august-while-carload-volume-remains-strongest-in-years/",
+    "published_at": "2026-09-08",
+    "summary_ja": [
+      "AAR の月次統計で、2026年8月の米国鉄道インターモーダル輸送量が月間として過去最高を更新した。",
+      "週平均は約29万7,000個で前年同月比4.4%増と2026年6月の従来記録を上回り、carload も週平均23万5,000超で2019年10月以来の高水準となった。",
+      "carload は8カ月連続、インターモーダルは7カ月連続の前年超えで、主要20品目のうち15品目が前年を上回った。"
+    ],
+    "collected_at": "2026-09-20T06:28:39-07:00"
   },
   {
     "category": "alt_investment",
@@ -2775,18 +2929,5 @@
       "製造はDuro Dakovic、Tatravagonka、ポーランド・OstródaにあるGATXの自社工場WSOが担い、ガソリンや軽油など軽質油をPCK(シュヴェット)やMiRO、Bayernoilからドイツと欧州各国の貯蔵ターミナルへ運ぶ。"
     ],
     "collected_at": "2026-09-16T10:15:39-07:00"
-  },
-  {
-    "category": "macro_indicators",
-    "title": "Fall, Winter Outages to Take Out 1 mln Tons of HRC in US Market",
-    "source": "Fastmarkets",
-    "url": "https://www.fastmarkets.com/insights/fall-winter-outages-to-take-out-1-mln-tons-of-hrc-in-us-market/",
-    "published_at": "2026-08-21",
-    "summary_ja": [
-      "米国の熱間圧延コイル(HRC)メーカー各社が9〜12月に計画するメンテナンス休止で、生産量が100万トン超減少する見通し",
-      "US Steel Gary工場やBig River Steel Worksなど大手拠点が対象で、供給逼迫要因に",
-      "Midwest HRC指数は8月20日時点で1トン1,202.40ドルと2022年5月以来の高値、納期も8〜12週に長期化"
-    ],
-    "collected_at": "2026-09-14T22:09:11-07:00"
   }
 ]
