@@ -14,6 +14,48 @@
     "collected_at": "2026-09-20T13:27:29-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Release of Waybill Data",
+    "source": "Federal Register (Surface Transportation Board)",
+    "url": "https://www.federalregister.gov/documents/2026/09/21/2026-19261/release-of-waybill-data",
+    "published_at": "2026-09-21",
+    "summary_ja": [
+      "STBは、英University College Londonから2000〜2025年のCarload Waybill Sample(非マスク版)の利用を求める申請(整理番号WB26-48、2026年9月9日付)があったとして官報で公告した。",
+      "申請対象はトウモロコシ・大豆・小麦の鉄道輸送データで、その他の品目は収入等をマスクした上で、鉄道ネットワークの利用率と混雑度を測る指標を構築する目的とされる。",
+      "Waybill Sampleは鉄道会社と荷主の機密データを含むため、異議のある関係者は公告日から14暦日以内にSTB経済局(Office of Economics)局長へ申し立てる必要がある。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Record Long Beach volumes mask trouble ahead as capacity tightens, warns LB boss",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/record-long-beach-volumes-mask-trouble-ahead-as-capacity-tightens-warns-lb-boss/",
+    "published_at": "2026-09-21",
+    "summary_ja": [
+      "ロングビーチ港の8月の取扱量は91万9922TEU(前年同月比2%増)と8月として過去最高を記録したが、Noel Hacegaba CEOは市場の成長ではなく混乱の結果だとして警戒感を示した。",
+      "輸入は3.6%増、輸出は4%増で、1〜8月累計は668万7078TEUと、過去最高だった2025年の同期を1.3%上回った。",
+      "隣接するロサンゼルス港の8月は95万6000TEUで前年並みにとどまり、パナマ運河の通航制限強化などを背景とした船腹・設備の逼迫と景気の先行きが懸念材料として挙げられた。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Asia - US container rates could surpass pandemic peak",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/asia-us-container-rates-could-surpass-pandemic-peak",
+    "published_at": "2026-09-21",
+    "summary_ja": [
+      "2月のホルムズ海峡危機以降、アジア発米国向けのスポット運賃は325%上昇し、Xenetaはコロナ期の最高値を更新する可能性も否定しないとしている。",
+      "船社は10月初めに再度の一括値上げ(GRI)を狙うとみられ、DrewryとXenetaはいずれも太平洋航路のスポット運賃のさらなる上昇を予想する。",
+      "上昇要因の見方は分かれ、Drewryは船社による船腹調整の巧みさを、Xenetaは地政学リスクなど複数の要因を、Dynamarは気象災害に起因する混雑を挙げている。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Port of Helsinki reports growth through August 2026",
@@ -1694,6 +1736,20 @@
     "collected_at": "2026-09-19T13:28:03-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "WSC asks IMO to address small battery safety gap",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/wsc-asks-imo-to-address-small-battery-safety-gap",
+    "published_at": "2026-09-14",
+    "summary_ja": [
+      "世界海運評議会(WSC)が、小型リチウムイオン電池のコンテナ輸送に関する規制の抜け穴を塞ぐようIMOと各国政府に求めた。",
+      "現行のSP188免除規定では、試験合格・短絡防止・堅牢な梱包・リチウム電池マーク表示を満たす個々の電池は危険物申告が不要で、コンテナ1本に数千個積んでも申告なしで輸送できる。",
+      "ドイツが7月にIMOの貨物・コンテナ運送小委員会(CCC)へ是正提案を提出しており、WSCのJoe Kramek会長兼CEOは「免除は個々の機器向けで、コンテナ単位の輸送を不可視にするためのものではない」と述べた。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
     "category": "eu_railcar_leasing",
     "kind": "news",
     "title": "NeS adds three Akiem-leased Alstom Traxx Universal locomotives to its fleet",
@@ -2756,6 +2812,20 @@
     "collected_at": "2026-09-16T10:15:39-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "DOT unveils plan to turn highways, rail lines into multi-use utility arteries",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/dot-unveils-plan-to-turn-highways-rail-lines-into-multi-use-utility-arteries",
+    "published_at": "2026-09-03",
+    "summary_ja": [
+      "米運輸省(DOT)が、既存の高速道路・鉄道の用地(right-of-way)を送電線・光ファイバー・水道管などの公益設備と共用する構想「America's Great Corridors of Commerce」を発表した。",
+      "Build America Bureauが運営する任意参加の制度で、州のDOTや鉄道会社が線路沿いの土地や共同溝を民間の「corridor manager」に貸し出し、設計・建設・運営・保守を委ねる形を想定する。",
+      "Sean Duffy運輸長官が8月に示した狙いは、許認可期間の短縮と設備展開の加速に加え、同じ回廊上の道路・橋・トンネル・線路の補修に充てる新たな収入源を確保することにある。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "title": "200,000 Railcars Face Retirement — What Comes Next?",
     "source": "FreightWaves",
@@ -2935,6 +3005,20 @@
     "collected_at": "2026-09-19T13:28:03-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "National Environmental Policy Act Regulations",
+    "source": "Federal Register (FHWA/FRA/FTA)",
+    "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17904/national-environmental-policy-act-regulations",
+    "published_at": "2026-09-01",
+    "summary_ja": [
+      "FHWA・FRA・FTAの3機関が、2025年7月3日に公布した暫定最終規則(IFR)を確定させ、NEPA(国家環境政策法)実施規則の改定を正式に完了した。",
+      "改定は、CEQ(環境諮問委員会)規則の撤廃と、2023年財政責任法に含まれるBUILDER条項によるNEPA本体の改正を反映したもの。",
+      "連邦補助を受ける鉄道・道路・公共交通プロジェクトの環境審査が各機関独自の規則に基づいて進むことになり、許認可期間の短縮が狙いとされる。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "title": "Greenbrier Announces CEO Succession Upon Planned Retirement of Lorie Tekorius",
     "source": "Greenbrier Companies",
@@ -2988,6 +3072,90 @@
       "EURO9000は電化幹線と非電化のターミナル・採石場側線の双方に対応できるため、重量列車での運用柔軟性を高める点が採用の決め手となっている。"
     ],
     "collected_at": "2026-09-17T13:20:55-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Amendments to Brake System Maintenance and Inspection Requirements",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAが貨車・旅客車の制動装置に関する検査基準を改正する最終規則を公示し、長年個別のwaiverで認めてきた機関車ブレーキの保守・検査の扱いを規則本体に取り込んだ。",
+      "2026年9月30日発効で、貨車を空気を抜いた「off-air」状態で留置できる時間は24時間に延長される一方、列車に貨車を増結する際のClass III検査は引き続き義務づけられる。",
+      "個別貨車の自動ブレーキ試験が認められ、FRAのデータでは自動単車試験装置で再発故障が18%、four pressure方式で58%減少しており、貨車保有者・リース会社の整備実務とコストに影響する。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17792/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAは、ブレーキ装置に関する定期再訓練の実技部分を、インストラクター主導の3次元コンピューターシミュレーションで代替できるとする最終規則を公示した。",
+      "これまでFRAが個別に認めてきたwaiverの内容を規則化したもので、実機では用意しにくいランダムな事象を訓練シナリオに組み込める。",
+      "受講者の作業に対してリアルタイムで評価を返せるため、貨車の制動装置を扱う要員の教育を短時間・低コストで実施しやすくなる。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Vance, EPA chief call for investigation into Biden administration response to East Palestine derailment",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/vance-epa-chief-call-for-investigation-into-biden-administration-response-to-east-palestine-derailment",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "JD・バンス副大統領とEPAのLee Zeldin長官が、2023年2月のNorfolk Southern東パレスチナ脱線・危険物流出事故への前政権の対応を調べるよう、EPA監察官室(OIG)に連名で要請した。",
+      "EPAが8月28日に公表したもので、監視団体Government Accountability Projectが前週に出した報告書が要請のきっかけとなった。",
+      "同報告書は、塩化ビニルのvent-and-burn処理について国防総省の初期モデルが1万8000人の有害曝露と1900人が「死亡の可能性がある区域」にいると予測していたのに、現場に伝えられなかったと指摘している。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17783/regulatory-relief-from-locomotive-horn-sounding-pattern-at-public-highway-rail-grade-crossings",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAが、踏切の至近で停止した列車・機関車の警笛吹鳴パターンを緩和する最終規則を公示した。",
+      "従来は「長・長・短・長」の吹鳴が義務づけられていたが、停止位置から踏切に進入する場合は1回の吹鳴で足りることになる。",
+      "踏切のすぐ手前で停止した際に長い吹鳴が沿線騒音となる問題への対応で、乗務員の負担軽減にもつながる規制緩和となる。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17789/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAが、陳腐化した線路作業現場(roadway workplace)の安全規則を複数撤廃する最終規則を公示した。",
+      "併せて、事前の公示とFRAの承認を条件に、橋梁作業員の安全確保で同等以上の安全水準を持つ代替手法を採用できる特別承認手続きを新設した。",
+      "クレーンを備えた保線機械の運転者に必要な訓練には、上方クリアランスの確保など具体的な項目が含まれることも明確化された。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Expanding Certain Locomotive Wheel Set Diameter Variations",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17788/expanding-certain-locomotive-wheel-set-diameter-variations",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAが機関車の安全規則を改正し、交流(AC)技術を用いる機関車の輪軸について許容される車輪径の差の上限を拡大した。",
+      "2019年5月にClass I鉄道が提出した規則制定請願と、けん引電動機の制御技術の進歩を踏まえた措置である。",
+      "車輪径の管理幅が広がることで転削・交換の頻度が下がり、機関車の保守コストと運用離脱時間の削減につながる。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
   },
   {
     "category": "eu_railcar_leasing",
@@ -3167,5 +3335,19 @@
       "製造はDuro Dakovic、Tatravagonka、ポーランド・OstródaにあるGATXの自社工場WSOが担い、ガソリンや軽油など軽質油をPCK(シュヴェット)やMiRO、Bayernoilからドイツと欧州各国の貯蔵ターミナルへ運ぶ。"
     ],
     "collected_at": "2026-09-16T10:15:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "personnel",
+    "title": "Rail consultant returns to lead South Carolina short line",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/rail-consultant-returns-to-lead-south-carolina-short-line",
+    "published_at": "2026-08-24",
+    "summary_ja": [
+      "サウスカロライナ州営の輸送会社Palmetto Railwaysが、Tarek Ravenel氏を社長兼CEOに任命したと発表した(2026年9月8日付)。",
+      "Ravenel氏はかつて同社に10年在籍した経歴を持ち、2022年から社長兼CEOを務めたPatrick McCrory氏の後任となる。",
+      "Palmettoはチャールストンを拠点に5郡で90マイルを運行してCSXとNorfolk Southernに接続し、Camp Hall Commerce Parkなどに向けた25マイルの産業線を整備中である。"
+    ],
+    "collected_at": "2026-09-21T06:27:09-07:00"
   }
 ]
