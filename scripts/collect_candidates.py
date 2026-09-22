@@ -140,7 +140,8 @@ FEDERAL_REGISTER_URL = (
 FR_RELEVANT = (
     r"freight car|rail car|railcar|tank car|hazardous material|hopper|brake|"
     r"car hire|demurrage|detention|interchange|container|chassis|intermodal|"
-    r"cost of capital|revenue adequacy|rate reasonableness|merger|common carrier"
+    r"cost of capital|revenue adequacy|rate reasonableness|merger|common carrier|"
+    r"end of car|cushioning|coupler|tank head|service equipment"
 )
 
 # Titles matching these are market-research spam or non-news pages.
@@ -161,7 +162,8 @@ NOISE_TITLE = re.compile(
     r"gameday|volleyball|water polo|poker|football|basketball|hockey|soccer|"
     r"undervalued|fair value|should you buy|dividend analysis|insider (trading|selling|buying)|form 4\b|"
     r"worth your attention|jim cramer|price target|stocks? to (buy|watch)|top \d+ stocks|archives$|legal notice|"
-    r"transit briefs|passenger|amtrak|metro|light rail|commuter|streetcar|high-speed rail|"
+    r"transit briefs|passenger|amtrak|metro\b|light rail|commuter|streetcar|high-speed rail|"
+    r"subway|via rail|\bMTA\b|transit authority|award recipients|women in rail|"
     r"safety award|scholarship|nominations|webinar|conference (preview|program)|golf|"
     r"appoints? .*(investor relations|marketing|communications)\b",
     re.I,
