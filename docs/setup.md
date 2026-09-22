@@ -24,7 +24,7 @@ Web UI なら Settings → Pages → Source を「GitHub Actions」にするの�
 
 ## 4. routine の登録
 
-Claude Code のセッションで「routine を登録して」と依頼すると、`docs/routine-prompt.md` の内容で `railcar-wire-collect` が作成されます（手作業なら https://claude.ai/code/routines から同じ内容で作成）。
+Claude Code のセッションで「routine を登録して」と依頼すると `railcar-wire-collect` が作成されます。routine 本体には「`docs/routine-prompt.md` の『プロンプト本文』を読んでその通り実行せよ」という短い指示だけを登録してあるため、**収集ルールの変更はこのファイルを編集して push するだけ**で反映されます。
 
 - cron: `0 13,14,20,21 * * *`（UTC。06:00 / 13:00 米国太平洋時間を夏時間・冬時間の両方でカバー）
 - リポジトリ: `https://github.com/kotakahashi83/RailcarNewsHub`

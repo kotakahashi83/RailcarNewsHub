@@ -34,7 +34,7 @@ OUT_PATH = ROOT / "data" / "candidates.json"
 CACHE_PATH = ROOT / "data" / "gnews_cache.json"
 
 WINDOW_DAYS = 30
-MAX_PER_HINT = 70  # newest N candidates kept per category hint
+MAX_PER_HINT = 45  # newest N candidates kept per category hint
 EXCERPT_CHARS = 1000
 BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
 SEC_UA = "RailcarWire/1.0 (industry news aggregator) kohei.takahashi@gmail.com"
@@ -121,24 +121,49 @@ EDGAR_COMPANIES = [
     ("0000702165", "Norfolk Southern", "rail_industry"),
 ]
 
+# Only final and proposed rules -- the procedural notices (special permits,
+# information collection, waybill data, small exemptions, docket filings,
+# safety advisories) are deliberately excluded: they are regulatory paperwork
+# rather than news a leasing professional acts on.
 FEDERAL_REGISTER_URL = (
     "https://www.federalregister.gov/api/v1/documents.json?"
     "conditions[agencies][]=federal-railroad-administration"
     "&conditions[agencies][]=surface-transportation-board"
     "&conditions[agencies][]=pipeline-and-hazardous-materials-safety-administration"
     "&conditions[agencies][]=federal-maritime-commission"
-    "&order=newest&per_page=60"
+    "&conditions[type][]=RULE&conditions[type][]=PRORULE"
+    "&order=newest&per_page=40"
     "&fields[]=title&fields[]=abstract&fields[]=publication_date&fields[]=html_url&fields[]=agencies&fields[]=type"
+)
+# A rule only becomes a candidate when it touches the equipment or the economics
+# our readers own: freight cars, tank cars, containers, chassis, car hire, rates.
+FR_RELEVANT = (
+    r"freight car|rail car|railcar|tank car|hazardous material|hopper|brake|"
+    r"car hire|demurrage|detention|interchange|container|chassis|intermodal|"
+    r"cost of capital|revenue adequacy|rate reasonableness|merger|common carrier"
 )
 
 # Titles matching these are market-research spam or non-news pages.
+# Procedural / routine regulatory paperwork and other non-news pages.
+PROCEDURAL_TITLE = re.compile(
+    r"special permit|information collection|waybill|cost adjustment factor|"
+    r"safety advisory|notice of (filing|agreement|request|applications?|actions?|intent)|"
+    r"exemption|continuance in control|petition for (waiver|declaratory)|"
+    r"privacy act|paperwork reduction|meeting notice|sunshine act|"
+    r"complainant v\.|respondent|charge complaint|administrative determination|"
+    r"environmental (assessment|impact statement|policy act)|"
+    r"agency information collection|record of decision",
+    re.I,
+)
 NOISE_TITLE = re.compile(
     r"market (size|share|report|forecast|analysis|outlook|research|trends|to reach|growth|insights)|"
     r"\bCAGR\b|industry report|research report|company profile|stock (forecast|price target)|"
     r"gameday|volleyball|water polo|poker|football|basketball|hockey|soccer|"
     r"undervalued|fair value|should you buy|dividend analysis|insider (trading|selling|buying)|form 4\b|"
     r"worth your attention|jim cramer|price target|stocks? to (buy|watch)|top \d+ stocks|archives$|legal notice|"
-    r"transit briefs|passenger|amtrak|metro|light rail|commuter",
+    r"transit briefs|passenger|amtrak|metro|light rail|commuter|streetcar|high-speed rail|"
+    r"safety award|scholarship|nominations|webinar|conference (preview|program)|golf|"
+    r"appoints? .*(investor relations|marketing|communications)\b",
     re.I,
 )
 # Stock-commentary and aggregator domains that never carry primary news.
@@ -327,6 +352,8 @@ def collect_federal_register(cutoff: str):
             continue
         agencies = ", ".join(a.get("name", "") for a in d.get("agencies", []) if isinstance(a, dict))
         title = d.get("title", "")
+        if not re.search(FR_RELEVANT, f"{title} {d.get('abstract') or ''}", re.I):
+            continue
         text = f"{title}. {agencies}. {d.get('type', '')}. {d.get('abstract') or ''}"
         if "Maritime" in agencies:
             hint = "container_leasing"
@@ -371,7 +398,7 @@ def main() -> int:
     for item in list(collect_rss()) + list(collect_gnews(cache, args.max_decode)) + list(collect_edgar(cutoff)) + list(collect_federal_register(cutoff)):
         if not item.get("url", "").startswith("http") or not item.get("title"):
             continue
-        if item["published"] < cutoff or NOISE_TITLE.search(item["title"]):
+        if item["published"] < cutoff or NOISE_TITLE.search(item["title"]) or PROCEDURAL_TITLE.search(item["title"]):
             continue
         key = normalize_url(item["url"])
         host = urlsplit(item["url"]).netloc.lower().removeprefix("www.")

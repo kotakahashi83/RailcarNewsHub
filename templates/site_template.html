@@ -252,6 +252,12 @@
     font-family: "IBM Plex Sans", sans-serif;
     letter-spacing: 0;
   }
+  .title-en {
+    margin: 0.1rem 0 0;
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    line-height: 1.4;
+  }
   .card h2 a {
     text-decoration: none;
   }
@@ -317,7 +323,7 @@
 </main>
 
 <footer>
-  収集対象: 北米貨車リース / 北米鉄道業界 / 海上コンテナリース / 欧州貨車リース / オルタナ投資（貨車・コンテナリースは各社の決算発表・人事・規制当局のリリースを含む）。英語ソースを毎日2回（06:00 / 13:00 米国太平洋時間）自動巡回し、日本語の要点3点を付与しています。見出しをクリックすると原文記事が開きます。
+  収集対象: 北米貨車リース / 北米鉄道業界 / 海上コンテナリース / 欧州貨車リース / オルタナ投資（貨車・コンテナリースは各社の決算発表・人事・規制当局のリリースを含む）。英語ソースを毎日2回（06:00 / 13:00 米国太平洋時間）自動巡回し、日本語の見出しと要点3点を付与しています。見出しをクリックすると原文記事（英語）が開きます。手続き的な規制公告や旅客鉄道の話題は対象外です。
 </footer>
 
 <script id="news-data" type="application/json">__RAILCAR_NEWS_JSON__</script>
@@ -395,7 +401,7 @@
     var filtered = articles.filter(function (a) {
       if (state.category !== "all" && a.category !== state.category) return false;
       if (state.query) {
-        var hay = (a.title + " " + summaryPoints(a).join(" ") + " " + (a.source || "")).toLowerCase();
+        var hay = (a.title + " " + (a.title_ja || "") + " " + summaryPoints(a).join(" ") + " " + (a.source || "")).toLowerCase();
         if (hay.indexOf(state.query) === -1) return false;
       }
       return true;
@@ -448,9 +454,16 @@
       link.href = a.url;
       link.target = "_blank";
       link.rel = "noopener noreferrer";
-      link.textContent = a.title;
+      link.textContent = a.title_ja || a.title;
       h2.appendChild(link);
       card.appendChild(h2);
+
+      if (a.title_ja && a.title && a.title_ja !== a.title) {
+        var en = document.createElement("p");
+        en.className = "title-en";
+        en.textContent = a.title;
+        card.appendChild(en);
+      }
 
       var points = summaryPoints(a);
       if (points.length) {
