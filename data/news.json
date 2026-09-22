@@ -1,5 +1,35 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Greenbrier Announces 3,400 Railcar Orders Valued at $600 Million in Fiscal Fourth Quarter",
+    "title_ja": "Greenbrier、第4四半期に3,400両・6億ドルの貨車を受注",
+    "source": "SEC EDGAR (The Greenbrier Companies)",
+    "url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526397231/gbx-ex99_1.htm",
+    "published_at": "2026-09-22",
+    "summary_ja": [
+      "Greenbrierは9月22日、2026年8月31日に終了した第4四半期に新造貨車3,400両・総額約6億ドルを受注したと発表した。",
+      "受注にはサウジアラビア政府系のSaudi Railway Company（SAR）向け780両が含まれ、リン酸・溶融硫黄輸送用のタンク車に加え、SAR向けでは初となるインターモーダル車が入っている。",
+      "SARとの取引は2015年のタンク車受注に始まっており、車種・最終需要先が分散した今回の受注は北米外での受注基盤の広がりを示す。"
+    ],
+    "collected_at": "2026-09-22T06:26:22-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital",
+    "title_ja": "KKR、機材ファイナンス新会社Akrapointを3.5億ドルで設立",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com/news/home/20260922996735/en/KKR-Launches-Equipment-Finance-Platform-Akrapoint-Commercial-Capital",
+    "published_at": "2026-09-22",
+    "summary_ja": [
+      "KKRは9月22日、ミッドティケット型の機材ファイナンス会社Akrapoint Commercial Capitalを立ち上げたと発表した。",
+      "同社にはKKRのアセットベース・ファイナンス（ABF）戦略の運用ファンドから3億5,000万ドルをコミットし、CEOにTrans Lease出身のNate Smith氏、取締役会長にNavitas Credit創業者のGary Shivers氏が就く。",
+      "対象は製造・エネルギー・廃棄物処理・建設・輸送物流など米国の中小中堅企業で、特殊トレーラーや職能特化型機材・産業機械のリースとローンを供与する。"
+    ],
+    "collected_at": "2026-09-22T06:26:22-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "regulatory",
     "title": "Newest STB member criticizes UP-NS merger application",
@@ -1183,6 +1213,21 @@
       "EURO9000は電化幹線と非電化のターミナル・採石場側線の双方に対応できるため、重量列車での運用柔軟性を高める点が採用の決め手となっている。"
     ],
     "collected_at": "2026-09-17T13:20:55-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Amendments to Brake System Maintenance and Inspection Requirements",
+    "title_ja": "FRA、貨車・機関車のブレーキ検査規則を最終化",
+    "source": "Federal Register (FRA)",
+    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements",
+    "published_at": "2026-08-31",
+    "summary_ja": [
+      "FRAがブレーキ装置の保守・検査要件を改正する最終規則を官報に掲載し、2026年9月30日に発効する。",
+      "規則は貨物・旅客双方の鉄道車両のブレーキ検査に関する機械設備安全基準を改め、機関車のブレーキ保守・検査について長年運用されてきた免除（waiver）を規則本体に取り込む。",
+      "同日掲載の築50年超貨車の特別承認撤廃・緩衝装置の緩和と同じ規制緩和パッケージの一部で、労組SMART-TDは長編成・重量化する列車には検査頻度の維持が必要だとして緩和に反対している。"
+    ],
+    "collected_at": "2026-09-22T06:26:22-07:00"
   },
   {
     "category": "eu_railcar_leasing",
