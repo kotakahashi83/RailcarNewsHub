@@ -1,5 +1,20 @@
 [
   {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Siemens receives first major order for 100 Vectron X locomotives from RAILPOOL",
+    "title_ja": "Railpool、Siemensの新世代機Vectron Xを100両発注",
+    "source": "Siemens Mobility",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGhVYzRRMTBNWWh0ZlgwZ1BtVkpqbFRTd1R6MUFsSENYQ2ZLYnlZNUh2V09ZQkgzbldiTHNDWWozWWxvWmVoSUpwNFRvQUhLaGhoNWZ1N0YyaWlBQXpxVFFWTmt3WVlGaGktNUVZd3RmRW1DcVdIRlRqcjJVT1lzd0dNNklfRDYtTmsxMWl0V2E3Y2ttTkdVUFR3cFNXeXZLYXZRZ2VHUG5LTzFkdXlMTEdQdFh0VjNPT3c?oc=5",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "Siemens Mobilityが、欧州の車両リース大手Railpoolから新型機関車Vectron Xを100両受注したと発表した。",
+      "ベルリンで開催中の鉄道見本市InnoTrans 2026に合わせた発表で、新プラットフォームVectron Xとしては初の大型受注となる。",
+      "Vectron Xは車載アプリストアと統合画面「Smart Screen」を備え、Railigent X経由のソフトウェア更新で機能を追加できる「ソフトウェア定義型」機関車で、Railpoolは2022年のVectron 100両枠組み契約に続く発注でローンチカスタマーとなる。"
+    ],
+    "collected_at": "2026-09-23T06:25:04-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "Greenbrier Announces 3,400 Railcar Orders Valued at $600 Million in Fiscal Fourth Quarter",
@@ -28,6 +43,21 @@
       "対象は製造・エネルギー・廃棄物処理・建設・輸送物流など米国の中小中堅企業で、特殊トレーラーや職能特化型機材・産業機械のリースとローンを供与する。"
     ],
     "collected_at": "2026-09-22T06:26:22-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BNSF opens long-delayed Bismarck bridge",
+    "title_ja": "BNSF、ミズーリ川の新ビスマーク橋を複線で供用開始",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/bnsf-opens-long-delayed-bismarck-bridge/",
+    "published_at": "2026-09-22",
+    "summary_ja": [
+      "BNSFがミズーリ川を渡る新しいビスマーク〜マンダン橋の使用を開始し、最初の列車が9月16日午前6時51分に通過した。",
+      "数年に及ぶ法廷闘争の後に3年を要した建設で、両端の線路切替は20時間の集中工事で実施され、新橋は複線構造となった。",
+      "1883年建造の単線トラス橋は今秋から冬に解体へ入り完了は2027年半ばの見込みで、BNSFはノースダコタ州と全米網の輸送を支える重要な民間インフラ投資と位置づけている。"
+    ],
+    "collected_at": "2026-09-23T06:25:04-07:00"
   },
   {
     "category": "rail_industry",
@@ -1288,50 +1318,5 @@
       "オプション期間は2026年9月1日から2027年8月31日までで、コンテナのリースに加え整備・修繕・検査やIT支援も対象となる。"
     ],
     "collected_at": "2026-09-16T03:12:32-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Swiss court favours wagon keepers as 'unilateral' BAV wheel rules are struck down",
-    "title_ja": "スイス裁判所、貨車車輪をめぐる一方的な規制を取消し",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/switzerland/2026/08/24/swiss-court-favours-wagon-keepers-fot-wheel-rules-are-revoked/",
-    "published_at": "2026-08-24",
-    "summary_ja": [
-      "スイス連邦行政裁判所が8月21日、連邦運輸局(BAV)が課した貨車車輪に関する規制措置を取り消し、Ermewa・GATX・VTGの申立てを認めた。",
-      "争いは2023年のゴッタルドベーストンネル脱線事故を受けてBAVがスイス通過貨車に導入した措置に関するもので、裁判所は安全上のリスク自体は否定しなかった。",
-      "判決はBAVの措置がスイス鉄道法で拘束力を持つとされたEUの貨車越境使用に関する統一ルールから逸脱している点を問題視し、事案をBAVに差し戻した。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Network Rail sues rail firms for GBP5m over Llangennech train derailment which sparked major fuel spill",
-    "title_ja": "Network Rail、脱線でDB Cargo UKとTouaxを提訴",
-    "source": "The Independent",
-    "url": "https://www.independent.co.uk/news/uk/crime/llangennech-train-oil-spill-db-cargo-touax-rail-b3038352.html",
-    "published_at": "2026-08-24",
-    "summary_ja": [
-      "英Network Railが、2020年8月に南ウェールズのLlangennech付近で起きた燃料列車脱線をめぐり、DB Cargo UKと貨車リース会社Touax Railを相手取り500万ポンド超の損害賠償を高等法院に提訴した。",
-      "事故では25両編成のうち10両が脱線し、燃料446,000リットルが流出、うち116,000リットルが引火し330,000リットルが特別科学的関心地域(SSSI)を含む湿地に流入した。",
-      "負傷者はなかったが約300人が避難しており、貨車キーパー(リース会社)の過失責任がどこまで問われるかは欧州の貨車リース業界にとって重要な先例となる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Rosneft Deutschland will get 450 GATX tank wagons",
-    "title_ja": "Rosneft独、GATXのタンク車450両を導入",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/rolling-stock/61861-zentralbahn-receives-first-new-stadler-fink?region=na",
-    "published_at": "2026-08-24",
-    "summary_ja": [
-      "GATX Rail EuropeがRosneft Deutschlandと1698型タンク車450両の新造契約を結び、既存のリース関係を拡大した。",
-      "車両は3回に分けて2026年9月から納入が始まり、最終分は2027年第2四半期末までに運用入りする予定。",
-      "製造はDuro Dakovic、Tatravagonka、ポーランド・OstródaにあるGATXの自社工場WSOが担い、ガソリンや軽油など軽質油をPCK(シュヴェット)やMiRO、Bayernoilからドイツと欧州各国の貯蔵ターミナルへ運ぶ。"
-    ],
-    "collected_at": "2026-09-16T10:15:39-07:00"
   }
 ]
