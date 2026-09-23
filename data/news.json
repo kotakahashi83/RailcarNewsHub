@@ -17,6 +17,36 @@
   {
     "category": "railcar_leasing",
     "kind": "news",
+    "title": "Trinity Rail to restructure Jonesboro site, affecting 172 employees",
+    "title_ja": "TrinityRail、Jonesboro拠点の重整備を廃止し172人に影響",
+    "source": "KAIT",
+    "url": "https://www.kait8.com/2026/09/23/trinity-rail-restructure-jonesboro-site-affecting-172-employees/",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "TrinityRailは現在の市場環境と貨車整備ネットワークの再編を理由に、アーカンソー州Jonesboro拠点での固定式の重整備（heavy maintenance）を恒久的に終了すると表明した。",
+      "再編の影響を受けるのは約172人の従業員で、一部は同拠点に残る移動修理・留置業務のポジションに応募できるとしている。",
+      "拠点自体は閉鎖せず、軽整備と移動修理部隊の地域ハブ、貨車の留置用地として継続利用する。"
+    ],
+    "collected_at": "2026-09-23T13:26:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR Reports Weekly Rail Traffic for the Week Ending September 19, 2026",
+    "title_ja": "米鉄道輸送量、9/19までの週は合計4.9%増の53.6万件",
+    "source": "Railpace",
+    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-september-19-2026/",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "AARによると9月19日までの週の米鉄道輸送量は合計535,663件で、前年同週比4.9%増となった。",
+      "カーロードは234,207件で2.4%増、インターモーダルは301,456個で6.9%増だった。",
+      "10商品群のうち7群が増加し金属鉱石・金属が3,073件増の23,420件、非金属鉱物が2,209件増の33,629件、石油・石油製品が1,326件増の11,976件となった一方、石炭は1,889件減、穀物は1,778件減だった。"
+    ],
+    "collected_at": "2026-09-23T13:26:23-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
     "title": "Greenbrier Announces 3,400 Railcar Orders Valued at $600 Million in Fiscal Fourth Quarter",
     "title_ja": "Greenbrier、第4四半期に3,400両・6億ドルの貨車を受注",
     "source": "SEC EDGAR (The Greenbrier Companies)",
@@ -210,6 +240,51 @@
     "collected_at": "2026-09-19T06:27:12-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Regulators turn down requests for summary denial of UP-NS merger",
+    "title_ja": "STB、UP-NS合併申請の即時却下を求める申立てを退ける",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/regulators-turn-down-requests-for-summary-denial-of-up-ns-merger",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "米STBは9月18日、BNSF、CSXおよび荷主団体連合が8月6日に申し立てたUP-NS合併申請の即時却下（summary denial）3件をいずれも却下した。",
+      "申立て側は申請がprima facie（一応の立証）基準を満たしておらず致命的な欠陥があると主張していた。",
+      "STBは5ページの決定で「重要な論点を含むが、さらなる証拠と主張が判断に資する」として審理継続を選択し、本格審査が続くことになった。"
+    ],
+    "collected_at": "2026-09-23T13:26:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union protests as CSX plans to cut or furlough maintenance-of-way workers",
+    "title_ja": "CSX、保線165職の廃止と最大1,062人の一時帰休へ",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/maintenance-of-way/union-protests-as-csx-plans-to-cut-or-furlough-maintenance-of-way-workers/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "保線労組BMWEDによると、CSXは保線（MOW）職165ポジションの恒久廃止と複数の保線拠点閉鎖、最大1,062人の一時帰休を進める。",
+      "CSXは9月14日に組合へ通知し11月中旬までに実施、線路班の約900人は2月まで復帰見込みがないとされる。",
+      "CSXは季節的な作業量に合わせたEngineering部門の調整と説明する一方、組合は保守の積み残しと安全リスクをFRA・STB・議会に訴える構えで、ある区間では従来12人が担当した本線142マイルと複数ヤードを4人で受け持つ計画という。"
+    ],
+    "collected_at": "2026-09-23T13:26:23-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Knorr-Bremse wins Europe's 'first commercial DAC equipment order' under pioneer train programme",
+    "title_ja": "Knorr-Bremse、欧州初のDAC商用受注をRail Cargo Groupから獲得",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/news/2026/09/18/knorr-bremse-wins-europes-first-commercial-dac-equipment-order/",
+    "published_at": "2026-09-18",
+    "summary_ja": [
+      "Rail Cargo Group（RCG）がKnorr-Bremseに、欧州初の商用となるデジタル自動連結器（DAC）機器の契約を発注したと9月17日に発表された。",
+      "対象は貨車23両と機関車1両で編成される列車で、DACに加え電子制御ユニットとセンサーを搭載し車両の機能と状態をデジタル監視する。",
+      "この編成はEUが支援するPioDACプログラムの7本の「パイオニア列車」の1本で、2028年から通常の貨物運用に入り技術の信頼性と経済性を検証する。"
+    ],
+    "collected_at": "2026-09-23T13:26:23-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Container peak season still ongoing, port congestion hits new high",
@@ -283,6 +358,21 @@
       "同CEOはこれまでドイツ国内に限っていた再建プログラムを欧州全域へ広げる必要があるとし、EUとの再交渉に入る考えを示した。"
     ],
     "collected_at": "2026-09-18T13:18:44-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Touax: business volume down 13% in first half, net loss of €4.2M",
+    "title_ja": "Touax、上期営業収益13%減で420万ユーロの純損失",
+    "source": "Idéal Investisseur",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/touax-business-volume-down-13-in-first-half-net-loss-of-eur4-2m/25166.html",
+    "published_at": "2026-09-17",
+    "summary_ja": [
+      "Touaxが9月16日に公表した2026年上期決算は、修正営業収益が7,290万ユーロと前年同期比1,080万ユーロ（13%）減少した（為替・範囲一定ベースでは9%減）。",
+      "営業EBITDAは1,040万ユーロ減の2,010万ユーロ、営業利益は440万ユーロ（前年同期1,440万ユーロ）、純損益は420万ユーロの赤字（前年は250万ユーロの黒字、1株当たり-0.60ユーロ）となった。",
+      "輸送機材リース事業の落ち込みが主因で、期中には米Trinity Industriesがインドの貨車子会社に資本参加するなど財務・資本面の施策も進めた。"
+    ],
+    "collected_at": "2026-09-23T13:26:23-07:00"
   },
   {
     "category": "eu_railcar_leasing",
