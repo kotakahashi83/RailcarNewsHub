@@ -1,5 +1,20 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "India's exporters struggling with shortage of empty boxes at JNPA",
+    "title_ja": "JNPAで輸出用空コンテナが不足、CMA CGM向けが深刻",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/indias-exporters-struggling-with-shortage-of-empty-boxes-at-jnpa/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "インド最大のコンテナ港JNPA（Nhava Sheva）で輸出用の空コンテナ不足が拡大していると、荷主・フォワーダーが報告している。",
+      "本船スケジュールの乱れが機材の回転サイクルを圧迫しており、特にCMA CGM向けは周辺デポが空コンテナの引き渡しを行えない状態にある。",
+      "40フィートコンテナが他のタイプより逼迫しており、車両を手配しても引き取りできずピックアップの遅延や不履行が生じていると現地事業者は警告する。"
+    ],
+    "collected_at": "2026-09-24T06:23:53-07:00"
+  },
+  {
     "category": "eu_railcar_leasing",
     "kind": "news",
     "title": "Siemens receives first major order for 100 Vectron X locomotives from RAILPOOL",
@@ -43,6 +58,51 @@
       "10商品群のうち7群が増加し金属鉱石・金属が3,073件増の23,420件、非金属鉱物が2,209件増の33,629件、石油・石油製品が1,326件増の11,976件となった一方、石炭は1,889件減、穀物は1,778件減だった。"
     ],
     "collected_at": "2026-09-23T13:26:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "UP receives first battery-electric locomotives for testing in California",
+    "title_ja": "UP、Wabtec製バッテリー機関車の実地試験をLAで開始",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/mechanical/locomotives/up-receives-first-battery-electric-locomotives-for-testing-in-california/",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "Union Pacificは、Wabtec製バッテリー電気機関車FLXdrive 4両のうち2両を南カリフォルニアで受領し、試験運用を開始したと発表した。",
+      "残る2両は10月に到着予定で、1両あたり約7,000個のバッテリーセルで2.7MWhを蓄電し、排気ガスを出さずに走行する。",
+      "試験はロサンゼルス周辺の操車場と近距離輸送で実施され、Jim Vena CEOは新技術を実運用で試すことが将来の選択肢を見極める鍵だと述べた。"
+    ],
+    "collected_at": "2026-09-24T06:23:53-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Next phase for autonomous railcar technology in commercial service testing",
+    "title_ja": "Parallel Systems、自律貨車の試験を30マイル区間に拡大",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/next-phase-for-autonomous-railcar-technology-in-commercial-service-testing",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "Parallel Systemsは、自律走行するバッテリー式貨車のFRA承認済み試験を、Genesee & Wyoming傘下Heart of Georgia鉄道の2マイル区間から第2段階へ進めた。",
+      "第2段階はジョージア州VidaliaからHelena東方までの約30マイルで、43カ所の公道踏切を含み、試験中は踏切に誘導員を配置する。",
+      "同社は目視監視から遠隔監視へ移行し、短距離コンテナ輸送における低コストの鉄道代替手段の確立を狙う。"
+    ],
+    "collected_at": "2026-09-24T06:23:53-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Alstom signs launch order with Northrail for its new Traxx Shunter Platform",
+    "title_ja": "Northrail、Alstomの新型入換機を最大100両で枠契約",
+    "source": "Alstom",
+    "url": "https://www.alstom.com/press-releases-news/2026/9/alstom-signs-launch-order-northrail-its-new-traxx-shunter-platform",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "Alstomは、InnoTrans 2026会期中の9月23日に、独リース会社Northrailと新型Traxx Shunter入換機の初回受注となる枠組み契約を締結した。",
+      "確定発注分はパンタグラフとディーゼルを併用する入換機と10年間の保守サービスで、金額は1億ユーロ弱、ドイツでの運用を想定している。",
+      "枠組み契約は最大100両・総額7億ユーロ規模まで拡大可能で、車両はAlstomのベルフォール拠点で設計・組み立てられ、2029年末から納入が始まる。"
+    ],
+    "collected_at": "2026-09-24T06:23:53-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -1393,20 +1453,5 @@
       "両社は2015年以来、北米最大級の機関車近代化で1,000両超のDC-AC改造を実施しており、粘着性能と牽引力の改善や保守費の削減を狙う。"
     ],
     "collected_at": "2026-09-15T21:28:55-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Contracts for Aug. 25, 2026 (USTRANSCOM intermodal container leasing options)",
-    "title_ja": "米軍TRANSCOM、インターモーダルコンテナのリース契約",
-    "source": "U.S. Department of War",
-    "url": "https://www.war.gov/News/Contracts/Contract/Article/4582621/contracts-for-aug-25-2026/",
-    "published_at": "2026-08-25",
-    "summary_ja": [
-      "USTRANSCOMがSeaCube Leasing International、Triton Container International、Textainer Equipment Managementの3社にインターモーダルコンテナリース契約のオプション行使分を発注。",
-      "3件の変更契約の推計総額は4,590万ドルで、プログラム累計額は1億3,740万ドルに達する。",
-      "オプション期間は2026年9月1日から2027年8月31日までで、コンテナのリースに加え整備・修繕・検査やIT支援も対象となる。"
-    ],
-    "collected_at": "2026-09-16T03:12:32-07:00"
   }
 ]
