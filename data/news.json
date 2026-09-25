@@ -75,6 +75,21 @@
     "collected_at": "2026-09-25T06:25:49-07:00"
   },
   {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Digital Automatic Coupler project reaches 'a turning point' as high level demonstration celebrates progress towards commercial deployment",
+    "title_ja": "欧州DAC計画、実証公開で商用展開へ転換点",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/digital-automatic-coupler/2026/09/25/dac-project-reaches-a-turning-point-as-high-level-demonstration-celebrates-progress-towards-commercial-deployment/",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "Europe's Rail Joint Undertakingは9月23日、ベルリン・シュパンダウのHVLE鉄道センターでデジタル自動連結器（DAC）の高官級実証イベントを開催し、商用展開に向けた転換点と位置づけた。",
+      "FP5 TRANS4M-R、FP5-DACtiVate、DACFit、FP5-Future4Freightの各プロジェクトが支援し、従来型連結器とDACの双方による連結を実演した。",
+      "Pioneer DAC Trains（PioDAC）は2027年に営業運行へ入り、改造ガイドラインは2029年まで策定、量産改造は2031〜2036年を計画しており、貨車保有者の改造投資計画に直結する。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "India's exporters struggling with shortage of empty boxes at JNPA",
@@ -240,6 +255,51 @@
     "collected_at": "2026-09-25T06:25:49-07:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Canadian safety officials recommend enhanced wheel inspection system",
+    "title_ja": "カナダTSB、貨車車輪の劣化予測分析の強化を勧告",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/canadian-safety-officials-recommend-enhanced-wheel-inspection-system/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "カナダ運輸安全委員会（TSB）がTransport Canadaと鉄道会社に対し、破損が迫った貨車車輪を早期に特定する仕組みの構築を勧告した。",
+      "2023年4月5日にアルバータ州Uncas付近で発生したCN穀物ユニットトレインの脱線調査に基づく勧告で、車輪衝撃荷重検知装置（WILD）データの分析高度化を求めている。",
+      "現行はWILDの測定値を個別に評価するため劣化速度の速い車輪を識別できず、既存データのトレンド分析導入で貨車所有者の車輪交換判断が前倒しになる可能性がある。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "personnel",
+    "title": "STB Appoints Director of Office of Economics and Senior Advisor",
+    "title_ja": "STB、経済分析局長にMarty Schlenkerを起用",
+    "source": "Surface Transportation Board",
+    "url": "https://www.stb.gov/news-communications/latest-news/pr-26-24/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "米陸上運輸委員会（STB）のPatrick Fuchs委員長は、委員会の承認を得てMarty SchlenkerをOffice of Economics（経済分析局）局長に任命したと発表した。",
+      "同時にTerrence McDermottを委員長付シニアアドバイザーに任命し、両氏は直前まで同委員会で暫定的な移行期ポストに就いていた。",
+      "経済分析局長はデータ収集・報告や委員会決定に関わる経済・産業分析を統括する立場で、UP-NS合併審査など進行中の案件の分析体制強化につながる。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Infranity hits €15bn AUM as it eyes global expansion",
+    "title_ja": "Infranity、運用資産150億ユーロ突破で北米展開加速",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/09/24/infranity-hits-e15bn-aum-as-it-eyes-global-expansion/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "欧州のインフラ投資専業運用会社Infranityが、運用資産残高150億ユーロ（約129億ポンド）を突破し投資家層の国際的な拡大を目指すと発表した。",
+      "2018年にGenerali Groupとの戦略提携として設立され、2025年には私募債戦略で32億ユーロ（うちエンハンストリターン型20億ユーロ、シニアインフラデット12億ユーロ）を調達した。",
+      "ニューヨーク拠点の統合を完了し米国での初回投資を進めており、低炭素輸送やエネルギー転換分野のインフラデット需要の拡大を成長要因に挙げている。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
     "category": "eu_railcar_leasing",
     "kind": "news",
     "title": "Siemens receives first major order for 100 Vectron X locomotives from RAILPOOL",
@@ -343,6 +403,21 @@
       "修正案はZIMが最低6航路（最大10航路）を維持する枠組みや、外国資本の届出基準を24%から10%へ引き下げる内容とされる。"
     ],
     "collected_at": "2026-09-24T21:16:18-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Suez return could leave container capacity 10% above demand, says Bimco",
+    "title_ja": "BIMCO、スエズ復帰なら船腹が需要を10%上回ると分析",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/suez-return-could-leave-container-capacity-10-above-demand-says-bimco",
+    "published_at": "2026-09-23",
+    "summary_ja": [
+      "BIMCOは9月23日公表の市況見通しで、スエズ運河経由が本格再開すれば船腹が需要を約10%上回る需給不均衡に陥る可能性があると分析した。",
+      "船隊能力の伸びは2026年の4.6%から2027年に9%へ加速する見込みで、船隊規模は約3,400万TEU、手持ち工事量は既存船隊の約42%に相当する1,400万TEU超に達している。",
+      "1〜7月の世界コンテナ取扱量は前年同期比5.1%増と堅調だが、混雑や地政学要因による現在の混乱が収束すれば運賃が下押しされ、機材需給や賃借料にも波及しうる。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -466,6 +541,21 @@
   },
   {
     "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific Railroad and Norfolk Southern Combination Gains Additional Momentum",
+    "title_ja": "UP-NS合併、SMART-MDと6件目の労働協約を締結",
+    "source": "Union Pacific",
+    "url": "https://www.up.com/press-releases/growth/stb-rejects-dismissal-request-260922",
+    "published_at": "2026-09-22",
+    "summary_ja": [
+      "Union PacificとNorfolk Southernは、車両整備部門の労組SMART-MDと雇用を生涯保障する「jobs-for-life」協約を締結したと発表した。",
+      "SMART-MDは両社が確保した6件目の労組協約で、SMART-TD、ATDA、BRC、IBB、Iron Workers、USCA、NCFOに続き、合併を支持する労組が反対する労組を上回った。",
+      "同時にSTBが修正合併申請の却下要求を全員一致で退けたことにも言及し、両社は取引完了を2027年後半と見込んでいる。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
+    "category": "rail_industry",
     "kind": "regulatory",
     "title": "Newest STB member criticizes UP-NS merger application",
     "title_ja": "STB新委員、UP-NS合併申請の内容を批判",
@@ -523,6 +613,21 @@
       "上昇要因についてDrewryは船社の船腹調整を、Xenetaは地政学要因を、Dynamarは気象要因による混雑を挙げている。"
     ],
     "collected_at": "2026-09-24T21:16:18-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Germany to revise single wagonload subsidies guidelines",
+    "title_ja": "独政府、単車輸送補助金の配分基準を実績ベースへ見直し",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/policy/2026/09/21/germany-to-revise-single-wagonload-subsidies-guidelines/",
+    "published_at": "2026-09-21",
+    "summary_ja": [
+      "ドイツ政府が単車輸送（single wagonload）向け補助金の配分基準を見直し、計画された輸送量ベースから実際に実施された輸送の実績ベースへ切り替える方針と報じられた。",
+      "2026年の補助金枠は過年度の未執行予算を充当して8,400万ユーロ増額され総額最大3億8,400万ユーロとなるが、翌年は1億1,000万ユーロ減の2億7,400万ユーロに縮小する見込み。",
+      "単車輸送はドイツの鉄道貨物輸送量の18%を占め化学・鉄鋼・自動車向けの基幹サービスであるため、配分基準の変更は貨車の稼働構成や貨車保有者の需要見通しに影響する。"
+    ],
+    "collected_at": "2026-09-25T13:29:17-07:00"
   },
   {
     "category": "alt_investment",
