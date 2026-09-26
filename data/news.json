@@ -17,6 +17,21 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "The disruption dividend is running out, and carriers are ending it themselves",
+    "title_ja": "コンテナ船社の「混乱プレミアム」縮小、スエズ復帰と新造船で",
+    "source": "Container News",
+    "url": "https://container-news.com/the-disruption-dividend-is-running-out-and-carriers-are-ending-it-themselves/",
+    "published_at": "2026-09-26",
+    "summary_ja": [
+      "Container Newsは、紅海・ホルムズ情勢の混乱で高収益を享受してきたコンテナ船社が、スエズ運河経由への復帰を1航海ずつ進めることで「混乱プレミアム」を自ら手放しつつあると論じた。",
+      "復帰と並行して2026年は記録的な新造船の竣工が続き、東西基幹航路の定時率は依然6割を下回る水準にとどまると伝えられている。",
+      "喜望峰迂回の解消は輸送日数の短縮を通じて滞留していたコンテナを解放するため、機材需給と稼働率には緩和方向の圧力となる可能性がある。"
+    ],
+    "collected_at": "2026-09-26T13:27:08-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Box shipping reliability the worst since 2022 - 'a new normal', says DP World",
     "title_ja": "コンテナ船の定時率49.9%、2022年9月以来の低水準",
     "source": "The Loadstar",
@@ -163,6 +178,36 @@
       "DACは連結・解放の自動化で作業の安全性を高め列車長と積載量の拡大や作業時間・コストの削減につながるとされ、イタリア初のデモ列車は2026年内の投入が予定されている。"
     ],
     "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Fuel price crisis: 'Shippers more inclined to shift to rail freight'",
+    "title_ja": "燃料高で荷主の鉄道シフト志向強まる、仏運送会社が転換加速",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/09/25/fuel-price-crisis-shippers-more-inclined-to-shift-to-rail-freight/",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "RailFreight.comは、燃料価格の高騰を背景に荷主の間で道路から鉄道貨物へのモーダルシフト志向が強まっていると報じた。",
+      "フランス・バスク地方の運送会社Transports Darrieussecqは、早期に進めたroad-to-railへの切り替えが奏功し取扱いを伸ばしていると説明している。",
+      "ディーゼル価格の高止まりが続けば欧州の貨車・機関車の稼働需要を下支えする要因となり、リース会社には追い風となりうる。"
+    ],
+    "collected_at": "2026-09-26T13:27:08-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "PIC and USS target more infra debt, eye digital space",
+    "title_ja": "英PICとUSS、インフラデットへの配分拡大を表明",
+    "source": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/pic-and-uss-target-more-infra-debt-eye-digital-space/",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "Infrastructure Investorの欧州フォーラムで、英保険会社Pension Insurance Corporation（PIC）と大学退職年金USSがインフラデットへの配分を拡大する方針を示した。",
+      "両者はデジタル化と電力インフラが交差する領域に大きな資金投下の機会があるとの見方を示している。",
+      "プライベートウェルス層からのインフラデット需要も高まっており、2026年は同分野への配分が回復傾向にあると報じられている。"
+    ],
+    "collected_at": "2026-09-26T13:27:08-07:00"
   },
   {
     "category": "container_leasing",
@@ -388,6 +433,36 @@
       "Coscoは前週に南京発北アフリカ向けのコンテナサービスも始めており、内陸港発の直航化は空コンテナの配置や機材回転に影響しうる。"
     ],
     "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Gdansk and Wilhelmshaven lead growth among Top 15 European ports",
+    "title_ja": "欧州トップ15港の上期取扱量、Wilhelmshavenが36%増で突出",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/09/gdansk-and-wilhelmshaven-lead-growth-among-top-15-european-ports/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "2026年上期の欧州トップ15コンテナ港の取扱量で、GdanskとWilhelmshavenが伸び率上位となった。",
+      "Wilhelmshavenのコンテナ取扱量は前年同期比36%増と突出し、成長は新興ゲートウェイや積替ハブに集中した。",
+      "一方でRotterdam、Antwerp-Bruges、Hamburgなど既存の主要ハブは勢いを欠いており、欧州域内の荷動きと空コンテナの配置に偏りが生じうる。"
+    ],
+    "collected_at": "2026-09-26T13:27:08-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "ICTSI lands US$1 billion loan",
+    "title_ja": "ICTSI、BDOから10年・10億ドルのタームローンを調達",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/09/ictsi-lands-us1-billion-loan/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "フィリピンのコンテナターミナル運営大手International Container Terminal Services（ICTSI）が、BDO Unibankから10年物・10億ドルのタームローンを調達した。",
+      "資金使途は開示していないものの、同社は2026年に7.4億ドルの設備投資を計画し、既存ターミナルの拡張と荷役機器・インフラの更新に充てるとしている。",
+      "メキシコのContecon Manzanillo第3B期やマニラ国際コンテナターミナルなど拡張案件が進行中で、輸送実物資産向けの長期デット供給が続いていることを示す。"
+    ],
+    "collected_at": "2026-09-26T13:27:08-07:00"
   },
   {
     "category": "eu_railcar_leasing",
