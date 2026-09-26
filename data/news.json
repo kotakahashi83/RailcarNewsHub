@@ -1,5 +1,20 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Hazardous Materials: Incorporation of ASME Code Section XII and the National Board Inspection Code",
+    "title_ja": "PHMSA、タンク車等にASME Section XII 2015年版を採用",
+    "source": "Federal Register (PHMSA)",
+    "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19741/hazardous-materials-incorporation-of-asme-code-section-xii-and-the-national-board-inspection-code",
+    "published_at": "2026-09-28",
+    "summary_ja": [
+      "PHMSAは危険物規則（HMR）を改正し、ASMEボイラー・圧力容器規格Section XIIの2015年版を参照規格として取り込む最終規則を公表した。",
+      "対象は特定仕様のカーゴタンク車両（CTMV）、極低温ポータブルタンク、マルチユニット・タンク車タンクの製造と継続使用で、National Board Inspection Code（NBIC）Parts 2・3（Supplement 6含む）の2015年版も併せて取り込む。",
+      "PHMSAは2010年にASME Section XIIをHMRへ初めて採用しており、今回は参照版の更新でタンク製造・補修時に使える規格の選択肢を広げる内容となる。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Box shipping reliability the worst since 2022 - 'a new normal', says DP World",
@@ -88,6 +103,66 @@
       "Pioneer DAC Trains（PioDAC）は2027年に営業運行へ入り、改造ガイドラインは2029年まで策定、量産改造は2031〜2036年を計画しており、貨車保有者の改造投資計画に直結する。"
     ],
     "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "RailState data maps where Saskatchewan potash goes by rail",
+    "title_ja": "RailState、サスカチュワン産カリ肥料の鉄道輸送先を可視化",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/railstate-data-maps-where-saskatchewan-potash-goes-by-rail/",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "線路脇モニタリング会社RailStateのデータが、CPKCとCNで運ばれるサスカチュワン産カリ肥料の行き先を路線別に示した。",
+      "同州で採掘されるカリ肥料はほぼ全量が鉄道で州外に運ばれるため、ホッパー車の需給と輸送ルートの把握に直結する。",
+      "トランプ大統領が9月21日にベラルーシからのカリ肥料調達交渉に言及するなど貿易摩擦で政治問題化しており、荷主や投資家の関心が高まっている。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Rail Industry Wants Full 11th Circ. To Review FRA Rule",
+    "title_ja": "鉄道業界、2人乗務規則で第11巡回区の大法廷審理を請求",
+    "source": "Law360",
+    "url": "https://www.law360.com/articles/2529902/rail-industry-wants-full-11th-circ-to-review-fra-rule",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "AAR、ASLRRAと鉄道6社が、FRAの2人乗務義務規則を支持した第11巡回区控訴裁の判断について大法廷（en banc）での再審理を求めた。",
+      "3人合議体は93ページ・2対1の判断で「鉄道側の主張にはいずれも理由がない」として訴えを退けていた。",
+      "申立ては同判断が行政機関の権限を不当に広げ最高裁判例に反すると主張しており、乗務員規制は貨物列車の運行コストと自動化計画に影響する。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Down 1% Last Week",
+    "title_ja": "Drewry世界コンテナ指数、1%下落し4,468ドル",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-1-last-week-11/",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "9月24日時点のDrewry世界コンテナ指数（WCI）は40フィートコンテナ当たり4,468ドルで、前週から1%下落した。",
+      "下げはアジア→欧州航路の運賃低下が主因で、上海→ロサンゼルスは2%上昇の7,838ドル、上海→ニューヨークは10,373ドルで横ばいだった。",
+      "船社は抜港（ブランクセーリング）で供給を調整しており、翌週は15便の抜港が告知されている。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "FS Logistix is entering the demonstration phase of the DAC system",
+    "title_ja": "FS Logistix、DACを実運用環境での実証段階へ",
+    "source": "Railway PRO",
+    "url": "https://www.railwaypro.com/wp/fs-logistix-is-entering-the-demonstration-phase-of-the-dac-system/",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "イタリアFS傘下のFS Logistixが、InnoTrans 2026でデジタル自動連結器（DAC）を試験段階から実運用環境での実証段階に移すと表明した。",
+      "同社はMercitalia Intermodal、Mercitalia Rail、Mercitalia Shunting & Terminalを通じ、Europe's RailのTRANS4M-RとDACtiVateの両プロジェクトに参加している。",
+      "DACは連結・解放の自動化で作業の安全性を高め列車長と積載量の拡大や作業時間・コストの削減につながるとされ、イタリア初のデモ列車は2026年内の投入が予定されている。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
   },
   {
     "category": "container_leasing",
@@ -298,6 +373,21 @@
       "ニューヨーク拠点の統合を完了し米国での初回投資を進めており、低炭素輸送やエネルギー転換分野のインフラデット需要の拡大を成長要因に挙げている。"
     ],
     "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Yangtze ports test the water with longer container shipping routes",
+    "title_ja": "長江の内陸港、外航コンテナ航路の開設を試行",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/yangtze-ports-test-the-water-with-longer-container-shipping-routes/",
+    "published_at": "2026-09-24",
+    "summary_ja": [
+      "中国・長江沿いの江陰と南京が外航コンテナ輸送に進出し、Cosco Shipping Specialised Carriersが江陰発メキシコManzanillo向けのサービスを開始した。",
+      "初便では機械類や完成品を積んだ500本超のコンテナが多目的船「CSPC Jade」に積載された。",
+      "Coscoは前週に南京発北アフリカ向けのコンテナサービスも始めており、内陸港発の直航化は空コンテナの配置や機材回転に影響しうる。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
   },
   {
     "category": "eu_railcar_leasing",
@@ -553,6 +643,21 @@
       "同時にSTBが修正合併申請の却下要求を全員一致で退けたことにも言及し、両社は取引完了を2027年後半と見込んでいる。"
     ],
     "collected_at": "2026-09-25T13:29:17-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Wabtec Signs $700MM-Plus Rail Services Agreement for Simandou Project",
+    "title_ja": "Wabtec、Simandou鉄道で7億ドル超の保守契約",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/mechanical/locomotives/wabtec-signs-700mm-plus-rail-services-agreement-for-simandou-project/",
+    "published_at": "2026-09-22",
+    "summary_ja": [
+      "Wabtecが、ギニアのSimandou鉄鉱石プロジェクトの鉄道を運営するLa Compagnie du TransGuinéen（CTG）と7億ドル超の長期鉄道サービス契約を結んだ。",
+      "計画・非計画保守、部品とコンポーネントのオーバーホール、部品管理、物流支援、訓練、遠隔診断を含む複数年契約で、同社のアフリカ最大のサービス契約となる。",
+      "2024年以降の機関車受注と合わせた同プロジェクト関連の累計額は12億ドル超で、対象は鉱山とMorebaya港を結ぶ600km超の新線。"
+    ],
+    "collected_at": "2026-09-26T06:27:48-07:00"
   },
   {
     "category": "rail_industry",
