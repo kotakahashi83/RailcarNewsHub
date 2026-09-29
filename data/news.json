@@ -1,5 +1,65 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container spot rates to US East and West coasts slide",
+    "title_ja": "米東西岸向けコンテナスポット運賃が下落、国慶節前に一服",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/container-spot-rates-to-us-east-and-west-coasts-slide",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "Linerlyticaによると、中国の国慶節連休に伴う工場停止を前に、米東岸・西岸向けのスポット運賃がそろって軟化した。",
+      "欧州向けは需要減速で弱含む一方、米国向けは秋の連休明けに関税休戦が需要を押し上げるとの見方もあり、両航路で方向感が分かれている。",
+      "アジア港湾の混雑悪化とスエズ運河経由への復帰加速が重なり、コンテナ機材の回転と配船計画の見通しは複雑さを増している。"
+    ],
+    "collected_at": "2026-09-29T06:28:18-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Hapag-Lloyd ups 2026 profit forecast and submits revised Zim bid",
+    "title_ja": "Hapag-Lloyd、通期EBITDA見通しを上方修正しZim買収案を再提出",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/hapag-lloyd-ups-2026-profit-forecast-and-submits-revised-zim-bid/",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "Hapag-Lloydは投資家向け通知で、2026年通期のEBITDA見通しを27〜37億ドルから39〜44億ドルへ引き上げた。",
+      "グループEBITの見通しも1〜11億ドルから12.5〜17.5億ドルへ修正し、旺盛な需要とスポット運賃の上昇が理由と説明した。",
+      "厚みを増した資金余力は総額42億ドル規模のZim国際事業買収を後押しする一方、同社は運賃の変動と地政学リスクで見通しの不確実性は高いと警告した。"
+    ],
+    "collected_at": "2026-09-29T06:28:18-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "China-US trade truce too late to boost weakening transpac rates",
+    "title_ja": "米中関税休戦、太平洋航路の運賃下支えには間に合わず",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/china-us-trade-truce-too-late-to-boost-weakening-transpac-rates/",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "米中は300億ドル相当の物品を対象に関税を相互に引き下げる「30対30」の合意に達し、対象1,696品目のうち9割超が最恵国税率まで下がる。",
+      "中国側の1,619品目は農産物・水産品・木材などが中心で、米国側は77分類ながら玩具・小型家電・食卓用品といったコンテナ貨物を含み、中国は2027〜28年に米国炭を年1,000万トン以上輸入すると約束した。",
+      "発効には双方の国内手続きが必要で、太平洋航路のスポット運賃はすでに下落局面に入っているため、足元のコンテナ機材需給を押し上げる効果は限られるとみられる。"
+    ],
+    "collected_at": "2026-09-29T06:28:18-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "CWE launches end-to-end Wagon Overhaul Facility",
+    "title_ja": "CWE、英Gascoigne Woodに貨車オーバーホール新拠点を開設",
+    "source": "Rail UK",
+    "url": "https://railuk.com/company-news/cwe-launches-end-to-end-wagon-overhaul-facility/",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "英国の鉄道部品・サービス企業CWEが、North YorkshireのGascoigne Woodに一体型の貨車オーバーホール施設を開設した。",
+      "貨車のオーバーホール、リファービッシュ、技術改造、部品製造を1社で担う体制とし、貨物事業者と貨車リース会社を主な顧客に据える。",
+      "幹線に双方向で接続する全天候型設備で、通年稼働と貨車の動線短縮により入出場の回転を速め、資産の運用復帰を早められるとしている。"
+    ],
+    "collected_at": "2026-09-29T06:28:18-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "regulatory",
     "title": "Hazardous Materials: Incorporation of ASME Code Section XII and the National Board Inspection Code",
@@ -358,6 +418,21 @@
       "同じInnoTransではRDC Deutschlandもデュアルモード2両を約1,000万ユーロで発注し、2027年夏からAutozug Syltなどの牽引に充てる計画を示した。"
     ],
     "collected_at": "2026-09-28T06:32:48-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CSX adds location tracking capabilities to emergency response center",
+    "title_ja": "CSX、緊急対応センターに位置情報・映像共有機能を導入",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/csx_transportation/news/CSX-adds-location-tracking-capabilities-to-emergency-response-center--77826",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "CSXは自社のPublic Safety Coordination Center（PSCC）に、通報者の位置情報とライブ映像をリアルタイムで共有できる機能を導入した。",
+      "オペレーターは通話中に録音の再生、多言語翻訳、重要情報の照合が可能になり、この種のシステム導入は鉄道会社として初という。",
+      "危険品事故では現場位置の特定の遅れが対応上の最大の課題とされてきたため、タンク車を扱う荷主やリース会社にとっても初動短縮につながる。"
+    ],
+    "collected_at": "2026-09-29T06:28:18-07:00"
   },
   {
     "category": "container_leasing",
@@ -958,6 +1033,21 @@
       "2024年以降の機関車受注と合わせた同プロジェクト関連の累計額は12億ドル超で、対象は鉱山とMorebaya港を結ぶ600km超の新線。"
     ],
     "collected_at": "2026-09-26T06:27:48-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "VIP Rail completes new rail yard at Sarnia terminal",
+    "title_ja": "VIP Rail、Sarnia拠点に貨車750両分の新ヤードを完成",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/intermodal/news/VIP-Rail-completes-new-rail-yard-at-Sarnia-terminal--77791",
+    "published_at": "2026-09-22",
+    "summary_ja": [
+      "Alpenglow Rail傘下のVIP Railが、オンタリオ州Sarniaのターミナルで新しい貨車ヤードを完成させたと発表した。",
+      "今回の増設で貨車750両分のスポットを追加し、同拠点の収容能力は2,150両超に拡大した。",
+      "拠点はカナダ有力の石油化学集積地Chemical Valleyにあり、貨車の留置・入換・トランスロード・洗浄・修繕を担うため、リース会社や荷主のフリート運用余力が広がる。"
+    ],
+    "collected_at": "2026-09-29T06:28:18-07:00"
   },
   {
     "category": "rail_industry",
