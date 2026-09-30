@@ -1,5 +1,35 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR reports mixed U.S. rail carload and intermodal units, for week ending September 26",
+    "title_ja": "AAR週次、貨車10.5%減・インターモーダル5.5%増",
+    "source": "Logistics Management",
+    "url": "https://www.logisticsmgmt.com/article/aar_reports_mixed_u.s._rail_carload_and_intermodal_units_for_week_ending_se",
+    "published_at": "2026-09-30",
+    "summary_ja": [
+      "AARが公表した9月26日週の米国輸送量は、貨車が224,146両で前年同週比10.5%減、インターモーダルが294,144個で同5.5%増と方向感が分かれた。",
+      "10品目群のうち増加は3つで、穀物が7,061両増の24,995両、自動車・部品が421両増の16,340両だった。",
+      "減少幅は石炭が21,008両減の58,220両と最大で、非金属鉱物（5,357両減）や化学品（2,937両減）も落ち込み、貨車需要の重しとなっている。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hormuz closure a fatal blow for Dubai and Abu Dhabi transhipment volumes",
+    "title_ja": "ホルムズ閉鎖8カ月、湾岸2港の積替貨物が恒久流出の見方",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/",
+    "published_at": "2026-09-30",
+    "summary_ja": [
+      "ホルムズ海峡の閉鎖は8カ月目に入り、湾岸最大のコンテナ拠点であるJebel Ali（ドバイ）とKhalifa（アブダビ）の積替貨物が恒久的に失われるとの見方が出ている。",
+      "Jebel Aliのターミナル取扱量は第2四半期に前年同期比90.1%減の37.4万TEU（前年同期は380万TEU）まで落ち込んだ。",
+      "DP Worldは海峡外に250万TEU規模の能力を整備し、GulftainerもKhor Fakkanを350万TEUから1,000万TEUへ拡張する計画で、リレー拠点の移動は空コンテナの配置にも影響しうる。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Container spot rates to US East and West coasts slide",
@@ -88,6 +118,51 @@
       "シンプロントンネル改修などの工事による線路容量の低下と長距離輸送の信頼性不足が伸びを抑えた要因と指摘されている。"
     ],
     "collected_at": "2026-09-29T13:28:19-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Great White Fleet supports additional vessel with 2,000 new reefer containers",
+    "title_ja": "Great White Fleet、リーファー2,000本と14隻目を投入",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/shipping-logistics/2026/09/great-white-fleet-supports-additional-vessel-with-2000-new-reefer-containers/",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "Great White Fleet（GWF）は低温物流事業の拡大に伴い、新造リーファーコンテナ2,000本を追加投入すると発表した。",
+      "新造機材はCarrier Transicold製OptimaLINEユニットを搭載し、CA（雰囲気制御）技術でアボカド・ベリー・柑橘などの長距離輸送に対応する。",
+      "14隻目となる「Chiquita Enterprise」が2026年後半に就航予定で、Guayaquil発の新規冷蔵ルートを含む米州・欧州の航路拡充と合わせた機材増強となる。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Israel Finance Ministry opposes Zim sale to Hapag-Lloyd",
+    "title_ja": "イスラエル財務省、ZIM売却に反対の立場",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/09/29/israel-finance-ministry-zim-hapag-lloyd",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "イスラエル財務省は、Hapag-Lloydによる42億ドルのZIM買収を承認すべきでないとの立場を示した。",
+      "首相府も反対姿勢とされ、政府はZIMに対する「ゴールデンシェア」を通じて取引の可否に関与できる立場にある。",
+      "Hapag-Lloydは、財務省の見解が9月24日に提示した改善案（極東への直航路、ゴールデンシェアの強化、イスラエル人船員への投資など）を反映していないとして再検討を求めている。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "CFL Cargo gets first out of 6 Akiem Traxx MS3s",
+    "title_ja": "Akiem、CFL Cargoへ Traxx MS3 の1両目を引き渡し",
+    "source": "RAILMARKET.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWt1YXpFUjNaekVhdUZoWThvNDlyOUFlR1ViUVJuQWJlOHUxeWp5a2tCTEJ5c1NfV3NQSU9TVXVXblBRX2ZxckNjeDZIX1JCeDBEUnYyY1J",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "欧州の機関車リース会社Akiemは、CFL Cargo向けAlstom製Traxx MS3計6両のうち1両目を引き渡したと、InnoTrans 2026に合わせて明らかにした。",
+      "残る車両は順次CFL Cargoのフリートに編入され、ルクセンブルク・ポーランド・フランス・ベルギー・ドイツ・スイスでの越境運用に充当される見込み。",
+      "CFL Cargoは既に同プラットフォームの運用実績があり、今回の調達は国際輸送要件に合わせた車両の標準化・近代化の一環とされる。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -208,6 +283,21 @@
       "1〜8月累計は147万TEU（4.5%減）と西海岸のゲートウェイで荷動きが鈍く、空コンテナの回送や機材配置の負担に影響しうる。"
     ],
     "collected_at": "2026-09-29T13:28:19-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "ROSCo twilight? Government unveils proposals for fewer trains to be leased",
+    "title_ja": "英政府、新車両のリース前提を見直しGBR保有も選択肢に",
+    "source": "Railnews",
+    "url": "https://www.railnews.co.uk/news/2026/09/28-rosco-twilight-government-unveils-proposals.html",
+    "published_at": "2026-09-28",
+    "summary_ja": [
+      "英運輸省（DfT）とDfT Operatorは9月28日に車両・インフラ戦略を公表し、新規車両ごとにリース・公的保有・その他の資金調達手段を比較する方針を示した。",
+      "既存のリース契約は維持される一方、新車両については「リースを既定の選択肢としない」とし、全生涯・全システムのコストやリスク配分、運用柔軟性を評価するとしている。",
+      "背景として車両リース支出は年間27億ポンド、リースと保守で年40億ポンド超に達し、ORRの報告ではROSCOの配当が過去10年で25億ポンドに上ると指摘されている。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
   },
   {
     "category": "container_leasing",
@@ -2100,6 +2190,21 @@
     "collected_at": "2026-09-16T03:12:32-07:00"
   },
   {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "EIG Announces Final Close of Senior Infrastructure Debt Fund VI With $4.0 Billion Raised Across Its Direct Lending Platform",
+    "title_ja": "EIG、インフラデット6号を19億ドルで最終クローズ",
+    "source": "Business Wire (EIG)",
+    "url": "https://www.businesswire.com/news/home/20260909322713/en/EIG-Announces-Final-Close-of-Senior-Infrastructure-Debt-Fund-VI-With-$4.0-Billion-Raised-Across-Its-Direct-Lending-Platform",
+    "published_at": "2026-09-09",
+    "summary_ja": [
+      "EIGは、Senior Infrastructure Debt Fund VI（SIDF VI）を19億ドルで最終クローズし、前号ファンドのほぼ2倍の規模になったと発表した。",
+      "単一投資家向けビークルへの21億ドルを合わせ、ダイレクトレンディング戦略全体では40億ドルを調達し、当初目標の30億ドルを上回った。",
+      "2024年7月の立ち上げ以来SIDF VIは16件・約10億ドルを実行済みで、米欧の発電・再生可能エネルギー・エネルギー転換・ミッドストリームなど重要インフラ向けのシニア担保付債権を対象とする。"
+    ],
+    "collected_at": "2026-09-30T06:29:52-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Singamas profit falls 56.5% as specialised container sales grow",
@@ -2353,80 +2458,5 @@
       "HCCRは船社・フォワーダー・コンテナリース会社への返却前に空コンテナの蔵置・検査・修理を行っており、同拠点は最長720m・コンテナ100個の編成に対応し蔵置能力は12,000TEU。"
     ],
     "collected_at": "2026-09-16T10:15:39-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Greenbrier Announces CEO Succession Upon Planned Retirement of Lorie Tekorius",
-    "title_ja": "Greenbrier、Tekorius CEO退任で後継を指名",
-    "source": "Greenbrier Companies",
-    "url": "https://pressroom.gbrx.com/2026-08-31-Greenbrier-Announces-CEO-Succession-Upon-Planned-Retirement-of-Lorie-Tekorius",
-    "published_at": "2026-08-31",
-    "summary_ja": [
-      "グリーンブライアーがローリー・テコリアスCEO兼社長の退任を発表",
-      "退任は2027年1月の予定",
-      "後任にはブライアン・コムストック氏（現エグゼクティブVP兼米州担当社長）が即座に就任"
-    ],
-    "collected_at": "2026-09-13T14:05:00+09:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old",
-    "title_ja": "FRA、築50年超の貨車に対する特別承認義務を撤廃",
-    "source": "Federal Register (FRA)",
-    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old",
-    "published_at": "2026-08-31",
-    "summary_ja": [
-      "FRAが、製造から50年を超える貨車の使用に必要だった特別承認要件を撤廃する最終規則を官報に掲載した。",
-      "規則の発効は2026年9月30日で、同日掲載の10本を含む計57本から成るFRA初の「規制緩和スプリント」の一環。",
-      "今後は事前の承認申請に代えてFRAへの届出で足りるため、老朽貨車の継続使用が容易になり、リース各社の車齢管理や退役計画に影響する。"
-    ],
-    "collected_at": "2026-09-15T21:28:55-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Regulatory Relief for End of Car Cushioning Units",
-    "title_ja": "FRA、貨車の緩衝装置に関する検査規制を恒久緩和",
-    "source": "Federal Register (Federal Railroad Administration)",
-    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17782/regulatory-relief-for-end-of-car-cushioning-units",
-    "published_at": "2026-08-31",
-    "summary_ja": [
-      "FRAが貨車の緩衝装置(EOCC: end-of-car cushioning unit)と引張装置に関する規則を改正し、これまで免除(waiver)で認めてきた運用緩和を恒久化する最終規則を公布した。",
-      "EOCCが作動状態にあり、非放出状態を示すユニット状態インジケーター(UCI)を備えていれば、明確な油滴が付着していても貨車を運用継続できる。",
-      "UCIを持たないEOCCについては油滴がある場合の修理・交換義務が維持されるため、リース会社・貨車所有者は検査コスト削減と装置更新の判断を迫られる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Freightliner DE puts Alpha Trains' EURO9000 on NSW stone flows",
-    "title_ja": "Freightliner DE、Alpha TrainsのEURO9000を石材輸送に投入",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/freight-rail/62210-freightliner-de-puts-alpha-trains-euro9000-on-nsw-stone-flows",
-    "published_at": "2026-08-31",
-    "summary_ja": [
-      "Freightliner DEが砕石会社Natursteinwerke Weiland（NSW）との複数年輸送契約を延長し、Alpha Trainsからリースしているステッドラー製EURO9000機関車を同社の建設資材輸送に専従で充てる。",
-      "対象はザクセン州のCunnersdorf（Kamenz近郊）とSchwarzkollmを起点とする流動で、機関車の両側面にはNSWのブランド表記が施される。",
-      "EURO9000は電化幹線と非電化のターミナル・採石場側線の双方に対応できるため、重量列車での運用柔軟性を高める点が採用の決め手となっている。"
-    ],
-    "collected_at": "2026-09-17T13:20:55-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Amendments to Brake System Maintenance and Inspection Requirements",
-    "title_ja": "FRA、貨車・機関車のブレーキ検査規則を最終化",
-    "source": "Federal Register (FRA)",
-    "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements",
-    "published_at": "2026-08-31",
-    "summary_ja": [
-      "FRAがブレーキ装置の保守・検査要件を改正する最終規則を官報に掲載し、2026年9月30日に発効する。",
-      "規則は貨物・旅客双方の鉄道車両のブレーキ検査に関する機械設備安全基準を改め、機関車のブレーキ保守・検査について長年運用されてきた免除（waiver）を規則本体に取り込む。",
-      "同日掲載の築50年超貨車の特別承認撤廃・緩衝装置の緩和と同じ規制緩和パッケージの一部で、労組SMART-TDは長編成・重量化する列車には検査頻度の維持が必要だとして緩和に反対している。"
-    ],
-    "collected_at": "2026-09-22T06:26:22-07:00"
   }
 ]
