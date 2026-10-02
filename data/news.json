@@ -2,6 +2,66 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "BNSF hit by severe weather in Southwest and Nebraska",
+    "title_ja": "BNSF、ネブラスカ州の洪水でヤード混乱と輸送遅延",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/bnsf-hit-by-severe-weather-in-southwest-and-nebraska/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "BNSF は10月1日、数時間で4〜5インチの降雨による広域の洪水でネブラスカ州リンカーン周辺の輸送に支障が出ていると顧客に通知した。",
+      "リンカーン・ヤードの作業が乱れ、周辺道路の閉鎖も重なったことで、同社は貨物の遅延と通常より長い輸送日数を見込むとしている。",
+      "同日午後4時半頃にはアイオワ州 Pleasantville 付近で57両編成のうち約25両が脱線し（負傷者・危険物の関与なし）、デモインは9月の降水量14.5インチで観測史上3番目の多雨となっていた。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Piraeus container throughput falls 39% in H1 2026",
+    "title_ja": "ピレウス港Pier I、上期の取扱量が38.7%減",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/piraeus-container-throughput-falls-39-in-h1-2026/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "ギリシャ・ピレウス港 Pier I の2026年上期コンテナ取扱量は241,290TEUで、前年同期の393,876TEU から38.7%減少した。",
+      "内訳は国内貨物が33.1%減の91,967TEU、トランシップが41.8%減の149,323TEU で、減少幅はトランシップでより大きい。",
+      "COSCO Shipping が67%を保有する PPA は、国内・トランシップ双方の商況低迷に加え、関税導入前の前倒し輸送で膨らんだ前年上期の高い基準、および Pier I の投資工事でコンテナ蔵置能力が一時的に縮小したことを理由に挙げた。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Hapag-Lloyd warns of Malaysia’s new manifest rule",
+    "title_ja": "マレーシア、輸出の「マニフェスト無しは積載不可」即時適用",
+    "source": "Container News",
+    "url": "https://container-news.com/hapag-lloyd-warns-of-malaysias-new-manifest-rule/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "Hapag-Lloyd は、マレーシア関税局による「No Manifest, No Load」要件が輸出貨物に即時適用されると顧客に通知した。",
+      "積載前に有効かつ完全な K5 輸出マニフェストが必要で、荷主は本船の入港予定時刻の48時間前までに完全な船積指示を提出し、マレーシア経由のトランシップ貨物も K6 マニフェスト用情報を同じ48時間前までに提出しなければならない。",
+      "不備や遅延がある船積指示のコンテナは承認マニフェストに載らず、Westports、Northport、タンジュン・ペレパス港などでターミナルが積載を拒否して次船へのロールが生じうるため、遅延・ロールに伴う費用は荷主負担となる可能性がある。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Linklaters advises underwriters and lenders on the financing of USS's acquisition of VTG Rail UK",
+    "title_ja": "VTG Rail UK買収、USSが買収ファイナンスを組成",
+    "source": "Legal Desire",
+    "url": "https://legaldesire.com/linklaters-advises-underwriters-and-lenders-on-the-financing-of-usss-acquisition-of-vtg-rail-uk/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "英年金基金 USS による VTG Rail UK の全株式取得について、買収ファイナンスの引受金融機関および貸し手側に Linklaters が助言したと伝えられた。",
+      "案件は同法律事務所の Energy & Infrastructure 部門グローバル責任者 Richard Ginks と Subir Rajadhyaksha パートナーが率いるチームが担当したとされる。",
+      "VTG Rail UK は英国の貨物鉄道向けに約4,500両の車両を貸し出すリース事業で、売買契約は規制当局の承認を要さず2026年第4四半期のクロージングが見込まれている。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "BLET, CPKC reach tentative agreement on new contract for Dakota, Minnesota & Eastern workers",
     "title_ja": "BLETとCPKC、DM&E線の労使協約で暫定合意",
     "source": "Trains",
@@ -73,6 +133,81 @@
       "同社はプライベート・アセットバック市場がセクター・ストラクチャー・リスクリターンの面で多様化し、選別が難しくなっていると指摘しており、設備・輸送機材リース向け与信を含む領域への資金流入が続いていることを示す。"
     ],
     "collected_at": "2026-10-01T13:23:28-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Form 8-K — Entry into a Material Definitive Agreement (Commercial Paper Program)",
+    "title_ja": "Wabtec、最大20億ドルのCP発行プログラムを新設",
+    "source": "SEC EDGAR (Wabtec)",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000013/wab-20261001.htm",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "Wabtec が10月1日付の Form 8-K で、無担保の短期コマーシャルペーパー（CP）発行プログラムを新設したと届け出た。",
+      "発行できるノートの残高上限は常時20億ドルで、各ノートの満期は発行日から最長397日とされている。",
+      "支払いは子会社の GE Transportation などが無条件で保証する構成で、機関車・鉄道機材事業の短期資金調達手段を広げる内容となる。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "NTSB releases preliminary report on NS conductor injury during shoving move",
+    "title_ja": "NTSB、NS車掌の推進運転中の負傷事故で予備報告書",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/ntsb-releases-preliminary-report-on-ns-conductor-injury-during-shoving-move/",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "NTSB は10月1日、9月8日にペンシルベニア州 Conway Yard で起きた Norfolk Southern の車掌重傷事故に関する予備報告書を公表した。",
+      "車掌は219両編成を本線からヤードへ推進（shoving）させる際に乗っていたタンク車から転落し、機関士は無線連絡が取れなくなって列車を停止させようとしていた。",
+      "NTSB は9月に、2020年10月以降の推進運転中の死亡が14件に達したとして乗務員が車両に乗る入換作業の中止を勧告しており、今回はその一連の事案の最新例となる。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Only 12% of container ships berthed on time at Shanghai in August",
+    "title_ja": "上海の定時着岸率12%、アジア港湾の混雑が深刻化",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/only-12-of-container-ships-berthed-on-time-at-shanghai-in-august",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "Sea-Intelligence によると、8月のアジア港湾でのコンテナ船の定時到着率は32.2%まで低下し、遅延船の平均遅延日数は7.28日に拡大した。",
+      "複数の台風に見舞われた中国が最も悪化し、定時率は前月の35.8%から23.9%へ低下、上海は12.2%、寧波は16.9%まで落ち込んだ。",
+      "上海と寧波舟山は2026年上期の世界最大のコンテナ港で、寧波は同期間にシンガポールを上回っており、混雑の長期化は空コンテナの回転と機材手配の不確実性を高める。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "‘Poland punishes EU rail companies for its own customs failures, some risk insolvency’",
+    "title_ja": "ポーランドの関税遡及請求で欧州鉄道物流企業に破綻リスク",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/01/poland-punishes-eu-rail-companies-for-its-own-customs-failures-some-risk-insolvency/",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "ポーランド当局が鉄道物流各社に対し、関税詐欺に絡む制裁金・VAT・関税として合計数億ユーロ規模の支払いを遡及的に求めている。",
+      "対象は2021年から2026年にマワシェビチェ（Małaszewicze）経由で輸入された貨物で、ポーランド自身が検査・通関を済ませた後にEUの調査で不正と判断されたもので、輸入者や倉庫業者が追跡不能・支払不能となったため物流会社が連帯責任を問われている。",
+      "請求額が会社の総資産を超える例もあり裁判所の審理前に破綻する恐れがあるとして、CER・CLECAT・FIATA・UIRR などの欧州業界団体が欧州委員会に緊急の介入を要請した。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Liberty Mutual and Orion expand tie-up with $750m infra debt mandate",
+    "title_ja": "Liberty Mutual、インフラ債務に最大7.5億ドル",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/10/01/liberty-mutual-and-orion-expand-tie-up-with-750m-infra-debt-mandate/",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "Liberty Mutual Investments（LMI）が Orion Infrastructure Capital（OIC）との提携を拡大し、インフラ・デットへ最大7.5億ドル（5.68億ポンド）を投じる枠組みを設けた。",
+      "両社は OIC のプラットフォームで組成するミドルマーケットのインフラ債務を対象とする「Credit Income Strategy」を立ち上げ、これまでに合計2.4億ドルを共同でコミットした。",
+      "LMI は運用資産1,300億ドル超を持つ保険会社 Liberty Mutual Group の運用部門で、OIC と長期の運用委託契約を結ぶことで最大7.5億ドルまで展開できる選択権を得た。"
+    ],
+    "collected_at": "2026-10-02T06:27:04-07:00"
   },
   {
     "category": "rail_industry",
@@ -2638,50 +2773,5 @@
       "発端はAdani Ports（APSEZ）が9月1日から空の輸出入コンテナを港湾SEZ内の指定ヤードに集約し、港外ヤードの指名を認めない方針へ転換したこと。"
     ],
     "collected_at": "2026-09-15T21:28:55-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "200,000 Railcars Face Retirement — What Comes Next?",
-    "title_ja": "貨車20万両が退役期へ、供給構造の転換点",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/200000-railcars-face-retirement-what-comes-next",
-    "published_at": "2026-09-02",
-    "summary_ja": [
-      "北米で約20万両の貨車が耐用年数末期に近づき、大量の代替需要が発生する見通し(TrinityRail幹部)。",
-      "2026年の新造両数は関税不透明感と鋼材コスト高により約2.5万両にとどまる見込みで、2027年は3〜3.5万両に回復すると予測。",
-      "主要レッサーのリース車両稼働率は90%台後半と逼迫しており、穀物輸送や原油動向など地政学要因も荷動きを押し上げている。"
-    ],
-    "collected_at": "2026-09-14T21:26:57-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Railpool adds Duisburg site to its Lokservice",
-    "title_ja": "Railpool、デュイスブルクに整備拠点を追加",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/business/62341-railpool-brings-its-duisburg-and-hamburg-workshops-under-one-company?region=cis",
-    "published_at": "2026-09-02",
-    "summary_ja": [
-      "機関車リースのRailpoolがデュイスブルクの工場を子会社RAILPOOL Lokserviceに統合し、ハンブルクの2拠点と合わせ3工場を1社体制にまとめた。",
-      "デュイスブルク工場はこれまでKTGが運営していたが、統合後も各拠点の運営実務と技術力は維持され、現経営陣が共同経営チームとして残る。",
-      "Christoph Engelがハンブルク2拠点、Carsten Janneckがデュイスブルクを担当し、COOのAlexander Ketterl氏は拠点間連携の円滑化と責任分担の明確化が狙いと説明している。"
-    ],
-    "collected_at": "2026-09-16T10:15:39-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Europe's ageing diesel shunters: ticking time-bomb or chance of a lifetime?",
-    "title_ja": "欧州の老朽ディーゼル入換機、更新需要が焦点に",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/02/europes-ageing-diesel-shunters-ticking-time-bomb-or-chance-of-a-lifetime/",
-    "published_at": "2026-09-02",
-    "summary_ja": [
-      "欧州の入換ヤードで使われるセンターキャブ式ディーゼル機関車の多くが1960〜70年代製で、一斉に退役期を迎えていると機関車リース会社NexrailのLuuk von Meijenfeldt CEOが指摘した。",
-      "老朽機は多量の軽油を消費し、NOxや粒子状物質の排出、騒音・振動といった問題を抱えながら、あらゆる貨物列車の組成に不可欠な存在であり続けている。",
-      "同CEOはこの更新需要を危機ではなく一世代に一度の好機と位置づけ、業界がどう対応するかが欧州鉄道貨物の将来を左右すると論じている。"
-    ],
-    "collected_at": "2026-09-19T06:27:12-07:00"
   }
 ]
