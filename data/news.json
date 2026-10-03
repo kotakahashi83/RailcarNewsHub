@@ -1,5 +1,20 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "DP World expands crane capacity at London Gateway and Southampton",
+    "title_ja": "DP World、英2港にガントリークレーンを追加投入",
+    "source": "Container News",
+    "url": "https://container-news.com/dp-world-expands-crane-capacity-at-london-gateway-and-southampton/",
+    "published_at": "2026-10-03",
+    "summary_ja": [
+      "DP Worldは英国のLondon GatewayとSouthamptonでコンテナ荷役能力を拡張し、上海から運ばれた新造岸壁クレーンが到着した。",
+      "London Gateway向けの2基は重量2,000トン超・高さ約150mで、10億ポンド規模の拡張計画で建設中の全電動Berth 5（2027年稼働予定）に設置される。",
+      "Southamptonには来週さらに2基が到着して岸壁クレーンは計16基となり、2026年に納入された4基の投資額は6,000万ポンド、40フィート2本の同時吊り上げと24,000TEU級船への対応が可能。"
+    ],
+    "collected_at": "2026-10-03T06:27:21-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "BNSF hit by severe weather in Southwest and Nebraska",
@@ -103,6 +118,66 @@
       "RTC Europe は自社運用ではなく既存取引先への再販を想定し、主に東欧発の穀物輸送での運用を見込む。4週間前には DB Cargo から Tagds 型53両を取得している。"
     ],
     "collected_at": "2026-10-02T13:28:54-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Public data shines spotlight on U.S. Class I railroad carload service",
+    "title_ja": "Class I鉄道の貨車サービス実績、STB週次データで初公開",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/public-data-shines-spotlight-on-u-s-class-i-railroad-carload-service/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "STBが7月8日から義務付けた manifest・ローカル輸送の週次サービス報告が、9月29日に初めて公開された。",
+      "アナリストのRick Patersonが13週分の実績を集計し、10月2日付の週次レポート「State of the Rails」で公表した。",
+      "2022年の乗務員不足による広域サービス混乱時の臨時報告制度が恒久化した形だが、Patersonは事業構成・地理・算定方法の違いから鉄道間の単純比較には数%の誤差を見込むべきと警告している。"
+    ],
+    "collected_at": "2026-10-03T06:27:21-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Freight rates into US reach post-Hormuz crisis peak – but no collapse is in sight",
+    "title_ja": "極東発米国向けスポット運賃、Hormuz危機後のピークに到達",
+    "source": "Hellenic Shipping News (Xeneta)",
+    "url": "https://www.hellenicshippingnews.com/freight-rates-into-us-reach-post-hormuz-crisis-peak-but-no-collapse-is-in-sight/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "Xenetaは、極東発米国向けスポット運賃が10月1日に再上昇したものの、2026年のHormuz危機後のピークに達したとの見方を示した。",
+      "上げ幅は米西岸向けが1.4%、米東岸向けが0.7%にとどまる一方、危機前の2月28日比では依然それぞれ344%、335%高い水準にある。",
+      "転換の背景として、台風シーズン終了に伴うアジア側の港湾混雑の緩和と、中国の国慶節連休による10月第1週の輸出減をXenetaのPeter Sand氏は挙げており、極東発北欧州・地中海向けはより早くピークを打って下落中。"
+    ],
+    "collected_at": "2026-10-03T06:27:21-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Down 1% Last Week",
+    "title_ja": "Drewryのコンテナ運賃指数、1%下落し4,434ドル",
+    "source": "Hellenic Shipping News (Drewry)",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-1-last-week-12/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "10月1日時点のDrewry World Container Index（WCI）は40フィート当たり4,434ドルと前週比1%下落し、アジア発欧州向けの下げが主因となった。",
+      "太平洋航路では上海発ニューヨーク向けが1%上昇の10,428ドル、上海発ロサンゼルス向けは7,835ドルで横ばいだった。",
+      "船社は抜港（blank sailing）で船腹を調整しており、翌週の予定は今週の13便から10便に減少、供給はやや増加する見通し。"
+    ],
+    "collected_at": "2026-10-03T06:27:21-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "FMC ‘flexing its muscles’ as it looks to support MARAD",
+    "title_ja": "FMC委員長、定期船会社への監視強化とMARAD支援を表明",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/regulations/fmc-flexing-its-muscles-as-it-looks-to-support-marad",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "FMCのLaura DiBella委員長がニューヨークで開かれたCapital Link年次海事フォーラムで、規制対象である国際定期船社に対し「FMCはかなり大きく力を行使していく」と述べた。",
+      "多数の調査を実施済みで、今後複数の執行措置が動き出すとし、海事分野全体に対してより広く能動的な姿勢を取ると説明した。",
+      "同席したMARADのSydney Plante戦略エンゲージメント担当代理の発言とともに、米国商船隊の再建に向けFMCがMARADを支援する方針が示された。"
+    ],
+    "collected_at": "2026-10-03T06:27:21-07:00"
   },
   {
     "category": "rail_industry",
@@ -313,6 +388,21 @@
       "制動装置に Knorr-Bremse、底部バルブに Pekos、テレマティクスに Nexxiot を採用。工場で回収したCO2を貯留地へ運ぶCCS案件での運用を想定しており、タンク車の新たな需要分野となりうる。"
     ],
     "collected_at": "2026-10-02T13:28:54-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Ukraine approves roadmap to open rail market to competition",
+    "title_ja": "ウクライナ、鉄道市場の段階的自由化ロードマップを承認",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/01/ukraine-approves-roadmap-to-open-rail-market-to-competition/",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "ウクライナ内閣は、貨物・旅客鉄道市場に段階的に競争を導入する鉄道輸送改革のロードマップを承認した。",
+      "現行の垂直統合モデルから、インフラ管理の分離と旅客輸送への透明な財政支援を伴う欧州型の体制へ移行する内容で、EU法・EU加盟交渉・Ukraine Facilityの約束と明確に結び付けられている。",
+      "市場開放は貨物と旅客、1435mm軌間と1520mm軌間の違いを踏まえて段階的に進められ、主要な1520mm網は戒厳令の終了前には開放しないとしている。"
+    ],
+    "collected_at": "2026-10-03T06:27:21-07:00"
   },
   {
     "category": "rail_industry",
@@ -2863,20 +2953,5 @@
       "北米貨車フリートの高齢化に伴う更新需要が、実物資産関連の同社の追い風になるとの見方を示している。"
     ],
     "collected_at": "2026-09-16T03:12:32-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Strike disrupts Mundra empty-container flows",
-    "title_ja": "ムンドラ港のストで空コンテナの搬出入が停滞",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/09/strike-disrupts-mundra-empty-container-flows/",
-    "published_at": "2026-09-03",
-    "summary_ja": [
-      "インド最大のコンテナ拠点ムンドラ港で空コンテナヤード事業者がストに入り、コンテナの搬出入が滞っている。",
-      "1日あたり約5,000本のコンテナが滞留し、Hapag-Lloydは工場詰め用の空コンテナ手配とゲートインの停止を顧客に通知した。",
-      "発端はAdani Ports（APSEZ）が9月1日から空の輸出入コンテナを港湾SEZ内の指定ヤードに集約し、港外ヤードの指名を認めない方針へ転換したこと。"
-    ],
-    "collected_at": "2026-09-15T21:28:55-07:00"
   }
 ]
