@@ -435,6 +435,21 @@
     "collected_at": "2026-10-03T13:26:23-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Global ports caught in a perfect storm",
+    "title_ja": "世界の港湾、地政学・異常気象・労使紛争で混乱",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/ports-terminals/2026/10/global-ports-caught-in-a-perfect-storm/",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "WorldCargo News は、地政学リスク・異常気象・労使紛争が重なり、世界の主要港湾が「パーフェクト・ストーム」の状況に置かれていると報じた。",
+      "同記事によると、Jebel Ali の取扱量は2026年第2四半期に90%減少したとされる。",
+      "既存航路の分断により主要ゲートウェイの序列が塗り替わりつつあり、空コンテナの再配置や機材需給への影響が懸念される。"
+    ],
+    "collected_at": "2026-10-04T06:27:52-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "AAR reports mixed U.S. rail carload and intermodal units, for week ending September 26",
@@ -2938,65 +2953,5 @@
       "Akiemはリース方式により鉄道事業者が事業環境に応じて機関車編成を調整できると説明しており、今回の納入は輸送需要の拡大に対応する協業の一環となる。"
     ],
     "collected_at": "2026-09-17T13:20:55-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "RailPulse develops demurrage-dispute tool",
-    "title_ja": "RailPulse、貨車の滞留料紛争を処理するツールを開発",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/mechanical/article/RailPulse-develops-demurrage-dispute-tool--77680",
-    "published_at": "2026-09-04",
-    "summary_ja": [
-      "貨車テレマティクス連合のRailPulseが、鉄道会社と荷主の間で長年の摩擦源となってきた滞留料(demurrage)紛争を処理する標準フレームワークを開発した。",
-      "10月1日にリリース予定で、テレメトリーに基づく貨車の位置・時刻データを両者が共有する単一データセットとして提供する。",
-      "従来は複数の食い違う貨車記録を突き合わせる必要があり解決が長期化していたため、請求処理の迅速化とリース貨車の実稼働管理の精度向上につながる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "\"Mini-reefer\" containers find a niche",
-    "title_ja": "小型冷凍コンテナ「ミニリーファー」が新市場を形成",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/container-industry/2026/09/mini-reefer-containers-find-a-niche/",
-    "published_at": "2026-09-04",
-    "summary_ja": [
-      "8フィート・10フィートの小型冷凍コンテナ「ミニリーファー」が新たなニッチ市場として立ち上がりつつある。",
-      "メーカーのMultiboxxはこれまでに単相電源仕様のミニリーファー約200台を受注した。",
-      "受注先はレンタルフリートや定置型の冷蔵保管用途が中心で、従来の20/40フィートリーファーとは異なる小口需要を取り込んでいる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "personnel",
-    "title": "Stonepeak's head of transport and logistics to depart",
-    "title_ja": "Stonepeakの運輸・物流統括が退社（Textainer保有元）",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/stonepeaks-head-of-transport-and-logistics-to-depart-exclusive/",
-    "published_at": "2026-09-04",
-    "summary_ja": [
-      "Textainerを保有するインフラ運用会社Stonepeakで、運輸・物流部門を統括するJames Wyper氏が退社する。",
-      "同氏の在籍は10年超に及び、Stonepeakの運輸・物流投資を主導してきた。",
-      "同社は現時点で後任を採用する計画を固めておらず、コンテナリースを含む輸送実物資産分野の投資体制に注目が集まる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Why FreightCar America (RAIL) Could Benefit as North America's Railcar Fleet Gets Older",
-    "title_ja": "北米貨車フリートの高齢化がFreightCar Americaに追い風",
-    "source": "Yahoo Finance",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-freightcar-america-rail-could-142719673.html",
-    "published_at": "2026-09-04",
-    "summary_ja": [
-      "Diamond Hill Capitalが2026年第2四半期のスモールキャップ戦略書簡でFreightCar America（RAIL）に言及。",
-      "同戦略の四半期リターンは24.01%で、ラッセル2000指数の21.49%を上回った。",
-      "北米貨車フリートの高齢化に伴う更新需要が、実物資産関連の同社の追い風になるとの見方を示している。"
-    ],
-    "collected_at": "2026-09-16T03:12:32-07:00"
   }
 ]
