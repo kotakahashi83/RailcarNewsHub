@@ -1,5 +1,20 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Railway Tank Cars and Parts Thereof From Mexico; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
+    "title_ja": "USITC、メキシコ製タンク車の反ダンピング調査を開始",
+    "source": "Federal Register (USITC)",
+    "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "USITCは10月5日、メキシコ産の鉄道タンク車と部品を対象とする反ダンピング・相殺関税調査（701-TA-809、731-TA-1810）の予備段階調査を開始した。",
+      "申立人はUTLX Manufacturingで、ダンピングマージンを12.70〜32.58%、補助金もデミニミス超と主張している。",
+      "予備裁定の期限は11月16日で、肯定的な予備決定が出れば相殺関税は2026年12月、反ダンピング関税は2027年3月から現金担保の対象となりうる。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Adriatic Gate Container Terminal reaches milestone at port of Rijeka",
@@ -13,6 +28,66 @@
       "取扱貨物の多くは鉄道・道路でオーストリア、チェコ、ハンガリー、セルビア、スロバキアなどの内陸市場へ流れており、アドリア海ゲートウェイとしての役割が拡大している。"
     ],
     "collected_at": "2026-10-04T13:27:40-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Asia-US container rates rise, could be at peak; liquid chem tanker rates ex-USG tick higher",
+    "title_ja": "アジア発米国向けコンテナ運賃、2022年来の高値圏でピーク観測",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-rise-could-be-at-peak-liquid-chem-tanker-rates-ex-usg-tick-higher/",
+    "published_at": "2026-10-04",
+    "summary_ja": [
+      "アジア・中国発米国向けのコンテナ運賃は、船社が抜港（ブランクセーリング）で船腹を調整したことから週間でおおむね上昇した。",
+      "米西岸向けは1FEU当たり7,550〜8,400ドル、米東岸向けは9,600〜1万2,000ドルで、いずれも2022年半ばの高値に近い水準にある。",
+      "翌週の抜港予定は13便から10便に減り、国慶節連休で中国の工場が停止することから、Drewryは運賃に下押し圧力がかかるとみている。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Intra Asia Container Index Up 2% Last Week",
+    "title_ja": "Drewryのアジア域内コンテナ指数、6週連続で過去最高",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-up-2-last-week/",
+    "published_at": "2026-10-04",
+    "summary_ja": [
+      "Drewryのアジア域内コンテナ指数（IACI）は前週比2%上昇し、40フィートコンテナ当たり1,518ドルとなった。",
+      "複合指数は6週連続で過去最高を更新し、台風による混乱と港湾混雑が需給を引き締めた。",
+      "船社は抜港や寄港地飛ばしで供給を絞っており、運航コストの上昇も運賃を押し上げる要因になっている。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Rail suppliers warn €1.2bn EU research partnership has no successor yet",
+    "title_ja": "UNIFE、12億ユーロのEU鉄道研究枠組みに後継なしと警告",
+    "source": "Railway Supply",
+    "url": "https://www.railway.supply/rail-suppliers-warn-e1-2bn-eu-research-partnership-has-no-successor-yet",
+    "published_at": "2026-10-04",
+    "summary_ja": [
+      "欧州鉄道産業連盟（UNIFE）は、12億ユーロ規模のEurope's Rail Joint Undertakingについて、2028〜2034年のEU予算に後継枠組みが用意されていないと警告した。",
+      "9月30日に欧州議会で開かれた会合で、UNIFEのEnno Wiebe事務局長や欧州議会議員らが後継プログラムの必要性を訴えた。",
+      "研究資金が途絶えればDAC（デジタル自動連結器）やFRMCSの開発・展開が滞り、研究開発費が欧州大手の3倍以上とされる中国勢に押されると主張している。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Macquarie reveals $99m Technomar boxship refinancing",
+    "title_ja": "Macquarie、Technomarのコンテナ船7隻に9,900万ドルの再融資",
+    "source": "Splash247",
+    "url": "https://splash247.com/macquarie-reveals-99m-technomar-boxship-refinancing/",
+    "published_at": "2026-10-04",
+    "summary_ja": [
+      "Macquarieは、George Youroukos氏率いるTechnomar Groupの船主会社に対し、コンテナ船7隻の再融資を含む9,900万ドルのシニアローンを供与したと明らかにした。",
+      "対象船名・金利・満期は公表しておらず、同社のギリシャ海運向け融資残高は75件超・10億ドル以上に達する。",
+      "Macquarieは2017年のAtlas Maritime案件以降、ギリシャ海運に20億ドル超を投じており、輸送実物資産向けプライベートクレジットの広がりを示している。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
   },
   {
     "category": "container_leasing",
@@ -223,6 +298,21 @@
       "車両は最高速度200km/h で内装を用途別に組み替えられ、購入ではなくリースで欧州の鉄道事業者に提供する計画で、200両はより広い展開の第一弾と位置づけられている。"
     ],
     "collected_at": "2026-10-04T13:27:40-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Class I Briefs: CPKC, CSX, UP",
+    "title_ja": "CPKC、カナダ産穀物を第8週までに499万トン輸送",
+    "source": "Railway Age",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtX0RubldrWGpLOW0xVGZDRTNKYTVUUWQzRUZVU1ZBVUg2eERXSnV4cE5iVWFUTE1LYzlvY1lYQldfWHE0LVlKRVNKeHktNnR5Si1BZEtTaVR3NDdwWlBRUmNPazd1NkFqNTNpcmN2U1gzZTRoc1VBd2NB?oc=5",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "CPKCは穀物年度第8週までに、カナダ産穀物・穀物製品を499万トン超、5万1,268車輸送したと報告した。",
+      "CSXは第35回短距離鉄道カンファレンスを開催し、UPはシュリーブポート（ルイジアナ州）拠点で安全記録の節目を迎えた。",
+      "UPは重量・車両位置・勾配・機関車配置を物理モデルで最適化するPhysics Train Builderを活用し、出発前の編成段階で燃費と安全性を高めているとしている。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
   },
   {
     "category": "rail_industry",
@@ -823,6 +913,21 @@
       "両社はまず投入路線と採算性の検討に着手し、地域仕様への適合や試験、規制当局の承認取得を進める方針で、北米発の貨車自動化技術の海外展開例となる。"
     ],
     "collected_at": "2026-09-30T13:26:59-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CN Focuses on Terminal Efficiency, Expands Transload Operations in Wisconsin",
+    "title_ja": "CN、ウィスコンシン州でトランスロード事業を拡大",
+    "source": "Railway Age",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTlDcTV4VlN1ZEYybll3cmJreGMxS0ZXYnU3ZmJ0QzQ5Z2xrVnZ3NnlrMFNEN2R5UkhDbUlJbWswZVltQmVSVHJrVDJLSEFIeDdqV0pVdG1EbGt3eWVxRTRrWDhJdEI5dFFZWkZGQ1ZReExTcnZncHZCSE5WRGFfZW9vRUtIMU9tdVJsMXEtZi1hMnNCUnlRczJoU3MtZzNBR0FXUFRSeVg4RHFmbm9SVHFXd3liSmRvTGdv?oc=5",
+    "published_at": "2026-09-29",
+    "summary_ja": [
+      "CNはターミナルの効率改善を進めつつ、建設資材・工業材料の需要増に対応してトランスロード（積み替え）能力を拡大すると明らかにした。",
+      "同社のウィスコンシン州への投資は約1億1,000万ドルで、従業員は約1,197人、路線距離は988マイルに及ぶ。",
+      "専用線や自社貨車を持たない荷主の鉄道利用を広げる動きで、同州の産業向け輸送需要の取り込みを狙う。"
+    ],
+    "collected_at": "2026-10-05T06:29:57-07:00"
   },
   {
     "category": "railcar_leasing",
