@@ -1,5 +1,35 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Suez return a major threat to carrier efforts to halt transpac spot rate slide",
+    "title_ja": "スエズ復帰が運賃反転の最大の障害に、荷動きの伸びも鈍化",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/suez-return-a-major-threat-to-carrier-efforts-to-halt-transpac-spot-rate-slide/",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "Linerlytica は、アジア-欧州航路で3カ月続く運賃下落を反転させるうえで最大の障害がスエズ運河経由への復帰だと指摘した。",
+      "MSC はアジア-北欧州の FAK 運賃を10月19日から20フィート3,150ドル、40フィート4,500ドルに引き上げる方針で、各社が10月下旬から値上げを進める。",
+      "国慶節の減便、新造船の竣工増、スエズ回帰が重なり TEU マイル需要は1月以来初めて減少に転じ、機材の回転と調達判断にも影響しうる。"
+    ],
+    "collected_at": "2026-10-06T06:30:53-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "UK freight could benefit from rolling stock reform",
+    "title_ja": "英GBRの車両調達改革、貨物は所管外ながら恩恵の余地",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/06/uk-freight-could-benefit-from-rolling-stock-reform/",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "英政府が9月28日に公表した車両・インフラ戦略により、新造車両を民間保有・リースで調達する従来の前提が改められ、GBR が案件ごとに公有・リース等の資金調達方式を比較する。",
+      "貨物用車両は GBR の所管外だが、インフラ・電化・線路容量への長期的な投資計画を通じて供給網に確実性が生まれ、貨物も間接的に恩恵を受けうる。",
+      "鉄道産業協会(RIA)のダレン・キャプラン最高経営責任者は「貨物が明確に欠けている」と述べ、2050年までに鉄道貨物を75%増やす政府目標の支援を求めた。"
+    ],
+    "collected_at": "2026-10-06T06:30:53-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "regulatory",
     "title": "Railway Tank Cars and Parts Thereof From Mexico; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
@@ -103,6 +133,66 @@
       "運用資産2,730億ポンドの同社は、今回の取得によりインフラ・プライベートデット事業をインフラ担保 CLO などの証券化実物資産投資へ広げると説明している。"
     ],
     "collected_at": "2026-10-05T13:30:14-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Trinity Industries Statement on Antidumping and Countervailing Duty Petition Filed Against Railway Tank Car Imports from Mexico",
+    "title_ja": "Trinity、メキシコ製タンク車の反ダンピング申立てに全面抗弁",
+    "source": "Stock Titan (Trinity Industries)",
+    "url": "https://www.stocktitan.net/news/TRN/trinity-industries-statement-on-antidumping-and-countervailing-duty-0d1l54p1yikc.html",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "Trinity Industries は、Berkshire Hathaway 傘下の UTLX Manufacturing がメキシコ製タンク車に対して申し立てた反ダンピング・補助金相殺関税の請願に全面的に抗弁すると表明した。",
+      "メキシコの Monclova 工場は1998年から北米生産網の一部で、タンク車事業では米国内で2,500人超を雇用し、同工場には米国産鋼材を供給していると説明した。",
+      "商務省と ITC の双方の手続きに積極的に参加する方針で、調査の帰結はメキシコ生産に依存するタンク車の供給コストに影響しうる。"
+    ],
+    "collected_at": "2026-10-06T06:30:53-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Tank car builders square off over Mexican imports",
+    "title_ja": "Greenbrier、タンク車の対メキシコ関税申立てに反論",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/mechanical/freight-cars/tank-car-builders-square-off-over-mexican-imports/",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "Greenbrier は UTLX の請願が「事実にも法にも支持されていない」として、自社の実績を強く擁護する姿勢を示した。",
+      "同社はアーカンソー州 Marmaduke にタンク車専用工場を構え、米国人従業員が現にタンク車を製造していると強調した。",
+      "請願した UTLX は Berkshire Hathaway 傘下で、メキシコからの輸入タンク車がダンピングと補助金を受けていると主張しており、北米タンク車の供給をめぐる貨車メーカー間の対立が鮮明になった。"
+    ],
+    "collected_at": "2026-10-06T06:30:53-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Automotive logistics specialist leases electro-diesel locos",
+    "title_ja": "ARS Altmann、European Loc Pool から Euro9000 を2両リース",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/freight/2026/10/05/automotive-logistics-specialist-leases-electro-diesel-locos/",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "自動車物流を手がける ARS Altmann が、リース会社 European Loc Pool から Stadler Euro9000 電気ディーゼル機関車2両をフルサービスリースで導入する。",
+      "用途はオーストリアを経由するブレンナー回廊の国際輸送で、運行対象国すべてで型式認可を持つため機関車の付け替えが不要になる点を評価した。",
+      "Euro9000 は電化区間で最大9MW・起動牽引力500kN、非電化区間では合計約1.9MWのディーゼル2基で入換やラストマイル輸送に対応する。"
+    ],
+    "collected_at": "2026-10-06T06:30:53-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "CIP Scores Over $1.3 Billion Commitment from NBIM for New Clean Energy Infrastructure Fund",
+    "title_ja": "NBIM、CIP の新旗艦インフラ基金に12億ユーロを出資",
+    "source": "ESG Today",
+    "url": "https://www.esgtoday.com/nbim-commits-over-1-3-billion-to-cips-new-flagship-clean-energy-infrastructure-fund/",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "ノルウェー政府系ファンドの運用主体 NBIM が、Copenhagen Infrastructure Partners の新旗艦ファンド CI VI に12億ユーロ(約13.4億ドル)を出資すると発表した。",
+      "CI VI は今年立ち上げられ目標調達額は160億ユーロとされ、前身の CIP V は2025年に120億ユーロでファイナルクローズしている。",
+      "資金は北米・西欧・アジア太平洋の OECD 諸国で再生可能エネルギーの発電と蓄電に投じられ、機関投資家による実物資産への大型配分が続いている。"
+    ],
+    "collected_at": "2026-10-06T06:30:53-07:00"
   },
   {
     "category": "container_leasing",
