@@ -30,10 +30,10 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy_retry.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -63,6 +63,20 @@ jobs:
         with:
           path: dist
 
+      # deploy-pages polls the Pages API until the deployment reports success.
+      # On 2026-10-05 that poll hung and the 10-minute job timeout killed the run
+      # (opaque "cancelled", no retry), leaving the site stale until the next push.
+      # Give the step a timeout of its own so it fails cleanly, then retry once.
       - name: Deploy to GitHub Pages
         id: deploy
         uses: actions/deploy-pages@v4
+        continue-on-error: true
+        with:
+          timeout: 180000
+
+      - name: Retry deploy to GitHub Pages
+        id: deploy_retry
+        if: steps.deploy.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 300000
