@@ -135,6 +135,51 @@
     "collected_at": "2026-10-06T13:18:28-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Major chemical producer backs UP-NS merger",
+    "title_ja": "米PVC最大手Shintech、UP-NS合併を支持",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/major-chemical-producer-backs-up-ns-merger/",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "米国最大のPVC（塩化ビニル樹脂）生産者Shintechが、UP-NS合併を支持する書簡をSTBに提出した。",
+      "同社は3カ所の生産拠点すべてでUPが鉄道貨物の100%を担う単独接続顧客で、ルイジアナ・テキサスでのSIT用側線拡張などUPのガルフ地域投資を評価した。",
+      "化学業界団体が合併の最有力な批判勢力となってきた中、主要荷主からの明確な支持表明は審査の論点に影響しうる。"
+    ],
+    "collected_at": "2026-10-07T06:30:10-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Senators introduce environmental permitting reform bill",
+    "title_ja": "超党派上院議員、環境許認可改革法案を提出",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/federal_legislation_regulation/news/Senators-introduce-environmental-permitting-reform-bill--77883",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "超党派の上院議員4名が9月30日、連邦の環境審査・許認可手続きを改革するBipartisan American Affordability and Jobs Act of 2026（S.5653）を提出した。",
+      "提案者はCapito環境公共事業委員長で、Whitehouse、Heinrich、Lee各議員が共同提案し、法案はエネルギー・天然資源委員会に付託された。",
+      "審査・訴訟提起の期限明確化、環境審査の範囲の明確化、水質浄化法401条認証の制限などを盛り込み、AARは貨物鉄道の設備投資が長期停滞する現状の改善につながるとして支持を表明した。"
+    ],
+    "collected_at": "2026-10-07T06:30:10-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container shippers focus on service delivery over cost",
+    "title_ja": "荷主、コンテナ輸送でコストより定時性を重視",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/container-shippers-focus-on-service-delivery-over-cost",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "Xenetaのアナリストによると、2027年の物流計画で荷主は運賃水準よりサービス品質・定時性を優先する姿勢に転じている。",
+      "2月末のイラン戦争開始以降、燃油サーチャージ（BAF）は2倍以上に上昇し、スポット運賃はアラビア湾向けで558%、南米東岸向けで466%、米国東岸・西岸向けで各327%・321%上昇した。",
+      "荷主の20〜35%が運賃下落を見込んで3カ月のローリング契約を選んだが、相場が高止まりしたまま交渉力を失う結果となった。"
+    ],
+    "collected_at": "2026-10-07T06:30:10-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "regulatory",
     "title": "Railway Tank Cars and Parts Thereof From Mexico; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
@@ -298,6 +343,21 @@
       "資金は北米・西欧・アジア太平洋の OECD 諸国で再生可能エネルギーの発電と蓄電に投じられ、機関投資家による実物資産への大型配分が続いている。"
     ],
     "collected_at": "2026-10-06T06:30:53-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Yilport invests €100m in Leixões North Container Terminal",
+    "title_ja": "Yilport、Leixões北コンテナTに1億ユーロ投資",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/yilport-invests-e100m-in-leixoes-north-container-terminal/",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "トルコ拠点の港湾運営会社Yilportが、ポルトガル・Leixões港の北コンテナターミナルに1億ユーロを投資すると報じられた。",
+      "同ターミナルはポルトガル政府が2035年までにLeixões港へ投じる9億3,100万ユーロ計画の中核で、うち7億1,200万ユーロは民間負担とされる。",
+      "北ターミナルは年間取扱能力100万TEU規模を目標としており、イベリア半島北部でのコンテナ機材の取り扱い能力拡大につながる可能性がある。"
+    ],
+    "collected_at": "2026-10-07T06:30:10-07:00"
   },
   {
     "category": "container_leasing",
@@ -628,6 +688,36 @@
       "DB InfraGO は標準区分で少なくとも12.5%の引き上げが可能とされ、欧州の貨車・機関車リース利用者にとって運行コストの前提が大きく変わることになる。"
     ],
     "collected_at": "2026-10-06T13:18:28-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Train owner companies pay out record £390m in dividends last year",
+    "title_ja": "英ROSCo3社、過去最高の3億9,000万ポンド配当",
+    "source": "Morning Star",
+    "url": "https://morningstaronline.co.uk/article/train-owner-companies-pay-out-record-ps390m-dividends-last-year",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "英国の鉄道車両の約70%を保有するROSCo3社（Angel Trains、Eversholt Rail、Porterbrook）が、2025年に過去最高の約3億9,000万ポンドの配当を実施したことが決算公表で明らかになった。",
+      "内訳はEversholt Railが2億ポンド、Angel Trainsが1億1,100万ポンド、Porterbrook Holdingsが8,000万ポンドで、3社CEOの報酬は合計約340万ポンド（Porterbrook Mary Grant氏144万ポンド、Eversholt Mary Kenny氏133万ポンド、Angel Trains Malcolm Brown氏70万ポンド）だった。",
+      "政府が鉄道車両の調達・リース方針の見直しを打ち出した直後の公表で、鉄道労組はROSCoへの課税（levy）導入を求めている。"
+    ],
+    "collected_at": "2026-10-07T06:30:10-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "personnel",
+    "title": "Piper Sandler Establishes Infrastructure Debt Advisory Team in London",
+    "title_ja": "Piper Sandler、ロンドンにインフラデット助言チーム新設",
+    "source": "Piper Sandler",
+    "url": "https://www.pipersandler.com/news/piper-sandler-establishes-infrastructure-debt-advisory-team-london",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "Piper Sandlerが10月2日、ロンドン拠点でインフラ向けデット・アドバイザリーチームを新設すると発表した。",
+      "チームはNomura InternationalでEMEAデット助言責任者を務めたStewart Robinson氏が率い、Hugo Muller氏とAnish Shah氏をディレクターとして採用した。",
+      "同チームはエネルギー・電力・インフラ部門に統合され、インフラ企業のデット調達・資本調達案件の助言を担う。"
+    ],
+    "collected_at": "2026-10-07T06:30:10-07:00"
   },
   {
     "category": "rail_industry",
@@ -3388,50 +3478,5 @@
       "carload は8カ月連続、インターモーダルは7カ月連続の前年超えで、主要20品目のうち15品目が前年を上回った。"
     ],
     "collected_at": "2026-09-20T06:28:39-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "BNP Paribas AM Alts closes junior infra debt fund at €1.2bn",
-    "title_ja": "BNPパリバAM、ジュニアインフラ債で12億ユーロ",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/07/bnp-paribas-am-alts-closes-junior-infra-debt-fund-at-e1-2bn/",
-    "published_at": "2026-09-07",
-    "summary_ja": [
-      "BNPパリバAMアルツが欧州向けジュニア・インフラ債務ファンドの第2号を12億ユーロで最終クローズ。",
-      "欧州・アジアの機関投資家から新規・既存双方の出資を獲得し、再生可能エネルギーやデジタルインフラ、クリーンモビリティ等に投資。",
-      "同社のインフラ債務プラットフォーム全体の運用残高は150億ユーロ、累計投資実行額は240億ユーロに達する。"
-    ],
-    "collected_at": "2026-09-14T21:26:57-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Germany provides EUR 36 million for DAC pioneer trains",
-    "title_ja": "ドイツ、DAC先行列車に3,612万ユーロの補助制度",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/07/germany-provides-e36-million-for-dac-pioneer-trains/",
-    "published_at": "2026-09-07",
-    "summary_ja": [
-      "ドイツ連邦交通省（BMV）が、デジタル自動連結器（DAC）を搭載する先行列車を支援する補助制度「PioDAK」を立ち上げた。",
-      "予算は2026〜2029年で3,612万ユーロ、補助率は最大80%とし、2030年までに10〜13編成のDAC改造を目指す。",
-      "第1回公募は2026年9月14〜25日に連邦物流・モビリティ庁（BALM）が受け付け、欧州で初の国家規模のDAC支援策となる。"
-    ],
-    "collected_at": "2026-09-15T21:28:55-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Akiem delivers another Dragon MS locomotive to CD Cargo Poland",
-    "title_ja": "Akiem、CD Cargo Polandへ機関車を追加納入",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/rolling-stock/62566-akiem-delivers-another-dragon-ms-locomotive-to-cd-cargo-poland",
-    "published_at": "2026-09-07",
-    "summary_ja": [
-      "AkiemがČD Cargo PolandにDragon MS型電気機関車をさらに1両納入した。",
-      "同機はポーランド、チェコ、スロバキアでの走行認可を保有し、3カ国にまたがる国際貨物列車への投入が可能になる。",
-      "Akiemはリース方式により鉄道事業者が事業環境に応じて機関車編成を調整できると説明しており、今回の納入は輸送需要の拡大に対応する協業の一環となる。"
-    ],
-    "collected_at": "2026-09-17T13:20:55-07:00"
   }
 ]
