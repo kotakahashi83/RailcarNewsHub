@@ -15,6 +15,21 @@
     "collected_at": "2026-10-07T06:31:43-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Weekly U.S. rail traffic remains ahead of 2025 levels",
+    "title_ja": "AAR週次輸送量、10月3日週は5.1%増",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/weekly-u-s-rail-traffic-remains-ahead-of-2025-levels/",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "AAR集計の10月3日までの週（第39週）の米国鉄道輸送量は、貨車とインターモーダルの合計で52万9,712ユニット、前年同週比5.1%増となった。",
+      "内訳は貨車が23万711両で2.4%増、インターモーダルが29万9,001ユニットで7.4%増。品目別では10分類中7分類が増加し、金属鉱石・金属が12.8%増、石油・同関連製品が12.2%増と伸びを牽引した。",
+      "北米9鉄道合計は72万1,440ユニットで4.4%増、年初39週の米国累計は1,998万8,290ユニット（3.5%増）となり、インターモーダル主導の増勢が続いている。"
+    ],
+    "collected_at": "2026-10-07T13:30:32-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Suez return a major threat to carrier efforts to halt transpac spot rate slide",
@@ -193,6 +208,21 @@
       "荷主の20〜35%が運賃下落を見込んで3カ月のローリング契約を選んだが、相場が高止まりしたまま交渉力を失う結果となった。"
     ],
     "collected_at": "2026-10-07T06:30:10-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Silence Is Not Opposition",
+    "title_ja": "UP、統合支持顧客は貨物量の3割超と主張",
+    "source": "Union Pacific",
+    "url": "https://www.up.com/announcements/customer-news/2026/CN2026-27",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "Union Pacificのマーケティング・販売担当EVPケニー・ロッカー氏が顧客向け書簡を公表し、NS統合について沈黙している顧客を反対派として数えるべきではないと主張した。",
+      "STBに支持意見書を提出済みの顧客はUPの輸送量の30%超を占めるとし、業界団体による1件の提出を顧客数として扱う対立陣営の集計手法を批判している。",
+      "統合案の本論に関する意見・条件付与要求の提出期限は2026年11月18日で、労組や荷主団体の反対表明が相次ぐなかでの顧客向け説得工作となる。"
+    ],
+    "collected_at": "2026-10-07T13:30:32-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -735,6 +765,21 @@
     "collected_at": "2026-10-07T06:30:10-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port Congestion Ties Up 12% of Global Container Shipping Capacity",
+    "title_ja": "港湾混雑が世界船腹の12%を吸収、4年ぶり高水準",
+    "source": "gCaptain",
+    "url": "https://gcaptain.com/port-congestion-ties-up-12-of-global-global-container-shipping-capacity/",
+    "published_at": "2026-10-02",
+    "summary_ja": [
+      "C.H. Robinsonの10月版Edge Reportによると、世界のコンテナ船腹の約12%が港湾混雑に吸収され、過去4年で最も高い水準に達した。",
+      "影響は東アジア・北欧・インド亜大陸で特に大きく、船腹供給自体は比較的潤沢でも荷主が実際に使える輸送能力は目減りしている。",
+      "連休明けの荷動き回復が力強ければ主要便の満載と運賃水準が維持され、回復が弱ければ10月後半にスペースが緩む見通しで、機材の回転率と空コンテナの偏在に直結する。"
+    ],
+    "collected_at": "2026-10-07T13:30:32-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "BLET, CPKC reach tentative agreement on new contract for Dakota, Minnesota & Eastern workers",
@@ -1003,6 +1048,21 @@
       "いずれも全米上位の貨物ボトルネック解消を狙う事業で、トラック輸送の滞留緩和を通じて複合一貫輸送の信頼性にも波及しうる。"
     ],
     "collected_at": "2026-10-06T13:18:28-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Chemet introduces solution for a rail-based CO2 transport and storage in Europe",
+    "title_ja": "Chemet、液化CO2用62立方mタンク貨車を発表",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/technology-innovation/42184-chemet-introduces-solution-for-a-rail-based-co2-transport-and-storage-in-europe",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "ポーランドのタンク製造Chemetが、液化CO2輸送向けの容量62立方メートルの鉄道タンク貨車と、貯蔵・積卸設備を組み合わせた一貫ソリューションを発表した。",
+      "貨車はTSI 321/2013認証で自重約28トン・最大積載62トン（総重量90トン）、積車100km/h・空車120km/h対応、タンクは試験圧力2.6MPaで200mmのポリウレタン断熱とステンレス外装を備える。",
+      "複数車両を同時充填できる専用積卸プラットフォームも併せて提供し、欧州のCCS（CO2回収・貯留）需要拡大を見込んだ新たな貨車需要の芽となる。"
+    ],
+    "collected_at": "2026-10-07T13:30:32-07:00"
   },
   {
     "category": "rail_industry",
