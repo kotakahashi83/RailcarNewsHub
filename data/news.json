@@ -30,6 +30,51 @@
     "collected_at": "2026-10-07T13:30:32-07:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Railcar Market: Fleet Shrinks as Demand Rises (2026 Outlook)",
+    "title_ja": "北米貨車、新造2.5万両に対し解体3.5万両超でフリート純減",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/railcar-market-fleet-shrinks-as-demand-rises-2026-outlook",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "Trinity Industries の Eric Marchetto CFO が、業界の新造が年2.5万両規模にとどまる一方で解体が3.5万両超に達し、北米フリートが純減していると指摘した。",
+      "需要は堅調で、AAR 第39週の北米 carload は前年比1.6%増、インターモーダルは6.9%増、インターモーダル貨車の保留車両数は6〜7年ぶりの低水準にある。",
+      "関税の不確実性と鋼材価格・金利の上昇が顧客の発注判断を遅らせており、UTLX によるメキシコ製タンク車の提訴も車両価格を押し上げる可能性があるという。"
+    ],
+    "collected_at": "2026-10-08T06:26:06-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific CEO ‘99.99%’ confident rail merger will win approval",
+    "title_ja": "UP の Vena CEO、NS 統合の承認に「99.99%」の自信",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/union-pacific-ceo-99-99-confident-rail-merger-will-win-approval",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "Union Pacific の Jim Vena CEO が10月6日の Fox Business 出演で、Norfolk Southern との統合は「99.99%」の確度で承認されると述べた。",
+      "対象案件は850億ドル規模で、同氏は統合により貨物の輸送日数が短縮し、トラックに対する競争力が高まると主張している。",
+      "案件は引き続き STB の審査中で、直近では IBEW をはじめ複数の労働組合が反対を表明している。"
+    ],
+    "collected_at": "2026-10-08T06:26:06-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Yusen Terminals to keep West Coast operating model at Los Angeles",
+    "title_ja": "ONE 傘下 Yusen Terminals、LA で従来型ヤード運営を維持",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/ports-terminals/2026/10/yusen-terminals-to-keep-west-coast-operating-model-at-los-angeles/",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "ONE が51%を保有する Yusen Terminals は、ロサンゼルス港 Berths 212-224 の2056年までのリース延長に伴い、RTG とトップハンドラーを組み合わせた従来型の西海岸ヤード運営を続ける。",
+      "蔵置密度を高められる RMG 方式は採用せず、背後地の制約から年間処理能力は約190万TEUで据え置かれる。",
+      "同社はゼロエミッション荷役機器に2億ドルを追加投資し、STS クレーン2基の新規購入と既存最大6基の嵩上げを行う一方、5年間の最低保証賃料は2億1,380万ドルから2億2,420万ドルに上がる。"
+    ],
+    "collected_at": "2026-10-08T06:26:06-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Suez return a major threat to carrier efforts to halt transpac spot rate slide",
@@ -223,6 +268,21 @@
       "統合案の本論に関する意見・条件付与要求の提出期限は2026年11月18日で、労組や荷主団体の反対表明が相次ぐなかでの顧客向け説得工作となる。"
     ],
     "collected_at": "2026-10-07T13:30:32-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Sea-Intelligence: Asian port congestion could persist into mid-2027",
+    "title_ja": "アジア港湾混雑、2027年半ばまで長期化の恐れ",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/sea-intelligence-asian-port-congestion-could-persist-into-mid-2027/",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "Sea-Intelligence は、台風による滞船で積み上がったアジア主要港の混雑が2027年半ばまで解消しない可能性があると分析した。",
+      "世界の定時到着率はコロナ禍以降初めて50%を下回り、2025年6月の水準に戻るには7〜10か月を要すると試算している。",
+      "9月時点の同社試算は4.5〜6か月だったため回復見通しは後退し、2027年2月の春節前の需要期までに正常化しない恐れがある。"
+    ],
+    "collected_at": "2026-10-08T06:26:06-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -3523,35 +3583,5 @@
       "2024年7月の立ち上げ以来SIDF VIは16件・約10億ドルを実行済みで、米欧の発電・再生可能エネルギー・エネルギー転換・ミッドストリームなど重要インフラ向けのシニア担保付債権を対象とする。"
     ],
     "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "earnings",
-    "title": "Singamas profit falls 56.5% as specialised container sales grow",
-    "title_ja": "Singamas、上期純利益56.5%減とドライ価格下落",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/09/singamas-profit-falls-56-5-as-specialised-container-sales-grow/",
-    "published_at": "2026-09-08",
-    "summary_ja": [
-      "Singamas Container Holdingsの2026年上期決算は売上高が前年同期比23.0%減の1億9,380万ドル、株主帰属純利益が56.5%減の580万ドルとなった。",
-      "ドライコンテナ販売収入は55.0%減の6,090万ドルに落ち込み、20フィートドライの平均販売価格は1,845ドルから1,613ドルへ低下した。",
-      "一方でESS(エネルギー貯蔵システム)向けを中心に特殊・カスタムコンテナの販売が伸びており、ISOドライの生産過剰による価格下押しを部分的に補っている。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Intermodal sets record for August, while carload volume remains strongest in years",
-    "title_ja": "8月のインターモーダルが過去最高、carloadも好調",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/intermodal-sets-record-for-august-while-carload-volume-remains-strongest-in-years/",
-    "published_at": "2026-09-08",
-    "summary_ja": [
-      "AAR の月次統計で、2026年8月の米国鉄道インターモーダル輸送量が月間として過去最高を更新した。",
-      "週平均は約29万7,000個で前年同月比4.4%増と2026年6月の従来記録を上回り、carload も週平均23万5,000超で2019年10月以来の高水準となった。",
-      "carload は8カ月連続、インターモーダルは7カ月連続の前年超えで、主要20品目のうち15品目が前年を上回った。"
-    ],
-    "collected_at": "2026-09-20T06:28:39-07:00"
   }
 ]
