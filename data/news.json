@@ -1,5 +1,80 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "GATX Corporation Sets Date for 2026 Third-Quarter Earnings Release and Conference Call",
+    "title_ja": "GATX、第3四半期決算を10月29日に発表",
+    "source": "Stock Titan (GATX)",
+    "url": "https://www.stocktitan.net/news/GATX/gatx-corporation-sets-date-for-2026-third-quarter-earnings-release-6x5ogy1wihib.html",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "GATX は2026年第3四半期決算を10月29日の米国市場寄り付き前に公表すると発表した。",
+      "同日午前11時（米国東部時間）から電話会議を開催し、自社サイトでウェブキャストと午後2時以降の再生を提供する。",
+      "同社は第2四半期時点で2026年通期の希薄化後EPS見通しを9.90〜10.30ドルとしており、Wells Fargo Rail 統合後のフリート稼働とリース料率が焦点となる。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Four Class I railroads were revenue adequate in 2025",
+    "title_ja": "STB、2025年はClass I 6社中4社が収益十分と判定",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/four-class-i-railroads-were-revenue-adequate-in-2025/",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "STB は、2025年に収益十分（revenue adequate）と認定された米国Class I は6社中4社で、BNSF・CSX・Norfolk Southern・Union Pacific だったと公表した。",
+      "ROI は UP が17.09%で最高、CSX 11.4%、BNSF 10.91%、NS 10.29%と続き、CN の Grand Trunk は6.09%、CPKC 傘下の Soo Line/KCS は5.3%で業界資本コスト9.79%を下回った。",
+      "収益十分性は各社のROIと鉄道業界の税引後資本コストを毎年比較して判定され、運賃規制や投資回収の議論の前提となるため貨車調達・リース需要の見通しにも関わる。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Red Sea Diversion Tracker Shows Exponential Annual Rise",
+    "title_ja": "スエズのコンテナ船通航、前年比154%増で1年ぶり高水準",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-red-sea-diversion-tracker-shows-exponential-annual-rise/",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "Drewry の Red Sea Diversion Tracker によると、10月4日までの週のスエズ運河のコンテナ船通航は双方向合計61隻で過去1年の最高となった。",
+      "通航隻数は前年同週比154%増、直近3週平均は52隻でその前の3週平均を15%上回り、船社が段階的にスエズ航路へ復帰している。",
+      "喜望峰迂回の解消は航海日数の短縮を通じて船腹とコンテナ機材の回転を速めるため、機材需給の緩みにつながりうる。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "High yields spark new container services on ‘bumpy’ India-Middle East trade",
+    "title_ja": "高採算のインド〜中東航路に新サービスが相次ぐ",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/high-yields-spark-new-container-services-on-bumpy-india-middle-east-trade/",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "歴史的に高い運賃採算を背景に、インド〜中東航路で専用コンテナサービスの新設が相次いでいると報じられた。",
+      "Maersk は Nhava Sheva（JNPA）〜Khor Fakkan のシャトル航路を9月24日出航の2,600TEU 船 Maersk Namibia で開始し、当初は隔週運航とされる。",
+      "中国発インド向けの運賃が倍増し船腹が逼迫するなかでの動きで、域内の機材配置や空コンテナの偏在に影響する可能性がある。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "‘It’s not the fault of ERTMS, it’s our fault’: ERA calls for ‘freeze’ on technical rules",
+    "title_ja": "EU鉄道機関、ERTMS仕様の凍結を提唱",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/ertms/2026/10/08/its-not-the-fault-of-ertms-its-our-fault-era-calls-for-freeze-on-technical-rules/",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "欧州鉄道機関（ERA）の Oana Gherghinescu 事務局長は InnoTrans の UNIFE フォーラムで、成熟した ERTMS 仕様は凍結し、産業側に導入を定着させる時間を与えるべきだと述べた。",
+      "欧州ERTMSコーディネーターの Matthias Ruete は、車載 ETCS の改造費が約45万ユーロから90万ユーロへ倍増したと指摘し、2030年の全面導入義務に対し各国計画の達成見込みは約50%にとどまるとした。",
+      "CCS TSI の頻繁な改定は車両改造コストを押し上げ残存価値を損なうため、機関車・貨車リース会社の投資判断に直結する論点となる。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "regulatory",
     "title": "Container battery fire risks prompt US labeling legislation",
@@ -73,6 +148,21 @@
       "同社はゼロエミッション荷役機器に2億ドルを追加投資し、STS クレーン2基の新規購入と既存最大6基の嵩上げを行う一方、5年間の最低保証賃料は2億1,380万ドルから2億2,420万ドルに上がる。"
     ],
     "collected_at": "2026-10-08T06:26:06-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "A record month for Savannah",
+    "title_ja": "Savannah港、9月に過去最高の50.4万TEU",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/a-record-month-for-savannah/",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "Georgia Ports Authority は、Savannah 港の9月のコンテナ取扱が504,015TEU となり、9月としては過去最高だったと発表した。",
+      "前年同月比3.7%増で輸入実入りコンテナは5.5%増、7〜9月の会計年度第1四半期は150万TEU超（前年比約2.7%増）で同港史上2番目の四半期となった。",
+      "アジアの台風による出荷遅れがピーク需要を9月に押し出した形で、北米東岸での実入り・空コンテナの滞留と機材回転に影響しうる。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
   },
   {
     "category": "container_leasing",
@@ -463,6 +553,21 @@
       "北ターミナルは年間取扱能力100万TEU規模を目標としており、イベリア半島北部でのコンテナ機材の取り扱い能力拡大につながる可能性がある。"
     ],
     "collected_at": "2026-10-07T06:30:10-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "personnel",
+    "title": "Barings appoints Sloan Sutta as global head of asset-based finance",
+    "title_ja": "Barings、ABF責任者に Sloan Sutta 氏を起用",
+    "source": "Barings",
+    "url": "https://www.barings.com/en-us/guest/contact/media/news/barings-appoints-sloan-sutta-as-global-head-of-asset-based-finance",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "Barings は asset-based finance（ABF）のグローバル責任者として Sloan Sutta 氏を起用した。",
+      "同氏はニューヨークを拠点に Martin Horne グローバル投資共同責任者へ報告し、運用規模約600億ドル・投資プロフェッショナル65名超のABFプラットフォームの戦略を統括する。",
+      "ABF は設備・輸送機材リースの重要な資金調達チャネルでもあり、大手運用会社の体制強化はリース会社の調達環境に影響しうる。"
+    ],
+    "collected_at": "2026-10-08T13:28:24-07:00"
   },
   {
     "category": "container_leasing",
