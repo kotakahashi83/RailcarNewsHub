@@ -60,6 +60,51 @@
     "collected_at": "2026-10-09T06:29:11-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Back to Suez – Why the rush?",
+    "title_ja": "Drewry、スエズ回帰の経済メリットは小幅と分析",
+    "source": "Hellenic Shipping News (Drewry)",
+    "url": "https://www.hellenicshippingnews.com/back-to-suez-why-the-rush/",
+    "published_at": "2026-10-09",
+    "summary_ja": [
+      "Drewryは9月30日公表のContainer Forecaster 2026年第3号で、船社がスエズ運河経由に戻ろうとする動きは単純な航海コスト比較では説明しにくいと指摘した。",
+      "2.4万TEU船を往復で投入する航路の比較では、スエズ利用による節約は1往復あたり約100万ドル、スロット当たり43ドルにとどまる。",
+      "この試算は戦争リスク保険料や運河側の割引を含んでおらず、いずれも航海ごとの交渉・裁量で変動するため、回帰判断はコスト以外の要因に左右されるとみられる。"
+    ],
+    "collected_at": "2026-10-10T06:26:04-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Down 2% Last Week",
+    "title_ja": "Drewry WCI、2%下落し40フィート4,351ドル",
+    "source": "Hellenic Shipping News (Drewry)",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-2-last-week-7/",
+    "published_at": "2026-10-09",
+    "summary_ja": [
+      "10月8日時点のDrewry World Container Index（WCI）は40フィートコンテナ当たり4,351ドルで、前週比2%下落した。",
+      "太平洋航路は上海-ロサンゼルスが3%安の7,624ドル、上海-ニューヨークが2%安の1万220ドルとなり、アジア-欧州航路も下落した。",
+      "中国の国慶節連休で需要が弱含んだことが主因で、翌週の抜港（ブランクセーリング）は今週の11便から4便へ減少し、船腹（スペース）は増える見通し。"
+    ],
+    "collected_at": "2026-10-10T06:26:04-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "H.I.G. Said to Canvass Investors on $2.6 Billion Infra Fund",
+    "title_ja": "H.I.G.、2号インフラファンドで26億ドル調達を模索",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/h-i-g-said-to-canvass-investors-on-2-6-billion-infra-fund",
+    "published_at": "2026-10-09",
+    "summary_ja": [
+      "H.I.G. Capitalが2号インフラファンド「H.I.G. Infrastructure Partners II」で約26億ドルの調達を目指し、既存投資家への打診を始めたと報じられた。",
+      "目標額は2024年6月に約13億ドルで募集を終えた1号ファンドの約2倍の規模にあたる。",
+      "ミドルマーケットのインフラ企業の過半数株式取得を狙い、グロスIRR15〜20%を目標とするとされるが、関係者の話に基づく報道で正式発表はない。"
+    ],
+    "collected_at": "2026-10-10T06:26:04-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "GATX Corporation Sets Date for 2026 Third-Quarter Earnings Release and Conference Call",
@@ -3658,110 +3703,5 @@
       "同社は複雑化する荷主の物流ニーズに応える統合的な貨車ソリューション戦略を次段階に進めるための布陣と説明している。"
     ],
     "collected_at": "2026-10-01T13:23:28-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Trinity Industries Declares 31-Cent Quarterly Dividend, Its 250th Consecutive Payment",
-    "title_ja": "Trinity Industries、250回連続の四半期配当",
-    "source": "Investing.com",
-    "url": "https://ca.investing.com/news/stock-market-news/trinity-industries-declares-31cent-quarterly-dividend-93CH-4835658",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "Trinity Industriesが1株当たり31セントの四半期配当を発表",
-      "支払日は10月30日、10月15日時点の株主が対象",
-      "250回連続の配当支払いを達成"
-    ],
-    "collected_at": "2026-09-13T11:41:36-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Prime Capital inks €305m for sustainable infra debt",
-    "title_ja": "Prime Capital、サステナブルインフラ債で3億500万ユーロ",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/10/prime-capital-inks-e305m-for-sustainable-infra-debt/",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "プライム・キャピタルが「Prime Sustainable Infrastructure Debt Fund」を最終クローズ",
-      "調達額は3億500万ユーロ",
-      "欧州大陸・北欧地域の中小インフラ開発事業者向け債務性資金を提供"
-    ],
-    "collected_at": "2026-09-13T14:05:00+09:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "ICG Launches European Infrastructure Debt Strategy",
-    "title_ja": "ICG、欧州インフラデット戦略を立ち上げ",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/10/icg-launches-european-infrastructure-debt-strategy/",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "ICGが欧州インフラ向けの新たなデット戦略を立ち上げ、コア/コアプラス分野のインフラ案件に融資",
-      "元Schroders CapitalのAugustin Segard氏と元Antin Infrastructure PartnersのGrégoire Castres Saint Martin氏が戦略の立ち上げ・運営を担当",
-      "既存のインフラ・クレジット事業を拡張し、投資家需要に応える狙い"
-    ],
-    "collected_at": "2026-09-14T22:09:11-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Union Pacific Advances Cross-Border Coal Export Opportunity Through Port of Guaymas",
-    "title_ja": "UP、メキシコGuaymas港経由の石炭輸出ルートを開拓",
-    "source": "Union Pacific",
-    "url": "https://www.up.com/news/growth/union-pacific-advances-cross-border-coal-export-opportunity-thro",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "UPが石炭大手Peabodyおよび米墨の関係者と協力し、メキシコ・ソノラ州のGuaymas港経由で米国炭を輸出する試験輸送を実施したと発表した。",
-      "石炭はワイオミング州パウダーリバー流域のNorth Antelope鉱山を出発し、UP網を経てアリゾナ州NogalesでメキシコのFerromexに継送、Guaymasで船積みされ第1船はベトナム向けとなった。",
-      "米西海岸ターミナル以外の輸出能力を模索する動きで、市場環境が整えば新たな輸出ルートとして定着する可能性があるとUPは説明している。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Box production stays at a high level",
-    "title_ja": "新造コンテナ生産、3年連続で600万TEU超へ",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/container-industry/2026/09/box-production-stays-at-a-high-level/",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "海上コンテナの新造生産量が3年連続で600万TEUを超える見通しとなった。",
-      "老朽コンテナの更新需要増、サプライチェーンの混雑、2026年上期の予想を大きく上回るコンテナ荷動きの伸びが重なり、船社・リース会社が大量の新造ドライおよびリーファーを発注・引き取った。",
-      "高水準の供給が続くことは、機材不足による料率上昇圧力を和らげる一方、リース会社の新造投資余地とフリート更新の選択肢を広げる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "FMC Judge Rejects Peloton's $33.7 Million Demurrage Claim Against Flexport",
-    "title_ja": "FMC判事、Pelotonの3,370万ドル滞留料請求を棄却",
-    "source": "gCaptain",
-    "url": "https://gcaptain.com/fmc-judge-rejects-pelotons-33-7-million-demurrage-claim-against-flexport/",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "FMCの行政法判事Mary Apostolakos Herveyが9月9日付の初期決定で、PelotonがFlexportに求めた3,370万ドルのディテンション・デマレージ等の返還請求を退けた。",
-      "判事はFlexportの慣行が海運法(Shipping Act)に違反した、あるいは損害を生じさせたことをPelotonが立証できなかったとして、賠償責任を否定した。",
-      "2024年提訴の本件はコロナ禍の港湾混雑期に生じた滞留料紛争の一つで、シャーシ不足や内陸輸送遅延の費用負担をめぐるFMC判断の蓄積が進んでいることを示す。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "KKR breaks APAC infra fundraising record with $6.6bn first close for Fund III",
-    "title_ja": "KKR、アジア太平洋インフラ3号で66億ドル初回クローズ",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/kkr-breaks-apac-infra-fundraising-record-with-6-6bn-first-close-for-fund-iii-exclusive/",
-    "published_at": "2026-09-10",
-    "summary_ja": [
-      "KKRがAsia Pacific Infrastructure Investors IIIで66億ドルのファーストクローズを達成し、アジア太平洋のインフラファンド調達として過去最大となった。",
-      "同社はすでに調達済み資金の大半を投資にコミットしている。",
-      "最終的な調達額はこれを大幅に上回る見通しで、アジア太平洋のインフラ実物資産への配分意欲が引き続き強いことを示す。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
   }
 ]
