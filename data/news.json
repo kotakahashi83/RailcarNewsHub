@@ -135,6 +135,21 @@
     "collected_at": "2026-10-10T06:26:04-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "NTSB releases final report on fatal accident involving BNSF conductor in Montana",
+    "title_ja": "NTSB、BNSF車掌死亡事故で安全規定の不備を指摘",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/ntsb-releases-final-report-on-fatal-accident-involving-bnsf-conductor-in-montana/",
+    "published_at": "2026-10-09",
+    "summary_ja": [
+      "NTSBが2025年10月19日にモンタナ州コロンバスで発生したBNSF車掌死亡事故の最終報告書を公表した。",
+      "車掌は停車中の列車の手ブレーキを解放する作業中に隣接本線へ踏み出し、東行きの空の穀物列車に衝突されたとされる。",
+      "報告書は、停車車両の手ブレーキ解放時に線路上安全措置を求める規定がFRA規則にもBNSF社内規則にも無いことと、作業場所の危険に関する安全ブリーフィングの不十分さを要因に挙げたと報じられており、同種作業の取り扱い見直しにつながる可能性がある。"
+    ],
+    "collected_at": "2026-10-11T13:27:01-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "GATX Corporation Sets Date for 2026 Third-Quarter Earnings Release and Conference Call",
@@ -598,6 +613,21 @@
       "Union Pacific の運送約款では Carmack 条項に基づく補償上限の引き上げが別建ての有料オプションであり、列車の長大化・重量化で車両への作用力が増すとする FRA の研究も引用している。"
     ],
     "collected_at": "2026-10-09T06:29:11-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Durban terminal delays drag on as minister calls for action to clear backlog",
+    "title_ja": "ダーバン港の滞留長期化、南ア運輸相が回復計画を要求",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/durban-terminal-delays-drag-on-as-minister-calls-for-action-to-clear-backlog/",
+    "published_at": "2026-10-06",
+    "summary_ja": [
+      "南アフリカの運輸相がダーバン・ゲートウェイ・ターミナル（DGT）を視察し、滞留解消に向けた詳細な回復計画の提出を求めた。",
+      "混乱は8月15日のターミナル運営システム（Navis N4）への移行が発端で、業界関係者の指摘では移行後に週間取扱量が約26%落ち込み、荷役機材の稼働制約も残っているとされる。",
+      "DGTは8月初旬以降ターミナル保管料をゼロに据え置き、10月1日着岸船から段階的に通常の保管条件へ戻す方針で、空コンテナの回転や機材確保への影響は当面続く見通し。"
+    ],
+    "collected_at": "2026-10-11T13:27:01-07:00"
   },
   {
     "category": "railcar_leasing",
