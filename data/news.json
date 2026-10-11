@@ -1,5 +1,35 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Federal Railroad Administration investigating rail dispatch incidents in Chicago area",
+    "title_ja": "FRA、シカゴ地区の運行指令トラブル3件を調査",
+    "source": "Chicago Tribune",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDBGZC1sRjhRVTNPeUVVdGEyajZaVGh0blg1RmFxVkNVOFdKaWhPLUdxRmJDSVozZkxLVlJfdHFIUFhpOXBveDNYcWxqa2lQSXA4djhNckZ0ZXVQdXNIa2JPektJQ1hjYnlhZFlhb2p0UjVKLWdqeENEVUlnSEpFeF9ORTJfOE1uMUZidXBUaC1ieXNEZDVxcXlycmtWR281WHRNVU44OTR6dms5Z2dpODBn?oc=5",
+    "published_at": "2026-10-11",
+    "summary_ja": [
+      "米FRAが、この夏にシカゴ地区の複数の中西部鉄道で起きた列車運行指令システムの不具合3件について調査を進めている。",
+      "うち1件は、保線作業員の線路使用が承認済みの区間へ列車を進入させうる信号を指令ソフトが現示したもので、米列車ディスパッチャー協会（ATDA）がFRAに正式に申し立てた。",
+      "指令システムを供給するWabtecは「広範な試験を経ている」と説明する一方、ATDA会長は当該ソフトに連邦の監督規定がない点を問題視しており、FRAは調査完了後に対応を判断するとしている。"
+    ],
+    "collected_at": "2026-10-11T06:25:52-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
+    "title_ja": "火災のHMM船、コンテナ2,300本積載で南ア避難港へ",
+    "source": "Splash247",
+    "url": "https://splash247.com/fire-stricken-hmm-boxship-seeks-refuge-in-south-africa/",
+    "published_at": "2026-10-10",
+    "summary_ja": [
+      "インドのKattupalliからブラジルSantosへ航行中に火災を起こした5,593TEU型コンテナ船「HMM Platinum」が、南アフリカで避難港を求めている。",
+      "船上には約2,300本のコンテナが積載されており、クレーム専門のW.E. Coxは損害が相当規模になる可能性を警告、共同海損（general average）の宣言が見込まれるという。",
+      "火災はマダガスカル南方でコンテナ1本から発生したとされ、救助はLloyd's Open Form条件でSMITが担当、当初予定のDurban以外の入港先も検討されている。"
+    ],
+    "collected_at": "2026-10-11T06:25:52-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "Capital Volume Remains High",
@@ -3598,110 +3628,5 @@
       "保有約20両の同社にとって、従来型電気機関車とStadler Eurodualの中間を埋める選択肢となる。"
     ],
     "collected_at": "2026-09-16T03:12:32-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "EIG raises $4bn across infrastructure debt platform",
-    "title_ja": "EIG、シニアインフラデット6号で40億ドルを調達",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/11/eig-raises-4bn-across-infrastructure-debt-platform/",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "EIGがダイレクトレンディング・プラットフォーム全体で40億ドルを調達",
-      "最新のシニア・インフラ債務ファンドの最終クローズを含む",
-      "米欧の電力・再生可能エネルギー等、重要インフラ向け優先担保付債権に投資"
-    ],
-    "collected_at": "2026-09-13T14:05:00+09:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "VTG Rail UK to be sold to university pension scheme USS",
-    "title_ja": "VTG、英貨車リース事業を年金基金USSへ売却",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/11/vtg-to-sell-uk-wagon-leasing-business-to-university-pension-scheme/",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "VTGが英子会社VTG Rail UKの全株式を英大手年金基金USS（Universities Superannuation Scheme）へ売却する最終契約を締結した。",
-      "対象は約4,500両の貨車リース事業で、運用資産約840億ポンドのUSSが取得し、2026年第4四半期の完了を見込む。",
-      "規制当局の承認は不要で、現CEOのMarc Hurnが引き続き事業を率いるなど、英国の鉄道貨物拡大方針に沿った年金マネーの実物資産投資となる。"
-    ],
-    "collected_at": "2026-09-15T21:28:55-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Railroad Cost of Capital Set at 9.79% for 2025",
-    "title_ja": "STB、2025年の鉄道業界資本コストを9.79%と決定",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/regulatory/railroad-cost-of-capital-set-at-9-79-for-2025/",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "STBが2025年の鉄道業界の資本コストを9.79%と決定した(Docket No. EP 558)。",
-      "2024年の10.68%から0.89ポイント低下し、2023年の9.87%をも下回る水準となった。",
-      "資本コストは収益十分性(revenue adequacy)の判定や運賃上限審査、RCAFの算定に用いられるため、Class I各社の規制上の位置づけ に直接影響する。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CN files requested conditions in UP-NS merger",
-    "title_ja": "CN、UP-NS合併の承認条件を STB に提出",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/class_is/news/CN-files-requested-conditions-in-UP-NS-merger--77735",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "CNは9月9日、850億ドル規模のUP・NS合併に関して求める条件の概要をSTBに提出した。",
-      "条件案はイリノイ州のHillsboro、Bloomington、Granite City、Danvilleやアイオワ州Des Moinesなど、Class Iの選択肢が2社から1社に減る地点での競争的アクセス維持を柱とする。",
-      "7月にCNとUPが公表した拘束力ある覚書を土台としたもので、CNのOlivier Chouc法務担当上級副社長は中西部市場の競争確保とCNの到達範囲拡大につながると説明した。"
-    ],
-    "collected_at": "2026-09-16T10:15:39-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Alarming decline in Swiss single wagonload",
-    "title_ja": "スイスの単車貨物輸送が大幅に減少",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/11/alarming-decline-in-swiss-single-wagonload/",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "スイスの単車扱い貨物（single wagonload、SWL）の減少が深刻化していると報じられた。",
-      "2026年上期のSWL積載貨車数は前年同期比8%減となった。",
-      "スイス政府は単車扱い事業への支援を続けているものの、荷主からはこの減少がどこまで続くのかを懸念する声が上がっており、欧州の貨車リース需要にとって逆風となる。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Europe's rail associations push back on Capacity Regulation penalty rules",
-    "title_ja": "欧州鉄道団体、容量規則の罰則案に反対",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/policy/2026/09/11/europes-rail-associations-push-back-on-capacity-regulation-penalty-rules/",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "欧州の主要鉄道団体が、EUの新しい容量管理規則（Capacity Management Regulation）に基づくペナルティ規定案に反対する立場を表明した。",
-      "ALLRAIL、ERFA、FTE、UIRRの4団体がステークホルダー協議を経てポジションペーパーを公表した。",
-      "4団体はインフラ管理者が進めるアプローチを「十分に相互的でも顧客志向でもない」と批判しており、運行事業者側の負担配分が今後の争点となる。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "personnel",
-    "title": "AITX announces leadership changes to three C-Suite positions",
-    "title_ja": "AITX、CEOにPeter Appel氏ら経営陣3名を刷新",
-    "source": "Transportation Today",
-    "url": "https://transportationtodaynews.com/news/38698-aitx-announces-leadership-changes-to-three-c-suite-positions/",
-    "published_at": "2026-09-11",
-    "summary_ja": [
-      "American Industrial Transport（AITX）が経営幹部3ポストの人事を発表した。",
-      "Peter Appel氏が次期CEO、Tim Kubiak氏が社長兼COO、Eric Eng氏が最高戦略責任者に就く。",
-      "同社は複雑化する荷主の物流ニーズに応える統合的な貨車ソリューション戦略を次段階に進めるための布陣と説明している。"
-    ],
-    "collected_at": "2026-10-01T13:23:28-07:00"
   }
 ]
