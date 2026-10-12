@@ -17,6 +17,36 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Drewry: Intra Asia Container Index Down 1%",
+    "title_ja": "アジア域内コンテナ指数、6週連騰後に1%下落",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-1/",
+    "published_at": "2026-10-11",
+    "summary_ja": [
+      "Drewry のアジア域内コンテナ指数（IACI）は前週比1%下落し、40フィートコンテナ当たり1,503ドルとなった。",
+      "6週連続の上昇を経て総合指数は横ばい圏に転じ、中国の国慶節連休中もほぼ変動しなかった（前年同期は12%下落）。",
+      "大中華圏発の北東・東南・南アジア向けスポット運賃は連休中の需要減で軟化しており、域内の機材需給は一旦緩む方向にある。"
+    ],
+    "collected_at": "2026-10-12T06:40:18-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "CRRC's self-propelled modular MAGIX freight wagon concept",
+    "title_ja": "CRRC、自走式モジュラー貨車MAGIXを欧州で提示",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/technology-innovation/64372-crrc-s-self-propelled-modular-magix-freight-wagon-concept",
+    "published_at": "2026-10-11",
+    "summary_ja": [
+      "CRRC は InnoTrans 2026 で、バッテリー駆動の自走機能とDAC（デジタル自動連結器）、状態監視機能を備えたモジュラー貨車 MAGIX の試作車を公開した。",
+      "自重17トン、軸重22.5トン、最大積載73トン、最高速度120km/h で、標準軌・G1車両限界に対応する仕様が示された。",
+      "ターミナルや操車場での1両ごとの入換に機関車を要しない運用を狙う構想で、現時点で顧客は決まっておらず欧州市場の反応を探る段階とされる。"
+    ],
+    "collected_at": "2026-10-12T06:40:18-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
     "title_ja": "火災のHMM船、コンテナ2,300本積載で南ア避難港へ",
     "source": "Splash247",
@@ -300,6 +330,21 @@
     "collected_at": "2026-10-09T13:26:37-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Let's Talk Facts About the Union Pacific-Norfolk Southern Merger",
+    "title_ja": "UP、NS合併で顧客500社超の支持を公表し反論",
+    "source": "Union Pacific",
+    "url": "https://www.up.com/news/growth/facts-up-ns-merger-261008",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "Union Pacific は Norfolk Southern 合併への反対論に対し、事実関係をまとめた反論ページを公開した。",
+      "年間210万トラック相当の貨物を道路から鉄道へ移し、荷主のコストを年35億ドル削減、郡間8万8,000超のレーンで単一鉄道サービスを可能にすると主張している。",
+      "STB に支持を提出した顧客は500社超で同社取扱量の30%以上を占めるとし、反対の中心は競合鉄道だと位置づけた。"
+    ],
+    "collected_at": "2026-10-12T06:40:18-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "regulatory",
     "title": "Container battery fire risks prompt US labeling legislation",
@@ -388,6 +433,21 @@
       "アジアの台風による出荷遅れがピーク需要を9月に押し出した形で、北米東岸での実入り・空コンテナの滞留と機材回転に影響しうる。"
     ],
     "collected_at": "2026-10-08T13:28:24-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "A Model Is Not a Shipment",
+    "title_ja": "UP-NS合併の貨物転移予測モデルに疑問符",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/regulatory/a-model-is-not-a-shipment/",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "Railway Age の寄稿（Bob Granatelli）は、UP-NS 合併申請を支える経済モデルの前提と商業的結論に疑問を投げかけた。",
+      "申請側の分析は年約214万トラック分の貨物が道路から鉄道へ転移し、荷主に年約35億ドルの節約が生じると予測している。",
+      "元STB委員長 Marty Oberman は、実際に転移すると述べたトラック荷主の証言がない点と、側線・積込設備といった転換コストの負担を指摘しているという。"
+    ],
+    "collected_at": "2026-10-12T06:40:18-07:00"
   },
   {
     "category": "container_leasing",
@@ -1515,6 +1575,21 @@
     "collected_at": "2026-10-09T06:29:11-07:00"
   },
   {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "MidOcean Concludes 2026 Equity Raise, Securing More Than $4 Billion of Equity Commitments to Accelerate Global LNG Growth Strategy",
+    "title_ja": "MidOcean、LNG事業拡大へ40億ドル超の出資を確保",
+    "source": "EnergyNow (Business Wire)",
+    "url": "https://energynow.com/2026/10/midocean-concludes-2026-equity-raise-securing-more-than-4-billion-of-equity-commitments-to-accelerate-global-lng-growth-strategy/",
+    "published_at": "2026-10-01",
+    "summary_ja": [
+      "EIG が運営する LNG 投資会社 MidOcean Energy が、過去12カ月の資金調達で40億ドル超の出資コミットメントを確保し、当初目標の20億ドルを大きく上回った。",
+      "新規投資家には NYK Line（Diamond Gas MidOcean 経由）、出光興産、The Arab Energy Fund、静岡ガス、韓国の機関投資家などが名を連ねる。",
+      "資金はバランスシートの柔軟性確保と、カナダ・豪州・米国・中南米のLNG権益やシンガポールの輸送・マーケティング事業を含む案件パイプラインの拡充に充てる。"
+    ],
+    "collected_at": "2026-10-12T06:40:18-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "AAR reports mixed U.S. rail carload and intermodal units, for week ending September 26",
@@ -2338,6 +2413,21 @@
       "経済局は運賃紛争・サービスや競争に関する案件・企業結合審査を支える経済分析を担う部署で、UP-NS 統合審査が本格化するなか両氏はいずれも暫定的な役職から正式任用に移った。"
     ],
     "collected_at": "2026-10-04T13:27:40-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Triton International stock reports USD 105.7 million Q2 profit",
+    "title_ja": "Triton、第2四半期純利益1.06億ドルと稼働率98%",
+    "source": "AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHY4SVVtRDVuWG16by1qZHlkc1U3aFN1Tno5amxwTWIwdFd1WE80VWR6SGs1eFZXR3J4eFlSUkh6ZVpTMFNhTUFrZlFVeEZQLTZFRlZZbENrZzV3OXh0TmJJV2NOTmRMWEt6bkZFTVE5cUNfbGx1LTJoMC03ZnRmZEVrek1UTmdHck1BSEs3dDhvM0RpaXNaTXVQcFYzQ2V3Q1VBSjM2eG5KaGwzTUhCYUxhZmltaTdzbDZzYzRB?oc=5",
+    "published_at": "2026-09-25",
+    "summary_ja": [
+      "コンテナリース大手 Triton International の2026年第2四半期の純利益は約1億570万ドルと報じられた。",
+      "四半期報告（6-K）では平均稼働率が前四半期の97.1%から98.0%へ、期末稼働率も97.3%から98.5%へ上昇し、旺盛なリース需要が稼働を押し上げたとされる。",
+      "上期の純利益は約2億1,211万ドルで、第3四半期には Brookfield と SMFL の合弁へのポートフォリオ売却や、タンクコンテナ事業のほぼ全量売却も進めたとみられる。"
+    ],
+    "collected_at": "2026-10-12T06:40:18-07:00"
   },
   {
     "category": "container_leasing",
