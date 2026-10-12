@@ -1,5 +1,80 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Shippers warned: spot rates no pointer to wider box shipping market",
+    "title_ja": "Sea-Intelligence、スポット運賃の指標性低下を指摘",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/shippers-warned-spot-rates-no-pointer-to-wider-box-shipping-market/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "Sea-Intelligence は WCI と Container Trade Statistics のデータを突き合わせ、スポット運賃と市場全体の動きの乖離が拡大していると分析した。",
+      "比較対象はアジア〜欧州が上海〜ロッテルダムとジェノバ、太平洋航路が上海〜ニューヨークとロサンゼルスの月平均運賃で、両航路ともコロナ禍以降スポットの変動性が高まった。",
+      "契約運賃を含む実勢を測る指標としての信頼性が落ちており、機材需給や調達判断をスポット指標だけに頼るのは危険だと荷主に警告している。"
+    ],
+    "collected_at": "2026-10-12T13:27:25-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Shippers stressing over risks from Suez Canal and Red Sea transits",
+    "title_ja": "紅海の治安悪化でもスエズ回帰が継続、荷主に懸念",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/shippers-stressing-over-risks-from-suez-canal-and-red-sea-transits/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "フーシ派とサウジの対立激化で治安が悪化しているにもかかわらず、アジア〜欧州航路のスエズ運河・紅海経由への復帰が続いている。",
+      "先週は CU Lines の2,400TEU型コンテナ船「CUL Klang」が紅海南部で小火器による攻撃を受けたが、他船社の回帰姿勢は変わらなかった。",
+      "Drewry のコンテナ調査責任者は船社の回帰が自社の想定より前倒しで進んでいると認めており、荷主側では輸送リスクと機材の回転計画の見通しづらさへの不安が強まっている。"
+    ],
+    "collected_at": "2026-10-12T13:27:25-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "US Ports Strengthening Trade Ties With China",
+    "title_ja": "LA・ロングビーチ両港、米中関係の安定を要請",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/us-ports-strengthening-trade-ties-with-china/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "ロングビーチ港は取扱貨物の約55%、隣接するロサンゼルス港は約40%が中国関連で、米中関係の変化が荷動きに直結すると両港トップが指摘した。",
+      "ロングビーチ港の Noel Hacegaba CEO は、米中の安定的で建設的な関係が世界経済と国際サプライチェーンの信頼性に重要だと述べた。",
+      "両港はサンペドロ湾で米国最大のコンテナゲートウェイを形成し、港湾労働者・トラック・倉庫・鉄道・小売を抱える物流網を支えるため、貨物量の振れは空コンテナの偏在にも波及しうる。"
+    ],
+    "collected_at": "2026-10-12T13:27:25-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Gothenburg moves to next phase of Skandia Gateway",
+    "title_ja": "ヨーテボリ港、Skandia Gateway の発破・浚渫に着手",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/dredging-reclamation/2026/10/gothenburg-moves-to-next-phase-of-skandia-gateway/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "ヨーテボリ港はコンテナターミナル南岸壁の西端700mの補強工事を完了し、10月13日から航路の発破・浚渫作業に入る。",
+      "施工は4月に約2億200万スウェーデンクローナで契約した Boskalis Sweden が担当し、入札には5社が参加していた。",
+      "泊地水深を13.5mから17.5mへ深掘りして大型コンテナ船の寄港を可能にする計画で、全体の完成は2028年初頭が見込まれている。"
+    ],
+    "collected_at": "2026-10-12T13:27:25-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "First discussions for a potential overhaul of the General Contract of Use for Wagons",
+    "title_ja": "貨車使用契約GCU全面見直しの初協議がベルンで開催",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/freight/2026/10/12/the-rail-freight-industry-concludes-its-first-discussion-of-gcu-overhaul/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "貨車の国際使用契約GCUの全面見直しに向けた初の協議が10月7日にベルンで開かれ、鉄道事業者・貨車保有者・政策担当者ら40名超が参加した。",
+      "ERFA は20年前の枠組みが実務と乖離していると批判し、事業者・保有者・ECM の役割分担の明確化、出発前検査の解釈統一、欠陥の帰責立証やデータ共有の改善を求めた。",
+      "貨車保有者団体 UIP は年300ユーロの署名企業負担をわずかに引き上げ、紛争解決制度や標準化の財源に充てる案を示し、年内に次の会合を開く予定としている。"
+    ],
+    "collected_at": "2026-10-12T13:27:25-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Federal Railroad Administration investigating rail dispatch incidents in Chicago area",
@@ -898,6 +973,21 @@
       "復路のスエズ回帰は NSR の通年利用が難しいことを示し、航路選択を前提としたコンテナの回転日数・機材配置の見積もりに影響しうる。"
     ],
     "collected_at": "2026-10-09T13:26:37-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Union Pacific Railroad Fined $304K for Firing Employee During Severe Weather",
+    "title_ja": "OSHA、UPに雷リスク通報者の解雇で30万ドル超の支払い命令",
+    "source": "Insurance Journal",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/10/05/887830.htm",
+    "published_at": "2026-10-05",
+    "summary_ja": [
+      "OSHA は Union Pacific が連邦鉄道安全法(FRSA)に違反したと認定し、最低30万4,869ドルの未払賃金・逸失給付・補償的および懲罰的損害賠償と弁護士費用の支払いと、記録の抹消を命じた。",
+      "対象はアーカンソー州ノースリトルロックの操車場職員で、落雷リスクを理由に安全上の作業中断を求めて就労を拒否した後に乗務を外され、2024年5月30日に解雇されていた。",
+      "命令は確定しておらず、UPは異議を申し立てて労働省の行政法判事による審理を請求している。同社は2026年3月にもサンアントニオの職員の案件で31万ドル超の支払いを命じられている。"
+    ],
+    "collected_at": "2026-10-12T13:27:25-07:00"
   },
   {
     "category": "container_leasing",
