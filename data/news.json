@@ -76,6 +76,111 @@
   },
   {
     "category": "rail_industry",
+    "kind": "personnel",
+    "title": "Cory, CSX chief operating officer, announces retirement",
+    "title_ja": "CSX、Mike Cory 最高執行責任者が退任へ",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/cory-csx-chief-operating-officer-announces-retirement/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "CSX は10月12日、最高執行責任者（COO）の Mike Cory が退任すると発表した。",
+      "COO 職は当面補充せず、Doug Ryhorchuk 運輸担当上級副社長と Casey Albright ネットワーク運営・サービス設計担当上級副社長が Steve Angel CEO に直接報告する体制に移る。",
+      "Angel CEO は Cory 氏が安全性と生産性を過去最高水準へ引き上げたと評価しており、今回の措置は運行部門の指揮系統を CEO 直轄に寄せる組織再編とみられる。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "TrainsPRO Podcast: Why BNSF Is Fighting the UP-NS Merger",
+    "title_ja": "BNSF、UP-NS 合併に反対する理由を詳説",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/trainspro-podcast/trainspro-podcast-why-bnsf-is-fighting-the-up-ns-merger/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "BNSF の Zak Andersen 首席補佐官兼広報担当副社長が Trains のポッドキャストに出演し、UP-NS 合併に反対する理由を説明した。",
+      "合併が成立すると米国の鉄道輸送ユニットの約50%が単一事業者の下に入るため、いかなる是正措置（コンセッション）も STB の2001年合併規則の基準は満たさないと主張している。",
+      "CPKC によるラレド・ゲートウェイ閉鎖がシカゴとメンフィスに与える含意や、申請側が示すトラックから鉄道への転換見通しの妥当性にも疑問を呈した。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Los Angeles sets monthly cargo record",
+    "title_ja": "ロサンゼルス港、9月に過去最高の104万TEU",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-los-angeles-sets-monthly-cargo-record/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "ロサンゼルス港の2026年9月の取扱量は104万2,652TEU となり、118年の港史で最大の月間取扱量を記録した。",
+      "輸入実入りは54万5,696TEU（前年同月比19%増）、輸出実入りは12万5,751TEU（同10%増）で、空コンテナは約37万1,206TEU と月間ベースの過去最高に達した。",
+      "Gene Seroka 事務局長は堅調な個人消費と荷主の在庫積み増し、同港への貨物シフトを要因に挙げており、記録的な空コンテナ量はアジア向け回送需要の高まりを示している。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Lower container rates are not a return to predictable service, Sogese says",
+    "title_ja": "Sogese、運賃下落は定時性回復を意味せずと警告",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/lower-container-rates-are-not-a-return-to-predictable-service-sogese-says/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "Sogese の Andrea Monti CEO は、スエズ航路の復帰で船腹が戻る一方で船社が抜港により稼働率を守ろうとしており、運賃の下落を定時性の回復と取り違えるべきではないと述べた。",
+      "同社のレポートは、Xeneta による極東〜欧州の定時到着率が8月に6%（2021年終盤以来の低水準）だったとして、9月分が20%超に戻るまで極東〜イタリア間の到着予定に最低8日を上乗せするよう荷主に勧めている。",
+      "Xeneta は110万TEU 規模の貨物滞留を確認したとされ、船腹と需要の再均衡がどの速さで進むかが今後数週間の焦点になるとしている。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Cancelled Sailings Tracker Shows Capacity Gradually Returning",
+    "title_ja": "Drewry、東西航路の抜港率は今後5週で5%に低下",
+    "source": "Hellenic Shipping News (Drewry)",
+    "url": "https://www.hellenicshippingnews.com/drewry-cancelled-sailings-tracker-shows-capacity-gradually-returning/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "Drewry の抜港トラッカーによると、第42週（10月12〜18日）から第46週（11月9〜15日）の主要東西航路では予定713便に対し34便が抜港となり、欠航率は5%にとどまる見通し。",
+      "国慶節明けで船腹が段階的に戻りつつあり予定便の95%が運航される計算だが、抜港はアジア〜北欧州・地中海航路に集中している。",
+      "同航路ではスエズ経由サービスの再開が実質船腹を押し上げており、10月8日時点の WCI が40フィート当たり4,351ドル（前週比2%安）と、運賃の下押し圧力が航路ごとに不均一に強まっている。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "High energy costs threaten rail freight’s viability, warns PKP CEO",
+    "title_ja": "PKP CEO、電力費高騰が鉄道貨物の採算を脅かすと警告",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/poland/2026/10/12/high-energy-costs-threaten-rail-freights-viability-warns-pkp-ceo/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "PKP SA の Alan Beroud CEO は、エネルギーコストと EU における重工業の縮小が鉄道貨物の事業継続性にとって最大の脅威だと述べた。",
+      "ポーランドはベースロード電源の大半を石炭火力に依存しており、EU 排出量取引制度（ETS）の負担が高止まりしていた牽引電力費をさらに押し上げていると指摘した。",
+      "加盟国が鉄道の牽引電力を全面的に非課税にできるとする EU のエネルギー課税案は理事会で審議中で、Beroud CEO は収益環境の悪化が機関車・貨車・ターミナルへの投資資金確保を難しくしていると述べた。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Apogem Capital Raises its Largest Real Assets Fund, Exceeds Target, Closes on $472M",
+    "title_ja": "Apogem、実物資産ファンドで4.72億ドルの調達を完了",
+    "source": "Business Wire",
+    "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-apogem-capital-raises-its-largest-real-assets-fund-exceeds-target-closes-on-472m",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "New York Life 傘下の Apogem Capital は10月12日、実物資産戦略で総額4億7,200万ドルの最終クローズに達したと発表した。",
+      "内訳は Apogem Real Assets Fund IV の3億7,200万ドル（うち従業員出資1,200万ドル）と、別建ての実物資産コインベストメント口座1億ドルで、3億ドルの目標を24%上回った。",
+      "投資対象はエネルギー・天然資源・インフラおよび関連サービスで、北米を中心とする OECD 市場のロウアーミドル〜ミドルマーケット資産に、コインベスト・直接投資・セカンダリーを通じて取り組む。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
+  },
+  {
+    "category": "rail_industry",
     "kind": "news",
     "title": "Federal Railroad Administration investigating rail dispatch incidents in Chicago area",
     "title_ja": "FRA、シカゴ地区の運行指令トラブル3件を調査",
@@ -133,6 +238,21 @@
       "火災はマダガスカル南方でコンテナ1本から発生したとされ、救助はLloyd's Open Form条件でSMITが担当、当初予定のDurban以外の入港先も検討されている。"
     ],
     "collected_at": "2026-10-11T06:25:52-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Alpha Trains completes sale of 11 Talent DMUs for deployment in Poland",
+    "title_ja": "Alpha Trains、Talent 気動車11編成のポーランド売却を完了",
+    "source": "Railvolution",
+    "url": "https://www.railvolution.net/news/alpha-trains-completes-sale-of-11-talent-dmus-for-deployment-in-poland",
+    "published_at": "2026-10-10",
+    "summary_ja": [
+      "欧州の車両リース会社 Alpha Trains は、3両編成の Talent 気動車11編成を Public Transport Service（PTS）と Modertrans Poznań へ売却する取引を、ベルリンの InnoTrans 2026 で完了した。",
+      "対象は独国内で旅客運用されていた中古車で最高速度120km/h・137席。PTS と Modertrans が Paterek と Poznań の設備で改修とポーランドでの認可取得を担い、18か月以内の運行開始を目指す。",
+      "最初の6編成は2026年12月に引き渡される予定で、Alpha Trains は需要次第で今後数年に最大50編成の Talent をポーランド市場へ供給しうるとしている。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -418,6 +538,21 @@
       "STB に支持を提出した顧客は500社超で同社取扱量の30%以上を占めるとし、反対の中心は競合鉄道だと位置づけた。"
     ],
     "collected_at": "2026-10-12T06:40:18-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 3, 2026",
+    "title_ja": "米鉄道輸送量、10月3日週は前年比5.1%増",
+    "source": "Railpace",
+    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-3-2026/",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "AAR によると10月3日までの週の米国鉄道輸送量は貨車とインターモーダルの合計で52万9,712ユニットとなり、前年同週比5.1%増加した。",
+      "貨車は23万711両で2.4%増、インターモーダルは29万9,001個で7.4%増と、伸びはインターモーダルが牽引した。",
+      "10品目中7品目が増加し、金属鉱石・金属が2,647両増の2万3,387両、石炭が1,627両増の5万8,163両、石油・石油製品が1,286両増の1万1,804両だった一方、穀物は1,160両減の2万1,170両と落ち込んだ。"
+    ],
+    "collected_at": "2026-10-13T06:32:00-07:00"
   },
   {
     "category": "container_leasing",
@@ -3823,20 +3958,5 @@
       "ポートフォリオマネジャーのDan McGoeyは、電化を含む3つの構造的な成長ドライバーを軸にポートフォリオを構築していると説明した。"
     ],
     "collected_at": "2026-09-19T13:28:03-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "NeS adds three Akiem-leased Alstom Traxx Universal locomotives to its fleet",
-    "title_ja": "NeS、Akiemからリースした機関車3両を導入",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/rolling-stock/62944-nes-adds-three-akiem-leased-alstom-traxx-universal-locomotives-to-its-fleet",
-    "published_at": "2026-09-13",
-    "summary_ja": [
-      "ドイツの民間貨物鉄道Netzwerkbahn Sachsen（NeS）が、AkiemからAlstom Traxx Universal機関車3両をリースで導入した。",
-      "3両はドイツ・オーストリア・ポーランド・チェコ・ハンガリー・スロバキアでの運行に対応し、最高速度160km/h、多電源時5.6MWの出力を持つ。",
-      "保有約20両の同社にとって、従来型電気機関車とStadler Eurodualの中間を埋める選択肢となる。"
-    ],
-    "collected_at": "2026-09-16T03:12:32-07:00"
   }
 ]
