@@ -1,5 +1,95 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Autonomous battery-electric rail freight technology company raises $100m for commercial expansion",
+    "title_ja": "Parallel Systems、自律貨車の商用化へ1億ドルを調達",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/business/2026/10/13/autonomous-battery-electric-rail-freight-technology-company-raises-100m-for-commercial-expansion/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "自律走行のバッテリー電気式貨車を開発する米 Parallel Systems が、AVP 主導のシリーズCで1億ドル超を調達したと発表した。",
+      "新規投資家として Hillspire、Agility Global、Cobalt Capital が加わり、Anthos Capital や Congruent Ventures など既存株主も追加出資し、累計調達額は2億ドルを超えた。",
+      "資金は第3世代車両「Panther」の量産拡大と海外展開に充てる方針で、Genesee & Wyoming 傘下路線での FRA 監督下のパイロットに続き複数の大手鉄道と導入契約を結んだとしている。"
+    ],
+    "collected_at": "2026-10-13T13:26:00-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BLET members ratify agreement with Georgia Central",
+    "title_ja": "BLET、G&W傘下Georgia Centralと初の労働協約を批准",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/short-lines-regionals/blet-members-ratify-agreement-with-georgia-central/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "機関士組合 BLET の組合員が、Genesee & Wyoming 傘下の短距離鉄道 Georgia Central Railway との新協約を批准した。",
+      "2024年10月に組合加入を選んだ従業員にとって初の協約で、賃率・年功・仕業入札・懲戒手続き・苦情処理・福利厚生・レイオフ・組合代表権の枠組みを定める（具体的条件は非公表）。",
+      "交渉を主導した BLET 全国副委員長 James Logan Jr. は「members に必要な確実性と安定性をもたらす」と述べ、短距離鉄道での組織化の進展を示す事例となった。"
+    ],
+    "collected_at": "2026-10-13T13:26:00-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Strong US import demand will support transpacific rates till new year",
+    "title_ja": "太平洋航路の運賃、米輸入需要で年末まで高止まりの見通し",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/strong-us-import-demand-will-support-transpacific-rates-till-new-year/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "米国の景況が輸入需要を支える一方で欧州の成長が鈍く、太平洋航路の運賃がアジア〜欧州航路を上回る状態が続くとの見方が出ている。",
+      "Evergreen の Wu Kuang Hui ゼネラルマネージャーは「米国航路は強く欧州航路は弱い」と乖離の拡大を指摘し、2027年の春節前まで米国航路を悲観する理由はないと述べた。",
+      "極東発の米国向け輸入は約5.1%増と伸び、複数の主要米港湾で記録的な輸入量と低い在庫水準が続いており、北米向け機材の需給と回転に影響しうる。"
+    ],
+    "collected_at": "2026-10-13T13:26:00-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container shipping schedule reliability hits new low",
+    "title_ja": "コンテナ船の定時性が最低水準、第3四半期の遅延は平均6日",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/container-shipping-schedule-reliability-hits-new-low",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "Xeneta の最新データで、コンテナ船の第3四半期の平均遅延が6日に達し、第2四半期初めから2.4日悪化したことが明らかになった。",
+      "9月の定時到着率は前月比2ポイント低下の27%にとどまり、今年2月以来の低水準となった。",
+      "7月以降の台風の影響がアジア発航路に残り、Xeneta のアナリストはアジア関連航路の定時到着率が12カ月ぶりの低水準にあるとして10月のさらなる悪化を見込んでおり、空コンテナの回転遅延につながりうる。"
+    ],
+    "collected_at": "2026-10-13T13:26:00-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "West African port congestion exposes gaps beyond terminal gates",
+    "title_ja": "西アフリカの港湾混雑、ターミナル外の物流網の不足が露呈",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/west-african-port-congestion-exposes-gaps-beyond-terminal-gates/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "西アフリカ沿岸で港湾混雑が続き、急成長する同地域のコンテナ市場に対しインフラ投資が追いついていないとの懸念が出ている。",
+      "Drewry は昨年の同地域のコンテナ取扱量が前年比19.4%増加したと記録しており、アジア〜西アフリカ航路への大型船投入が背景にあるとされる。",
+      "Drewry の港湾ターミナル専門家 Eirik Hooper は、混雑は「急拡大する船腹と荷動きに対しターミナルと後背の物流が処理しきれていない不整合の結果」と指摘しており、滞留による機材の拘束が長期化する可能性がある。"
+    ],
+    "collected_at": "2026-10-13T13:26:00-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Bridgepoint, AIP Capital and Bahrain’s GFH team up on $1bn aircraft engine leasing platform",
+    "title_ja": "Bridgepoint連合、10億ドル規模の航空機エンジンリース基盤を設立",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/10/13/bridgepoint-aip-capital-and-bahrains-gfh-team-up-on-1bn-aircraft-engine-leasing-platform/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "ロンドン上場のプライベート市場運用会社 Bridgepoint が、AIP Capital とバーレーンの GFH Bank と組み、10億ドル（7億5,550万ポンド）超規模の航空機エンジンリース基盤を構築する。",
+      "同基盤は航空機エンジンを取得し、航空会社や MRO（整備・修理・オーバーホール）事業者などにリースする仕組みで、運用資産・ファンド残高250億ドル超の GFH がコーナーストーン投資家兼戦略パートナーとして参画し、Bridgepoint のファンドと AIP Capital も出資する。",
+      "GFH Equities の Hammad Younas CEO はエンジンを「契約に裏付けられた強靭なキャッシュフローと長期的な構造需要を併せ持つ魅力的な資産クラス」と評しており、輸送機材リースへのプライベート資本流入が続いていることを示す。"
+    ],
+    "collected_at": "2026-10-13T13:26:00-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Shippers warned: spot rates no pointer to wider box shipping market",
