@@ -1,5 +1,65 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "No post-peak easing at US container gateways, despite drayage woes",
+    "title_ja": "米港湾でドレージ能力が逼迫、ピーク明けも緩まず",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "米主要コンテナ港でドレージ（港湾トラック輸送）の能力と運賃の逼迫が続き、ピークシーズン明けでも緩和の兆しが見えていない。",
+      "Descartes によると9月の米国のコンテナ輸入は前年同月比10.3%増で、記録的な取扱量が続くヒューストン港を中心に輸送力が圧迫されている。",
+      "8月中旬以降はドライバーが繁忙期の長距離輸送へ流出したことが最大の要因とされ、港湾と内陸鉄道ランプの双方でボトルネックが懸念されている。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Regional container operators adjust to Middle East conflict",
+    "title_ja": "中東情勢で大手フィーダー3社が配船体制を見直し",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/regional-container-operators-adjust-to-middle-east-conflict",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "世界最大手のフィーダー船社3社が中東情勢を受けてサービスを見直し、Global Feeder Shipping（GFS）が輸送力を拡大する一方、X-Press Feeders と DP World は展開を縮小している。",
+      "GFS は過去1年で稼働船腹を約31%拡大したが、AD Ports Group が81%を保有する同社船2隻がホルムズ海峡付近で被弾し、4,350TEU型 GFS Giselle が軽微な損傷、2,824TEU型 GFS Pride は沈没した。",
+      "Alphaliner の9月21日時点の調査では、X-Press Feeders は配船能力ベースで世界最大のフィーダー船社の座を保ちつつ、船隊規模は前年比7.1%縮小している。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Captrain Germany is leasing two Traxx locomotives for international transport operations",
+    "title_ja": "Railpool、Captrain Deutschland に Traxx 2両を追加リース",
+    "source": "Railway PRO",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEc5Z1JlalhnaF9rMHh6Z2xHSmN2cy1BM2daNUdTaWlrWEVEb3hhYnlWMVVOZ2VmWVVPNGlyTlJzQi10cTUxbGlSQk54Rlg0WVc3TjhsWmJlNDJ2LWJGU0VHZTZSWnVzekpCZmtyQjZvTUJzYVBGVHJ2OEJveTNWMVM2dnNfWG8?oc=5",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "機関車リース会社 Railpool が、Captrain Deutschland 傘下の CargoWest 向けに Alstom 製 Traxx Universal（188形）2両を貸し出す協業を継続した。",
+      "2両はドイツ～フランス間の越境輸送に投入され、うち1両は非電化区間に対応するラストマイル用ディーゼルエンジンを搭載している。",
+      "リース期間中の保守・整備は Railpool が担い、独仏両国にある専門提携工場網を通じてサービスを提供する体制をとる。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Kartesia deploys €88m across aviation and maritime deals",
+    "title_ja": "Kartesia、航空・海事・物流の3案件に8,800万ユーロを投融資",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/10/15/kartesia-deploys-e88m-across-aviation-and-maritime-deals/",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "Kartesia Asset Finance（KAF）が3号ファンド KAF III から、欧州と米国の航空・海事・物流分野の3案件に合計8,800万ユーロを投じた。",
+      "内訳はスペインの救難ヘリ3機のリファイナンス1,700万ユーロ、セミトレーラーや冷凍コンテナを含むスペインの物流資産ポートフォリオ向け3,600万ユーロ、米国の洋上風力支援特殊船団のリファイナンス3,500万ユーロ。",
+      "KAF III は欧州投資基金（EIF）からの5,000万ユーロを含む3億6,600万ユーロでクローズしており、同社は数カ月で3件を実行した点を案件パイプラインの厚みの証左と説明している。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Intermodal volume sets record in third quarter",
@@ -133,6 +193,51 @@
       "Encinaの投資チーム14人がBSPへ移り同戦略の運用・組成を継続する体制で、Franklin Templetonはオルタナ資産3,000億ドル超の運用規模を生かすとしている。"
     ],
     "collected_at": "2026-10-14T13:24:46-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Problems with spring switch led to NS derailment and collision in Illinois: NTSB",
+    "title_ja": "NTSB、NSの脱線事故は部門間の連携手順不備が原因と認定",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/problems-with-spring-switch-led-to-ns-derailment-and-collision-in-illinois-ntsb/",
+    "published_at": "2026-10-14",
+    "summary_ja": [
+      "NTSB は、2025年7月18日にイリノイ州Browns近郊で発生した Norfolk Southern の脱線・衝突・危険品漏出事故について、軌道部門と信号部門の連携手順が不十分だったことが原因と認定した。",
+      "東行きマニフェスト列車の24両がスプリングポイント通過中に脱線して隣接側線に停車中の西行き列車に衝突し、危険品タンク車3両が破損して溶融硫黄とエタノールが漏出した。",
+      "現場はセントルイス～ケンタッキー州ルイビル間のほぼ中間にあたる NS Southern West Subdivision で、通過検査中だった停車列車側の機関士と訓練生の2名が負傷した。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "FMC proposes $200,000 voyage fee on Spanish ships",
+    "title_ja": "FMC、スペイン船籍船に1航海20万ドルの課金を提案",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/regulations/fmc-proposes-200-000-voyage-fee-on-spanish-ships",
+    "published_at": "2026-10-14",
+    "summary_ja": [
+      "米連邦海事委員会（FMC）は10月14日、米国港湾に寄港するスペイン船籍船すべてに1航海あたり20万ドルの手数料を課す方針を発表した。",
+      "2024年12月に開始した調査で、スペインが米海事保安プログラム（MSP）対象の米国船籍船の入港を拒否していると認定したことが根拠となる。",
+      "FMC はこれを米国の外航貿易における「不利な海運状況」と位置付け、国際海上サプライチェーンの効率と信頼性に重大な影響を及ぼすとしている。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "New Holland takes majority stake in Foundation Credit",
+    "title_ja": "New Holland、インフラ債務運用の Foundation Credit を買収",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/10/14/new-holland-takes-majority-stake-in-foundation-credit/",
+    "published_at": "2026-10-14",
+    "summary_ja": [
+      "ニューヨークのマルチストラテジー運用会社 New Holland Capital（NHC）が、米地方債信用とインフラ債務に特化する Foundation Credit の過半数株式を取得した。",
+      "NHC は買収と併せて Foundation の地方債信用・インフラ債務戦略そのものにも出資し、10年以上に及ぶ両社の関係を土台とする。",
+      "NHC は機関投資家向け絶対収益戦略で83億ドル超を運用しており、戦略パートナーの AGF Capital Partners と共同で Foundation の販売体制と商品開発を支援する。"
+    ],
+    "collected_at": "2026-10-15T06:26:40-07:00"
   },
   {
     "category": "rail_industry",
@@ -4033,140 +4138,5 @@
       "当初は2026年第1四半期のファイナルクローズを予定していたが2026年末に後ろ倒しとなっており、近年の平均約2年という募集期間より長期化している。"
     ],
     "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Carlyle inks $2.3bn for infra credit",
-    "title_ja": "Carlyle、インフラクレジット2号で23億ドル最終クローズ",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/15/carlyle-inks-2-3bn-for-infra-credit/",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "Carlyleがインフラ向けクレジット2号ファンド（Carlyle Infrastructure Credit Fund II）の最終クローズを発表した。",
-      "調達額は約23億ドルで目標の20億ドルを上回り、前号ファンドの3倍の規模となった。",
-      "北米・欧州・アジアの機関投資家から資金を集め、エネルギー転換やデジタルインフラ、水・廃棄物処理など6件に約5億ドルを投資済み。"
-    ],
-    "collected_at": "2026-09-15T21:28:55-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Three Class I railroads ask STB to order UP and NS to finalize merger application",
-    "title_ja": "BNSF・CPKC・CSX、UP-NSに合併申請の確定を求める",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/three-class-i-railroads-ask-stb-to-order-up-and-ns-to-finalize-merger-application/",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "BNSF・CPKC・CSXの3社がSTBに書簡を提出し、UPとNSに対し合併申請をこれ以上変更しないことを9月19日までに証明するよう命じることを求めた。",
-      "3社によると申請は4回変更され、直近50日間で200ページ超の訂正が出され、レイバーデー週末の金曜夜だけで272GB・2,446件の新規/差替えファイルが提出された。",
-      "意見提出期限まで65日と迫るなか「動く標的を狙っている」状態だとして、審査手続きの公正性を争点化した形になる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "High diesel fuel prices continue to send freight to rail, Norfolk Southern executives say",
-    "title_ja": "ディーゼル高騰でトラックから鉄道へ貨物シフト、NS幹部",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/high-diesel-fuel-prices-continue-to-send-freight-to-rail-norfolk-southern-executives-say/",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "NSのEd Elkins最高商務責任者が投資家会議で、ディーゼル価格高騰でトラックから鉄道への貨物シフトが続き、国内インターモーダルや鋼板・紙・消費財・木材でシェアを獲得していると述べた。",
-      "一方でJason Zampi CFOは、燃料価格高止まりが通年でオペレーティングレシオを2.5ポイント押し下げる逆風になると説明した。",
-      "燃料サーチャージは遅れて追いつくものの四半期ベースではコスト先行となり、高値持続が消費を冷やして需要を損なうリスクも指摘された。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "One in 10 inspected containers still failing safety checks",
-    "title_ja": "検査コンテナの10件に1件で安全上の不備",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/one-in-10-inspected-containers-still-failing-safety-checks/",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "World Shipping Council(WSC)の新データによると、2025年に当局が検査した貨物輸送ユニットの10件に1件超で安全上の不備が見つかった。",
-      "検査対象は93,079ユニット(大半がコンテナ、ほかRo-Roユニットやトレーラー)で、9,645件の不備が確認された。",
-      "不備の内容は書類・表示・ラベルの誤り、不適切な梱包、固縛不足などで、貨物損傷・コンテナ落失・船舶火災のリスクを高めるとされる。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Blackstone Seeks $8 Billion for Green Infrastructure Credit Fund",
-    "title_ja": "Blackstone、グリーンインフラ債で80億ドル調達へ",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-15/blackstone-seeks-8-billion-for-green-infrastructure-credit-fund",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "Blackstoneがグリーンインフラ向けクレジットファンドで80億ドルの調達を目指していることが明らかになった。",
-      "前身にあたるエネルギー移行系プライベートクレジットファンド(BGREEN III)は71億ドルで最終クローズしており、今回はそれを上回る規模を狙う。",
-      "インフラデットが機関投資家の資金を集め続けていることを示す動きで、電力需要の拡大を背景にした実物資産向け貸出の厚みを裏づける。"
-    ],
-    "collected_at": "2026-09-15T22:01:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Cargostore expands fleet with new series of BS7072 containers",
-    "title_ja": "Cargostore、BS7072規格の新シリーズでフリート拡大",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/refrigeration/2026/09/cargostore-expands-fleet-with-new-series-of-bs7072-containers/",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "英国拠点のコンテナリース会社Cargostore Worldwideが、BS7072規格コンテナの新シリーズを投入しフリートを拡大した。",
-      "UAEで進む大型建設プロジェクト向けの保管需要の高まりに対応する投資と位置づけられている。",
-      "海上輸送用途以外の建設・保管向けレンタル需要が中東で伸びており、特殊仕様コンテナがリース各社の新たな収益源になりつつある。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "SCI: Freight wagon leasing reshapes Europe",
-    "title_ja": "調査: 欧州の貨車リース市場が再編局面に",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/insights/63080-sci-freight-wagon-leasing-reshapes-europe",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "SCI Verkehrの最新市場分析によると、世界の貨車市場は数年の納入増のあと2025年に大きく減速した。",
-      "同社は2030年まで年平均2.7%の成長で市場規模がEUR 358億に達すると予測し、10年代後半に向けた回復を見込む。",
-      "一方で欧州は工業生産の弱さ・鉄道貨物需要の低迷・近年の大量納入の反動により、主要市場の中でも当面の環境が最も厳しい地域と位置づけられた。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "CPP Investments and Brookfield launch $50B fund to invest in big Canadian projects",
-    "title_ja": "CPPとBrookfield、カナダ大型案件に500億ドルファンド",
-    "source": "The Canadian Press (Yahoo Finance Canada)",
-    "url": "https://ca.finance.yahoo.com/news/cpp-investments-brookfield-launch-50b-113311623.html",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "カナダ年金基金投資委員会（CPP Investments）とBrookfield Asset Managementが、カナダ国内の重要インフラ・戦略産業に投資する500億カナダドル規模の「Maple Fund」を設立した。",
-      "両者は50:50で出資し、当初5年間でそれぞれ最大250億カナダドルのエクイティをコミットする。",
-      "発表はカーニー首相がCPP InvestmentsとPSP Investmentsと共催したトロントの投資サミットの目玉で、CPPのJohn Graham CEOは大型プロジェクト推進に向けた好機だと述べた。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Hungary restores single wagonload subsidies in a reduced format",
-    "title_ja": "ハンガリー、単車貨物への補助を縮小形で復活",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/15/hungary-restores-single-wagonload-subsidies-in-a-reduced-format/",
-    "published_at": "2026-09-15",
-    "summary_ja": [
-      "ハンガリー政府が2025年末に事実上廃止した単車扱い（SWL）輸送への補助を、規模を縮小したうえで復活させる。",
-      "従来は年64億フォリント（約1,740万ユーロ）だったが、2026年の配分は20億フォリント（約540万ユーロ）と3分の1以下にとどまる。",
-      "これまで11社が受給しており、対象社数の減少か1社当たりの減額が見込まれるほか、補助の多くは線路使用料としてインフラ管理者MÁVに還流する構図となる。"
-    ],
-    "collected_at": "2026-09-18T13:18:44-07:00"
   }
 ]
