@@ -1,27 +1,26 @@
 {
- "generated_at": "2026-10-17T10:44:57+00:00",
+ "generated_at": "2026-10-17T15:35:40+00:00",
  "window_days": 30,
  "counts_by_hint": {
-  "rail_industry": 47,
+  "rail_industry": 48,
   "eu_railcar_leasing": 45,
-  "container_leasing": 45,
   "alt_investment": 45,
+  "container_leasing": 45,
   "railcar_leasing": 45
  },
  "candidates": [
   {
-   "title": "Judge will not reconsider ruling in EBT Mount Union case",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnk5V3J1YlVCVnpxSU5ScUg0cFJERHZvbTF6UnZSb2JOTzJ0ZThOREZ2NWV6MGpJdU1sRWZtUnNEQVlNWmdZOFdfQ3lUZGdQXzNyR2ZyUkhvaGZ6MTVnQ2ZkWGtOdTgzS2tKaFZVQXlPQ3R3aW0wd1ZiSEs1QURPWUtnbTZNZWpTRHZMSHdUeUhBbzl4eEkxYW1JdDdxVnA1UWZZc2hLQnQtVDZHX0FaU01laWViTmRWUWZqeUdmNVpmYUdOdWc?oc=5",
-   "source": "www.trains.com",
+   "title": "News photos: Union Pacific 4-8-4 No. 844 back in action",
+   "url": "https://www.trains.com/pro/freight/class-i/news-photos-union-pacific-4-8-4-no-844-back-in-action/",
+   "source": "Trains",
    "published": "2026-10-17",
    "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
+   "feed": "rss:trains.com",
    "category_hints": [
     "rail_industry"
    ],
-   "excerpt": "",
-   "first_seen": "2026-10-15"
+   "first_seen": "2026-10-17",
+   "excerpt": "News photos: Union Pacific 4-8-4 No. 844 back in action By Trains Staff | October 17, 2026 The Union Pacific steam crew took the 1944 Alco on test runs on Friday in preparation for next month's fund-raising excursion Email Newsletter Get the newest photos, videos, stories, and more from Trains.com brands. Sign-up for email today! Get Updates On its first outing since May 2019, Union Pacific 4-8-4 No. 844 passes the depot in Cheyenne, Wyo., as part of a test run on Oct. 16, 2026. The locomotive will doublehead an excursion with Cheyenne stablemate 4-8-8-4 Big Boy No. 4014 next month. Erik Lindgren Union Pacific 4-8-4 No. 844 rolls through Speer, Wyo., on its Oct. 16, 2026 test run. Erik Lindgren Union Pacific No. 844 ducks under the Colorado & Southern bridge during its Oct. 16, 2026, test run. Erik Lindgren Share this article Facebook Twitter LinkedIn"
   },
   {
    "title": "European rail freight at a crossroads: no new legislation, implementation",
@@ -33,6 +32,20 @@
    "snippet": "",
    "category_hints": [
     "eu_railcar_leasing"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "3 Stocks Tied To AI Infrastructure Debt Investors May Want To Watch",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVndBeXd5ZVl6X3ZjNjVEU3R0aElqTVhJdHJpZ2JtWVRXU3g1ckVCNUhfek4yS1BtWi1KSjZQcWxWX0FiQWJTcmdLaUJwSzN5OUpjS2dPSml5aTZkRXhJbjBadGpoOGMtblZuaHFqbnlqQTlpUS1pblRvNlRWU2k4LUNwM2VJeXhxeFdIRERUdUEzMmI0cWlEQzZaZXA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-17",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
    ],
    "first_seen": "2026-10-17",
    "excerpt": ""
@@ -129,19 +142,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "title": "Xeneta: Carriers Accelerate Red Sea Return With Offered Capacity Doubling In Six Weeks",
-   "url": "https://www.hellenicshippingnews.com/xeneta-carriers-accelerate-red-sea-return-with-offered-capacity-doubling-in-six-weeks/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16",
-   "category_hint": "container_leasing",
-   "feed": "rss:hellenicshippingnews.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "Xeneta: Carriers Accelerate Red Sea Return With Offered Capacity Doubling In Six Weeks The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Emily Stausbøll, Xeneta Senior Shipping Analyst. Xeneta analyst insight – Carriers accelerate Red Sea return with offered capacity doubling in six weeks Emily Stausbøll, Xeneta Senior Shipping Analyst: “The return of container shipping to the Red Sea is accelerating with offered capacity on services transiting or set to start transiting the region in at least one direction doubling in the last six weeks. “On 5 October, weekly scheduled capacity crossing Bab el-Mandeb at the gateway to the Red Sea in at least one direction stood at 448,273 TEU. While this is still only 48% of the 930,679 TEU offered in August 2023 before ships began diverting around Cape of Good Hope, the fact it has doubled since 27 August 20",
-   "first_seen": "2026-10-16"
-  },
-  {
    "title": "Container carriers adjust rates, add services to Americas, continue gradual return to Suez",
    "url": "https://www.hellenicshippingnews.com/container-carriers-adjust-rates-add-services-to-americas-continue-gradual-return-to-suez/",
    "source": "Hellenic Shipping News",
@@ -152,19 +152,6 @@
     "container_leasing"
    ],
    "excerpt": "Container carriers adjust rates, add services to Americas, continue gradual return to Suez Global container shipping companies are increasing rates along some trade lanes, adding stops to existing services to the Americas, and improving transit times between India and the US East Coast via gradual returns to the Suez Canal. PRICE HIKES Global container shipper CMA CGM will raise rates for shipments between Oceania and the Americas by $300/TEU (20-foot equivalent unit) effective 2 November. The increase is for cargo moving in both directions, including from Oceania to both North and South America, as well as shipments from the east coasts of the US and Canada and the US Gulf to Oceania. The adjustments cover dry containers, refrigerated cargo, out-of-gauge (OOG) shipments and paying empty containers. CMA CGM is also increasing rates from Asia to South America by $1,000/container effective 15 October. This covers cargoes originating in all Asian ports, including Japan, Southeast Asia and",
-   "first_seen": "2026-10-16"
-  },
-  {
-   "title": "Drewry: World Container Index Up 3% Last Week",
-   "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-up-3-last-week-6/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16",
-   "category_hint": "container_leasing",
-   "feed": "rss:hellenicshippingnews.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "Drewry: World Container Index Up 3% Last Week For many years, World Container Index (WCI) has been the go-to, independent, global reference for index-linked contracts. If your organisation requires regional visibility/coverage beyond the eight trade lanes provided below, contact the team. Our detailed assessment for Thursday, 15 Oct 2026 • The Drewry World Container Index (WCI), the benchmark widely referenced by procurement teams, rose 3% to $4,485 per 40ft container, mainly due to an increase in rates on the Asia-Europe trade route. • On the Transpacific trade route, rates from Shanghai to Los Angeles inched up 3% to $7,884 per 40ft container, while rates from Shanghai to New York fell 1% to $10,075 per 40ft container. According to Drewry’s Container Capacity Insight, six blank sailings have been announced for next week, unchanged from this week, indicating stable capacity. Strong US import demand continues to support high rates. Drewry expects rates to remain less volatile next week",
    "first_seen": "2026-10-16"
   },
   {
@@ -312,8 +299,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Union Pacific 4-8-4 No. 844 performing test runs (updated)",
@@ -326,8 +313,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Hamann, Union Pacific chief financial officer, to retire",
@@ -400,20 +387,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "title": "Northern Maine rail improvements tagged for federal funding",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREIxRFRWZG5TUGxTOTBPT1o5V2sxVmRyU3RwdU5GRHZROVVrNkFDSVdfYmZFRll6MGJHamZOMEFSdklOM3JhVkpwT1hrby1GQjBvaUQ2ZnRwMXd5YnMwU2JCc19qUEdNOUJRemVnbS1zbmh1Q0V3bXA2bmx1UnpzWWt4NFNWYzloT0FrMFVReGRtTlk?oc=5",
-   "source": "Mainebiz",
-   "published": "2026-10-16",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
-  },
-  {
    "title": "Intermodal rail better by 10% in latest count",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0JLMHBPVmFRTWRFcG1kdXVCRU5mNXNLMDRFWFpkbFRTcURHZ2xDS1FUQ05RNXcwUW1xbWRMbEFIVnM0ODFXQ1AxRTVSdVFxRVZmaldUSmJ2QXJfX1lyU2xQemZhOWlZMEZ1RXFwWXNLYk80VWlQWFN0RnR3Y2k1eFJjMmI?oc=5",
    "source": "FreightWaves",
@@ -424,8 +397,22 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Northern Maine rail improvements tagged for federal funding",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREIxRFRWZG5TUGxTOTBPT1o5V2sxVmRyU3RwdU5GRHZROVVrNkFDSVdfYmZFRll6MGJHamZOMEFSdklOM3JhVkpwT1hrby1GQjBvaUQ2ZnRwMXd5YnMwU2JCc19qUEdNOUJRemVnbS1zbmh1Q0V3bXA2bmx1UnpzWWt4NFNWYzloT0FrMFVReGRtTlk?oc=5",
+   "source": "Mainebiz",
+   "published": "2026-10-16",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "SDDOT Seeks Public Input for Sioux Falls Railroad Corridor Analysis and Crossing Safety Study",
@@ -452,8 +439,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Columbia receives $16.2M federal grant to modernize COLT railroad",
@@ -526,6 +513,20 @@
    "first_seen": "2026-10-16"
   },
   {
+   "title": "Agrocereale Seeks Answers on CFM’s 15% Freight Rate Hike",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjdrN3VmYzNSS2RCT2NqNDRSTlJ6WU50Q3hJUzZGaXdmZ3RJSncyVHpDRlRLUUFnNjhqZ1E1NVUwd3FaYVdmZ3ZYR0ZnQVVXYTZNaHRPYWVLVzNVcXNVd2M2UlN5a2QzZG9IM3c0dnJtUkp3QW1ZdjBLNWlhbzV1eTg3R2gxOEpUVHVKU092OXZIT2VlVHFQUVNhWQ?oc=5",
+   "source": "logos-pres.md",
+   "published": "2026-10-16",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
+  },
+  {
    "title": "UK train drivers’ union asks Burnham for greater commitment to rail freight",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2p2U2ZZVlBOU0xWR1V6NTZ3T2E4bGpXYlB4Sld0cFlPSG5McmRwYWV0WExMT1dSbTNicUFpWG1iOERVX3VkbU93RlpKbDZPTjdVNzRRdndHSGJqMkEydW1raTEwdERVY1JjUENlUFdYYkRBRkRPQkJVbXh5RTE2N21YbVl6RE9wT3dEZ3RXR0hKRGo3WnE4R2xpb2ZIUnZNUWdCYmdZcm9MbURzcGRBM3l2akNWTWFIQ1NDODhDSDU1c29y?oc=5",
    "source": "RailFreight.com",
@@ -556,20 +557,6 @@
   {
    "title": "Aurizon opens A$60m Perth freight terminal to boost east-west freight",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDN1TlBJb0FpZ0hRVkVCdkZOZ2NyOXYtOEYtMzlCaHhOeHgwSzBQN0k5eVllU1Q5WEVjWTFiVzBZcVpBOFRRR2Vic1hmVXpfZDVHWUlRckV6WjJJZlVpaTFZSFpEUkRpcThwcndtbW41VFQ2QURDR19NajR3RFNfQWZOR21vUlF1NDY1YVI5SFYwYTZVS01RTnNuQ0cyT051VmM4UURQRHZ1SWxWb0JpMWpVU2RyU1dqdHNpcXR3?oc=5",
-   "source": "Railway Gazette International",
-   "published": "2026-10-16",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-16"
-  },
-  {
-   "title": "Wabtec signs R6.6bn agreement to help enhance South African freight loco performance",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3hwTDdISVpOWmhBMUNkVWphMFFOZWs0RE4yX3hZNGQ1UFFWamFFXy1BZUxlY3lpTVFRc2h3NzBIOGtIMk9ENThDa1UwZWtYX3pMVDQyRExoT2xCM3ZlcERjWkEzVkRWbUxfaEJFOGtVOU5FS3V4NnZRWERuY3RhYk1IXzFmY3NqeGVveTNmNzFSQTNsdDhNWEZUNWlCOW4xUDBYd1ZUSGxLTnlMNm1IWWkzTWdhOHVSdjJkUWtFT2NjWDg4WkZUNURGM3JJM2R2OF9BUWdhNA?oc=5",
    "source": "Railway Gazette International",
    "published": "2026-10-16",
    "category_hint": "eu_railcar_leasing",
@@ -748,9 +735,9 @@
    "first_seen": "2026-10-15"
   },
   {
-   "title": "NTSB to investigate Union Pacific derailment in Kansas",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjVrMVVZZUw3YnRoZUNzTENNNXcwZWw2X2hIR1EzY3ltM2k5bnZvaGxFWmUzSDVYcUV1aWN3Z3JBUEtVQURVRUxXaUU3ZTB0c0RtQ2FQU0NIOHhSZkMwTkNfTkJMR2RIOVdwTTdOSHRWTm9hcDNsNVExZ0tBTll2QVdHV0o0b3I1NlJQRHJsNS1FWE9WNnFsOXoyWWdtT2M?oc=5",
-   "source": "Trains Magazine",
+   "title": "Judge will not reconsider ruling in EBT Mount Union case",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnk5V3J1YlVCVnpxSU5ScUg0cFJERHZvbTF6UnZSb2JOTzJ0ZThOREZ2NWV6MGpJdU1sRWZtUnNEQVlNWmdZOFdfQ3lUZGdQXzNyR2ZyUkhvaGZ6MTVnQ2ZkWGtOdTgzS2tKaFZVQXlPQ3R3aW0wd1ZiSEs1QURPWUtnbTZNZWpTRHZMSHdUeUhBbzl4eEkxYW1JdDdxVnA1UWZZc2hLQnQtVDZHX0FaU01laWViTmRWUWZqeUdmNVpmYUdOdWc?oc=5",
+   "source": "www.trains.com",
    "published": "2026-10-15",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -759,7 +746,7 @@
     "rail_industry"
    ],
    "excerpt": "",
-   "first_seen": "2026-10-16"
+   "first_seen": "2026-10-15"
   },
   {
    "title": "Weeks Before Key STB Filings, BNSF Warns Rail Merger Threatens Ag Supply Chain",
@@ -958,20 +945,6 @@
    "first_seen": "2026-10-15"
   },
   {
-   "title": "Italy ‘lost’ 55,000 freight trains since 2021",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHJNdU5ZVndTemg3UVhfcElWN2RWazZaRG5RdVhzZTZRWGhBYXkxWGRGdWt5Qm9zM3hXOHJ1U1ZEb0VOMnBVUDBNSHVMckI1RDFvQWpHOEp6V0ZtR1dkX2dwdklGS2NZRW12NHYwT3U3aG5IRFVSZnFCVF83eEF1X2hqeFR3V3B1NnlxWEx5N1ZMZUtTN0E?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-15",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-16"
-  },
-  {
    "title": "Converted diesel-to-battery regional trains enter service in southern France in €41m AGC retrofitting trial",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb0tGc0pEQWVoYjA3TWdmekxvWVoyZ1BvMGZoRnBfTmI3cnZSQkxvSVV3UGlzMmZvZXpvYVVkNVprSVFBQWVtMHliaWQzZDhSMXhMWnQ1VGpZekE4bkM2ZkZRRGY3cmVpWGFOTklzbVB5NUNvRlp1UEttbUtvQXdGMzBaU0FZcTUwVU5QRG5ZSEVCRVUzWnV6TEd0R3pubEJvY0RZaF9EM1h0QVR3R0tHOF9OX292anBsclJydEx1ejAzcE9fZFh0aHRNNFdtZGVncjZ6VmNiWnJzZVdkUlBsUEtzZnlsQzNTSExKY0FR?oc=5",
    "source": "Railway Gazette International",
@@ -1000,20 +973,6 @@
    "first_seen": "2026-10-15"
   },
   {
-   "title": "Ara draws from infrastructure fund to add Pacific Ag to upcycling portfolio",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzQyTHVDNzZXWlZaaXQyaDB6ZDIxcnNyMksycUxIeUczczQ3d29IYjNVWFpBSFhBcGJodHVpaGpkVDlKUGR0Q29udDdvVlNQLWxCSGdmMm5YbjhhT0t1ZFFWXy0xbFdRanV0MHBUbWo5ZTFWYnhxQnZQb0VWUzR5MDJqeGpwUGMta2NjeUhzNWpBYlJNekRNRXloN005Z1J2YmJfUmYzejE?oc=5",
-   "source": "Agri Investor",
-   "published": "2026-10-15",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
-  },
-  {
    "title": "Raiffeisen reaches first close on debut €150M infrastructure fund",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdk5jU1NHSU41N0hhWi1yUXRNbUMwb1RhUmpVWEZYc0tVQ0hvWDI4VGJXc0JmaEhNVGo5VU9TSkU0RmJYVUI4RTB3dTBtTTFxTmtiWXlINFJ4TlAyN1dzYTI5NU14RE9YMTlOVGViOTN0RVJmUVR2TkFEWjJnbmVHQnhZVEJLLTlJcENwRTVLUDFBWURibmwwMzNtV1c1Nlk?oc=5",
    "source": "Dealroom",
@@ -1038,8 +997,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "EQT fee-paying AUM jumps 40% to €195bn as exits lag",
@@ -1066,8 +1025,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Franklin Templeton And Benefit Street Partners Expand Asset-Backed Finance Platform With $480 Million Encina Transaction",
@@ -1232,8 +1191,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Why Trinity Industries (TRN) Is Back In The Spotlight",
@@ -1305,20 +1264,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-10-14"
-  },
-  {
-   "title": "One injured in Norfolk Southern derailment in North Carolina",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2hrVms2VWE0MFZkR1BMUmM3OUN5UnJYTy1EMk00LXk5Zmh3UzctX2IxblFHNW1VbjRBZl8ycEtSWVdJLXhBWUtzLXE0V195UnFfV2hkUnBaaEUtVzhiZWN3aGtyR294dXpfM0RvSk5oeGprMy1JYS14X1FvQWJPdVlfNWZDWEVyeWtxeTg0UU1DQm9JaFZ0d2hhSFRLVjE1Tk43OUpkUQ?oc=5",
-   "source": "Trains Magazine",
-   "published": "2026-10-14",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
   },
   {
    "title": "CSX (CSX) COO Michael Cory Retires As Railroad Begins Operations Leadership Transition",
@@ -1541,8 +1486,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "US proposes $200,000 per-voyage fee on Spanish ships and sanctions on exports",
@@ -1569,8 +1514,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Medway repairs wagon workshop before building its own in Entroncamento",
@@ -1629,37 +1574,9 @@
    "first_seen": "2026-10-15"
   },
   {
-   "title": "ADB backs DC to AC conversion at Azerbaijan Railways",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXpVZ3ExRW1kbnEzRVF6RF9VMXEwTVY1a1JYMU1kY1VnTVljX0NacEkwWXhQS21TRWl5TlNkdHlvckMwS1BDblpUMjA1LXdhYXMxc2NvVXprdzJuTlRlaFlja1JUanlIZGMtSEh6VkhWWWtIU01GcjZHTzdPNjBBcmV2dVQ5VDJhWFZKNXd2QnNvd281YzZ4dHFMRnpaZXc3V2trVFhWQXVRdw?oc=5",
-   "source": "Railway Gazette International",
-   "published": "2026-10-14",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-14"
-  },
-  {
    "title": "Multistrat New Holland Capital acquires majority stake in Foundation Credit",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUndxVUNJX0xfWmQzWEg4cTFRaU01VnJWNFJ4NDZHR3hzQmVPeXhGclNMZGh2ZTV0TFhIbEdmZTVuc2lHTEZDd2VSU3o2NDJSR0UzeWVTSHlxc3JzakxrRUwtYWczc1pJbWo0R1QzMlVHZDFzQ0tkelpFaEh2TG5UZktoOWFzOTc5QkNDSVBFb3ZmSEpQZXhVUmh5aW0zbDdxOFdleGVCMmtVcjN1QkE?oc=5",
    "source": "Pensions & Investments",
-   "published": "2026-10-14",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-16"
-  },
-  {
-   "title": "CoreWeave Stock Crashes 15% as Bond Yields Hit 15% on AI Debt Fears",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkpSZmpGN25KNmVmVjJSRVpDbDBhSnJCdk92X2dlLTZpdVpSZnBVUG5SeGFSOVd4RDBDeExOeGZfMlk0VFdUVGNqcXo2aWVNdUluNElxcUpyMzdxelZEcDV4RlFUb0VHcm5lcC13R28ySXFXTERGcGpaUnRLTnR2WnZOU1RsMF9FOVVPUkR1U3RkMjQzV2tMTVRyalpmblU?oc=5",
-   "source": "The Tech Buzz",
    "published": "2026-10-14",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -1697,20 +1614,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-10-16"
-  },
-  {
-   "title": "Franklin Templeton's BSP acquires Encina team and $480M portfolio",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVA3QnA1ZXNXUW1GZk1kR2VNUkU4ZUhHTDQ5T3F1UElOV01PMlE0WTlLbUdTOHFQNTN3V2RablppQks1eGZuVUttSWMxVTY2NGVLRVVLSWg4VDhhYnJNZkQwSENwV2JWemdWQm9lNDZ5cFItcDVlOVNKdVRtbkVDOGpmNmc1RDZSc0pISWM4RF9QLUxuM3hiQlRKM0FQVGNLV3hVN3RKRGVZTzdjT0tzeUNXaWxtaTE2THhMWWNfcUdrbzg?oc=5",
-   "source": "StreetInsider",
-   "published": "2026-10-14",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
   },
   {
    "title": "Hesta calls for more innovation and deployment in Australian renewables",
@@ -1834,8 +1737,8 @@
     "railcar_leasing",
     "rail_industry"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "AECOM, Burns Announce Leadership Appointments",
@@ -1866,22 +1769,8 @@
    "first_seen": "2026-10-16"
   },
   {
-   "title": "Class I Briefs: CN, UP",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kV1JZemtyVElEeHk1VVBHa212dFA3ZXZqOVdxSHhuZ0RnTE9JMzNyY0ZLcGlDYlZwemtTWVBwMTVremhHOUZkWXpleTZjUmt2djlxLXJaZGQtZmI2aDlJU2swajJ5XzE2MFFrV0pGSm0zUQ?oc=5",
-   "source": "Railway Age",
-   "published": "2026-10-13",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-16"
-  },
-  {
    "title": "CPKC gains flexibility, cost control from its own wood-tie treatment plant",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOakR0SGsyU3pIbU9oemVscWNEakJmWFZ3dVhJbjlXMDFPN0JUWG1hNTJ1UDVYVGJ0YlJENlhmVDZMcGJ4LUctTFdqb3lPaHljblNWSW9SSXFOaktiQjVjam5mZTY4aGlLS2ZYVk8xQU5IaWNZOXlNV1Q2dGptRmZBS0pxNnhKcV9vaWoyN3J6djdjbkhIUTBaX3BkVUJsdEJwTE9oUUdKMGxHTEhVX0k0LUU4RTZUM0RVXzA5V2VDR09FYU5RaG1LMnRMM3FQRFpVRmFoMk1EcF9NdXFDVkhDaTN5RFQxcGJFOWZQcnUzZEVkSzBLYXNuNEZYX2VReGJUcVdTRXZWdnBjX0RfSUJ3MENmSzNQNGRCZG1NZXRjZ2J5OWhBbkFZVTVUR0I2Rnpk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVpoalZDRUxCQXdHTTIzSWpfV1FGRnpOT0xNRkxaOWVBZkRYX241REw0T0JUdzFHclhIX2JJZjJ0X04zbGdJdWtsSEpQWWZ6MGdzSVBLZmwtSmlSNlpVM2tDUk1FTkNibG5GTE5pRnJGOTJDY1h0SVZXWDVTM2dmZmhpbTZiYkFQc1NySkdnS3p6UW5nS3FpejM2NlJlSkxDcGtPc24yTkp6TUExNkQ5T0pwNVpqYlF3VkJwbndQdHlVYTM2NkM4U3hQMzVBTUNfakc0?oc=5",
    "source": "Progressive Railroading",
    "published": "2026-10-13",
    "category_hint": "rail_industry",
@@ -1890,22 +1779,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "excerpt": "",
-   "first_seen": "2026-10-13"
-  },
-  {
-   "title": "FRA’s Fink says funding for shunt enhancers ready, but delivery timelines uncertain: Analysis",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUFBNzUtR2tLMWUyazNzRWZERFFLQjN4LWJ2YlVsZnN1LWEwbkFReHd3emY4UnJ1Y21IcDJKSVBMZVluYWpPb2FoaHNUNWZJenJyWVdZMEVnTUxpVUdTR2FqVm5KaDVyVFJRQmhUVHBJVml2LXF0cW5TSmJBQUQtWk5XUVR0bVhxUkRqejY5bnlTSHQ3dUJqak1Oc2QxOUQ1Mnp6c0Z4Y3dBZjhoMG5hU3F4VzNzZ3RzSVQtandyU3dXNlVpam8w?oc=5",
-   "source": "Trains Magazine",
-   "published": "2026-10-13",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-15"
+   "first_seen": "2026-10-17",
+   "excerpt": ""
   },
   {
    "title": "BLET members ratify agreement with Georgia Central",
@@ -1946,26 +1821,54 @@
    "category_hints": [
     "rail_industry"
    ],
+   "excerpt": "",
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Nevada State Railroad Museum, Boulder City opens new visitor’s center",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHlrejlSdF9kMzhvTFJWdGdVMzJfa2pBVHRLZjNpTVdweGNGSEdRUlQxd3dKcFowUmJJR1lyZjBaVkRfN2tyMGRLWW5xVDdMY0hoeHdmdlNjUVRkajNDUnVaM2JGSVZUTUYyVzZMSVo3SUJnbFA3NUtEWU1fclg5WmpnNXp0cmJRaTFUQ3Q1TnA2UzNsczdsSlY0MjVxbkExQXgwMXV3Tkx1U1p2YWk5TmhWZ281WlVqQXdZVU0yNGRfNkJTODJKYXV2Q25Kdzl3d1E?oc=5",
+   "source": "Trains Magazine",
+   "published": "2026-10-13",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
+  },
+  {
+   "title": "CPKC Holiday Train begins 182-stop journey of music and giving Nov. 19",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oaUE1ZnU1dHBEU2dVRFIzdmcyRmhZdDdzUGNTNzNHcTNpTnd6Wjc2VjdOc3NmY1FSTldUX3dkVHZ6cTZTdndXN1VCdEZNdUJWYmxIWA?oc=5",
+   "source": "CPKC",
+   "published": "2026-10-13",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
+  },
+  {
+   "title": "Construction begins next week to improve I-95 bridges over CSX Railroad in Caroline County",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcExVaUZqZWNxaVBiNVJFV3VwWWdrVW5iLTNTaWlXNmxaa1NUdmJ2MDNBbUd2ZV81ZVF0Nlh1eVpqUnNWbVZNYXZha3NsbEFmcGZWV3hXeXBCNnZNazhnWmFRTDdWREllUXF1UWVBdHZ1dzJpd1VmRG5tbThyVmVTMV85MUYxY3lhMWZuRy1MTXBFVHAwNlA1T2Exbjhxbm4yUlBMeDcyaXY2alRkc21jWlRXdF8zUDJTVTZ3aExFRkJGYlV0MExaZExfeTFfY1lHQVREaVFGc0dqSkQ0bXUxdmFJWnFKTlpLX3pVN1k3WFlPOV9r?oc=5",
+   "source": "Virginia Department of Transportation (.gov)",
+   "published": "2026-10-13",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
    "first_seen": "2026-10-17",
    "excerpt": ""
   },
   {
    "title": "Eurogate orders four Konecranes ASCs for CTW",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05hX1UyLTJFWXFzNlBQVXZjM1VjZUozeXBIUXlMRTU5dlZabDdjRTlGaTRBcXBlUVNHdFh1X2psam10QkZQMFhjS2V6RUJ2czhtcUhjbjdHaEtjR3FfMDF4dU5vaXpyZElSd1lnb0U5aUJMbG1LS1ZRRGNqejRxc0JlNUdINEdhTGJUbW8wYzRKWTQ?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-13",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-13"
-  },
-  {
-   "title": "OOCL posts 45% revenue jump for Q3",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3JtV1U0VjJFYkxLN0Y0MmlkRERGZEJMTUdnbnRpQ003cE1uSGJQMnVaM2tXa2dZenNfYlBiVTdqSUZIVUJUTUxBVnNyRjJ5QU1ZZUFmX0NPcWNMOXY0MkFHa2FPa1hkVlFUYWROS1F3MXh5OVBMQkpCWEZfRmU2clFyNFA?oc=5",
    "source": "WorldCargo News",
    "published": "2026-10-13",
    "category_hint": "container_leasing",
@@ -2030,8 +1933,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "In-depth: Alpha Trains perfect 2026 GRESB score",
@@ -2128,8 +2031,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Bridgepoint, AIP Capital and Bahrain’s GFH team up on $1bn aircraft engine leasing platform",
@@ -2142,8 +2045,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "High energy costs threaten rail freight’s viability, warns PKP CEO",
@@ -2216,6 +2119,20 @@
    "first_seen": "2026-10-15"
   },
   {
+   "title": "Apogem Capital Raises its Largest Real Assets Fund, Exceeds Target, Closes on $472M",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzhpYVZOR2U0OHRZVzVZMFMzNzdXdnFNdGZJeGtmTmVPVzItQ1ZNQzZNaUZtYU9VVmgyWVl0d3JPNzZtejN0T0Z4UDlSZnpHMWZyU0tHZTFFRXVYTEtES0djRmFkMjA3SkhNNnFXUEdJeHpwLVBZWFhCZ04wWXIyZ1JtMUFXN3RBN1RmdWVpM09xMGgxbnRoNkx3YmE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-12",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
+  },
+  {
    "title": "Last chance to secure your place at the Alternative Credit Investor conference",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDNQT0JCVTllYzA5SU1wTm56aWlsRXlmNlNEVVVYRGN3NFRVY3hyRndHTWd0NXB5UE0tYmVoZ3dKTzVmWkd3S0xpOERIbklURmk3QzhORzVaSVY4UmhBaDdoZXQtM2ZINmd0WTFpMU1naUljQTVsRDNjWGpZbnlDWHFHYzZMd0wxeGpUdVpVei1IVU1oZEhaanR5QVNWMFZIZzFySEVfTWhlQ1pPZ3cxX0JqSDhBazBYTmFIOHo0WTQzdEJXUkNV?oc=5",
    "source": "Alternative Credit Investor",
@@ -2272,6 +2189,19 @@
    "first_seen": "2026-10-11"
   },
   {
+   "title": "Texas to Ohio Car Shipping (2026)",
+   "url": "https://www.freightwaves.com/checkpoint/car-shipping/texas/ohio/",
+   "source": "FreightWaves",
+   "published": "2026-10-11",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "category_hints": [
+    "railcar_leasing"
+   ],
+   "excerpt": "Texas to Ohio Car Shipping (2026) Transporting your car between Texas and Ohio typically runs from $987-$1,556, with delivery times averaging 3-8 days. Why Trust FreightWaves Checkpoint? FreightWaves is committed to delivering clear, objective insights and in-depth reviews of car shipping companies nationwide. Through our custom scoring system, we’ve assessed 2,400 auto transport services across the country, examining factors like pricing models, available features, geographic reach, and customer satisfaction levels. We also dig into online reviews to identify patterns in real customer experiences. Every article is reviewed by our experienced team to ensure the information is accurate, up to date, and aligned with what readers need to know before booking. Cost of Shipping a Car From TX to OH The cost to ship a car 1,285 miles from Texas to Ohio usually falls between $987 and $1,556. Your final quote can shift based on fuel prices, how flexible your pickup window is, and overall carrier",
+   "first_seen": "2026-10-10"
+  },
+  {
    "title": "Emirates SkyCargo expands South America network as exports surge",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUlFbE9FT1FIdk9QSzFWb0ZuaDlsRm9xTl9KZV82dkprejM1dXE4YzZpcXh0b3E5bWt5cGlxajBOZU9nT3lGbGlYbWdEeS12MTctSVdMZkNuR1kzQ2IzTUlsemNkZ0FJTzlZd0cyOEU1RzI3aXFCOHdtNXFFXzFHVHdaM1A3UzNodmhDU3c3U0tQOW5Uc0cw?oc=5",
    "source": "Container News",
@@ -2282,8 +2212,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "New UNIFE Chairman in Martin Sion from Alstom",
@@ -2380,6 +2310,20 @@
    "category_hints": [
     "container_leasing"
    ],
+   "excerpt": "",
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "DP World signs 15-year NCT concession amid worker opposition in Bangladesh",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmVfQUNWc0dfdHMtTktLSG50RG1zQkxtbmVFc1RBdndpYlBVMmpncUg1ampsMlhqdWIwUGhhRC05b1hKVnQzVWxSelEyWGl3VXU4VFBXNU15VVFFb2dYdmRMOHJrZ1B5OXR0UkhaSU1UcnQ0Q1NWTl9xMGFYZ1JidFZoLXA3ZU5vMGMxSXgzTEpwVUYweUdGYjd3R0FxSjVXZFVPOEh6X2NJeWx4VExGRVVwOG5wLXdfT0pV?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-09",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "container_leasing"
+   ],
    "first_seen": "2026-10-17",
    "excerpt": ""
   },
@@ -2426,23 +2370,23 @@
    "first_seen": "2026-10-09"
   },
   {
-   "title": "Trinity Industries, Inc. Announces Date for Earnings Release",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXl1Snp2Rmd4S0k3SnROYWkwUWxLSW5tUkwyUHMySjJlMEFqZWVZdjRqZ2UxMVZHa0tVOXpVd0d5ODlhb1MxdXFEX2ZrMmMxQUtVNDI4RFYxYzJTX252dU5wUmJGQzVHUlRBSXJDT04yeHJDUkNxY2R4MENBV2M4eWllclIxMzlOOXNYVlgtZktuSHRPZUNVRUZITnhiZEU2dENTcXY2UU5pRXljYlJtZ3NsdHlhaUxVMlVNYVhR?oc=5",
-   "source": "StreetInsider",
-   "published": "2026-10-08",
-   "category_hint": "railcar_leasing",
+   "title": "Duff & Phelps Utility and Infrastructure Fund Inc. Discloses Sources of Distribution – Section 19(a) Notice",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbWwwOHRxeGx4Q0F6aDZMYWhONlRWOW1UeTJvMUJRNnJvQm8zT0NzTkl6V2ZVZzFBcU9TWVFhcEpPbGxydEJBam5uZHdoTUlvRGd3SGk0bXllaUhkTm50S2pmWFpuSHRnVVI4MVNBdGlac3RjYUF3NDcwZktRZXUyaXJWYzVhZk1YWkpnSVJzMEhIeW9tWHFwdzJRUDJ3ZEl2aTFJMkdDcVphNU9ETWpOOWZIeWJMbWFVamM1VmFOMFdRZXpCZWVGdjNGX2VmYms2TWpWWVFpdzNmYWlPQkhIdmVKNEdoSjRLT2ZhN3dDYw?oc=5",
+   "source": "Business Wire",
+   "published": "2026-10-09",
+   "category_hint": "alt_investment",
    "feed": "gnews",
    "snippet": "",
    "category_hints": [
-    "railcar_leasing"
+    "alt_investment"
    ],
-   "excerpt": "",
-   "first_seen": "2026-10-14"
+   "first_seen": "2026-10-17",
+   "excerpt": ""
   },
   {
-   "title": "GATX Corporation (GATX) Slips 0.91% to $161.85 as Railcar Lessor Nears Lower End of Recent Range - Entry Point Alerts",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNakYxNXNKY2tNZlNZcWJMRnRFQnVuNUIxSmtTTzhELWQtU3Z2bXg4ZkloWGhvOUFYYnNsd3hLQ0dYVDcxZko4d3d1Yk9OVGFCZ29RQkJOOE1wYk00TTBkaVl1eTJfdFFsSjZkSGRwVHdEVDVSVDZDX2dsclNiLTNTa04xN21PQVk1U0VISUlwZE1KMDhXdEdsQUdKWjZaVTZKYzNoR0RzamZjNmJhTkFlTmF4bzV6dFVzZVdQQUFSU2RjVEFWQ0VwM1huU2k?oc=5",
-   "source": "https://www.dars.gov.et/",
+   "title": "Trinity Industries, Inc. Announces Date for Earnings Release",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXl1Snp2Rmd4S0k3SnROYWkwUWxLSW5tUkwyUHMySjJlMEFqZWVZdjRqZ2UxMVZHa0tVOXpVd0d5ODlhb1MxdXFEX2ZrMmMxQUtVNDI4RFYxYzJTX252dU5wUmJGQzVHUlRBSXJDT04yeHJDUkNxY2R4MENBV2M4eWllclIxMzlOOXNYVlgtZktuSHRPZUNVRUZITnhiZEU2dENTcXY2UU5pRXljYlJtZ3NsdHlhaUxVMlVNYVhR?oc=5",
+   "source": "StreetInsider",
    "published": "2026-10-08",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -2480,6 +2424,34 @@
    ],
    "excerpt": "",
    "first_seen": "2026-10-09"
+  },
+  {
+   "title": "HD Hyundai delivers 13,000-TEU \"lashing-free\" ship to CMA CGM",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3VyVmJLOFhnM2dFOEtsZWl2MUVPWnN0OHdPZFVPVTNpeWRhd2lWdUdqTXVLUUtLVmY3NFBDdXFCWFdObERzdVpxUkFrSjF5OUMyazhlUFNoQjUyek9ZTU5KTHZzVVZocDRDY0RYUW1YaDAwT1R2V3J1YjlzckFIYkdVVnhfSGlFcWJ3YXI4RWFaSUQ2em9aeHp1dVE4NWJFTk1zMHlB?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-08",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
+  },
+  {
+   "title": "DP World signs 15-year deal to operate Chittagong’s biggest box terminal NCT",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNF9xb042dDZKRjF1REV5TGhTcFZ6NDBRajdqSVhmM05qeTBGSmJ5WTlzbWVoVWxBcmdpMVd3Zzh0UU15dFJfY09XWjhFb1NhM3hKRU9COWhSVWNKTXhxSlFhQmhzRVZ3WTVpb3RtYW9SR3hQR0NOaFVVeWhQSF9FWFNjU1MtNHI5UC12V01iWW1yV2ZNcnBEMDhEVWhnLW1VU3RDNTNB?oc=5",
+   "source": "Container News",
+   "published": "2026-10-08",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
   },
   {
    "title": "Akiem Hicks",
@@ -2593,9 +2565,9 @@
    "first_seen": "2026-10-07"
   },
   {
-   "title": "What Trinity Industries Stock Petition Fight Means For Shareholders",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdTA1U1ZVYThoSWtzekNFclNMTUNQUHNrOG92U1IyQ3FRX3FIMmVRZlFaWE9BRzdOTXpJOTRobUdmS29weXdOaVdQT2lHVWVpWkkwTWpOaVVITGtXQVZ6bHFwdXhOQ2d2akd5Q3VYazUyTlNHNE8wUldIM19qQXFrOTBNQ3VUUTVobEJPTUU0bzE5M0xuRENWYjhVNEZSX1pfclFWcE5Xd3A2eGM0X0hyMS15YWdYbVV5T3dzMVowWHpjUjAxVlB4RkVnTzMzYnI3UlVlRGVB0gHbAUFVX3lxTE5Od0liWVZYdkZobDYyR05BOExBSGtDZ1gySHZSTWQ5Yl9sVE03N3REZUcyTlJja0ttdTZBcHh1TEVRNE1KbFh1RjZXeDJVbGctYmlPWGlsemE1YVJRbmx0UHZQUXJLUVdrZGRMX3dQZ0c3OGdadjJ4OFUxNXpsT21CbjVMMFdmNFVFQ1g3MVdteDJKYXh3bWUxd1F3eEpTUTBQTV9SWTZHMjFvcHlVRllJd2dQcWNFV05rdnZzOENIUU15YU52bXVEM3Byek5zU2hEdWJOWTRiZ3VpTQ?oc=5",
-   "source": "Simply Wall Street",
+   "title": "UTLX Cites ‘Unfairly Priced,’ ‘Dumped’ Railway Tank Cars Built in Mexico",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTRIMHRFbzJENGhqdU9maHlOV3BMZ0hDQ0ttU0pzRjdLYkhQeUpHRkRXU21zS1NWMXF4ek1fYzZwdzduTFJMMXlfT0oxcjhIbXdpdEdIczd1TUgwUmZTRjJvZl9ILXZYT1VNaHhMdGg4b2Z3WEtiWVRXRV9HT3o0ejVrQTV2b0RPSkQ0eGcyYmc0QlgxMHBxNUQ5VzZuQ0E3SHkzaUZQSS0tUHQxX0pxMFBMX3pqTk9TNF9F?oc=5",
+   "source": "Railway Age",
    "published": "2026-10-06",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -2604,12 +2576,12 @@
     "railcar_leasing"
    ],
    "excerpt": "",
-   "first_seen": "2026-10-13"
+   "first_seen": "2026-10-17"
   },
   {
-   "title": "UTLX Cites ‘Unfairly Priced,’ ‘Dumped’ Railway Tank Cars Built in Mexico",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcTRIMHRFbzJENGhqdU9maHlOV3BMZ0hDQ0ttU0pzRjdLYkhQeUpHRkRXU21zS1NWMXF4ek1fYzZwdzduTFJMMXlfT0oxcjhIbXdpdEdIczd1TUgwUmZTRjJvZl9ILXZYT1VNaHhMdGg4b2Z3WEtiWVRXRV9HT3o0ejVrQTV2b0RPSkQ0eGcyYmc0QlgxMHBxNUQ5VzZuQ0E3SHkzaUZQSS0tUHQxX0pxMFBMX3pqTk9TNF9F?oc=5",
-   "source": "Railway Age",
+   "title": "Greenbrier Challenges UTLX's Claims in Tank Car Trade Petition",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnlqNzNVd2dTRFA4R0dKSzBRTzZSLThtZU8xNVAxZ2NIVlJiYl9IY3JyQlB1SDJjb3l4SHJHVi1xMDI5SmV5S2s4XzZxOTNlYUJJTERVNzd6dU43TFlOQ2dudVJRM3h5OXlsbTNjZ3I4VGVRd2g4UjZPQzlfTUItbzRnaDJmdW55aDFFc3VoYzRwUlJuTFR0SWdfYmNfUl91NVc2X3ln?oc=5",
+   "source": "Yahoo Finance",
    "published": "2026-10-06",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -2647,20 +2619,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-10-06"
-  },
-  {
-   "title": "Freight Rail Costs That Don’t Appear in Freight Rates",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVRXR2IzX0tRNzh5Z3ZXMG01X0ZGN1pjZVAtZDljQjN0VkswbnhteGo1cjRkTXdDQ3duTG1rRjVPNUpwb0hySG40SlQ1T1RDZzBtQlBpQWMyZlVJX3NXNmgzZDR5eVFDR1RMUnVwVndLVEJPUGlvYWt0Ym1SZzh1X2g0a2NIT2hZeExxU0NCTmNCRTl5UGc?oc=5",
-   "source": "Railway Age",
-   "published": "2026-10-06",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
   },
   {
    "title": "RailGhost takes to the tracks",
@@ -2747,6 +2705,20 @@
    "first_seen": "2026-10-06"
   },
   {
+   "title": "Freight Rail Costs That Don’t Appear in Freight Rates",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVRXR2IzX0tRNzh5Z3ZXMG01X0ZGN1pjZVAtZDljQjN0VkswbnhteGo1cjRkTXdDQ3duTG1rRjVPNUpwb0hySG40SlQ1T1RDZzBtQlBpQWMyZlVJX3NXNmgzZDR5eVFDR1RMUnVwVndLVEJPUGlvYWt0Ym1SZzh1X2g0a2NIT2hZeExxU0NCTmNCRTl5UGc?oc=5",
+   "source": "Railway Age",
+   "published": "2026-10-05",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "railcar_leasing"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-10-17"
+  },
+  {
    "title": "Now On Line: Railway Age October 2026 Digital Edition",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSTVmWVZ6VmlYSEdjelhBaTU1dm9yRnVtRGZTOGI5ZS1BbktJWkhHYnJqNkRDX0pTX0pqN2taaVVMc0ZVSDBBR29nVnd1NkVRS0RXbVRIcTFhMmtHMDBLWDk5SllLdHpZMFgyUU5nQmZzVm0xU3R3NUFLYzhGTXhsSGU2a3NIazRDNUZObU9B?oc=5",
    "source": "Railway Age",
@@ -2804,17 +2776,18 @@
    "first_seen": "2026-10-15"
   },
   {
-   "title": "Texas to Ohio Car Shipping (2026)",
-   "url": "https://www.freightwaves.com/checkpoint/car-shipping/texas/ohio/",
-   "source": "FreightWaves",
+   "title": "How Investors Are Reacting To Greenbrier Stock As 3,400 Railcar Orders Arrive",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbUhwLURBVEFDTTA1YXl6ejE5cm9iTExBOW9yUS1yRXRUMzdHQV9jNHJQSDNlTXJSVW5QSFN6VjJBSVFSemFiOHRFM3JZbzEwVlBBSll1U0tGd2V2Nk5nM2RibDRPMDQ4dGNHTWh0RE1XSTlRazR6ak4yLTRfTk5EMUdnX3g2WUpWbUREbjF4RTIyVnRYekVDdFN3bFlvTTRNd3YxNFhLbTFFVXVKbFhzbWszeThhbmwwankxb1lwNnJ3SWNVcUp5VktGWlY2cExaRXpkWFE1Y27SAd4BQVVfeXFMTWhyNUthNXNTUlVRTEIzckMxak1GSnVKQ1V3TkhUWmFpYnN5VWNKMVRiNUhfanhKeWdMMUFFMV83MTlUbFhFa243dXk5bDU0ZTVpWDFBYmNQRmEyd3N2dUs0ZTdQbC1HamFPLTk3Sk0zM3pKeUFPa1oxeXJfSmlLRzU4OXhIemNKNy1MS3Y2bUMta1JxdVQzSjVkZXVULU01cWpZWXNfNGQ3ejlSQXhOcU84TGdpdkJpT2F0T2VFRmRDSHhqOTZHTE1BUUhxcU1RVXhCYXdRTjcza29MSHV3?oc=5",
+   "source": "Simply Wall Street",
    "published": "2026-10-04",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
+   "snippet": "",
    "category_hints": [
     "railcar_leasing"
    ],
-   "excerpt": "Texas to Ohio Car Shipping (2026) Transporting your car between Texas and Ohio typically runs from $987-$1,556, with delivery times averaging 3-8 days. Why Trust FreightWaves Checkpoint? FreightWaves is committed to delivering clear, objective insights and in-depth reviews of car shipping companies nationwide. Through our custom scoring system, we’ve assessed 2,400 auto transport services across the country, examining factors like pricing models, available features, geographic reach, and customer satisfaction levels. We also dig into online reviews to identify patterns in real customer experiences. Every article is reviewed by our experienced team to ensure the information is accurate, up to date, and aligned with what readers need to know before booking. Cost of Shipping a Car From TX to OH The cost to ship a car 1,285 miles from Texas to Ohio usually falls between $987 and $1,556. Your final quote can shift based on fuel prices, how flexible your pickup window is, and overall carrier",
-   "first_seen": "2026-10-10"
+   "first_seen": "2026-10-17",
+   "excerpt": ""
   },
   {
    "title": "RTC buys SBB Cargo’s entire 100-wagon Tagnpps grain fleet",
@@ -2839,10 +2812,11 @@
    "feed": "gnews",
    "snippet": "",
    "category_hints": [
-    "railcar_leasing"
+    "railcar_leasing",
+    "rail_industry"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "You Could Sell These 35 Vintage Toys for a Ton of Money",
@@ -2869,8 +2843,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "‘Poland punishes EU rail companies for its own customs failures, some risk insolvency’",
@@ -2883,8 +2857,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Buchanan Announces New Trade Remedy Investigation into Imports of Unfairly Priced Railway Tank Cars from Mexico",
@@ -2925,8 +2899,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "Cargo Tank Construction: PHMSA Opens New ASME Path",
@@ -2953,8 +2927,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "CWE opens single-site Wagon Overhaul Facility at Gascoigne Wood",
@@ -2967,13 +2941,41 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "111 Vectron X locomotives ordered: Siemens secures orders from Railpool, DPB, GMP and RDC",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMzBVYk9RYlpRX0JNMVIyenJUSzVqNEZJRUNYM2FkOTdIb1V0ZVBSN1FhejNkdng2aXFjZU82Q0FIRTJmN0tZUVBfM3RHcldEb1h2QmVrMU5Tc1NkZEE0YXI1QjBjMkg1UWJSdU9xamJSdjhVMXRoUERHSmQ4aGMyc2ZxeVZDTWFXNlZPRFlPWkZGck9qdTZwcmp3Z2lNVnpsZWNoLVdVRGlZRmdzUmg3S19wWkFwUWpGU1gtaTFLWHpJNS1tMm9qTWRKbHJ4a0tm?oc=5",
    "source": "RAILMARKET.com",
+   "published": "2026-09-29",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-10-17"
+  },
+  {
+   "title": "Uzbekistan Railways explores high-speed trains, locomotive service center at InnoTrans 2026",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYm9UODdXSmJ0QzRfeGdUX2ZYNXo4QWU5ZVBlYTE1LVJrY0RqM2V2d0xxYi01TjZ0TkZyS3hyYlduUTlLX3NycHNxUWtEX1I2WDVjQTVXbFR3WmZOZWUyMk9FVEZEVVA3eTUtbl9TSDRVc3Y0UHpJY0g1NmhTc2FxMWY4SVh3bmxyOFZsQzBJSWhkSXNMaDh5UUhvVnkzc2dmWWMyS2FzdktwS1prZ201MHB5YjBBeFJNekFxNVprTQ?oc=5",
+   "source": "Daryo",
+   "published": "2026-09-29",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-10-17",
+   "excerpt": ""
+  },
+  {
+   "title": "Double trouble: two closures to shut down EU-Türkiye rail freight for months",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmNDdHlBYzlWY2lnLVJDZWlvRlp4ZW5odldWTTV1eFdXOVVYVEFUalFvRURPZHl0SHZaUVFTV09ZYnV2UGgzaFZ5ZlNnTkFyLXFFLTJWaXF5TVhHT3hCZWptQjVJekxvd3lkVGFaVFF0LWRSVFVsZ2dPbWVxVGdxQlI3ejB5NFQ2MjdBRjVwaU1ZZXBaZU90X0hSWklsbUNkdHAzUG5CRHptSHlyYUhqTjJmdXZhcE5JdGloZzJXb3MzeTYwRUE?oc=5",
+   "source": "RailFreight.com",
    "published": "2026-09-29",
    "category_hint": "eu_railcar_leasing",
    "feed": "gnews",
@@ -3009,8 +3011,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   },
   {
    "title": "TSB to Transport Canada, Rails: Develop Enhanced Analytics of Railcar Wheels",
@@ -3080,8 +3082,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-10-17",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-10-17"
   }
  ]
 }
