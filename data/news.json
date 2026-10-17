@@ -137,6 +137,36 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Xeneta: Carriers Accelerate Red Sea Return With Offered Capacity Doubling In Six Weeks",
+    "title_ja": "紅海復帰が加速、提供船腹が6週間で倍増とXeneta",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/xeneta-carriers-accelerate-red-sea-return-with-offered-capacity-doubling-in-six-weeks/",
+    "published_at": "2026-10-16",
+    "summary_ja": [
+      "海運データ会社 Xeneta は、紅海を通過するサービスで提供される船腹が直近6週間で倍増したと報告した。",
+      "10月5日時点でバブエルマンデブ海峡を片方向以上で通過する週間船腹が大きく増え、スエズ経由への回帰が加速している。",
+      "航路短縮は輸送日数と機材回転の改善につながる一方、実質的な供給力増加はコンテナ機材の需給を緩める要因となる。"
+    ],
+    "collected_at": "2026-10-17T06:24:49-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Up 3% Last Week",
+    "title_ja": "DrewryのWCI、前週比3%上昇し4,485ドル",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-up-3-last-week-6/",
+    "published_at": "2026-10-16",
+    "summary_ja": [
+      "Drewry の World Container Index は10月15日時点で40フィートコンテナ当たり4,485ドルとなり、前週比3%上昇した。",
+      "上昇はアジア-欧州航路の運賃上昇が主因で、上海-ロサンゼルスは3%高の7,884ドル、上海-ニューヨークは1%下落した。",
+      "運賃の底堅さは荷動きの持続を示し、コンテナ機材の稼働率と調達コストを見るうえでの先行指標となる。"
+    ],
+    "collected_at": "2026-10-17T06:24:49-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "No post-peak easing at US container gateways, despite drayage woes",
     "title_ja": "米港湾でドレージ能力が逼迫、ピーク明けも緩まず",
     "source": "The Loadstar",
@@ -298,6 +328,21 @@
       "BPAは英国の取扱量増加はETS回避ではなく新規能力の投入や航路再編・商業競争によるものだと主張し、指定が英国ターミナルへの巨額投資を不当に損ないかねないと警告した。"
     ],
     "collected_at": "2026-10-16T13:24:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Weeks Before Key STB Filings, BNSF Warns Rail Merger Threatens Ag Supply Chain",
+    "title_ja": "BNSF、UP-NS合併が農産物サプライチェーンを脅かすと警告",
+    "source": "AgWeb",
+    "url": "https://www.agweb.com/news/policy/weeks-key-stb-filings-bnsf-warns-rail-merger-threatens-ag-supply-chain",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "BNSF は11月18日の STB 向け意見提出期限を前に、UP と NS の合併が農業サプライチェーンを脅かすと警告した。",
+      "同社のZak Andersen氏は、すでに集約が進む業界でこれ以上市場シェアが1社に集中しても農業に利益はないと主張した。",
+      "UP 側は新ルート開設とトラックからのモーダルシフトを強調しており、BNSF・CPKC・CSX は同じ期限で対抗申請を行う見込み。"
+    ],
+    "collected_at": "2026-10-17T06:24:49-07:00"
   },
   {
     "category": "rail_industry",
@@ -855,6 +900,21 @@
     "collected_at": "2026-10-13T06:32:00-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hapag-Lloyd suspends bookings to three Philippine ports as container crisis deepens",
+    "title_ja": "Hapag-Lloyd、空コンテナ返却難でフィリピン3港の予約を停止",
+    "source": "Splash247",
+    "url": "https://splash247.com/hapag-lloyd-suspends-bookings-to-three-philippine-ports-as-container-crisis-deepens/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "Hapag-Lloyd は空コンテナの返却が滞っていることを理由に、マニラ・バタンガス・スービック向けの新規予約受付を停止した。",
+      "停止はすべての出発地と航路が対象で、2026年12月31日まで続く見込みと報じられている。",
+      "現地トラック業界団体は空コンテナ返却に最長40日を要すると訴えており、輸入超過による機材滞留はストライキにも発展した。"
+    ],
+    "collected_at": "2026-10-17T06:24:49-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Federal Railroad Administration investigating rail dispatch incidents in Chicago area",
@@ -898,6 +958,21 @@
       "ターミナルや操車場での1両ごとの入換に機関車を要しない運用を狙う構想で、現時点で顧客は決まっておらず欧州市場の反応を探る段階とされる。"
     ],
     "collected_at": "2026-10-12T06:40:18-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Ares Provides $2 Billion Debt Facility To Phoenix Tower International As Part Of $6.5 Billion Financing",
+    "title_ja": "Ares、Phoenix Towerの65億ドル調達に20億ドルを供与",
+    "source": "Pulse 2.0",
+    "url": "https://pulse2.com/ares-provides-2-billion-debt-facility-to-phoenix-tower-international-as-part-of-6-5-billion-financing/",
+    "published_at": "2026-10-11",
+    "summary_ja": [
+      "Ares Management の運用ファンドが、通信塔運営の Phoenix Tower International による65億ドルのマルチ法域調達のうち20億ドルを引き受けたと報じられた。",
+      "調達はタームローン約53.7億ドル相当、ディレードドローのタームローン6.35億ドル、リボルビングクレジット5億ドルで構成され、クロージング時に約18億ドルが実行されたとされる。",
+      "資金は既存債務の借り換えと設備投資・買収に充てられ、23カ国で3万3,000超のサイトを持つ同社の拡大を支える。"
+    ],
+    "collected_at": "2026-10-17T06:24:49-07:00"
   },
   {
     "category": "container_leasing",
@@ -4198,110 +4273,5 @@
       "取引完了時期は2027年第3〜第4四半期を想定しており、リードタイム短縮と定時性向上を荷主への訴求点に据えている。"
     ],
     "collected_at": "2026-09-28T06:32:48-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container peak season still ongoing, port congestion hits new high",
-    "title_ja": "コンテナ繁忙期が継続、港湾混雑は過去最高水準",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/container-peak-season-still-ongoing-port-congestion-hits-new-high",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "DHL Global ForwardingのOcean Freight Market Updateによると、アジア発の需要が旺盛でコンテナ市況の逼迫が続いている。",
-      "同レポートはアジア～米州航路でピークシーズンが終わっていないこと、港湾混雑が過去最高水準に達したこと、船社がスエズ運河経由に段階的に復帰していることの3点を指摘した。",
-      "太平洋航路のピークは今年早く到来し例年になく長引いており、年末商戦と10月上旬の中国国慶節（Golden Week）を前にした在庫積み増しが背景で、機器の回転低下はリース需要を下支えする。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Monroe Capital Leads $60 Million Investment in 36th Street Capital",
-    "title_ja": "Monroe Capital、設備リースの36th Streetに6,000万ドル",
-    "source": "Business Wire",
-    "url": "https://www.businesswire.com/news/home/20260917739964/en/Monroe-Capital-Leads-%2460-Million-Investment-in-36th-Street-Capital",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "Monroe Capitalが設備リース・ローン会社36th Street Capital（36SC）向けに6,000万ドルのClass Bタームローンを主導した。",
-      "36SCは米国の大企業・中堅企業に仕組みリースとローンを提供し、製造・テクノロジー・ヘルスケア・建設・食品飲料に分散したポートフォリオで事業必需設備を金融しており、今回の資金は組成拡大とプラットフォーム拡張に充てられる。",
-      "案件はMonroeで設備金融を担当するAaron Levy氏とChris Spanel氏が主導し、オルタナティブ・クレジット部門共同責任者のKyle Asher氏は36SCの仕組み力と市場地位を評価するとコメントした。"
-    ],
-    "collected_at": "2026-09-17T06:18:24-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR Reports Weekly Rail Traffic for the Week Ending September 12, 2026",
-    "title_ja": "AAR週次輸送量（9月12日終了週）",
-    "source": "Railpace",
-    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-september-12-2026/",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "米国鉄道協会（AAR）が9月12日までの週の米国鉄道輸送量を公表し、carloadとインターモーダルの合計は494,865単位で前年同週比3.7%減となった。",
-      "carloadは223,560台で3.3%減、インターモーダルは271,305個で4.1%減、10商品群のうち増加は穀物（+3,461台の23,507台）、石油・石油製品（+663台の10,901台）、林産品（+174台の8,342台）の3つにとどまった。",
-      "自動車・部品（-3,313台）、化学品（-3,195台）、石炭（-2,229台）の落ち込みが全体を押し下げており、貨車の稼働率や留置動向を左右する需要指標として注目される。"
-    ],
-    "collected_at": "2026-09-17T13:20:55-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container inland costs rise as ocean freight rates weaken",
-    "title_ja": "海上運賃の下落に対し内陸コンテナ費用は上昇",
-    "source": "Container News",
-    "url": "https://container-news.com/container-inland-costs-rise-as-ocean-freight-rates-weaken/",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "欧州の内陸輸送コストが上昇する一方、アジア―欧州の主要航路では海上運賃が下押し圧力を受けており、ドア・ツー・ドア費用の構成が変化している。",
-      "燃料コストの上昇が船社のサーチャージに転嫁され、内陸区間の費用押し上げ要因となっている。",
-      "ライン川の運航制約により内陸水運から鉄道接続への振り替えが進んでおり、コンテナの内陸回転とコンテナ滞留の局面に影響する。"
-    ],
-    "collected_at": "2026-09-17T13:20:55-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "CEO Bernhard Osburg: DB Cargo cannot meet EU break-even deadline",
-    "title_ja": "DB Cargo、EUが定める黒字化期限は達成不能",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/17/ceo-bernhard-osburg-db-cargo-cannot-meet-eu-break-even-deadline/",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "DB CargoのBernhard Osburg CEOが独dpaに対し、EUの国家補助手続きで求められている2026年内の営業黒字化は達成できないと明言した。",
-      "主因は英子会社DB Cargo UKの売却で、簿価が想定回収額を約2.6億ユーロ上回り、同額が2026年の業績を押し下げる見込み。",
-      "同CEOはこれまでドイツ国内に限っていた再建プログラムを欧州全域へ広げる必要があるとし、EUとの再交渉に入る考えを示した。"
-    ],
-    "collected_at": "2026-09-18T13:18:44-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "earnings",
-    "title": "Touax: business volume down 13% in first half, net loss of €4.2M",
-    "title_ja": "Touax、上期営業収益13%減で420万ユーロの純損失",
-    "source": "Idéal Investisseur",
-    "url": "https://www.ideal-investisseur.fr/en/stock-news/touax-business-volume-down-13-in-first-half-net-loss-of-eur4-2m/25166.html",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "Touaxが9月16日に公表した2026年上期決算は、修正営業収益が7,290万ユーロと前年同期比1,080万ユーロ（13%）減少した（為替・範囲一定ベースでは9%減）。",
-      "営業EBITDAは1,040万ユーロ減の2,010万ユーロ、営業利益は440万ユーロ（前年同期1,440万ユーロ）、純損益は420万ユーロの赤字（前年は250万ユーロの黒字、1株当たり-0.60ユーロ）となった。",
-      "輸送機材リース事業の落ち込みが主因で、期中には米Trinity Industriesがインドの貨車子会社に資本参加するなど財務・資本面の施策も進めた。"
-    ],
-    "collected_at": "2026-09-23T13:26:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Norfolk Southern: New intermodal era about removing rail friction",
-    "title_ja": "NS幹部、インターモーダルは運賃競争から使い勝手の勝負へ",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/norfolk-southern-new-intermodal-era-about-removing-rail-friction",
-    "published_at": "2026-09-17",
-    "summary_ja": [
-      "NSのShawn Tureman自動車・インターモーダル営業担当VPが、IANA年次総会（Long Beach）で事業の局面転換を説明した。",
-      "今後の成否はトラックとの単純なコスト比較ではなく、予約・計画・追跡・利用のしやすさで決まると指摘した。",
-      "在職23年の同氏は、30年近く続いた「インターモーダルはトラックに対抗できるか」という問い自体がもはや適切でないとの見方を示した。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
   }
 ]
