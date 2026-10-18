@@ -182,6 +182,21 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Rotterdam TEU throughput remains flat in first nine months",
+    "title_ja": "ロッテルダム港、1〜9月のコンテナ取扱は横ばい",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/rotterdam-teu-throughput-remains-flat-in-first-nine-months/",
+    "published_at": "2026-10-16",
+    "summary_ja": [
+      "ロッテルダム港の2026年1〜9月のコンテナ取扱量は1,075万TEU で、前年同期比0.1%増と横ばいだった。",
+      "トン数ベースのコンテナ貨物は2.2%減となった一方、港全体の取扱量は0.9%増の3億2,320万トンだった。",
+      "内陸向け輸送は7.2%増、実入り輸入は8.9%増と伸びたが、トランシップはディープシー・ターミナルの能力制約で20%減少した。"
+    ],
+    "collected_at": "2026-10-18T06:22:26-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "No post-peak easing at US container gateways, despite drayage woes",
     "title_ja": "米港湾でドレージ能力が逼迫、ピーク明けも緩まず",
     "source": "The Loadstar",
@@ -373,6 +388,21 @@
       "同事業は約45日前に完了した Coller Capital の買収を足場とするもので、Coller EQT は2027年初めに次のPEセカンダリー・ファンド CIP X の立ち上げを準備している。"
     ],
     "collected_at": "2026-10-17T13:24:15-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Class I Briefs: NS, UP, BNSF",
+    "title_ja": "UP、陸軍1個師団の装備を25本の列車で輸送",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/news/class-i-briefs-ns-up-bnsf/",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "Union Pacific は3個旅団・約1万2,000人規模の陸軍1個師団の装備を25本の列車で運び、鉄道による最大級の軍事輸送の一つだったと発表した。",
+      "輸送はコロラド州 Fort Carson とカリフォルニア州 Yermo の間で、6月初旬から48時間間隔で13本を発送し、訓練後の8月に装備を返送した。",
+      "UP はこの実績を、計画中の Norfolk Southern との大陸横断統合が持つ輸送能力の裏付けとして位置づけている。"
+    ],
+    "collected_at": "2026-10-18T06:22:26-07:00"
   },
   {
     "category": "rail_industry",
@@ -570,6 +600,21 @@
     "collected_at": "2026-10-15T13:26:35-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Suez Canal container ship transits exceed half of pre-crisis levels",
+    "title_ja": "スエズ経由のコンテナ船腹、危機前の5割超に回復",
+    "source": "Container News",
+    "url": "https://container-news.com/suez-canal-container-ship-transits-exceed-half-of-pre-crisis-levels/",
+    "published_at": "2026-10-14",
+    "summary_ja": [
+      "BIMCO が Clarksons Research のデータとして、10月上旬2週間のスエズ運河経由コンテナ船腹量が週平均約75万3,000TEU に達したと指摘した。",
+      "これは2023年同期の146万TEU に対し約5割にあたり、紅海混乱の発生以降で初めて危機前の半分を超えた。",
+      "スエズ運河と喜望峰を合わせた船腹に占めるスエズ経由の比率も10月上旬は36%と、2024年〜2026年半ばの平均8%から急上昇した（危機前は約80%）。"
+    ],
+    "collected_at": "2026-10-18T06:22:26-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Autonomous battery-electric rail freight technology company raises $100m for commercial expansion",
@@ -748,6 +793,36 @@
       "同労組は2024年10月の代表選挙で認証を得ており、短距離鉄道での組織化進展は労務コストと運行条件に波及しうる動きとみられる。"
     ],
     "collected_at": "2026-10-15T13:26:35-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CPKC gains flexibility, cost control from its own wood-tie treatment plant",
+    "title_ja": "CPKC、自社枕木処理工場で供給とコストを管理",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/RailPrime/details/--77937",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "CPKC は子会社 Superior Tie & Timber（ルイジアナ州Vivian）を通じ、Class I で唯一となる自社保有の木製枕木処理工場を運営している。",
+      "同工場の処理量は CPKC 傘下入り後におよそ倍増し、年間110万〜120万本に上る枕木交換の約4分の3を自社で賄う。",
+      "工場は1980年に Kansas City Southern が開設したもので、2023年の統合後も処理枠の優先確保とコスト管理の手段になっている。"
+    ],
+    "collected_at": "2026-10-18T06:22:26-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Macquarie hits USD 800m for infra services fund",
+    "title_ja": "Macquarie、インフラ関連サービス投資で8億ドルを調達",
+    "source": "Infralogic (ION Analytics)",
+    "url": "https://ionanalytics.com/insights/infralogic/macquarie-hits-usd-800m-for-infra-services-fund/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "Macquarie Asset Management が、インフラ事業者向けサービス企業に投資する Macquarie Strategic Opportunities Fund（MSOF）で約8億ドルを集めたと報じられた。",
+      "運用期間10年の同ファンドは15億〜20億ドルのコア・コミットメントを目標とし、別途約7億ドルの共同投資資金も確保しているという。",
+      "投資対象は米欧のミドルマーケットで、ネットIRR 約20%を狙い、SI Solutions の買収合意を含め3件の案件に署名済みとされる。"
+    ],
+    "collected_at": "2026-10-18T06:22:26-07:00"
   },
   {
     "category": "container_leasing",
@@ -1348,6 +1423,21 @@
       "事業主体は Bulmarket Group で、インフラ部分には復興・回復計画からの約2,600万レフが充てられたと報じられるが、金額の内訳は媒体により差がある。"
     ],
     "collected_at": "2026-10-15T13:26:35-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Wafra Acquires Liberty Development Partners, Invests in Gulf Inland Logistics Park and CMC Railroad",
+    "title_ja": "Wafra、鉄道接続物流施設とCMC Railroadに出資",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/news/wafra-acquires-liberty-development-partners-invests-in-gulf-inland-logistics-park-and-cmc-railroad/",
+    "published_at": "2026-10-08",
+    "summary_ja": [
+      "Wafra が助言するファンドが、鉄道接続インフラの開発・運営を手がける Liberty Development Partners とその主要資産に出資した（金額非開示）。",
+      "対象にはヒューストン北東のテキサス州 Dayton にある約3,900エーカーの Gulf Inland Logistics Park と、UP・BNSF に接続する CMC Railroad が含まれる。",
+      "CMC Railroad は1,000両超の貨車のスイッチングと留置を担っており、年末までにさらに約1,000両分の留置能力を追加する計画とされる。"
+    ],
+    "collected_at": "2026-10-18T06:22:26-07:00"
   },
   {
     "category": "container_leasing",
@@ -4168,155 +4258,5 @@
       "合意に至る保証はなく両社ともコメントを控えたが、実現すればAIインフラ拡大と再工業化で電力需要が高まる欧州でのAresの存在感拡大につながる。"
     ],
     "collected_at": "2026-09-21T13:27:17-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Transpacific spot rates top $10,000 as Asia-Europe slide accelerates",
-    "title_ja": "太平洋航路のスポット運賃が1万ドル超、欧州航路は下落",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/transpacific-spot-rates-top-10000-as-asia-europe-slide-accelerates/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "アジア発米東岸のコンテナスポット運賃が節目の1万ドルを突破したとThe Loadstarが報じた。",
-      "DrewryのWCI上海–ニューヨークは前週比7%高の40フィート当たり1万394ドルと、2022年7月以来の水準になった。",
-      "スペース確保を急ぐ荷主は指数を約1000ドル上回る1万1000ドル前後で予約しており、下落が続くアジア–欧州航路との二極化が7週連続で続いている。"
-    ],
-    "collected_at": "2026-09-18T06:22:12-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Knorr-Bremse wins Europe's first DAC contract",
-    "title_ja": "Knorr-Bremse、欧州初のDAC量産契約を獲得",
-    "source": "Railway PRO",
-    "url": "https://www.railwaypro.com/wp/knorr-bremse-wins-europes-first-dac-contract/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "Knorr-BremseとÖBB Rail Cargo Groupが、貨車にデジタル自動連結器（DAC）を装備する欧州初の商用契約を締結した。",
-      "装備した車両はPioDACプロジェクトの一環として2028年から営業運行に投入される予定。",
-      "連結作業の自動化で列車組成時間を短縮し、鉄道貨物の競争力とEUの気候目標への貢献を狙うとKnorr-Bremse鉄道部門担当役員のNicolas Lange氏は述べた。"
-    ],
-    "collected_at": "2026-09-18T06:22:12-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "UP-NS merger can't clear regulatory hurdles, CPKC chief executive says",
-    "title_ja": "CPKC CEO、UP-NS合併は規制を通過できないと主張",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/up-ns-merger-cant-clear-regulatory-hurdles-cpkc-chief-executive-says/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "CPKCのKeith Creel CEOが投資家会議で、UP・NS合併は弊害が便益を上回るためSTBの承認は得られないとの見方を示した。",
-      "仮に2001年の合併審査規則を満たしたとしても、850億ドル規模の取引には競争上の弊害を相殺する重い条件が付き、UP側が取引を断念する可能性が高いと述べた。",
-      "統合後のリスクとして、統合作業に伴う輸送障害、過大な市場支配力、さらなる鉄道再編の誘発の3点を挙げた。"
-    ],
-    "collected_at": "2026-09-18T13:18:44-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "PKP Cargo files long-delayed creditor deal in restructuring push",
-    "title_ja": "PKP Cargo、再建に向け債権者合意案を申請",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/business/2026/09/18/pkp-cargo-files-long-delayed-creditor-deal-in-restructuring-push/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "再建手続き中のポーランド国営貨物鉄道PKP Cargoが、度重なる延期を経てようやく債権者向けの弁済案（arrangement proposals）を提出した。",
-      "対象債権は約29.6億ズロチ（約6.9億ユーロ）で、既存の債権カット案をおおむね維持しつつ、ポーランド政府に対する3.5億ユーロの請求で得た補償を債権者と折半する条項を新たに加えた。",
-      "同社は破産回避のため2024年に再建手続きへ移行しており、合意の成否は保有・リース車両を含む資産再編の行方を左右する。"
-    ],
-    "collected_at": "2026-09-18T13:18:44-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "STB Denies Motions Seeking Summary Denial of UP-NS Merger Application",
-    "title_ja": "STB、UP-NS合併申請の即時却下を求める申立てを棄却",
-    "source": "Surface Transportation Board",
-    "url": "https://www.stb.gov/news-communications/latest-news/pr-26-23/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "STBは9月18日、Union PacificとNorfolk Southernの改訂合併申請を略式却下するよう求めた複数の申立てを退ける決定を公表した。",
-      "申立ては8月6日にBNSF Railway、CSX Transportation、および米国化学工業協会（ACC）・AFPM・NITL・The Fertilizer Instituteなど荷主団体連合の計3件が、申請がprima facie（一応の立証）基準を満たしていないとして提出していた。",
-      "決定は合併の是非を判断したものではなく、各当事者はopening commentsで同じ主張を改めて展開でき、審査手続きはそのまま継続する。"
-    ],
-    "collected_at": "2026-09-19T06:27:12-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "US railroad CSX announces hundreds of track maintenance worker layoffs",
-    "title_ja": "CSX、線路保守員数百人の一時解雇を通知",
-    "source": "World Socialist Web Site",
-    "url": "https://www.wsws.org/en/articles/2026/09/18/bzsa-s18.html",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "保線労組BMWED（チームスターズ保線従業員部門）は9月11日、CSXが保線（MOW）部門で大規模な人員削減に踏み切ると明らかにした。",
-      "内容は165ポジションの恒久的廃止、複数拠点の閉鎖、最大1,062人の一時帰休で、うち約900人はシステムギャング所属のBMWED組合員とされる。",
-      "CSXは7月22日に第2四半期の営業利益15.1億ドル・純利益10.0億ドル（前年同期比それぞれ17%増・21%増）を発表した直後で、システムギャングの再開は2月下旬まで見込まれていない。"
-    ],
-    "collected_at": "2026-09-19T06:27:12-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Regulators turn down requests for summary denial of UP-NS merger",
-    "title_ja": "STB、UP-NS合併申請の即時却下を求める申立てを退ける",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/regulators-turn-down-requests-for-summary-denial-of-up-ns-merger",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "米STBは9月18日、BNSF、CSXおよび荷主団体連合が8月6日に申し立てたUP-NS合併申請の即時却下（summary denial）3件をいずれも却下した。",
-      "申立て側は申請がprima facie（一応の立証）基準を満たしておらず致命的な欠陥があると主張していた。",
-      "STBは5ページの決定で「重要な論点を含むが、さらなる証拠と主張が判断に資する」として審理継続を選択し、本格審査が続くことになった。"
-    ],
-    "collected_at": "2026-09-23T13:26:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Union protests as CSX plans to cut or furlough maintenance-of-way workers",
-    "title_ja": "CSX、保線165職の廃止と最大1,062人の一時帰休へ",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/maintenance-of-way/union-protests-as-csx-plans-to-cut-or-furlough-maintenance-of-way-workers/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "保線労組BMWEDによると、CSXは保線（MOW）職165ポジションの恒久廃止と複数の保線拠点閉鎖、最大1,062人の一時帰休を進める。",
-      "CSXは9月14日に組合へ通知し11月中旬までに実施、線路班の約900人は2月まで復帰見込みがないとされる。",
-      "CSXは季節的な作業量に合わせたEngineering部門の調整と説明する一方、組合は保守の積み残しと安全リスクをFRA・STB・議会に訴える構えで、ある区間では従来12人が担当した本線142マイルと複数ヤードを4人で受け持つ計画という。"
-    ],
-    "collected_at": "2026-09-23T13:26:23-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Knorr-Bremse wins Europe's 'first commercial DAC equipment order' under pioneer train programme",
-    "title_ja": "Knorr-Bremse、欧州初のDAC商用受注をRail Cargo Groupから獲得",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/news/2026/09/18/knorr-bremse-wins-europes-first-commercial-dac-equipment-order/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "Rail Cargo Group（RCG）がKnorr-Bremseに、欧州初の商用となるデジタル自動連結器（DAC）機器の契約を発注したと9月17日に発表された。",
-      "対象は貨車23両と機関車1両で編成される列車で、DACに加え電子制御ユニットとセンサーを搭載し車両の機能と状態をデジタル監視する。",
-      "この編成はEUが支援するPioDACプログラムの7本の「パイオニア列車」の1本で、2028年から通常の貨物運用に入り技術の信頼性と経済性を検証する。"
-    ],
-    "collected_at": "2026-09-23T13:26:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "UP-NS Merger Would Create Seven New Premium Intermodal Lanes, Railroads Say",
-    "title_ja": "UP・NS、合併でプレミアム・インターモーダル7路線を新設と主張",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/class-i/up-ns-merger-would-create-seven-new-premium-intermodal-lanes-railroads-say/",
-    "published_at": "2026-09-18",
-    "summary_ja": [
-      "Union PacificのJim Vena CEOは、北米インターモーダル協会（IANA）のExpoで、NSとの合併によりプレミアム・インターモーダル7路線を新設し、既存約10,000レーンを単一鉄道サービス化できると述べた。",
-      "両社は統合後に約100港湾とカナダ・メキシコ向け10の国際ゲートウェイにアクセスでき、年間約35億ドルのコスト効果と約210万トラック積みのモーダルシフトが見込めるとしている。",
-      "取引完了時期は2027年第3〜第4四半期を想定しており、リードタイム短縮と定時性向上を荷主への訴求点に据えている。"
-    ],
-    "collected_at": "2026-09-28T06:32:48-07:00"
   }
 ]
