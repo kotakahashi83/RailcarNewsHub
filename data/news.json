@@ -1,5 +1,65 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Asia-US container rates mixed as extended peak season demand wanes; tanker rates stable",
+    "title_ja": "アジア発米国向けコンテナ運賃、繁忙期需要の一巡でまちまち",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-mixed-as-extended-peak-season-demand-wanes-tanker-rates-stable/",
+    "published_at": "2026-10-18",
+    "summary_ja": [
+      "東アジア・中国発米国向けのコンテナ運賃は、長引いた繁忙期の需要が一巡し、両岸向けともまちまちの動きとなった。",
+      "米西岸向けは1FEU当たり7,475〜8,300ドル、東岸向けは9,600〜1万1,300ドルで、いずれも2022年半ば以来の高水準近辺にとどまっている。",
+      "Drewry指数では上海〜ロサンゼルスが3%上昇、上海〜ニューヨークが1%下落し、同社は欠便による船腹調整で来週は変動が小さくなるとみている。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Intra Asia Container Index Down 3% Last Week",
+    "title_ja": "Drewryアジア域内コンテナ指数、港湾混雑緩和で3%下落",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-3-last-week-2/",
+    "published_at": "2026-10-18",
+    "summary_ja": [
+      "Drewryのアジア域内コンテナ指数（IACI）は前週比3%下落し、40フィートコンテナ当たり1,453ドルとなった。",
+      "下落は上海発の釜山、ホーチミン、ジャワハルラール・ネルー港向けで目立ち、これらの港で混雑が緩和したことが要因とされる。",
+      "大中華圏から北東・東南・南アジア向けのスポット運賃も需要低迷で軟化し、国慶節連休中に各港が滞留を処理して定時性が改善した。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+    "title_ja": "ホルムズ海峡、攻撃継続下でも商船の通航は続くとの見方",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/one-singapore-ship-was-sunk-but-heres-why-others-are-still-transiting-the-strait-of-hormuz/",
+    "published_at": "2026-10-18",
+    "summary_ja": [
+      "海事専門家は、シンガポール籍コンテナ船の沈没後もホルムズ海峡の商船通航は停止しないとの見方を示している。",
+      "中東産エネルギーへの強い需要と高い運賃収益が一部オペレーターのリスク許容度を支える一方、主要コンテナ船社は同海峡をおおむね回避している。",
+      "シンガポールS. Rajaratnam School of International StudiesのCollin Koh氏は、船社が今後も通航を続ける可能性が高いと指摘しており、コンテナ機材の域内配置に偏りが生じうる。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific and Norfolk Southern CEOs tout merger benefits for East Coast ports",
+    "title_ja": "UPとNS両CEO、合併は東海岸港湾の競争力向上と主張",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/union-pacific-and-norfolk-southern-ceos-tout-merger-benefits-for-east-coast-ports/",
+    "published_at": "2026-10-17",
+    "summary_ja": [
+      "UPのJim Vena CEOとNSのMark George CEOは10月14日のVirginia Maritime Association主催シンポジウムで、合併により米国の港湾の競争力が高まると述べた。",
+      "両氏は統合ネットワークが東海岸港湾からミシシッピ川以西の内陸市場までシングルラインで結ぶ点を強調し、Venaはカナダ系鉄道の大陸横断単一運行をモデルに挙げた。",
+      "Georgeは鉄道間の受け渡し回数が減ることで荷主の貨物追跡が容易になると説明したが、東海岸港湾側はアジア発貨物が西海岸経由のランドブリッジに回帰することを懸念している。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "earnings",
     "title": "J.B. Hunt intermodal volume up 8% on double-digit growth in the East",
@@ -452,6 +512,21 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 10, 2026",
+    "title_ja": "AAR週次輸送量、10月10日週は前年比7.2%増",
+    "source": "Railpace",
+    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-10-2026/",
+    "published_at": "2026-10-15",
+    "summary_ja": [
+      "AARは10月10日までの週の米国鉄道輸送量を53万4,256両・個と発表し、前年同週比7.2%増となった。",
+      "内訳は在来貨車が23万2,004両で3.4%増、インターモーダルが30万2,252個で10.4%増、10商品群のうち8群が増加した。",
+      "金属鉱石・金属が3,621両増の2万2,048両と伸びを主導した一方、石炭は1,156両減の5万7,526両と減少し、年初40週累計は合計2,052万2,546両・個となった。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "Intermodal volume sets record in third quarter",
     "title_ja": "AAR、第3四半期のインターモーダル輸送量が過去最高",
     "source": "Trains",
@@ -658,6 +733,21 @@
       "スエズ運河と喜望峰を合わせた船腹に占めるスエズ経由の比率も10月上旬は36%と、2024年〜2026年半ばの平均8%から急上昇した（危機前は約80%）。"
     ],
     "collected_at": "2026-10-18T06:22:26-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Update: Singapore confirms container ship sunk in Hormuz amid fresh Iran attacks",
+    "title_ja": "ホルムズ海峡でシンガポール籍コンテナ船が沈没、攻撃相次ぐ",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/security/iran-claims-mine-sank-container-ship-amid-fresh-hormuz-attacks",
+    "published_at": "2026-10-14",
+    "summary_ja": [
+      "シンガポール海事港湾庁（MPA）は、10月13日に被弾して損傷・火災を起こしたシンガポール籍コンテナ船GFS Prideが沈没したと確認し、乗組員21人は全員退避した。",
+      "UKMTOは同日、タンカー1隻とコンテナ船3隻（GFS Pride、GFS Giselle、Al Saadiyat）への攻撃に関する4件の警告を新たに発出し、10月の警告は計24件・勧告3件に達した。",
+      "GFS Giselleは入航中に被弾して船体に損傷を受けたが乗組員22人は無事で安全な錨地に到着しており、海峡を通る機材・船腹の運航リスクが一段と高まっている。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
   },
   {
     "category": "rail_industry",
@@ -870,6 +960,21 @@
     "collected_at": "2026-10-18T06:22:26-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Autonomous wagon developer Parallel Systems secures $100m in funding",
+    "title_ja": "Parallel Systems、自律貨車の量産化に1億ドルを調達",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/technology/2026/10/13/autonomous-wagon-developer-parallel-systems-secures-100m-in-funding/",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "自律走行バッテリー式貨車を開発する米Parallel Systemsが、シリーズCで新規・既存投資家から1億ドルを調達したと発表した。",
+      "ラウンドはAdvance Venture Partners（AVP）が主導し、同社の累計調達額は2億ドルを超えた。",
+      "Matt Soule CEOは資金を第3世代車両「Panther」の量産立ち上げと海外展開に充てるとし、Genesee & Wyomingとの米ジョージア州でのFRA監督下パイロットは継続中としている。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Shippers warned: spot rates no pointer to wider box shipping market",
@@ -1063,6 +1168,36 @@
       "現地トラック業界団体は空コンテナ返却に最長40日を要すると訴えており、輸入超過による機材滞留はストライキにも発展した。"
     ],
     "collected_at": "2026-10-17T06:24:49-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "The rail freight industry concludes its first discussion on GCU overhaul",
+    "title_ja": "欧州貨車使用契約GCUの改訂論議、ベルンで初会合",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/business/2026/10/12/the-rail-freight-industry-concludes-its-first-discussion-of-gcu-overhaul/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "10月7日にベルンで、鉄道事業者・貨車保有者・政策担当を含む40人超の専門家が貨車使用一般契約（GCU）の見直しについて初めて協議した。",
+      "欧州鉄道貨物協会（ERFA）は締結から20年を経たGCUが現在のビジネスモデルに合っていないとし、事業者・保有者・保守主体の役割の明確化、貨車不具合の立証責任の偏り、当事者間のデータ共有を論点に挙げた。",
+      "貨車保有者団体UIPは年300ユーロの署名者手数料を若干引き上げて紛争解決制度と標準化の財源にする案を示したが、具体的な改訂は決まらず、年内に拡大セミナーを開く予定である。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Apogem Capital Closes Largest Real Assets Fund Program At $472 Million",
+    "title_ja": "Apogem、実物資産ファンドIV計4.72億ドルでクローズ",
+    "source": "Pulse 2.0",
+    "url": "https://pulse2.com/apogem-capital-closes-largest-real-assets-fund-program-at-472-million/",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "New York Life傘下のApogem Capitalが、実物資産戦略の第4号プログラムを総額4億7,200万ドルでクローズし、同社の実物資産ファンドとして過去最大となった。",
+      "内訳はApogem Real Assets Fund IVが3億7,200万ドル（うち従業員出資1,200万ドル）、実物資産の共同投資口座が1億ドルで、3億ドルの目標を24%上回った。",
+      "投資対象は北米などOECD諸国のロウアーミドル〜ミドルマーケットのエネルギー・天然資源・インフラ関連事業で、2022年9月に約2億6,500万ドルでクローズした前号比で約4割の増加となる。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
   },
   {
     "category": "rail_industry",
@@ -1603,6 +1738,21 @@
       "炭素回収プロジェクトの拡大が新たなタンク車需要の受け皿になりつつあることが、こうした新型車投入の背景にあるとみられる。"
     ],
     "collected_at": "2026-10-17T13:24:15-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "SZ-VIT competes first Vectron loco overhaul for Beacon Rail",
+    "title_ja": "SŽ-VIT、Beacon Rail向けVectronの全般検査を初完遂",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/slovenia/2026/10/07/sz-vit-competes-first-vectron-loco-overhaul-for-beacon-rail/",
+    "published_at": "2026-10-07",
+    "summary_ja": [
+      "スロベニア鉄道の車両保守子会社SŽ-VITが、リース会社Beacon Rail所有のSiemens Vectron機関車191-023の全般検査を自社で初めて完了し、2026年9月に返却した。",
+      "同社は2026年内にVectron2両、2027年に6両の全般検査を計画しており、Beacon Railとは2024年から取引がある。",
+      "受注に備えてKnorr製ブレーキの実地研修を受け、台車測定用の測定アームを導入しており、将来は車輪交換サービスの提供も検討している。"
+    ],
+    "collected_at": "2026-10-19T06:26:36-07:00"
   },
   {
     "category": "container_leasing",
@@ -4288,20 +4438,5 @@
       "単車輸送はドイツの鉄道貨物輸送量の18%を占め化学・鉄鋼・自動車向けの基幹サービスであるため、配分基準の変更は貨車の稼働構成や貨車保有者の需要見通しに影響する。"
     ],
     "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Ares Said to Eye Buying Stake in Danish Infrastructure Fund CIP",
-    "title_ja": "Ares、デンマークのインフラ運用CIPへの出資を検討",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/ares-said-to-eye-buying-stake-in-danish-infrastructure-fund-cip",
-    "published_at": "2026-09-19",
-    "summary_ja": [
-      "米Ares Managementがデンマークのインフラ運用会社Copenhagen Infrastructure Partners（CIP）への少数株式取得を検討していると報じられた。",
-      "CIPは2012年以降に約430億ユーロ（494億ドル）を調達し、現在15本のファンドを運用している。",
-      "合意に至る保証はなく両社ともコメントを控えたが、実現すればAIインフラ拡大と再工業化で電力需要が高まる欧州でのAresの存在感拡大につながる。"
-    ],
-    "collected_at": "2026-09-21T13:27:17-07:00"
   }
 ]
