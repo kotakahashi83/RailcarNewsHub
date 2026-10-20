@@ -60,6 +60,51 @@
     "collected_at": "2026-10-20T06:26:54-07:00"
   },
   {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "ERFA: European rail freight transport under pressure due to lack of funding and cross-border bottlenecks",
+    "title_ja": "ERFA、CEF予算11%削減案と国境ボトルネックに警鐘",
+    "source": "Railway PRO",
+    "url": "https://www.railwaypro.com/wp/erfa-european-rail-freight-transport-under-pressure-due-to-lack-of-funding-and-cross-border-bottlenecks/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "欧州鉄道貨物協会（ERFA）が、インフラ資金の不足と国境での障害により欧州の鉄道貨物輸送が圧迫されていると警告した。",
+      "2028〜2034年のCEF交通予算を458億ユーロから406億ユーロへ約11%削減する案に反対し、国境での待機が最大約20時間に達し、迂回路では列車重量1,200トン・長さ535mに制限される例を挙げた。",
+      "ルーマニアのGiurgiu Nord〜Ruse間は2027年末まで運休の可能性、セルビアのNiš〜Dimitrovgrad間は200日の閉鎖が予定されており、ERFAは工事の国際調整や線路使用料の減免・迂回費用の補填を求めている。"
+    ],
+    "collected_at": "2026-10-20T13:22:25-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Foundation Credit closes second infra fund on $540m",
+    "title_ja": "Foundation Credit、2号インフラ債務ファンドを5.4億ドルでクローズ",
+    "source": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/foundation-credit-closes-second-infra-fund-on-540m-exclusive/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "米インフラ債務運用会社Foundation Creditが、2号ファンド「Foundation Infrastructure Debt Fund II」を5億4,000万ドルでクローズした。",
+      "当初目標の5億ドルを上回る調達で、米国内のミドルマーケット向け・地域インフラ向けのデットに投資するファンドとされる。",
+      "同社は10月14日にNew Holland Capitalが過半数株式を取得したばかりで、CEOのHector Negroniが引き続き運用と日々の経営を統括するとみられる。"
+    ],
+    "collected_at": "2026-10-20T13:22:25-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Maersk updates containerised vehicle booking requirements",
+    "title_ja": "Maersk、コンテナ輸送車両の予約・引受要件を改定",
+    "source": "Container News",
+    "url": "https://container-news.com/maersk-updates-containerised-vehicle-booking-requirements/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "MaerskがIMDGコード改正42-24で電池駆動車両に専用のUN番号が設けられたことを受け、コンテナで運ぶ車両の予約・引受要件を改定した。",
+      "対象は新車・中古車・損傷車両で、乗用車やバイク、e-bike、e-scooter、ボート、フォークリフト、ゴルフカート、航空機まで含まれる。",
+      "損傷車両はコモディティコード004609で予約する必要があり、損傷した電気自動車は引受前に追加審査を求められる場合があるなど、危険物該当性は動力源と状態で判断される。"
+    ],
+    "collected_at": "2026-10-20T13:22:25-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
@@ -193,6 +238,21 @@
       "同社アナリストは、格差縮小は主に米国向け運賃の下落で進み、欧州向けの上昇による寄与は小さいとみている。"
     ],
     "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Czech and Slovak rail freight operators call for fewer borders on Europe's railways",
+    "title_ja": "チェコ・スロバキア貨物事業者、ETCS統一と国境障壁の撤廃を要求",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/insights/64802-czech-and-slovak-rail-freight-operators-call-for-fewer-borders-on-europe-s-railways",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "スロバキアのAROSが10月8日にブラチスラバで開いた「Railway without Borders」会議で、チェコ・スロバキアの貨物鉄道事業者がETCS導入・工事計画・EU政策の調整強化を求めた。",
+      "チェコ側は、ERTMSを各国独自の追加条件なしに欧州全域で使える安定した製品とし、インターフェースの標準化と仕様変更の抑制を進めるよう要請した。",
+      "迂回運転には有効長・最大重量・牽引・ETCS搭載・車両限界・軸重の適合と国境駅の開放が必要だと指摘し、ŽESNAD.CZはチェコの鉄道貨物市場の約92%を代表するとしている。"
+    ],
+    "collected_at": "2026-10-20T13:22:25-07:00"
   },
   {
     "category": "container_leasing",
