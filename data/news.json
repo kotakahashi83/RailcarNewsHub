@@ -1,5 +1,65 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Antwerp-Bruges records highest TEU volumes since Q4 2020",
+    "title_ja": "Antwerp-Bruges港、第3四半期のコンテナ取扱が2020年以来の高水準",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/antwerp-bruges-records-highest-teu-volumes-since-q4-2020/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "ベルギーのAntwerp-Bruges港は、2026年第3四半期のコンテナ取扱が2020年第4四半期以来の最高水準に回復したと公表した。",
+      "1〜9月累計のコンテナ取扱はTEUベースで前年同期比1.2%増の1,020万TEUだった一方、総取扱トン数は0.6%減だった。",
+      "伸びをけん引したのは空コンテナで11.7%増、実コンテナは1.3%減と輸入超過による不均衡が拡大しており、空バンの偏在が続いていることを示す。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Maersk and Hapag-Lloyd reshape Asia–Europe network: Which ports gain or lose?",
+    "title_ja": "MaerskとHapag-Lloyd、Gemini網のアジア〜欧州航路で寄港地を再編",
+    "source": "Container News",
+    "url": "https://container-news.com/maersk-and-hapag-lloyd-reshape-asia-europe-network-which-ports-gain-or-lose/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "MaerskとHapag-Lloydの提携「Gemini」はアジア〜欧州航路の寄港地構成を見直し、港ごとに取扱が増減すると報じられている。",
+      "11月22日には新サービスAE18/SE5が、上海・厦門・タンジュンペレパスとアルヘシラス・タンジェメドを結ぶ形で開始される見込み。",
+      "アジア〜北欧州Loop1では欧州初寄港地がタンジェからロッテルダムに替わり、アジア〜地中海Loop4はダミエッタを追加し上海を南沙に置き換えるとされ、積替拠点の移動は空コンテナの配置にも影響しうる。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "PKP Cargo sells 106 old locomotives for just €6 million",
+    "title_ja": "PKP Cargo、退役機関車106両を約600万ユーロで売却",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/20/pkp-cargo-sells-106-old-locomotives-for-just-e6-million/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "ポーランドのPKP Cargoは、退役させた機関車106両を約600万ユーロで売却した。入札は2026年3月初めに公告されたもの。",
+      "売却対象はET22形100両超と改造型のST45・ST46形で、落札者は解体せず修繕して運用に復帰させることも可能とされる。",
+      "同社はさらに231両を売りに出し9月24日に新たな入札を開始。2025年6月に約7億ユーロの債務を対象とする裁判所手続きの再建計画を提出しており、資産売却はその一環。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Leasing firm's training centre explains tank wagons to chemical company staff",
+    "title_ja": "GATX Rail Europe、化学商社HELM向けにタンク貨車の実務研修を実施",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/research-training-skills/2026/10/20/leasing-firms-training-centre-explains-tank-wagons-to-chemical-company-staff/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "GATX Rail Europeは、ドイツ・レーテ（Lehrte）のGATX Training Academy Campusで、化学商社HELMの担当者向けにタンク貨車の技術研修を実施した。",
+      "研修ではGATXの保有車種の概要に続き、台枠・輪軸・懸架・緩衝器・ブレーキなどの主要部品、タンク車標記の読み方、連結器とDAC（デジタル自動連結器）までを扱った。",
+      "改造済みのタンク貨車を教材に使うことで工場の作業時間に制約されず実習でき、同社は他社の研修受け入れにも応じるとしている。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
@@ -43,6 +103,96 @@
       "ただしアジア-欧州では主要2指数の動きが大きく食い違い、太平洋・欧州・大西洋の各市場で回復度合いにばらつきがあるため、機材需給の方向性は読みにくい状況とみられる。"
     ],
     "collected_at": "2026-10-19T13:24:03-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "FreightCar America, Inc. Updates Full-Year 2026 Outlook and Reports Preliminary Third Quarter 2026 Results",
+    "title_ja": "FreightCar America、タンク車改造受注の除外で通期見通しを下方修正",
+    "source": "SEC EDGAR (FreightCar America)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526425341/rail-ex99_1.htm",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "顧客が契約上の義務を履行できない可能性が高いとして、タンク車改造受注1,285両を受注残から除外し、2026年通期の納入・売上・調整後EBITDA見通しをいずれも下方修正した。",
+      "第3四半期の暫定値は納入662両（前年同期1,304両）、売上7,500万〜7,700万ドル（同1億6,050万ドル）、調整後EBITDAは▲30万〜30万ドル（同1,700万ドル）。",
+      "9月末の受注残は除外後で2,660両・2億8,450万ドル。正式な第3四半期決算は11月9日に公表し、電話会議は11月10日に開催する。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "CSX Uses Drones to Enhance Railcar Inspections at Curtis Bay Terminal",
+    "title_ja": "CSX、ボルチモア石炭ターミナルで空車貨車のドローン点検を導入",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/freight/class-i/csx-uses-drones-to-enhance-railcar-inspections-at-curtis-bay-terminal/",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "CSXはボルチモアのCurtis Bay石炭ターミナルで、荷降ろし後の貨車に残る石炭（残炭）を検出するためドローンによる点検を導入した。",
+      "半自動運用のドローンは空車ヤードを約30分で巡回でき、投光器を用いた夜間飛行も承認済みで、映像はリアルタイムと事後の双方で確認できる。",
+      "残炭は寒冷期に凍結して滞留の原因となるため点検需要が高く、同ターミナルは有資格の操縦者と運用手順を整備して本格展開に備えている。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BNSF and CSX team up for faster coast-to-coast domestic intermodal service",
+    "title_ja": "BNSFとCSX、LA〜NJ間100時間の大陸横断インターモーダル列車を開始",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/intermodal/bnsf-and-csx-team-up-for-faster-coast-to-coast-domestic-intermodal-service/",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "BNSFとCSXは、ロサンゼルス〜South Kearny（ニュージャージー）間を100時間で結ぶ大陸横断プレミアム・インターモーダル列車を10月5日に運行開始した。",
+      "2025年11月に設定した従来の連絡輸送ダイヤより26時間短縮し、週7日運行。列車記号はBNSF側がZ-LACNWH、CSX側（東行き）がI072。",
+      "基幹荷主は非公表だが沿線観測ではAmazonとされ、1日100本超のコンテナにJ.B. Huntなど他荷主分も加わり、1日あたり100台のトラック輸送を鉄道へ転換したという。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "More than 100 projects receive CRISI funding",
+    "title_ja": "米運輸省、CRISI補助金23億ドルを105件の鉄道事業に交付決定",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/more-than-100-projects-receive-crisi-funding/",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "米運輸省・連邦鉄道局（FRA）は10月19日、CRISI（鉄道インフラ・安全改善）補助金として45州とワシントンD.C.の105件に総額23億ドルを交付すると発表した。",
+      "選定は368件・総額122億ドルの申請から行われ、採択件数が最も多かったのはテキサス州の8件だった。",
+      "2021年インフラ投資・雇用法（IIJA）に基づく最後のラウンドで、年10億ドルの事前充当を受けた2025・2026両年度分を合わせて配分した。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "4AI Systems Testing Onboard Sensor System at MxV Rail",
+    "title_ja": "4AI Systems、AAR委員会の選定でMxV Railの車載センサー試験に参加",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/cs/4ai-systems-testing-onboard-sensor-system-at-mxv-rail/",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "AAR（米鉄道協会）のTCCO（列車制御・通信・運行）委員会は、4AI Systemsの車載センサーシステム「HORUS」を実証対象に選定した。",
+      "試験は11月にコロラド州のMxV Railで管理環境下の事前統合試験として実施され、招かれたサプライヤーは同社を含め3社のみとされる。",
+      "HORUSは走行中に物体を走査して位置・速度と危険個所を算出するもので、徐行運転時の進路確認と車両・人との衝突防止に向けた相互運用可能な解を探る取り組みの一環。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "US and Europe container spot rates begin to converge",
+    "title_ja": "Xeneta、米欧向けコンテナスポット運賃の格差縮小が始まったと指摘",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/us-and-europe-container-sport-rates-begin-to-converge",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "Xenetaは、アジア発米国向けと北欧州向けのスポット運賃の格差が持続不可能な水準にあり、縮小が始まったと指摘した。",
+      "直近1カ月で米東岸向けは1FEU当たり11,495ドル（▲0.1%）、米西岸向けは8,296ドル（▲0.2%）と伸びが止まり、北欧州向けは2,946ドル（前週比＋2.5%）、地中海向けは4,165ドル（＋3.2%）へ上昇した。",
+      "同社アナリストは、格差縮小は主に米国向け運賃の下落で進み、欧州向けの上昇による寄与は小さいとみている。"
+    ],
+    "collected_at": "2026-10-20T06:26:54-07:00"
   },
   {
     "category": "container_leasing",
