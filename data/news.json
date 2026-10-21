@@ -45,6 +45,81 @@
     "collected_at": "2026-10-21T06:24:34-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "CSX Corp. Announces Third Quarter 2026 Results",
+    "title_ja": "CSX、3Q26は売上高40.2億ドルで過去最高・EPS54%増",
+    "source": "SEC EDGAR (CSX Corporation)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000277948/000027794826000039/pressrelease_q32026.htm",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "CSXが10月21日に2026年第3四半期決算を発表し、売上高は過去最高の40.2億ドル（前年同期比12%増）となった。",
+      "営業利益は15.7億ドルで44%増、営業利益率は880bp改善して39.1%、希薄化後EPSは0.57ドルで54%増。",
+      "輸送量は約169万ユニットで5%増（インターモーダルは7%増）。前年同期に1.64億ドルののれん減損があったため、調整後比較では営業利益25%増・EPS30%増となる。"
+    ],
+    "collected_at": "2026-10-21T13:21:29-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CSX eliminates more than 100 management positions",
+    "title_ja": "CSX、保線部門再編で運行管理職109ポジションを削減",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "CSXがエンジニアリング（保線）機能の再編に伴い、運行管理職109ポジションを削減した。",
+      "対象者のうち58人には運行部門内の別職務が提示され、51人には退職パッケージが提示された。",
+      "同社は2026年1月にも非組合員の約5%に相当する管理職166人を削減しており、今春示した組織再編方針の継続とされる。"
+    ],
+    "collected_at": "2026-10-21T13:21:29-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR: U.S. Rail Traffic Rises 8.5% in Week Ending Oct. 17",
+    "title_ja": "米鉄道輸送量、10月17日週は8.5%増の54万ユニット",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/freight/class-i/aar-u-s-rail-traffic-rises-8-5-in-week-ending-oct-17/",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "AARが10月17日までの週の米国鉄道輸送量を公表し、合計54万135ユニットで前年同週比8.5%増となった。",
+      "内訳は貨車輸送が23万2,120件で3.5%増、インターモーダルが30万8,015ユニットで12.6%増。",
+      "主要10品目のうち9品目が増加し金属鉱石・金属が2,946件増で牽引。年初41週累計では貨車2.7%増・インターモーダル4.6%増と、増勢が続いている。"
+    ],
+    "collected_at": "2026-10-21T13:21:29-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "TOUAX to acquire initial fleet of AELER Unit One composite containers under long-term lease deal",
+    "title_ja": "Touax、AELERの複合材コンテナを長期リースで初期導入",
+    "source": "Container Management",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTS1LcldMWDIwbVlEdXdndUp6QVdEcFJ1ZWp4OG5iNnhsWjAzbW1uRjhkQTg3SWZ3TXRiY3VKZzR6UHNlYktjM09BcmJRVWw5SmxXUEdqYlBuV0gxS1k3VTFXSUNXRl84UjhFdU1LSi1pYUtNbk4wQ01faThTMkdYb1REOWJrVk1sZkFNYldQcVNTVDFIVk1ZOUxwM2NsSGlIRDh1YQ?oc=5",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "Touaxが、スイスAELERの複合材コンテナ「Unit One」の初期フリートを長期リース契約で取得すると報じられた（規模・料率は非開示）。",
+      "Unit Oneはガラス繊維複合材製で標準寸法を保ちつつ積載量・強度・断熱性を高めた箱型で、AELERはCO2排出を約20%、燃料消費を約4%削減できるとしている。",
+      "Touaxはコンテナ部門の2026年上期売上が3,450万ユーロへ減少する一方、トレーディング台数を年1万6,000本から2万8,000本へ拡大し長期リースのフリートを増やす方針を示していた。"
+    ],
+    "collected_at": "2026-10-21T13:21:29-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Virginia Retirement commits $300m to Castlelake asset-based private credit fund",
+    "title_ja": "Virginia州退職年金、Castlelakeの資産担保型私募債に3億ドル",
+    "source": "IPE Real Assets",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3VaaERNN1c0ekhvcG51RUhLRVVURzJEbm9xdE5pVGtiVUVreWRKVlZ5YjFYSlE4TXZQTFp5aXBEaW1ienBjTjRJQW4yRHZGYUI2b1l6QmN5SERqX1VlSHBCeWhHdXZ2eVpSd1V6dzBoQm96RVhYOGt6VUtUMnR1NEdWMGVMQjk4RjF1clpXV1V4cFVsRnVpTmk4eFVRd1B4anVFQjFSUGMyWjdmaTUtdDlRQXZ0NTR0NmpHNnpHdw?oc=5",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "米Virginia Retirement System（VRS）が、Castlelakeの資産担保型プライベートクレジット・ファンドに3億ドルをコミットしたと報じられた。",
+      "VRSは2024年6月にもCastlelakeの資産担保型私募クレジット3号へ2.5億ドルを配分しており、同運用会社との取引を積み増した形となる。",
+      "Castlelakeは航空機など輸送機材を中心とした実物資産担保の与信を手がけており、機関投資家の資産担保ファイナンス（ABF）への配分拡大を示す動きといえる。"
+    ],
+    "collected_at": "2026-10-21T13:21:29-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Antwerp-Bruges records highest TEU volumes since Q4 2020",
@@ -358,6 +433,21 @@
       "迂回運転には有効長・最大重量・牽引・ETCS搭載・車両限界・軸重の適合と国境駅の開放が必要だと指摘し、ŽESNAD.CZはチェコの鉄道貨物市場の約92%を代表するとしている。"
     ],
     "collected_at": "2026-10-20T13:22:25-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Blackstone closes fifth energy transition fund at $8.7bn hard cap",
+    "title_ja": "Blackstone、エネルギー転換5号ファンドを87億ドルでクローズ",
+    "source": "IPE Real Assets",
+    "url": "https://realassets.ipe.com/news/blackstone-closes-fifth-energy-transition-fund-at-87bn-hard-cap/10138995.article",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "Blackstoneが10月19日、Blackstone Energy Transition Partners V（BETP V）をハードキャップの87億ドルで最終クローズしたと発表した。",
+      "2025年2月にクローズした前身ファンド（56億ドル）を50%以上上回る規模で、Blackstone自身も1.5億ドルを出資している。",
+      "同ファンドは6月に投資期間に入り既に3つのプラットフォーム企業（Kindle、Fisterra、Viridon）へ投資済みで、同社はエネルギー転換投資で1997年以降34%のネットIRRを示している。"
+    ],
+    "collected_at": "2026-10-21T13:21:29-07:00"
   },
   {
     "category": "container_leasing",
