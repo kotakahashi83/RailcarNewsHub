@@ -1,5 +1,50 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "Wabtec Reports Strong Third Quarter 2026 Results",
+    "title_ja": "Wabtec、3Q26は増収増益で通期EPS見通しを上方修正",
+    "source": "SEC EDGAR (Wabtec)",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000017/a3q26pressreleaseword.htm",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "2026年第3四半期の売上高は31億2,000万ドルで前年同期比8.1%増、GAAP希薄化後EPSは2.42ドル（同33.7%増）となった。",
+      "調整後希薄化後EPSは2.83ドルで22.0%増、営業キャッシュフローは4億5,500万ドル、総受注残は約314億ドル（約23%増）、12カ月受注残は89億9,000万ドルに拡大した。",
+      "通期の調整後EPS見通しを10.85〜11.05ドルへ引き上げて幅を狭めた一方、売上高見通しは123億〜126億ドルで据え置き、売上が市場予想を下回った点が報道で指摘されている。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "The empty container problem isn't a shortage. It's a data problem.",
+    "title_ja": "空コンテナ偏在の主因は不足ではなくデータ不足との分析",
+    "source": "Container News",
+    "url": "https://container-news.com/the-empty-container-problem-isnt-a-shortage-its-a-data-problem/",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "Container Newsは、足元の空コンテナ問題の本質は絶対的な機材不足ではなく、機材の所在と需給を把握するデータの欠如にあると指摘した。",
+      "紅海回避により実質船腹が約12%失われ減速航行がさらに約2%を吸収したとMPC Container ShipsのConstantin Baack CEOは述べ、2026年初の係船率は世界船隊の0.6%にとどまった。",
+      "船腹が満杯近くで稼働すると機材側の緩衝が消え、前倒し出荷時に箱不足だったターミナルが数週間後には保管料やデマレージを払う余剰を抱えるなど、偏在の振幅が大きくなっている。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Freightos Weekly Update: Red Sea container traffic set for full return in Q1",
+    "title_ja": "Freightos、紅海のコンテナ航行は来年1Qに完全復帰と予測",
+    "source": "Container News",
+    "url": "https://container-news.com/freightos-weekly-update-red-sea-container-traffic-set-for-full-return-in-q1/",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "Freightosの週次レポートは、コンテナ船の紅海回帰が進み、来年第1四半期には紅海経由の輸送が完全復帰するとの見通しを示した。",
+      "イランはホルムズ海峡周辺での攻撃頻度を高め、前週にはイランの飛翔体がドバイ系のコンテナ船を沈没させたが、同海峡の通航は依然タンカーが中心とみられる。",
+      "中東の原油輸出が戦前水準に近づく一方で原油価格は1バレル約100ドルの高値圏にとどまり、フーシ派とサウジの衝突も激化するなかで船社は紅海復帰を進めている。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Antwerp-Bruges records highest TEU volumes since Q4 2020",
@@ -103,6 +148,66 @@
       "損傷車両はコモディティコード004609で予約する必要があり、損傷した電気自動車は引受前に追加審査を求められる場合があるなど、危険物該当性は動力源と状態で判断される。"
     ],
     "collected_at": "2026-10-20T13:22:25-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "FreightCar America Advances Aftermarket Growth Strategy with Third Acquisition in Less Than a Year",
+    "title_ja": "FreightCar America、ミシガン州の貨車部品会社を買収",
+    "source": "GlobeNewswire (FreightCar America)",
+    "url": "https://www.globenewswire.com/news-release/2026/10/20/3384984/0/en/freightcar-america-advances-aftermarket-growth-strategy-with-third-acquisition-in-less-than-a-year.html",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "FreightCar Americaは10月20日、ミシガン州Norton Shoresに拠点を置くTrinity Equipment Company（TEC）の買収を発表した。",
+      "TECはOEM向けおよび補修用の貨車部品と締結具を供給する事業者で、今回が同社にとって1年未満で3件目のアフターマーケット買収となる。",
+      "同社は2025年12月にCarly Railcar Components、2026年7月にSouthern Parts & Equipmentを取得済みで、統合的なアフターマーケット基盤の規模拡大を長期成長戦略の柱に据えている。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Intramotev autonomous freight cars to participate in testing funded by CRISI grant",
+    "title_ja": "Intramotev、FRA承認の自律貨車試験にTugVolt 2両を投入",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/short-lines-regionals/intramotev-autonomous-freight-cars-to-participate-in-testing-funded-by-crisi-grant/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "自律貨車開発のIntramotevが、ミズーリ州コロンビア市に交付されたCRISI補助金1,620万ドルの技術パートナーになると発表した。",
+      "同社はコロンビア〜セントラリア間21.4マイルの市営鉄道Columbia Terminal Railroad（COLT）にTugVolt自律貨車2両を投入し、遠隔入換の試験も行う。",
+      "FRAが承認した試験計画に基づき段階的に運行を拡大し、自律貨車運行に関する初の安全プログラム文書化と要員訓練カリキュラム策定、線路改良も補助対象となる。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "NTSB releases preliminary report on Michigan switching fatality",
+    "title_ja": "NTSB、ミシガン州の入換作業死亡事故で予備報告書を公表",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/ntsb-releases-preliminary-report-on-michigan-switching-fatality/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "NTSBは、9月21日にミシガン州グランドラピッズの生コン工場High Grade Materials Co.で起きた入換作業中の死亡事故に関する予備報告書を公表した。",
+      "事故は午前10時27分、2名編成がTrackmobileで積車5両を留置線から積込線へ移動中に発生し、地上で監視役を務めていた同社従業員が複数の貨車に轢かれて死亡した。",
+      "運転者によると最後の無線交信で監視役は手ブレーキを扱うと伝えていた。NTSBは見通し距離の観測と事故再現、近隣のセメント輸送車両の前方映像の確認を進めている。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "AllianzGI beats target to close global infra fund above EUR1bn",
+    "title_ja": "AllianzGI、インフラファンドIIIを10億ユーロ超でクローズ",
+    "source": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/allianzgi-beats-target-to-close-global-infra-fund-above-e1bn/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "報道によれば、Allianz Global Investors（AllianzGI）はグローバル分散型インフラ株式ファンド第3号（AGDIEF III）を目標を上回る10億ユーロ超でクローズした。",
+      "AGDIEF IIIは2025年8月に初回クローズし、2026年5月には関連ビークルを含め約10億ユーロの3回目のクローズを公表、AGDIEFシリーズ全体の調達額は30億ユーロを超えている。",
+      "投資対象はエネルギー・通信・輸送に加え社会・環境インフラで、ファンド投資・コインベスト・セカンダリーを組み合わせて地域とセクターを分散する方針を掲げる。"
+    ],
+    "collected_at": "2026-10-21T06:24:34-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -4663,80 +4768,5 @@
       "拠点はカナダ有力の石油化学集積地Chemical Valleyにあり、貨車の留置・入換・トランスロード・洗浄・修繕を担うため、リース会社や荷主のフリート運用余力が広がる。"
     ],
     "collected_at": "2026-09-29T06:28:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Newest STB member criticizes UP-NS merger application",
-    "title_ja": "STB新委員、UP-NS合併申請の内容を批判",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/newest-stb-member-criticizes-up-ns-merger-application/",
-    "published_at": "2026-09-21",
-    "summary_ja": [
-      "STBが9月18日夕にUP・NS統合申請の略式却下を求める請求を退けた際、最新委員のRichard Kloster氏が個別意見で申請内容を批判した。",
-      "2026年6月5日就任のKloster氏は、数千ページの提出書類にもかかわらず競争上の懸念への対処計画が乏しく「透明性と深さを欠く」と指摘した。",
-      "決定自体は4対0で、同氏は本案についてまだ判断していないとしつつ、今後の記録形成を注視する姿勢を示した。"
-    ],
-    "collected_at": "2026-09-21T13:27:17-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Rail-destined container dwell times at LA/LB ports reach 2026 high amid resilient demand",
-    "title_ja": "LA/LB港で鉄道向けコンテナの滞留が2026年最長に",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/rail-destined-container-dwell-times-at-la-lb-ports-reach-2026-high-amid-resilient-demand/",
-    "published_at": "2026-09-21",
-    "summary_ja": [
-      "ロサンゼルス／ロングビーチ港で鉄道向けコンテナの滞留時間が2026年で最長水準に達した。",
-      "PMSAのデータによると鉄道滞留は6.75日と7月の6.34日から延び、直近12カ月で最長となった。",
-      "背景にはロサンゼルス港が6〜8月に290万TEU超と港史上最も多忙な3カ月を記録した荷動きがあり、NRFは9月が年間最大の輸入月になる可能性を指摘している。"
-    ],
-    "collected_at": "2026-09-21T13:27:17-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "NTSB recommends end to crew members riding railcars during shoving moves",
-    "title_ja": "NTSB、入換時の貨車乗車慣行の禁止を勧告",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/ntsb-recommends-end-to-crew-members-riding-railcars-during-shoving-moves/",
-    "published_at": "2026-09-21",
-    "summary_ja": [
-      "NTSBは9月21日にシカゴで記者会見を開き、入換の推進（shoving）作業中に乗務員が貨車に乗る慣行の禁止をFRAとClass I全社に勧告した。",
-      "2020年10月以降に調査した推進作業関連の18件の事故で、作業員14人が死亡、4人が重傷を負ったとしている。",
-      "NTSBは「他の輸送モードでは許容されない慣行」として代替手段への切り替えを求めており、FRAの規則化や各社の入換作業手順の見直しにつながる可能性がある。"
-    ],
-    "collected_at": "2026-09-21T20:55:37-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Asia - US container rates could surpass pandemic peak",
-    "title_ja": "アジア発米国向け運賃、コロナ期ピーク超えの可能性",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/asia-us-container-rates-could-surpass-pandemic-peak",
-    "published_at": "2026-09-21",
-    "summary_ja": [
-      "Xenetaは、2月のホルムズ海峡での紛争開始以降、太平洋航路のスポット運賃が325%上昇したと指摘した。",
-      "10月初にも船社による追加値上げが想定され、DrewryとXenetaはいずれも太平洋航路のさらなる上昇を予想する。",
-      "上昇要因についてDrewryは船社の船腹調整を、Xenetaは地政学要因を、Dynamarは気象要因による混雑を挙げている。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Germany to revise single wagonload subsidies guidelines",
-    "title_ja": "独政府、単車輸送補助金の配分基準を実績ベースへ見直し",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/policy/2026/09/21/germany-to-revise-single-wagonload-subsidies-guidelines/",
-    "published_at": "2026-09-21",
-    "summary_ja": [
-      "ドイツ政府が単車輸送（single wagonload）向け補助金の配分基準を見直し、計画された輸送量ベースから実際に実施された輸送の実績ベースへ切り替える方針と報じられた。",
-      "2026年の補助金枠は過年度の未執行予算を充当して8,400万ユーロ増額され総額最大3億8,400万ユーロとなるが、翌年は1億1,000万ユーロ減の2億7,400万ユーロに縮小する見込み。",
-      "単車輸送はドイツの鉄道貨物輸送量の18%を占め化学・鉄鋼・自動車向けの基幹サービスであるため、配分基準の変更は貨車の稼働構成や貨車保有者の需要見通しに影響する。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
   }
 ]
