@@ -1,5 +1,80 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "Union Pacific Reports Third Quarter 2026 Results",
+    "title_ja": "Union Pacific、3Q26はEPS3.49ドルで16%増",
+    "source": "SEC EDGAR (Union Pacific)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000319/a2026-10x228xkex991earning.htm",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Union Pacificは2026年第3四半期の希薄化後EPSが3.49ドル（前年同期3.01ドル、16%増）、調整後は3.53ドルだったと発表した。",
+      "営業収益は72億ドルで15%増、貨物量は6%増、営業比率は59.1%（調整後58.8%）で、燃料価格の上昇が営業比率を140bp悪化させた。",
+      "貨物収入・営業収益・営業利益・純利益がいずれも四半期の過去最高となり、通期は高い一桁台のEPS成長見通しを据え置いた。"
+    ],
+    "collected_at": "2026-10-22T06:29:05-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "Norfolk Southern Reports Third Quarter 2026 Results",
+    "title_ja": "NS、3Q26は売上高35億ドルで過去最高",
+    "source": "SEC EDGAR (Norfolk Southern)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000702165/000119312526428384/nsc-ex99_1.htm",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Norfolk Southernは2026年第3四半期の鉄道営業収益が約35億ドルで四半期として過去最高となり、希薄化後EPSは3.37ドルだったと発表した。",
+      "収益は前年同期比4.23億ドル（14%）増で、輸送量3%増と燃料サーチャージの増加が寄与。営業利益は12億ドル、営業比率は67.4%だった。",
+      "合併関連費用や東オハイオ事故の影響を除く調整後EPSは3.62ドル、調整後営業比率は65.4%で前年同期の63.3%から210bp悪化した。"
+    ],
+    "collected_at": "2026-10-22T06:29:05-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "NWSA records decreased container volume September",
+    "title_ja": "NWSA、9月のコンテナ取扱は8.1%減の26.6万TEU",
+    "source": "Container News",
+    "url": "https://container-news.com/nwsa-records-decreased-container-volume-september/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Northwest Seaport Alliance（シアトル・タコマ）の9月のコンテナ取扱は26万5,692TEUで前年同月比8.1%減、実入り輸入は4.4%減、実入り輸出は9.6%減だった。",
+      "一方で前月比では実入り輸入が21.5%増、実入り輸出が24.2%増と大きく改善し、第4四半期に向けた荷動きの持ち直しを示した。",
+      "1〜9月累計は217万4,231TEUで10.6%減。関税前の駆け込み輸送で2025年の基準が高かったことが主因で、ブレークバルクは13.4%増と堅調だった。"
+    ],
+    "collected_at": "2026-10-22T06:29:05-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Barcelona container traffic broadly stable in first nine months",
+    "title_ja": "バルセロナ港、1〜9月のコンテナ取扱は0.4%減",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/10/barcelona-container-traffic-broadly-stable-in-first-nine-months/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "バルセロナ港の2026年1〜9月のコンテナ取扱は282万TEUで、前年同期比0.4%減のほぼ横ばいだった。",
+      "実入り輸入が7.1%増、積み替え貨物も増加した一方、輸出は7.2%減と落ち込み、上半期の4.3%増から減速した。",
+      "総貨物量は1%増の5,280万トン、旅客は4.5%増の480万人で、コンテナ以外は小幅な伸びを維持している。"
+    ],
+    "collected_at": "2026-10-22T06:29:05-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "SBB Cargo to withdraw and resell 21 locomotives amid wagonload overhaul",
+    "title_ja": "SBB Cargo、Re 484形21両を退役させ売却へ",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/22/sbb-cargo-to-withdraw-and-resell-21-locomotives-amid-wagonload-overhaul/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "SBB Cargoは2026年12月のダイヤ改正でBombardier製Re 484形（Traxx）21両すべてを運用から外し、売却に出す方針を示した。",
+      "12月13日に始まる新しい単車扱い輸送モデルでは需要の少ない約50カ所の取扱箇所を廃止し、現行物量の約98%を維持しつつ機関車と人員を削減する。",
+      "対象機はスイスとイタリアでの運行認可を持つため国際市場向けに売却される見込みで、同社は2035年までにStadler製の単一形式へ集約する計画。"
+    ],
+    "collected_at": "2026-10-22T06:29:05-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "Wabtec Reports Strong Third Quarter 2026 Results",
@@ -118,6 +193,21 @@
       "Castlelakeは航空機など輸送機材を中心とした実物資産担保の与信を手がけており、機関投資家の資産担保ファイナンス（ABF）への配分拡大を示す動きといえる。"
     ],
     "collected_at": "2026-10-21T13:21:29-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BNSF route to El Paso closed by derailment",
+    "title_ja": "BNSF、洪水に伴う脱線でEl Paso線区が閉鎖",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/bnsf-route-to-el-paso-closed-by-derailment/",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "BNSFのEl Paso Subdivisionが、10月20日早朝にニューメキシコ州Leasburgで起きた亜麻仁を積んだ列車の脱線により閉鎖された。",
+      "同社は原因を地域の大規模な洪水と説明し、負傷者や危険物の流出はなく、脱線した貨車数は公表していない。",
+      "復旧は10月22日正午ごろまでかかる見込みで、現場はLas Crucesの北約11マイル、El Pasoの北約54マイルに位置する。"
+    ],
+    "collected_at": "2026-10-22T06:29:05-07:00"
   },
   {
     "category": "container_leasing",
@@ -4693,170 +4783,5 @@
       "太陽光は20年のPPA、蓄電は20年のキャパシティ・トーリング契約で収益が固定されており、AresはEDPRとの既往案件に続くインフラ実物資産への追加配分となる。"
     ],
     "collected_at": "2026-09-28T06:32:48-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Greenbrier Announces 3,400 Railcar Orders Valued at $600 Million in Fiscal Fourth Quarter",
-    "title_ja": "Greenbrier、第4四半期に3,400両・6億ドルの貨車を受注",
-    "source": "SEC EDGAR (The Greenbrier Companies)",
-    "url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526397231/gbx-ex99_1.htm",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "Greenbrierは9月22日、2026年8月31日に終了した第4四半期に新造貨車3,400両・総額約6億ドルを受注したと発表した。",
-      "受注にはサウジアラビア政府系のSaudi Railway Company（SAR）向け780両が含まれ、リン酸・溶融硫黄輸送用のタンク車に加え、SAR向けでは初となるインターモーダル車が入っている。",
-      "SARとの取引は2015年のタンク車受注に始まっており、車種・最終需要先が分散した今回の受注は北米外での受注基盤の広がりを示す。"
-    ],
-    "collected_at": "2026-09-22T06:26:22-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "KKR Launches Equipment Finance Platform Akrapoint Commercial Capital",
-    "title_ja": "KKR、機材ファイナンス新会社Akrapointを3.5億ドルで設立",
-    "source": "Business Wire",
-    "url": "https://www.businesswire.com/news/home/20260922996735/en/KKR-Launches-Equipment-Finance-Platform-Akrapoint-Commercial-Capital",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "KKRは9月22日、ミッドティケット型の機材ファイナンス会社Akrapoint Commercial Capitalを立ち上げたと発表した。",
-      "同社にはKKRのアセットベース・ファイナンス（ABF）戦略の運用ファンドから3億5,000万ドルをコミットし、CEOにTrans Lease出身のNate Smith氏、取締役会長にNavitas Credit創業者のGary Shivers氏が就く。",
-      "対象は製造・エネルギー・廃棄物処理・建設・輸送物流など米国の中小中堅企業で、特殊トレーラーや職能特化型機材・産業機械のリースとローンを供与する。"
-    ],
-    "collected_at": "2026-09-22T06:26:22-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF opens long-delayed Bismarck bridge",
-    "title_ja": "BNSF、ミズーリ川の新ビスマーク橋を複線で供用開始",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/bnsf-opens-long-delayed-bismarck-bridge/",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "BNSFがミズーリ川を渡る新しいビスマーク〜マンダン橋の使用を開始し、最初の列車が9月16日午前6時51分に通過した。",
-      "数年に及ぶ法廷闘争の後に3年を要した建設で、両端の線路切替は20時間の集中工事で実施され、新橋は複線構造となった。",
-      "1883年建造の単線トラス橋は今秋から冬に解体へ入り完了は2027年半ばの見込みで、BNSFはノースダコタ州と全米網の輸送を支える重要な民間インフラ投資と位置づけている。"
-    ],
-    "collected_at": "2026-09-23T06:25:04-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Greenbrier to provide well and tank cars for Saudi railway",
-    "title_ja": "Greenbrier、サウジSARから貨車780両を受注",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/mechanical/freight-cars/greenbrier-to-provide-well-and-tank-cars-for-saudi-railway/",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "第4四半期（8月31日終了）に受注した3,400両・約6億ドルのうち、780両がサウジ政府系SAR向けと判明した。",
-      "内訳はリン酸・溶融硫黄輸送用のタンク車と、SAR向けでは初納入となるインターモーダル用ウェルカー。",
-      "タンク車は米国産鋼材を用いメキシコ拠点で製造し出荷を開始、2015年のタンク車受注以来の取引関係を拡大する。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Iowa Interstate to seek trackage rights over UP, NS as part of merger",
-    "title_ja": "Iowa Interstate、UP-NS統合を機に線路使用権を要求へ",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/short-lines-regionals/iowa-interstate-to-seek-trackage-rights-over-up-ns-as-part-of-merger/",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "路線長580マイルのIowa Interstateが、統合承認を条件にUP・NS双方への線路使用権を求める意向を9月17日にSTBへ届け出た。",
-      "NS区間はPeoria–Decatur（Gibson CityでCNや短距離鉄道と接続）、UP区間はCedar Rapids–ChicagoやGrinnell–Eddyvilleなどで、ADMやCargillの施設接続を求める。",
-      "短距離鉄道による条件付与要求が積み上がる一方、UPは広範な線路使用権や路線売却を命じられれば統合から撤退する構えを示している。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "New $100M inland rail terminal will handle 60,000 TEUs a year",
-    "title_ja": "Alabama港湾局、1億ドルの内陸コンテナ拠点を2027年初開業",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/new-100m-inland-rail-terminal-will-handle-60000-teus-a-year",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "Alabama Port AuthorityのMontgomery内陸コンテナ積替施設（272エーカー）が、2027年初の開業に向け工事を進めている。",
-      "投資額は1億ドルで年間6万TEUを扱い、Mobile港とCSXの直通鉄道で結んで沿岸〜内陸のドレージを代替する。",
-      "造成と地下埋設工事は完了し、現在は軌道インフラの施工段階に入っている。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Greenbrier Europe and TX Logistik Sign Agreement for the NIK Handling System",
-    "title_ja": "Greenbrier Europe、トレーラー積載架台NIKの製造とリースを担当",
-    "source": "Greenbrier Europe",
-    "url": "https://www.greenbrier-europe.com/2026/09/22/greenbrier-europe-and-tx-logistik-sign-agreement-for-the-nik-handling-system/",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "Greenbrier EuropeとTX Logistikが、クレーン非対応セミトレーラーを鉄道に載せるNIK（旧NiKRASA）架台の協定に署名した。",
-      "Greenbrier Europeが製造とリースを担い、TX Logistikが販売・商業開発を継続する形で、初回は50台を発注した。",
-      "トレーラーを載せた架台ごと通常のクレーンやリーチスタッカーでポケットワゴンに積載でき、サイロ車やコンテナシャーシにも対応する。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Peakline acquires equipment finance platform Kalon",
-    "title_ja": "Peakline、設備ファイナンスのKalon Capitalを買収",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/22/peakline-acquires-equipment-finance-platform-kalon/",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "投資会社Peakline Partnersが、ミッドチケット設備金融のKalon Capital買収を9月22日に発表した（条件は非開示）。",
-      "Kalonは2026年4月にコネチカット州Stamfordで立ち上がり、製造・産業サービス・建設・技術・重要インフラ向けに設備金融を提供する。",
-      "創業者Nicole Torracoが引き続きCEOを務め、Peaklineは設備リース向けの直接オリジネーション体制を拡充する。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Union Pacific Railroad and Norfolk Southern Combination Gains Additional Momentum",
-    "title_ja": "UP-NS合併、SMART-MDと6件目の労働協約を締結",
-    "source": "Union Pacific",
-    "url": "https://www.up.com/press-releases/growth/stb-rejects-dismissal-request-260922",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "Union PacificとNorfolk Southernは、車両整備部門の労組SMART-MDと雇用を生涯保障する「jobs-for-life」協約を締結したと発表した。",
-      "SMART-MDは両社が確保した6件目の労組協約で、SMART-TD、ATDA、BRC、IBB、Iron Workers、USCA、NCFOに続き、合併を支持する労組が反対する労組を上回った。",
-      "同時にSTBが修正合併申請の却下要求を全員一致で退けたことにも言及し、両社は取引完了を2027年後半と見込んでいる。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Wabtec Signs $700MM-Plus Rail Services Agreement for Simandou Project",
-    "title_ja": "Wabtec、Simandou鉄道で7億ドル超の保守契約",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/mechanical/locomotives/wabtec-signs-700mm-plus-rail-services-agreement-for-simandou-project/",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "Wabtecが、ギニアのSimandou鉄鉱石プロジェクトの鉄道を運営するLa Compagnie du TransGuinéen（CTG）と7億ドル超の長期鉄道サービス契約を結んだ。",
-      "計画・非計画保守、部品とコンポーネントのオーバーホール、部品管理、物流支援、訓練、遠隔診断を含む複数年契約で、同社のアフリカ最大のサービス契約となる。",
-      "2024年以降の機関車受注と合わせた同プロジェクト関連の累計額は12億ドル超で、対象は鉱山とMorebaya港を結ぶ600km超の新線。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "VIP Rail completes new rail yard at Sarnia terminal",
-    "title_ja": "VIP Rail、Sarnia拠点に貨車750両分の新ヤードを完成",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/intermodal/news/VIP-Rail-completes-new-rail-yard-at-Sarnia-terminal--77791",
-    "published_at": "2026-09-22",
-    "summary_ja": [
-      "Alpenglow Rail傘下のVIP Railが、オンタリオ州Sarniaのターミナルで新しい貨車ヤードを完成させたと発表した。",
-      "今回の増設で貨車750両分のスポットを追加し、同拠点の収容能力は2,150両超に拡大した。",
-      "拠点はカナダ有力の石油化学集積地Chemical Valleyにあり、貨車の留置・入換・トランスロード・洗浄・修繕を担うため、リース会社や荷主のフリート運用余力が広がる。"
-    ],
-    "collected_at": "2026-09-29T06:28:18-07:00"
   }
 ]
