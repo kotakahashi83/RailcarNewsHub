@@ -1,5 +1,35 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "HHLA cuts outlook again as strikes, automation hit volumes",
+    "title_ja": "HHLA、ストと自動化の遅れで通期見通しを再度下方修正",
+    "source": "WorldCargo News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajgwXzRxV3VJU1JRcVRnRDZUWFI5em5EcHBDZmJ4ZUo1VExDR3RKSFl4ZHpFbmNZSFFQeFI2VDZKX1VpVUQwQW1kNzZRSGpzd28tcmlWOTlBdHp1d0RIdUJZdXdCUDE1UW5OSFZFUjRXX2VjbzdrWUhGN3lzb01NWnZPZFVzWU8taGhaUk8zNG0wQThST3ROTDcxRHRrOE9PbnJKLQ?oc=5",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "ハンブルクの港湾物流大手HHLAは10月22日、ストライキの影響とコンテナターミナル自動化の立ち上げ遅れで取扱量が計画を下回るとして、2026年通期見通しを再び引き下げた。",
+      "グループEBIT予想は従来の1億5,000万〜1億7,000万ユーロから1億1,500万〜1億3,500万ユーロへ、港湾物流部門も1億3,500万〜1億5,500万ユーロから1億〜1億2,000万ユーロへ縮小した。",
+      "コンテナ取扱量の前提は「小幅減」から「大幅減」に改められ、物流セグメントでは約1,200万ユーロの非現金性減損も計上した。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Containership charter rates at a four-year high despite record orderbook",
+    "title_ja": "コンテナ船傭船料が4年ぶり高値、即時手配可能な船腹が不足",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/containership-charter-rates-at-a-four-year-high-despite-record-orderbook/",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "Braemarの傭船料指数は325.8と前年同期比21%上昇し、2022年秋以来4年ぶりの高水準に達した。",
+      "1月1日から10月17日までの成約件数は前年同期比15%減の853件、成約船腹量も10%減の254万TEUと、取引自体はむしろ減っている。",
+      "2024〜2025年に船主が長期契約で船腹を押さえたため即時手配可能な船が不足しており、手配残は稼働船腹の46.5%と記録的水準にある。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "earnings",
     "title": "Union Pacific Reports Third Quarter 2026 Results",
@@ -118,6 +148,81 @@
       "回答者が最優先に挙げたのは許認可指令の完全実施、次いでCapacity Regulationの実施で、着手すべき施策としては線路閉鎖の調整や容量計画など運用・行政面の改善が示された。"
     ],
     "collected_at": "2026-10-22T13:24:55-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Trinity Industries, Inc. Form 8-K - Term Loan Agreement (TRL-2026, $349.8 million)",
+    "title_ja": "Trinity、貨車担保で3億4,980万ドルのタームローン組成",
+    "source": "SEC EDGAR (Trinity Industries)",
+    "url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000131/trn-20261019.htm",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Trinity Industriesは10月19日付でRegions Bankを幹事とする3億4,980万ドルのタームローン契約を締結し、同日に初回実行を完了した。",
+      "借入主体のTRL-2026はこの資金でTrinity傘下2社から貨車群とそのオペレーティングリースを取得し、当該貨車が借入の担保となる。",
+      "売却代金はウェアハウス・クレジット枠の返済と、残高2億8,090万ドルのTRL-2019シリーズ2019-2ノートの全額償還に充当された。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "UP and NS say regulators will reject rival railroads' requests for merger concessions",
+    "title_ja": "UP・NS、競合鉄道の合併条件要求は却下されると主張",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/up-and-ns-say-regulators-will-reject-rival-railroads-requests-for-merger-concessions/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Union PacificとNorfolk Southernの両CEOは、合併審査で競合他社が求める線路使用権などの条件付与をSTBは認めないとの見方を示した。",
+      "BNSF・CSX・CPKCと複数のショートラインは9月、合併が承認された場合に統合ネットワークへのアクセスを求める意向をSTBに表明していた。",
+      "BNSFはシカゴからペンシルベニア州ハリスバーグ・ベツレヘムまで824マイルの線路使用権と、ガルフ岸でのカーロード顧客向け中立スイッチング鉄道の設置を要求するとしている。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "GMXT earnings rise on volume and revenue growth",
+    "title_ja": "GMXT、第3四半期の営業利益8.6%増の2億5,510万ドル",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/gmxt-earnings-rise-on-volume-and-revenue-growth/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Ferromex・Ferrosur・Florida East Coast Railwayなどを擁するGrupo Mexico Transportesは、2026年第3四半期の営業利益が8.6%増の2億5,510万ドルになったと発表した。",
+      "売上高は12%増の9億7,840万ドル、輸送量は5%増の524,538カーロードで、営業比率は前年同期から1ポイント悪化の74%だった。",
+      "金属セグメントが15.4%増と伸びを牽引し、インターモーダルが11.8%増、セメントが3.5%増と続いた。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
+    "title_ja": "トラックから鉄道への貨物シフトで北米鉄道の収益改善",
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGc5aTl0c1YwcU5MLXk3bGZ1RG5EVDZ0eldxV3ZiZC1rbzEyczVKdDU1WElRT2p2RXNtTHgyQmg1NjJhd243Nk1CaWFRNVpmWEkwMlF0NHdnNkhmUFhXMGVWOU9FZXltWUFXWkh0TTY3a2d6dnpDWFpLcWFUX3ppekp0MTlHdm1tcmFHVC1ld0JWeFVCb2lkVVJWT01XTEp6cjllUEdWUE4?oc=5",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "ディーゼル価格の高止まりとトラック輸送能力の逼迫で荷主の貨物が鉄道へ流れ、Class I各社の第3四半期決算を押し上げたと報じられた。",
+      "Union Pacificは四半期として過去最高の売上高を計上し、Norfolk Southernも売上高35億ドルの記録を更新した。",
+      "10月17日までの週の全米インターモーダル輸送量は前年同週比12.6%増と、2桁の伸びが続いている。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "World Container Index - 22 October 2026",
+    "title_ja": "Drewry世界コンテナ指数、2%上昇し1FEU=4,585ドル",
+    "source": "Daily Cargo News (Drewry)",
+    "url": "https://thedcn.com.au/news/world-container-index-22-october-2026",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Drewryの世界コンテナ指数（WCI）は10月22日時点で前週比2%上昇し、40フィートコンテナ当たり4,585ドルとなった。",
+      "上昇はアジア〜欧州航路と太平洋航路のスポット運賃の上昇が牽引した。",
+      "船社は欠便（ブランクセーリング）で供給を絞り運賃を下支えする動きを続けており、機材の回転にも影響しうる。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -253,6 +358,21 @@
       "復旧は10月22日正午ごろまでかかる見込みで、現場はLas Crucesの北約11マイル、El Pasoの北約54マイルに位置する。"
     ],
     "collected_at": "2026-10-22T06:29:05-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "personnel",
+    "title": "IFM Investors Announces Leadership Changes to Its Infrastructure Business in North America",
+    "title_ja": "IFM Investors、北米インフラ投資責任者にKulper氏を起用",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3NaQzZieFR3TEJ5OGhoanFuRU1jaFBORUhGdXdRWWh6YUhYclo0alY4RjB4TUhrUEhKdjFpaWNNWEFid1daNy11SmJPNUpHQTA5QlNrX0JlaS13OEF3ZnNyc1VERy1Cc2RlekV6dHlBbVJfX1BEcGg4akZsM2xHRlJERWhjS2RKYVlILXlUNWE3YkJqUkVoRWRfU3g0UldldjExcGVRSQ?oc=5",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "IFM Investorsは北米インフラストラクチャー部門の責任者にMichael Kulper氏を起用すると発表した。",
+      "同氏は北米のインフラ・エクイティ投資の成長戦略を統括し、18年にわたり同職を務めたJulio Garcia氏の後任となる。",
+      "Garcia氏は同社の投資委員会に移り、Kulper氏はTransurbanの北米有料道路事業を率いた後2013年からIFMに在籍している。"
+    ],
+    "collected_at": "2026-10-23T06:29:23-07:00"
   },
   {
     "category": "container_leasing",
@@ -4691,171 +4811,6 @@
       "Container Trades Statistics（CTS）の7月データで、サブサハラアフリカ発欧州向け荷動きが前年同月比2.3%増と4カ月連続のプラスとなった。",
       "欧州発サブサハラ向けも7月は前年同月比5.7%増で、6カ月連続の増加が続いている。",
       "一方で航路に従事する一部フォワーダーは需要の持続性に慎重な見方を示しており、機材の偏在や船腹確保の難しさが継続する可能性がある。"
-    ],
-    "collected_at": "2026-09-28T06:32:48-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Siemens receives first major order for 100 Vectron X locomotives from RAILPOOL",
-    "title_ja": "Railpool、Siemensの新世代機Vectron Xを100両発注",
-    "source": "Siemens Mobility",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGhVYzRRMTBNWWh0ZlgwZ1BtVkpqbFRTd1R6MUFsSENYQ2ZLYnlZNUh2V09ZQkgzbldiTHNDWWozWWxvWmVoSUpwNFRvQUhLaGhoNWZ1N0YyaWlBQXpxVFFWTmt3WVlGaGktNUVZd3RmRW1DcVdIRlRqcjJVT1lzd0dNNklfRDYtTmsxMWl0V2E3Y2ttTkdVUFR3cFNXeXZLYXZRZ2VHUG5LTzFkdXlMTEdQdFh0VjNPT3c?oc=5",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "Siemens Mobilityが、欧州の車両リース大手Railpoolから新型機関車Vectron Xを100両受注したと発表した。",
-      "ベルリンで開催中の鉄道見本市InnoTrans 2026に合わせた発表で、新プラットフォームVectron Xとしては初の大型受注となる。",
-      "Vectron Xは車載アプリストアと統合画面「Smart Screen」を備え、Railigent X経由のソフトウェア更新で機能を追加できる「ソフトウェア定義型」機関車で、Railpoolは2022年のVectron 100両枠組み契約に続く発注でローンチカスタマーとなる。"
-    ],
-    "collected_at": "2026-09-23T06:25:04-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Trinity Rail to restructure Jonesboro site, affecting 172 employees",
-    "title_ja": "TrinityRail、Jonesboro拠点の重整備を廃止し172人に影響",
-    "source": "KAIT",
-    "url": "https://www.kait8.com/2026/09/23/trinity-rail-restructure-jonesboro-site-affecting-172-employees/",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "TrinityRailは現在の市場環境と貨車整備ネットワークの再編を理由に、アーカンソー州Jonesboro拠点での固定式の重整備（heavy maintenance）を恒久的に終了すると表明した。",
-      "再編の影響を受けるのは約172人の従業員で、一部は同拠点に残る移動修理・留置業務のポジションに応募できるとしている。",
-      "拠点自体は閉鎖せず、軽整備と移動修理部隊の地域ハブ、貨車の留置用地として継続利用する。"
-    ],
-    "collected_at": "2026-09-23T13:26:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR Reports Weekly Rail Traffic for the Week Ending September 19, 2026",
-    "title_ja": "米鉄道輸送量、9/19までの週は合計4.9%増の53.6万件",
-    "source": "Railpace",
-    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-september-19-2026/",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "AARによると9月19日までの週の米鉄道輸送量は合計535,663件で、前年同週比4.9%増となった。",
-      "カーロードは234,207件で2.4%増、インターモーダルは301,456個で6.9%増だった。",
-      "10商品群のうち7群が増加し金属鉱石・金属が3,073件増の23,420件、非金属鉱物が2,209件増の33,629件、石油・石油製品が1,326件増の11,976件となった一方、石炭は1,889件減、穀物は1,778件減だった。"
-    ],
-    "collected_at": "2026-09-23T13:26:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "UP receives first battery-electric locomotives for testing in California",
-    "title_ja": "UP、Wabtec製バッテリー機関車の実地試験をLAで開始",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/mechanical/locomotives/up-receives-first-battery-electric-locomotives-for-testing-in-california/",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "Union Pacificは、Wabtec製バッテリー電気機関車FLXdrive 4両のうち2両を南カリフォルニアで受領し、試験運用を開始したと発表した。",
-      "残る2両は10月に到着予定で、1両あたり約7,000個のバッテリーセルで2.7MWhを蓄電し、排気ガスを出さずに走行する。",
-      "試験はロサンゼルス周辺の操車場と近距離輸送で実施され、Jim Vena CEOは新技術を実運用で試すことが将来の選択肢を見極める鍵だと述べた。"
-    ],
-    "collected_at": "2026-09-24T06:23:53-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Next phase for autonomous railcar technology in commercial service testing",
-    "title_ja": "Parallel Systems、自律貨車の試験を30マイル区間に拡大",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/next-phase-for-autonomous-railcar-technology-in-commercial-service-testing",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "Parallel Systemsは、自律走行するバッテリー式貨車のFRA承認済み試験を、Genesee & Wyoming傘下Heart of Georgia鉄道の2マイル区間から第2段階へ進めた。",
-      "第2段階はジョージア州VidaliaからHelena東方までの約30マイルで、43カ所の公道踏切を含み、試験中は踏切に誘導員を配置する。",
-      "同社は目視監視から遠隔監視へ移行し、短距離コンテナ輸送における低コストの鉄道代替手段の確立を狙う。"
-    ],
-    "collected_at": "2026-09-24T06:23:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Alstom signs launch order with Northrail for its new Traxx Shunter Platform",
-    "title_ja": "Northrail、Alstomの新型入換機を最大100両で枠契約",
-    "source": "Alstom",
-    "url": "https://www.alstom.com/press-releases-news/2026/9/alstom-signs-launch-order-northrail-its-new-traxx-shunter-platform",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "Alstomは、InnoTrans 2026会期中の9月23日に、独リース会社Northrailと新型Traxx Shunter入換機の初回受注となる枠組み契約を締結した。",
-      "確定発注分はパンタグラフとディーゼルを併用する入換機と10年間の保守サービスで、金額は1億ユーロ弱、ドイツでの運用を想定している。",
-      "枠組み契約は最大100両・総額7億ユーロ規模まで拡大可能で、車両はAlstomのベルフォール拠点で設計・組み立てられ、2029年末から納入が始まる。"
-    ],
-    "collected_at": "2026-09-24T06:23:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Hapag-Lloyd CEO heads to Israel as revised $4.2 billion ZIM proposal takes shape",
-    "title_ja": "Hapag-Lloyd、42億ドルZIM買収案を修正しイスラエルと協議",
-    "source": "Container News",
-    "url": "https://container-news.com/hapag-lloyd-ceo-heads-to-israel-as-revised-4-2-billion-zim-proposal-takes-shape/",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "Hapag-LloydはイスラエルのPEファンドFIMIと組み、42億ドルのZIM買収提案を9月末までに修正して再提出する方針を示した。",
-      "黄金株の移転承認に必要な政府8機関のうち6機関が現時点で反対し、国防省や海運港湾庁が懸念を表明していると報じられている。",
-      "修正案はZIMが最低6航路（最大10航路）を維持する枠組みや、外国資本の届出基準を24%から10%へ引き下げる内容とされる。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Suez return could leave container capacity 10% above demand, says Bimco",
-    "title_ja": "BIMCO、スエズ復帰なら船腹が需要を10%上回ると分析",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/suez-return-could-leave-container-capacity-10-above-demand-says-bimco",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "BIMCOは9月23日公表の市況見通しで、スエズ運河経由が本格再開すれば船腹が需要を約10%上回る需給不均衡に陥る可能性があると分析した。",
-      "船隊能力の伸びは2026年の4.6%から2027年に9%へ加速する見込みで、船隊規模は約3,400万TEU、手持ち工事量は既存船隊の約42%に相当する1,400万TEU超に達している。",
-      "1〜7月の世界コンテナ取扱量は前年同期比5.1%増と堅調だが、混雑や地政学要因による現在の混乱が収束すれば運賃が下押しされ、機材需給や賃借料にも波及しうる。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Speakers touch on hot intermodal topics at IANA expo",
-    "title_ja": "IANA展示会、荷主が求める信頼性と選択肢が焦点に",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/RailPrime/details/Speakers-touch-on-hot-intermodal-topics-at-IANA-expo--77804",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "北米インターモーダル協会（IANA）の年次Intermodal EXPOが9月14〜16日にカリフォルニア州ロングビーチで開かれ、基調講演3本と約20のセッションが行われた。",
-      "登壇者にはUnion PacificのJim Vena CEO、BNSFのKatie Farmer社長兼CEO、IANAのAnne Reinke会長兼CEOらが名を連ねた。",
-      "荷主がインターモーダルに求めるのは信頼性・回復力・選択肢であり、利用を避ける主因は鉄道側の対応の遅さと運賃だと指摘された。"
-    ],
-    "collected_at": "2026-09-27T06:27:42-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Importers push back on CBP supply chain data proposals",
-    "title_ja": "米CBPのサプライチェーン情報開示案に輸入者が反発",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/importers-push-back-on-us-customs-data-ruler-proposal",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "米税関・国境警備局（CBP）が貨物セキュリティ強化のため9月に示したサプライチェーン情報の開示義務化案（ANPRM）に、輸入者側から強い反対意見が出ている。",
-      "輸入者は海外の調達先に紙の証跡が存在しないケースが多く、書面ベースの義務化は実務上機能しないと訴えている。",
-      "一方Hapag-Lloydは約200万個のIoT対応ドライコンテナの配備を挙げ、紙の申告から機材のリアルタイムデータ活用への移行をCBPに求めた。"
-    ],
-    "collected_at": "2026-09-27T06:27:42-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Ares Acquires 80% Stake in $800 Million U.S. Solar and Battery Portfolio from EDPR",
-    "title_ja": "Ares、EDPRの米国太陽光・蓄電ポートフォリオ80%を取得",
-    "source": "ESG Today",
-    "url": "https://www.esgtoday.com/ares-acquires-80-stake-in-800-million-u-s-solar-and-battery-portfolio-from-edpr/",
-    "published_at": "2026-09-23",
-    "summary_ja": [
-      "Aresのインフラ・エクイティ・ファンドが、EDP Renewables（EDPR）から米カリフォルニア州の384MW規模の太陽光・蓄電ポートフォリオの80%持分を取得した。",
-      "内訳は太陽光200MWと蓄電184MWで、全体の企業価値は稼働開始時点で約8億ドル、EDPRは80%分の対価として約4.5億ドルを受け取る見込み。",
-      "太陽光は20年のPPA、蓄電は20年のキャパシティ・トーリング契約で収益が固定されており、AresはEDPRとの既往案件に続くインフラ実物資産への追加配分となる。"
     ],
     "collected_at": "2026-09-28T06:32:48-07:00"
   }
