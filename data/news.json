@@ -91,6 +91,21 @@
   },
   {
     "category": "rail_industry",
+    "kind": "news",
+    "title": "A new PNW container port? $205M for Oregon rail project",
+    "title_ja": "Coos Bay港、鉄道改良に2.05億ドルの連邦補助を確保",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/a-new-pnw-container-port-205m-for-oregon-rail-project",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "オレゴン州Coos Bay港が、鉄道線の改良に向け2億480万ドルの連邦補助（CRISI）を確保し、同港が構想するコンテナターミナル計画が前進した。",
+      "資金はCoos Bayから Eugene 近郊までの111マイルの鉄道線について、軌道・枕木・橋梁・トンネルの修繕と更新の最終設計および施工に充てられる。",
+      "この鉄道改良はPacific Coast Intermodal Port（PCIP）構想の前提条件で、実現すれば鉄道依存型の新たな太平洋岸北西部コンテナ玄関口となる。"
+    ],
+    "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
+    "category": "rail_industry",
     "kind": "earnings",
     "title": "Union Pacific Reports Third Quarter 2026 Results",
     "title_ja": "Union Pacific、3Q26はEPS3.49ドルで16%増",
@@ -285,6 +300,36 @@
     "collected_at": "2026-10-23T06:29:23-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "CSX profit jumps on volume and revenue growth",
+    "title_ja": "CSX、第3四半期の営業利益44%増・売上は過去最高",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "CSXは第3四半期の営業利益が前年同期比44%増の15億7,000万ドル、売上は12%増の40億2,000万ドルと四半期最高を記録したと発表した。",
+      "1株当たり利益は54%増の57セント、営業比率は60.9%で8.8ポイント改善し、燃費は1,000総トンマイル当たり0.92ガロンで米国での四半期最高となった。",
+      "前年同期のグッドウィル減損の影響を調整すると営業利益は25%増・EPSは30%増で、鉄道従業員数6.2%減のもと生産性が6%向上したことが利益成長を支えた。"
+    ],
+    "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 17, 2026",
+    "title_ja": "AAR週次輸送量、10月17日週は合計8.5%増の54万単位",
+    "source": "Railpace",
+    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-17-2026/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "AARによると10月17日までの週の米国鉄道輸送量は貨車とインターモーダル合計54万135単位で、前年同週比8.5%増となった。",
+      "貨車は23万2,120車で3.5%増、インターモーダルは30万8,015個で12.6%増と、インターモーダルが伸びを主導した。",
+      "10品目中9品目が増加し、鉱石・金属が2,946車増の2万3,306車、穀物が1,470車増の2万2,486車、減少は非金属鉱物の1,089車減のみだった。"
+    ],
+    "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "Wabtec Reports Strong Third Quarter 2026 Results",
@@ -450,6 +495,21 @@
     "collected_at": "2026-10-23T13:23:38-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "personnel",
+    "title": "CSX eliminates more than 100 management positions",
+    "title_ja": "CSX、エンジニアリング再編で管理職109ポストを削減",
+    "source": "FreightWaves (Yahoo Finance 経由)",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3NzV2U0MXQ3d3lGTllJd3RXdVJObWRscVZOemNLM0RaVXdkWEJTYk9KS3EtUjZsV3dhbEZXSkd0cThzbVJ1NWtHR3Y1cnBDcWNiMWxaQ2ZjMGNadHZHZGtuMGhFQkFuLW9QS2wwV1Rnc01MQnZFQng2NXVNMHFnV3M1ejhyajFfUVVrMUs2Sld6UGlhMjcxN19oYUZZd1hW?oc=5",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "CSXはエンジニアリング部門の再編にともない、運行管理部門の管理職109ポストを削減したと報じられた。",
+      "対象者のうち58人には運行部門内での新たな職務が提示され、51人には退職パッケージが提示されたという。",
+      "同社は2026年1月にも管理職の約5%に当たる166ポストを削減しており、今回の再編は第3四半期決算やCory最高執行責任者の退任発表と同時期に重なった。"
+    ],
+    "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Antwerp-Bruges records highest TEU volumes since Q4 2020",
@@ -613,6 +673,36 @@
       "投資対象はエネルギー・通信・輸送に加え社会・環境インフラで、ファンド投資・コインベスト・セカンダリーを組み合わせて地域とセクターを分散する方針を掲げる。"
     ],
     "collected_at": "2026-10-21T06:24:34-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "FRA allocates $2.3 billion in funding for US rail infrastructure",
+    "title_ja": "FRA、CRISIで105件・23億ドルの鉄道整備補助を決定",
+    "source": "Railway News",
+    "url": "https://railway-news.com/fra-allocates-2-3-billion-in-funding-for-us-rail-infrastructure/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "米連邦鉄道局（FRA）はCRISI補助制度で貨物・旅客鉄道の105事業を選定し、約23億ドルの連邦資金を配分すると発表した。",
+      "対象はアラスカを含む45州にまたがり、非連邦側のマッチング拠出約19億ドルを加えた事業規模は合計約42億ドルとなる。",
+      "線路の改修・橋梁更新・容量増強などが対象で、選定事業により2,000マイル超の軌道が改良される見込みで、貨車の運行条件にも影響しうる。"
+    ],
+    "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Antwerp-Bruges container throughput rebounds as empty volumes surge",
+    "title_ja": "Antwerp-Bruges港、空コンテナ11.7%増で四半期取扱が6年ぶり高水準",
+    "source": "Container News",
+    "url": "https://container-news.com/antwerp-bruges-container-throughput-rebounds-as-empty-volumes-surge/",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "Port of Antwerp-Brugesは第3四半期のコンテナ取扱が2020年第4四半期以来の高水準に回復したと発表した。",
+      "1〜9月のコンテナ取扱はTEUで1.2%増だが、空コンテナが11.7%増と伸びた一方で実入りコンテナは1.3%減と、増加分は空コンテナが占めた。",
+      "同港は輸入増と輸出低迷により主にアジア向けの空コンテナ回送需要が高まったと説明しており、欧州発の機材偏在と回送コストの圧力を示す。"
+    ],
+    "collected_at": "2026-10-24T06:21:37-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -4603,290 +4693,5 @@
       "上期の純利益は約2億1,211万ドルで、第3四半期には Brookfield と SMFL の合弁へのポートフォリオ売却や、タンクコンテナ事業のほぼ全量売却も進めたとみられる。"
     ],
     "collected_at": "2026-10-12T06:40:18-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "India's exporters struggling with shortage of empty boxes at JNPA",
-    "title_ja": "JNPAで輸出用空コンテナが不足、CMA CGM向けが深刻",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/indias-exporters-struggling-with-shortage-of-empty-boxes-at-jnpa/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "インド最大のコンテナ港JNPA（Nhava Sheva）で輸出用の空コンテナ不足が拡大していると、荷主・フォワーダーが報告している。",
-      "本船スケジュールの乱れが機材の回転サイクルを圧迫しており、特にCMA CGM向けは周辺デポが空コンテナの引き渡しを行えない状態にある。",
-      "40フィートコンテナが他のタイプより逼迫しており、車両を手配しても引き取りできずピックアップの遅延や不履行が生じていると現地事業者は警告する。"
-    ],
-    "collected_at": "2026-09-24T06:23:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "GCU: The very foundation of rail freight is moving towards major change",
-    "title_ja": "欧州の貨車使用契約GCU、2030年に向けた抜本改革が始動",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/24/gcu-the-very-foundation-of-rail-freight-is-moving-towards-major-change/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "欧州の貨車保有者（キーパー）と鉄道事業者の権利義務を定める統一契約GCUについて、「GCU 2030」と呼ばれる全面改訂の検討が本格化している。",
-      "2026年5月就任のUIP（欧州貨車保有者連合）会長Peter Reinshagen氏は、統治構造の改革・共通の保険サービス・欧州単一の貨車保守ガイドの実現を自らの任期の評価基準に掲げている。",
-      "2026年初の改訂では鉄道事業者が遠方のキーパーの回答を待たずに修繕を発注できるようになっており、GCU 2030は業界全体を単一のルールで運用する体制を目指す。"
-    ],
-    "collected_at": "2026-09-24T13:25:00-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Wingspire Equipment Finance Raises Over $407MM in Third Equipment Securitization",
-    "title_ja": "Wingspire、過去最大の機材ABSで4.07億ドルを調達",
-    "source": "MonitorDaily",
-    "url": "https://www.monitordaily.com/wingspire-equipment-finance-raises-over-407mm-in-third-equipment-securitization/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "Blue Owl系のWingspire Equipment Financeが3回目の機材ABS「WEF 2026-1」を起債し、6クラス合計4億0,707万ドルと同社最大の発行規模となった。",
-      "裏付資産は2026年8月31日基準で証券化価値約4億3,818万ドル、63社・211契約の機材リース／ローン債権で、シニア債はFitchとKBRAからAAA格を取得した。",
-      "応募は発行額の5倍超に達し、2024年の初回2.01億ドル、2025年の2.92億ドルから規模が拡大、機材リース向けABS市場の需要の底堅さを示した。"
-    ],
-    "collected_at": "2026-09-24T13:25:00-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "VIP Rail completes 750-car yard in Ontario",
-    "title_ja": "VIP Rail、Sarniaの貨車留置能力を2,150両超へ拡張",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/switching-terminal/vip-rail-completes-750-car-yard-in-ontario/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "Alpenglow Rail傘下のVIP Railが、オンタリオ州Sarniaターミナルで750両分の新ヤードを完成させた。",
-      "同ターミナルの収容能力は合計2,150両超となり、留置・入換・トランスロード・洗浄・修繕を一括提供する。",
-      "カナダ最大級の石化集積地Chemical Valleyに位置し、荷主が貨車フリートを生産変動に合わせて待機させやすくなる。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Brazilian rail operator MRS announces deal for new Wabtec locomotives",
-    "title_ja": "ブラジルMRS、Wabtec機関車50両を2.5億ドルで調達",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/mechanical/locomotives/brazilian-rail-operator-mrs-announces-deal-for-new-wabtec-locomotives/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "MRS Logísticaが、Wabtec製ES44ACi機関車50両を部品・保守込み2億5,200万ドル（13億レアル）で購入すると発表した。",
-      "9月21日の規制当局提出書類で50両と開示され、納入は2032年6月までに段階的に行われる。",
-      "投資は2032年までの複数段階に分かれ、北米外でのWabtec機関車需要の底堅さを示す案件となる。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Yang Ming and OOCL eye Suez Canal return as carrier traffic increases",
-    "title_ja": "Yang MingとOOCL、スエズ復帰を検討し通航が回復基調",
-    "source": "Container News",
-    "url": "https://container-news.com/yang-ming-and-oocl-eye-suez-canal-return-as-carrier-traffic-increases/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "9月23日のスエズ運河庁（SCA）と主要船社20社の会合で、Yang Mingが近い将来の復帰を真剣に検討していると説明された。",
-      "OOCLは10月に試験通航を予定し、COSCOも直近の通航成功を踏まえ航海数の追加を検討している。",
-      "紅海回避の解消が進めば航海日数の短縮でコンテナの回転が速まり、機材需給の緩和要因となりうる。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Alpha Trains and Wabtec plan long-term framework agreement for coupler overhauls",
-    "title_ja": "Alpha Trains、Wabtec傘下Dellnerと連結器整備で長期枠組み交渉",
-    "source": "Railway Gazette International",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT05idGxRZEI3cERaQ2lySHJ0V013ZmpQMF8xYWw0NUFrRUFoNlhJVi1Ga2tjcmlJam5vX25DcnBwRnI1WEdlN0RXdGNUa1h4d2JfWU40YzJHVkNITUdoMU5XVHRoT3E2bkc2bHQyT3RqNGVfMTlwQmJKc0lEdF9oRVhsQ2lORkluUjJfSklSamtZQ0FJbGh6U2VwaTh3QVRXUl9tdDR4QVpQcncxb3N0eFA3LXNWT2hHTDhyQ1o1T2hyc091bDB0OUJObjJQdw?oc=5",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "Alpha Trainsは、Wabtec傘下Dellnerと保有する地域旅客車両の連結器オーバーホールに関する長期枠組み契約の交渉入りで合意した。",
-      "2027年1月1日の発効を目標とし、対象を同社の他フリートへ広げる可能性も残されている。",
-      "廃番部品の代替品開発と定期整備時の技術改良の織り込みを柱に、ライフサイクル計画の可視化と双方の計画確度向上を図る。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "New Mexico SIC commits $300m to Brookfield infrastructure fund",
-    "title_ja": "New Mexico州基金、Brookfieldインフラ6号に3億ドル出資",
-    "source": "IPE Real Assets",
-    "url": "https://realassets.ipe.com/news/new-mexico-sic-commits-300m-to-brookfield-infrastructure-fund/10138622.article",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "New Mexico State Investment Councilが、Brookfield Infrastructure Fund VI（BIF VI）に3億ドルをコミットした。",
-      "BIF VIは総額300億ドルの募集を目標とし、Brookfield自身がバランスシートを中心に25%を共同投資する設計となっている。",
-      "目標はネットIRR10%超と中〜高一桁の年間キャッシュ利回りで、総資金の20〜30%をアジア太平洋に振り向ける計画が出資決定の一因となった。"
-    ],
-    "collected_at": "2026-09-24T21:16:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "OmniTRAX Expands Rail-Served Phoenix Footprint to Meet Surging IOS Demand",
-    "title_ja": "OmniTRAX、Casa Grandeに25エーカーの鉄道接続用地を取得",
-    "source": "PR Newswire (OmniTRAX)",
-    "url": "https://www.prnewswire.com/news-releases/omnitrax-expands-rail-served-phoenix-footprint-to-meet-surging-ios-demand-302888353.html",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "短距離鉄道持株会社OmniTRAXが、フェニックス圏Casa Grandeの25エーカーを取得し、鉄道接続型の屋外産業用地（IOS）ポートフォリオを拡大すると発表した。",
-      "同用地は2024年に取得したSonoran Valley Railroadが接続し、Hexcel、Lucid、LKQ、Tractor Supplyなど製造業の集積地に隣接する。",
-      "全米で鉄道接続拠点網を整備する総額1億ドルのコミットメントの一環で、南フェニックスの先端製造集積とアリゾナ／メキシコ国境のニアショアリング需要を取り込む狙い。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "New Three Seas Initiative partnership to mobilise billions for strategic infrastructure across Central and Eastern Europe",
-    "title_ja": "EIFと6カ国、3.6億ユーロのインフラFoFを組成",
-    "source": "European Investment Fund",
-    "url": "https://www.eif.org/press/all/new-three-seas-initiative-partnership-to-mobilise-billions-for-strategic-infrastructure-across-central-and-eastern-europe",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "欧州投資基金（EIF）がEU6カ国とともに総額3億6,000万ユーロのThree Seas Initiative Infrastructure Fund of Fundsを立ち上げた。",
-      "参加するのはブルガリアのJEREMIEファンド、ポーランドのBGK、ルーマニアのBID、リトアニアのILTE、クロアチアのHBOR、スロベニアのSIDの各公的金融機関で、署名はリュブリャナで行われた。",
-      "エネルギー・モビリティ・デジタル・社会インフラを対象に最低20億ユーロの投資動員を目標としており、中東欧の輸送インフラ向け資金供給の拡大につながる。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Clarus Capital Achieves Record Investment Activity in Q3",
-    "title_ja": "Clarus Capital、設備金融で四半期過去最高の投融資",
-    "source": "MonitorDaily",
-    "url": "https://www.monitordaily.com/clarus-capital-achieves-record-investment-activity-in-q3/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "設備金融に特化したプライベートクレジット会社Clarus Capitalが、2026年第3四半期に創業以来最高の投融資実績を記録したと発表した。",
-      "ローン・キャピタルリース・オペレーティングリースを通じたミドルマーケットおよび大企業向けの設備資金需要が牽引したとしている。",
-      "製造業の国内回帰（リショアリング）や設備近代化、複数年の設備投資計画が背景で、生産設備・IT基盤・車両フリート・航空機などが対象資産に含まれる。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Canadian safety officials recommend enhanced wheel inspection system",
-    "title_ja": "カナダTSB、貨車車輪の劣化予測分析の強化を勧告",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/canadian-safety-officials-recommend-enhanced-wheel-inspection-system/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "カナダ運輸安全委員会（TSB）がTransport Canadaと鉄道会社に対し、破損が迫った貨車車輪を早期に特定する仕組みの構築を勧告した。",
-      "2023年4月5日にアルバータ州Uncas付近で発生したCN穀物ユニットトレインの脱線調査に基づく勧告で、車輪衝撃荷重検知装置（WILD）データの分析高度化を求めている。",
-      "現行はWILDの測定値を個別に評価するため劣化速度の速い車輪を識別できず、既存データのトレンド分析導入で貨車所有者の車輪交換判断が前倒しになる可能性がある。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "personnel",
-    "title": "STB Appoints Director of Office of Economics and Senior Advisor",
-    "title_ja": "STB、経済分析局長にMarty Schlenkerを起用",
-    "source": "Surface Transportation Board",
-    "url": "https://www.stb.gov/news-communications/latest-news/pr-26-24/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "米陸上運輸委員会（STB）のPatrick Fuchs委員長は、委員会の承認を得てMarty SchlenkerをOffice of Economics（経済分析局）局長に任命したと発表した。",
-      "同時にTerrence McDermottを委員長付シニアアドバイザーに任命し、両氏は直前まで同委員会で暫定的な移行期ポストに就いていた。",
-      "経済分析局長はデータ収集・報告や委員会決定に関わる経済・産業分析を統括する立場で、UP-NS合併審査など進行中の案件の分析体制強化につながる。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Infranity hits €15bn AUM as it eyes global expansion",
-    "title_ja": "Infranity、運用資産150億ユーロ突破で北米展開加速",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/09/24/infranity-hits-e15bn-aum-as-it-eyes-global-expansion/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "欧州のインフラ投資専業運用会社Infranityが、運用資産残高150億ユーロ（約129億ポンド）を突破し投資家層の国際的な拡大を目指すと発表した。",
-      "2018年にGenerali Groupとの戦略提携として設立され、2025年には私募債戦略で32億ユーロ（うちエンハンストリターン型20億ユーロ、シニアインフラデット12億ユーロ）を調達した。",
-      "ニューヨーク拠点の統合を完了し米国での初回投資を進めており、低炭素輸送やエネルギー転換分野のインフラデット需要の拡大を成長要因に挙げている。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Yangtze ports test the water with longer container shipping routes",
-    "title_ja": "長江の内陸港、外航コンテナ航路の開設を試行",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/yangtze-ports-test-the-water-with-longer-container-shipping-routes/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "中国・長江沿いの江陰と南京が外航コンテナ輸送に進出し、Cosco Shipping Specialised Carriersが江陰発メキシコManzanillo向けのサービスを開始した。",
-      "初便では機械類や完成品を積んだ500本超のコンテナが多目的船「CSPC Jade」に積載された。",
-      "Coscoは前週に南京発北アフリカ向けのコンテナサービスも始めており、内陸港発の直航化は空コンテナの配置や機材回転に影響しうる。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Gdansk and Wilhelmshaven lead growth among Top 15 European ports",
-    "title_ja": "欧州トップ15港の上期取扱量、Wilhelmshavenが36%増で突出",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/09/gdansk-and-wilhelmshaven-lead-growth-among-top-15-european-ports/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "2026年上期の欧州トップ15コンテナ港の取扱量で、GdanskとWilhelmshavenが伸び率上位となった。",
-      "Wilhelmshavenのコンテナ取扱量は前年同期比36%増と突出し、成長は新興ゲートウェイや積替ハブに集中した。",
-      "一方でRotterdam、Antwerp-Bruges、Hamburgなど既存の主要ハブは勢いを欠いており、欧州域内の荷動きと空コンテナの配置に偏りが生じうる。"
-    ],
-    "collected_at": "2026-09-26T13:27:08-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "ICTSI lands US$1 billion loan",
-    "title_ja": "ICTSI、BDOから10年・10億ドルのタームローンを調達",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/09/ictsi-lands-us1-billion-loan/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "フィリピンのコンテナターミナル運営大手International Container Terminal Services（ICTSI）が、BDO Unibankから10年物・10億ドルのタームローンを調達した。",
-      "資金使途は開示していないものの、同社は2026年に7.4億ドルの設備投資を計画し、既存ターミナルの拡張と荷役機器・インフラの更新に充てるとしている。",
-      "メキシコのContecon Manzanillo第3B期やマニラ国際コンテナターミナルなど拡張案件が進行中で、輸送実物資産向けの長期デット供給が続いていることを示す。"
-    ],
-    "collected_at": "2026-09-26T13:27:08-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Budamar strengthens locomotive fleet with 2 six-axle electrics of two different types from 2 different leasing companies",
-    "title_ja": "Budamar、2社のリース会社から6軸電気機関車2両を調達",
-    "source": "RAILMARKET.com",
-    "url": "https://en.railmarket.com/news/rolling-stock/63624-budamar-strengthens-locomotive-fleet-with-2-six-axle-electrics-of-two-2-different-types-from-2-different-leasing-companies",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "スロバキアの物流グループBudamarが、異なる2社のリース会社から形式の異なる6軸電気機関車2両を導入し、機関車フリートを増強した。",
-      "うち1両はRS Leaseから調達したSoftronic製Transmontana（Co'Co'、連続出力6,600kW、最高160km/h、自重120t）とされる。",
-      "BudamarはInnoTrans 2026でAkiemとも契約しており、ポーランド・チェコ・スロバキア間の越境輸送向けにNewag Dragon 2系の多電源機を確保している。"
-    ],
-    "collected_at": "2026-09-27T06:27:42-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Steady gains in Europe-SSA trade, but some forwarders have doubts",
-    "title_ja": "欧州〜サブサハラ航路の荷動き堅調、フォワーダーは先行きを懸念",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/steady-gains-in-europe-ssa-trade-but-some-forwarders-have-doubts/",
-    "published_at": "2026-09-24",
-    "summary_ja": [
-      "Container Trades Statistics（CTS）の7月データで、サブサハラアフリカ発欧州向け荷動きが前年同月比2.3%増と4カ月連続のプラスとなった。",
-      "欧州発サブサハラ向けも7月は前年同月比5.7%増で、6カ月連続の増加が続いている。",
-      "一方で航路に従事する一部フォワーダーは需要の持続性に慎重な見方を示しており、機材の偏在や船腹確保の難しさが継続する可能性がある。"
-    ],
-    "collected_at": "2026-09-28T06:32:48-07:00"
   }
 ]
