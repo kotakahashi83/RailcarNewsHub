@@ -105,6 +105,36 @@
     "collected_at": "2026-10-24T06:21:37-07:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "First Citizens BancShares Reports Third Quarter 2026 Earnings, Announces Additional Share Repurchase Plan",
+    "title_ja": "First Citizens、Q3純利益6.06億ドルでRail賃料は増加",
+    "source": "SEC EDGAR (First Citizens BancShares)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000798941/000079894126000041/a3q26_erx991.htm",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "貨車リースのCIT Rail部門を抱えるFirst Citizens BancSharesが10月23日に2026年第3四半期決算を公表した。",
+      "四半期純利益は6.06億ドル（普通株1株当たり51.23ドル）で、あわせて12億ドル規模の追加自社株買い計画を承認したと報じられている。",
+      "決算説明会ではRail部門の調整後賃料収入が前四半期比1,000万ドル増と説明されており、同部門は全社利益の5%未満とされる小さいが安定した収益源となっている。"
+    ],
+    "collected_at": "2026-10-24T13:27:43-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "NSR vs Suez: the Arctic is not a tradelane, it's a corridor with a hefty premium",
+    "title_ja": "北極海航路は104隻通航も、本流はスエズ回帰",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/nsr-vs-suez-the-arctic-is-not-a-tradelane-its-a-corridor-with-a-hefty-premium/",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "ノルウェーのCentre for High North Logistics（CHNL）が10月19日に公表したデータで、9月30日までに104隻がロシアの北極海航路（NSR）を通航し、2025年通年の実績を既に上回った。",
+      "一方でLloyd's List Intelligenceによると9月のスエズ運河通航コンテナ船は219万TEUに達し、フーシ派の攻撃開始以降で最多となった。",
+      "Linerlyticaは2027年第1四半期までに船社がスエズへ完全復帰すると見込み、NSRは割高な「回廊」にとどまり定期コンテナ航路の代替にはならないと整理されている。"
+    ],
+    "collected_at": "2026-10-24T13:27:43-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "earnings",
     "title": "Union Pacific Reports Third Quarter 2026 Results",
@@ -328,6 +358,36 @@
       "10品目中9品目が増加し、鉱石・金属が2,946車増の2万3,306車、穀物が1,470車増の2万2,486車、減少は非金属鉱物の1,089車減のみだった。"
     ],
     "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Pinsly to Acquire Kankakee, Beaverville & Southern Railroad",
+    "title_ja": "Macquarie系Pinsly、イリノイの短距離鉄道KBSRを買収へ",
+    "source": "Railway Age",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGdCWjFlQUVZRm93ejZJOF84ZjVyM3NBazU0eVhidjdsNThvenhzbHJRVWQ1VXZsLUNCcjR0WVhaYkxlNVh4aUw4dml5Y00weV95X2V0UldlcFRhTWNUbEFtRnhxU1ZrM2VLSzB2bjZFMFRHVDFvNHUwSmdnVXpGNW9ORFlabXlLenlWNm5ycWRILWdMV0xNYklPMXVOVlNpR0x1YjVia3ozNmlDTkc4SXF2YVc?oc=5",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "Macquarie傘下の短距離鉄道持株会社Pinsly Railroadが、Kankakee, Beaverville & Southern Railroad（KBSR）の支配権取得について陸上運輸委員会（STB）に免除申請を行った。",
+      "2026年9月16日付の売買契約でStroo家からKBSR株式の100%を取得する内容で、申請者にはMacquarie Infrastructure Partners V関連の投資主体も名を連ねる。",
+      "KBSRはイリノイ州東中部からインディアナ州西中部で穀物など農産物輸送を担うClass III鉄道で、インフラファンドによる北米短距離鉄道の集約が続いていることを示す案件となる。"
+    ],
+    "collected_at": "2026-10-24T13:27:43-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Is the Red Sea safe?",
+    "title_ja": "紅海回帰が加速、戦前比63%の船腹復帰も安全懸念",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/is-the-red-sea-safe-",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "スエズ運河・紅海・バブエルマンデブ経由への復帰が夏以降加速し、戦前の投入船腹の約63%が同ルートに戻ったと報じられた。",
+      "一方でサウジアラビアとイエメンのフーシ派の対立が拡大しており、乗組員と貨物の安全確保が業界の新たな懸念になっている。",
+      "約3年続いた喜望峰迂回からの復帰が定着すれば航海日数の短縮でコンテナ機材の回転が改善する一方、再迂回となれば再び機材が滞留するリスクが残る。"
+    ],
+    "collected_at": "2026-10-24T13:27:43-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -1903,6 +1963,21 @@
       "Matt Soule CEOは資金を第3世代車両「Panther」の量産立ち上げと海外展開に充てるとし、Genesee & Wyomingとの米ジョージア州でのFRA監督下パイロットは継続中としている。"
     ],
     "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "RS Lease fleet reaches 100 Siemens Vectron locomotives, further fleet growth is planned",
+    "title_ja": "RS Lease、Vectron機関車100両に到達しさらに拡大",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/rolling-stock/64866-rs-lease-fleet-reaches-100-siemens-vectron-locomotives-further-fleet-growth-is-planned",
+    "published_at": "2026-10-13",
+    "summary_ja": [
+      "チェコの機関車リース会社RS Leaseの保有するSiemens Vectronが100両に達し、さらなるフリート拡大を計画していると報じられた。",
+      "同社は2024年にSiemens Mobilityと最大65両（確定30両＋オプション35両）の枠組み契約を締結しており、最大155両までの拡大余地がある。",
+      "リース先にはスロバキアのZSSK Cargoが含まれ、15両のVectron MSを2037年末までの契約で2027年にかけて段階的に受領する予定となっている。"
+    ],
+    "collected_at": "2026-10-24T13:27:43-07:00"
   },
   {
     "category": "container_leasing",
