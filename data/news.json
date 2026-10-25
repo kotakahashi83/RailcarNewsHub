@@ -1,5 +1,35 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "FreightCar America faces third probe as shares drop 31% on weak Q3",
+    "title_ja": "FreightCar America株31%安、証券法調査が3件目に",
+    "source": "scanx.trade",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa29yNVNkOFgzSmJxQkszd19KeTdSdW9QZHBqQ01uQmJQR2IxMXB2Q3NUbjRoOGN1UFdRdjlOZHpiTmZwUnFXWkdZSThSdzFUZjNKWGFXb3dhQV9FeG56QWhoSk9MLXdjUUdJazh2SUVudTMxQUozQmp3bGhjcGYwOFpCb0xxT0l0UEFSbUZKTDRqbEtqY2dfS3ZXTVhoaDg2enhXaXd4TThKTDRWTVdsSDlUQW9YdDE3akxn?oc=5",
+    "published_at": "2026-10-24",
+    "summary_ja": [
+      "10月19日公表の第3四半期暫定実績（売上7,500〜7,700万ドル、調整後EBITDAはほぼ損益均衡）と通期見通しの再下方修正を受け、株価は31%下落したと報じられた。",
+      "見通し引き下げの主因は、顧客の契約履行能力に疑義が生じたタンク車改造案件1,285両を受注残から除外したこと。",
+      "10月20日にHolzer & Holzerが証券法順守に関する調査開始を公表し、報道では同種の調査が3件目とされる。"
+    ],
+    "collected_at": "2026-10-25T06:25:03-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Lázaro Cárdenas handles 21% of Mexico's commercial cargo",
+    "title_ja": "Lázaro Cárdenas港、1〜9月のコンテナ取扱3%増",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-lazaro-cardenas-handles-21-of-mexicos-commercial-cargo/",
+    "published_at": "2026-10-24",
+    "summary_ja": [
+      "メキシコのLázaro Cárdenas港は1〜9月に商業貨物2,151万トンを取り扱い、国内貨物量の21%を占めた。",
+      "コンテナ取扱は200万7,493TEUで前年同期比3%増、寄港は1,339隻で、コンテナ貨物が商業貨物の52%を占めた。",
+      "積替えがコンテナ取扱の48%に達し、太平洋側の再配分ハブとして空コンテナや機材の流動に影響する位置づけが続く。"
+    ],
+    "collected_at": "2026-10-25T06:25:03-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "HHLA cuts outlook again as strikes, automation hit volumes",
@@ -133,6 +163,21 @@
       "Linerlyticaは2027年第1四半期までに船社がスエズへ完全復帰すると見込み、NSRは割高な「回廊」にとどまり定期コンテナ航路の代替にはならないと整理されている。"
     ],
     "collected_at": "2026-10-24T13:27:43-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "FMC easing restrictions on industry engagement",
+    "title_ja": "FMC、規則制定手続き見直し案がOMB最終審査へ",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/regulations/fmc-easing-restrictions-on-industry-engagement",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "FMCの「Rulemaking Procedures」規則案が10月21日にOMB傘下のOIRAへ送付され、最終審査段階に入った。",
+      "中核は略式規則制定手続きにおけるex parte（一方的接触）禁止の緩和で、船社・荷主・ターミナルと規制側の非公式対話が可能になる。",
+      "5月に意見公募された案で、手続き面の変更ながら規制対象企業や業界団体の働きかけに実務的な影響があるとみられている。"
+    ],
+    "collected_at": "2026-10-25T06:25:03-07:00"
   },
   {
     "category": "rail_industry",
@@ -763,6 +808,21 @@
       "同港は輸入増と輸出低迷により主にアジア向けの空コンテナ回送需要が高まったと説明しており、欧州発の機材偏在と回送コストの圧力を示す。"
     ],
     "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "DB Cargo UK sale raises fears over jobs and assets",
+    "title_ja": "DB Cargo UK売却、雇用と機材資産の行方に懸念",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm04NXUtMkFuWDFjWnI0NWp0U0pCQnkwcXBDOGgwTGx3QWZXZmJrZHNPcmFUWk1JVVdndTBBYUwxZXExMG9CaDRCWEVTeVp0N09vQjBmWkc2QVF6VTRSMzRzaHVxRHk0NDZLTzVhbDlnRlBtWjJ5ZGJUa2N1RmVpY2pQU2tLUnZydzBncmc1RVFvVkNPRTJXVTlLeTJ5SHk3MlFCQQ?oc=5",
+    "published_at": "2026-10-20",
+    "summary_ja": [
+      "Deutsche Bahnが中欧事業への集中のため進めるDB Cargo UKの売却手続きで、雇用と保有資産の行方に懸念が出ていると報じられた。",
+      "同社は英国で約2,150人を雇用し、ディーゼル・電気機関車228両に加え貨車や車両整備事業を保有する。",
+      "労組TSSAは強制解雇を行わない保証を求めており、英政府も従業員の懸念を理解すると表明している。"
+    ],
+    "collected_at": "2026-10-25T06:25:03-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -4498,275 +4558,5 @@
       "喜望峰迂回の解消は輸送日数の短縮を通じて滞留していたコンテナを解放するため、機材需給と稼働率には緩和方向の圧力となる可能性がある。"
     ],
     "collected_at": "2026-09-26T13:27:08-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Box shipping reliability the worst since 2022 - 'a new normal', says DP World",
-    "title_ja": "コンテナ船の定時率49.9%、2022年9月以来の低水準",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/box-shipping-reliability-the-worst-since-2022-a-new-normal-says-dp-world/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "Sea-Intelligenceによると、8月の世界のコンテナ船スケジュール定時率は前月比5.9ポイント低下の49.9%と、2022年9月以来の低水準に落ち込んだ。",
-      "遅延船の平均遅延日数は前月比0.6日悪化の6.81日で2022年3月以来の長さ、前年同月比でも1.92日長い。",
-      "アジアの深刻な港湾混雑が主因とされ、DP Worldは低い定時性が「新常態」になりつつあると指摘しており、空コンテナの回転や機材手配の不確実性が高まる。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Shippers face rate hikes and 'a classic supply-demand mismatch' in Q4",
-    "title_ja": "太平洋航路運賃、上海-NYが1万ドル超で高止まり",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/shippers-face-rate-hikes-and-a-classic-supply-demand-mismatch-in-q4/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "中国の国慶節（10月1日）前の駆け込み輸送を受け、8月末から続いた太平洋航路のスポット運賃上昇が一服した。",
-      "DrewryのWCIで上海-ニューヨークは40フィート当たり10,373ドルと前週比わずかな低下、上海-ロサンゼルスは2%高の7,838ドルと上昇ペースが鈍化した。",
-      "荷主にとってより深刻なのは太平洋航路の定時率低下と港湾混雑の波及で、第4四半期は需給のミスマッチから運賃引き上げ圧力が続くと見込まれている。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "India-Middle East spot prices soar as ports struggle and liners 'cash-in'",
-    "title_ja": "インド-中東航路のスポット運賃、1カ月で25〜40%上昇",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/india-middle-east-spot-prices-soar-as-ports-struggle-and-liners-cash-in/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "インド発中東向けのコンテナスポット運賃が8月最終週から25〜40%急騰し、船腹の逼迫が続いている。",
-      "JNPA（ニャバシェバ）-ダンマーム（サウジアラビア）は1カ月前の約5,800ドル/TEU・6,800ドル/FEUから最大8,500ドル/TEU・9,500ドル/FEUに上昇、JNPA-ジッダも約25%高の5,500ドル/TEU・7,400ドル/FEU。",
-      "紛争の影響を受ける地域の港湾で荷役に支障が出ていることが背景で、同航路では空コンテナ不足も指摘されており、機材の偏在が一段と進む可能性がある。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Congestion and costlier bunkers keeping intra-Asia rates high",
-    "title_ja": "アジア域内運賃、混雑と燃料高で4週連続上昇",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/congestion-and-costlier-bunkers-keeping-intra-asia-rates-high/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "港湾混雑と燃料油価格の上昇を背景に、Drewryのアジア域内コンテナ指数が4週連続で上昇した。",
-      "9月17日時点の域内平均は前週比6%高の40フィート当たり1,402ドルで、上海-レムチャバンは15%高の1,324ドル、上海-ホーチミンも15%高の1,161ドルとなった。",
-      "台風による運航混乱と国慶節前の駆け込み需要が実効船腹を圧迫しており、域内航路での機材確保コストの上昇につながっている。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Alpha Trains sells Talent DMUs to meet Polish demand for diesel units",
-    "title_ja": "Alpha Trains、Talent気動車11編成をポーランドへ売却",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/poland/2026/09/25/alpha-trains-sells-talent-dmus-to-meet-polish-demand-for-diesel-units/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "欧州の車両リース大手Alpha Trainsが、Bombardier製Talent気動車11編成をポーランドのPublic Transport ServiceとModertrans Poznańに売却したと発表した。",
-      "2025年のTrako（グダンスク）で合意した案件で、InnoTrans 2026でクロージングを迎え、最初の6編成は2026年12月に引き渡される。",
-      "ドイツで使用された3両編成・最高速度120km/hの車両で、Modertransがポズナン地区で全般改修を行い18カ月以内の運用開始を目指す。同社は需要次第で最大50編成を同市場に供給できるとしている。"
-    ],
-    "collected_at": "2026-09-25T06:25:49-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Digital Automatic Coupler project reaches 'a turning point' as high level demonstration celebrates progress towards commercial deployment",
-    "title_ja": "欧州DAC計画、実証公開で商用展開へ転換点",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/digital-automatic-coupler/2026/09/25/dac-project-reaches-a-turning-point-as-high-level-demonstration-celebrates-progress-towards-commercial-deployment/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "Europe's Rail Joint Undertakingは9月23日、ベルリン・シュパンダウのHVLE鉄道センターでデジタル自動連結器（DAC）の高官級実証イベントを開催し、商用展開に向けた転換点と位置づけた。",
-      "FP5 TRANS4M-R、FP5-DACtiVate、DACFit、FP5-Future4Freightの各プロジェクトが支援し、従来型連結器とDACの双方による連結を実演した。",
-      "Pioneer DAC Trains（PioDAC）は2027年に営業運行へ入り、改造ガイドラインは2029年まで策定、量産改造は2031〜2036年を計画しており、貨車保有者の改造投資計画に直結する。"
-    ],
-    "collected_at": "2026-09-25T13:29:17-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "RailState data maps where Saskatchewan potash goes by rail",
-    "title_ja": "RailState、サスカチュワン産カリ肥料の鉄道輸送先を可視化",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/railstate-data-maps-where-saskatchewan-potash-goes-by-rail/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "線路脇モニタリング会社RailStateのデータが、CPKCとCNで運ばれるサスカチュワン産カリ肥料の行き先を路線別に示した。",
-      "同州で採掘されるカリ肥料はほぼ全量が鉄道で州外に運ばれるため、ホッパー車の需給と輸送ルートの把握に直結する。",
-      "トランプ大統領が9月21日にベラルーシからのカリ肥料調達交渉に言及するなど貿易摩擦で政治問題化しており、荷主や投資家の関心が高まっている。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Rail Industry Wants Full 11th Circ. To Review FRA Rule",
-    "title_ja": "鉄道業界、2人乗務規則で第11巡回区の大法廷審理を請求",
-    "source": "Law360",
-    "url": "https://www.law360.com/articles/2529902/rail-industry-wants-full-11th-circ-to-review-fra-rule",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "AAR、ASLRRAと鉄道6社が、FRAの2人乗務義務規則を支持した第11巡回区控訴裁の判断について大法廷（en banc）での再審理を求めた。",
-      "3人合議体は93ページ・2対1の判断で「鉄道側の主張にはいずれも理由がない」として訴えを退けていた。",
-      "申立ては同判断が行政機関の権限を不当に広げ最高裁判例に反すると主張しており、乗務員規制は貨物列車の運行コストと自動化計画に影響する。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: World Container Index Down 1% Last Week",
-    "title_ja": "Drewry世界コンテナ指数、1%下落し4,468ドル",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-1-last-week-11/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "9月24日時点のDrewry世界コンテナ指数（WCI）は40フィートコンテナ当たり4,468ドルで、前週から1%下落した。",
-      "下げはアジア→欧州航路の運賃低下が主因で、上海→ロサンゼルスは2%上昇の7,838ドル、上海→ニューヨークは10,373ドルで横ばいだった。",
-      "船社は抜港（ブランクセーリング）で供給を調整しており、翌週は15便の抜港が告知されている。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "FS Logistix is entering the demonstration phase of the DAC system",
-    "title_ja": "FS Logistix、DACを実運用環境での実証段階へ",
-    "source": "Railway PRO",
-    "url": "https://www.railwaypro.com/wp/fs-logistix-is-entering-the-demonstration-phase-of-the-dac-system/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "イタリアFS傘下のFS Logistixが、InnoTrans 2026でデジタル自動連結器（DAC）を試験段階から実運用環境での実証段階に移すと表明した。",
-      "同社はMercitalia Intermodal、Mercitalia Rail、Mercitalia Shunting & Terminalを通じ、Europe's RailのTRANS4M-RとDACtiVateの両プロジェクトに参加している。",
-      "DACは連結・解放の自動化で作業の安全性を高め列車長と積載量の拡大や作業時間・コストの削減につながるとされ、イタリア初のデモ列車は2026年内の投入が予定されている。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Fuel price crisis: 'Shippers more inclined to shift to rail freight'",
-    "title_ja": "燃料高で荷主の鉄道シフト志向強まる、仏運送会社が転換加速",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/25/fuel-price-crisis-shippers-more-inclined-to-shift-to-rail-freight/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "RailFreight.comは、燃料価格の高騰を背景に荷主の間で道路から鉄道貨物へのモーダルシフト志向が強まっていると報じた。",
-      "フランス・バスク地方の運送会社Transports Darrieussecqは、早期に進めたroad-to-railへの切り替えが奏功し取扱いを伸ばしていると説明している。",
-      "ディーゼル価格の高止まりが続けば欧州の貨車・機関車の稼働需要を下支えする要因となり、リース会社には追い風となりうる。"
-    ],
-    "collected_at": "2026-09-26T13:27:08-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "PIC and USS target more infra debt, eye digital space",
-    "title_ja": "英PICとUSS、インフラデットへの配分拡大を表明",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/pic-and-uss-target-more-infra-debt-eye-digital-space/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "Infrastructure Investorの欧州フォーラムで、英保険会社Pension Insurance Corporation（PIC）と大学退職年金USSがインフラデットへの配分を拡大する方針を示した。",
-      "両者はデジタル化と電力インフラが交差する領域に大きな資金投下の機会があるとの見方を示している。",
-      "プライベートウェルス層からのインフラデット需要も高まっており、2026年は同分野への配分が回復傾向にあると報じられている。"
-    ],
-    "collected_at": "2026-09-26T13:27:08-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CSX: ‘Speeding Emergency Response, Improving Safety’",
-    "title_ja": "CSX、通報者のライブ映像を共有する緊急対応システムを導入",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/csx-speeding-emergency-response-improving-safety/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "CSXは自社のPublic Safety Coordination Center（PSCC）に、緊急通報者がリアルタイムの位置情報と現場のライブ映像を安全に共有できる新技術を導入したと発表した。",
-      "PSCCのオペレーターは通報者の位置を即座に特定したうえで映像共有用の安全なリンクを送信でき、CSXは同種システムを配備した最初の鉄道会社だとしている。",
-      "発表は9月21〜27日のRail Safety Week 2026に合わせたもので、地元の消防・警察との状況把握と連携の精度を高める狙いがある。"
-    ],
-    "collected_at": "2026-09-27T06:27:42-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "US ends probe after liner group World Shipping Council scales back agreement",
-    "title_ja": "FMC、World Shipping Council協定の縮小を受け調査を終結",
-    "source": "TradeWinds",
-    "url": "https://www.tradewindsnews.com/containers/us-ends-probe-after-liner-group-world-shipping-council-scales-back-agreement/2-1-2049981",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "米連邦海事委員会（FMC）は、World Shipping Council（WSC）が協定（FMC協定第201349号）を修正したことを受け、Docket 25-10の調査を終結したと報じられた。",
-      "FMCは2026年3月6日の命令で協定の相当部分を取り消し、WSCに対し運航事項に範囲を絞った修正協定を60日以内に提出するよう求めていた。",
-      "修正協定は業界団体としての活動や国際政策上の協議を除外し、船舶排出など環境・気候に関わる運航事項と安全・保安に限定されたとされ、船社間の独禁法適用除外の範囲を狭める内容となる。"
-    ],
-    "collected_at": "2026-09-27T06:27:42-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Siemens Mobility awarded large and small Vectron X locomotive orders",
-    "title_ja": "Railpool、Vectron X最大100両を発注　RDCも2両を追加",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/innotrans/2026/09/25/siemens-mobility-awarded-large-and-small-vectron-x-locomotive-orders/",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "機関車リース会社Railpoolは、InnoTrans 2026でSiemens Mobilityの新世代Vectron Xを確定80両（Vectron X 30両、デュアルモード50両）、オプション20両の計最大100両発注した。",
-      "Railpoolは2010年のVectron初号機の launch customer であり、今回デュアルモード機の保有に初めて踏み込む。初納入は2027年を予定する。",
-      "同じInnoTransではRDC Deutschlandもデュアルモード2両を約1,000万ユーロで発注し、2027年夏からAutozug Syltなどの牽引に充てる計画を示した。"
-    ],
-    "collected_at": "2026-09-28T06:32:48-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CSX adds location tracking capabilities to emergency response center",
-    "title_ja": "CSX、緊急対応センターに位置情報・映像共有機能を導入",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/csx_transportation/news/CSX-adds-location-tracking-capabilities-to-emergency-response-center--77826",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "CSXは自社のPublic Safety Coordination Center（PSCC）に、通報者の位置情報とライブ映像をリアルタイムで共有できる機能を導入した。",
-      "オペレーターは通話中に録音の再生、多言語翻訳、重要情報の照合が可能になり、この種のシステム導入は鉄道会社として初という。",
-      "危険品事故では現場位置の特定の遅れが対応上の最大の課題とされてきたため、タンク車を扱う荷主やリース会社にとっても初動短縮につながる。"
-    ],
-    "collected_at": "2026-09-29T06:28:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "personnel",
-    "title": "STB taps Schlenker as economics director, McDermott for senior advisor role",
-    "title_ja": "STB、経済局長にBNSF出身のSchlenker氏を起用",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/people/news/STB-taps-Schlenker-as-economics-director-McDermott-for-senior-advisor-role--77814",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "STB の Patrick Fuchs 委員長は9月24日、経済局（Office of Economics）局長に Marty Schlenker 氏、委員長付シニアアドバイザーに Terrence McDermott 氏を任命したと発表した。",
-      "Schlenker 氏は BNSF に17年在籍し技術サービス担当アシスタント・バイスプレジデントまで務め、その後は自律貨車技術を開発する Parallel Systems で分析・アプリケーション部門を率いた。",
-      "経済局は運賃紛争・サービスや競争に関する案件・企業結合審査を支える経済分析を担う部署で、UP-NS 統合審査が本格化するなか両氏はいずれも暫定的な役職から正式任用に移った。"
-    ],
-    "collected_at": "2026-10-04T13:27:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "earnings",
-    "title": "Triton International stock reports USD 105.7 million Q2 profit",
-    "title_ja": "Triton、第2四半期純利益1.06億ドルと稼働率98%",
-    "source": "AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHY4SVVtRDVuWG16by1qZHlkc1U3aFN1Tno5amxwTWIwdFd1WE80VWR6SGs1eFZXR3J4eFlSUkh6ZVpTMFNhTUFrZlFVeEZQLTZFRlZZbENrZzV3OXh0TmJJV2NOTmRMWEt6bkZFTVE5cUNfbGx1LTJoMC03ZnRmZEVrek1UTmdHck1BSEs3dDhvM0RpaXNaTXVQcFYzQ2V3Q1VBSjM2eG5KaGwzTUhCYUxhZmltaTdzbDZzYzRB?oc=5",
-    "published_at": "2026-09-25",
-    "summary_ja": [
-      "コンテナリース大手 Triton International の2026年第2四半期の純利益は約1億570万ドルと報じられた。",
-      "四半期報告（6-K）では平均稼働率が前四半期の97.1%から98.0%へ、期末稼働率も97.3%から98.5%へ上昇し、旺盛なリース需要が稼働を押し上げたとされる。",
-      "上期の純利益は約2億1,211万ドルで、第3四半期には Brookfield と SMFL の合弁へのポートフォリオ売却や、タンクコンテナ事業のほぼ全量売却も進めたとみられる。"
-    ],
-    "collected_at": "2026-10-12T06:40:18-07:00"
   }
 ]
