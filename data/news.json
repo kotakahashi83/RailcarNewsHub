@@ -1,5 +1,20 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Judge rules speech by UP’s CEO must be made public",
+    "title_ja": "UP-NS合併審査、Vena CEO講演の録音公開を行政法判事が命令",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/judge-rules-speech-by-ups-ceo-must-be-made-public/",
+    "published_at": "2026-10-25",
+    "summary_ja": [
+      "行政法判事が、UP-NS合併審査の一環としてVena CEOの講演録音を公開すべきと裁定した。",
+      "対象は2026年3月のSouthwest Association of Rail Shippers会合での講演で、UPが主張した「機密・専有情報」には当たらないと判断された。",
+      "7月にBaldwin上院議員が「合併に公然と賛成しない顧客への値上げをちらつかせる脅し」と指摘し、CPKCと荷主団体連合が公開を求めていた。"
+    ],
+    "collected_at": "2026-10-25T13:22:45-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "FreightCar America faces third probe as shares drop 31% on weak Q3",
@@ -178,6 +193,21 @@
       "5月に意見公募された案で、手続き面の変更ながら規制対象企業や業界団体の働きかけに実務的な影響があるとみられている。"
     ],
     "collected_at": "2026-10-25T06:25:03-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Firefighting ongoing as Espirito Santos Express blaze continues",
+    "title_ja": "Hapag-Lloyd傭船コンテナ船火災、積載コンテナの状態は確認不能",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/firefighting-ongoing-as-espirito-santos-express-blaze-continues",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "Seaspan所有でHapag-Lloydが傭船するコンテナ船Espirito Santos Expressの消火活動が続いている。",
+      "同船は10月15日、シンガポールからブラジル・サントス港へ向かう大西洋上で火災・爆発を起こし、乗組員は全員退船した。",
+      "Hapag-Lloydは個々の船積み貨物やコンテナの状態を把握できないとしており、滅失する機材の規模は未確定。"
+    ],
+    "collected_at": "2026-10-25T13:22:45-07:00"
   },
   {
     "category": "rail_industry",
@@ -433,6 +463,21 @@
       "約3年続いた喜望峰迂回からの復帰が定着すれば航海日数の短縮でコンテナ機材の回転が改善する一方、再迂回となれば再び機材が滞留するリスクが残る。"
     ],
     "collected_at": "2026-10-24T13:27:43-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "‘Our potential enemies are watching’: EU lawmakers press for speed in military mobility talks",
+    "title_ja": "EU軍事輸送規則の三者協議、車両所有者への補償が最大の争点",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/22/our-potential-enemies-are-watching-eu-lawmakers-press-for-speed-in-military-mobility-talks/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "EU軍事機動（Military Mobility）規則の三者協議（トリローグ）は2回目を終えたが、補償の扱いは未決着と報じられている。",
+      "欧州議会は鉄道事業者・インフラ管理者・車両所有者へのEUレベルの補償を求める一方、理事会はこれを条文から外し各国制度に委ねる立場。",
+      "議会側は年内の規則成立と、緊急時の軍事輸送制度EMERSの2028年までの運用開始を目標に掲げている。"
+    ],
+    "collected_at": "2026-10-25T13:22:45-07:00"
   },
   {
     "category": "railcar_leasing",
