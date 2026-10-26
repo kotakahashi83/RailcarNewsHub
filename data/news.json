@@ -90,6 +90,21 @@
     "collected_at": "2026-10-26T06:27:46-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "MSC’s MEDLOG joins consortium to operate Júndiz intermodal terminal",
+    "title_ja": "MSC系MEDLOG、スペインJúndizターミナルの運営権を獲得",
+    "source": "Container News",
+    "url": "https://container-news.com/mscs-medlog-joins-consortium-to-operate-jundiz-intermodal-terminal/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "スペインの鉄道インフラ管理者Adifが、Vitoria-Júndiz複合輸送ターミナルの運営契約をMSCグループのMEDLOG Spain Logisticを含む企業連合に付与した。",
+      "契約期間は当初6年で延長により最長20年、合弁のTerminal Intermodal Júndizは当初6年で約30万ITU（複合輸送単位）の取扱を計画する。",
+      "連合にはBilbao港とPasaia港の港湾局やÁlava州の機関も参加し、バスク圏の港湾と内陸を結ぶコンテナ鉄道輸送の強化が狙い。"
+    ],
+    "collected_at": "2026-10-26T13:24:44-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "regulatory",
     "title": "Judge rules speech by UP’s CEO must be made public",
@@ -313,6 +328,21 @@
       "Hapag-Lloydは個々の船積み貨物やコンテナの状態を把握できないとしており、滅失する機材の規模は未確定。"
     ],
     "collected_at": "2026-10-25T13:22:45-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Intermodal derailment affects London ports",
+    "title_ja": "Barkingで貨物列車脱線、ロンドン港湾への鉄道輸送に影響",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/23/intermodal-derailment-affects-london-ports/",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "10月23日13時10分ごろ、London Gatewayを発ったGB Railfreightのコンテナ列車がロンドン東部Barkingで一部脱線した。",
+      "負傷者はなく英鉄道事故調査局（RAIB）に通報され、GBR Angliaによると約1.2kmの線路が影響を受け、復旧作業は週内に及ぶ見込みとされる。",
+      "Barkingはロンドンの港湾へ向かう貨物線と旅客線が交わる要衝で、コンテナ列車の迂回や遅延が続いている。"
+    ],
+    "collected_at": "2026-10-26T13:24:44-07:00"
   },
   {
     "category": "rail_industry",
@@ -583,6 +613,21 @@
       "議会側は年内の規則成立と、緊急時の軍事輸送制度EMERSの2028年までの運用開始を目標に掲げている。"
     ],
     "collected_at": "2026-10-25T13:22:45-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "US tank car companies split on antidumping duties for Mexican imports in USITC hearing",
+    "title_ja": "USITC、メキシコ製タンク車の反ダンピング調査で公聴会",
+    "source": "MLex",
+    "url": "https://www.mlex.com/mlex/trade/articles/2540985",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "USITCは10月21日、メキシコ製タンク車と部品に対する反ダンピング・相殺関税調査（701-TA-809／731-TA-1810）の予備段階公聴会を開催した。",
+      "申立ては9月30日にBerkshire Hathaway傘下のUTLX Manufacturingが提出し、ダンピングマージンを12.70〜32.58%と主張、USITCの予備決定期限は11月16日とされる。",
+      "報道によると米タンク車メーカーの主張は関税の支持と反対に分かれており、メキシコ生産を持つTrinityとGreenbrierは申立てに反対、結果次第で北米のタンク車価格と供給に影響しうる。"
+    ],
+    "collected_at": "2026-10-26T13:24:44-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -1438,6 +1483,21 @@
       "今回の公募（FY2025・FY2026分）は最大で約20億3,900万ドルの枠が用意されており、短距離鉄道の線路改良や踏切安全対策の原資となる。"
     ],
     "collected_at": "2026-10-19T13:24:03-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "SMART, BLET Ratify Agreements With CPKC",
+    "title_ja": "SMART-TDとBLET、CPKCとの新労働協約を批准",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/freight/class-i/smart-blet-ratify-agreements-with-cpkc/",
+    "published_at": "2026-10-16",
+    "summary_ja": [
+      "BLETはCPKC傘下のDakota, Minnesota & Eastern（DM&E）区域を対象とする5年協約を批准し、2025年1月1日に遡る賃上げや食事手当の増額を得た。",
+      "SMART-TDのSoo Line区域（GCA 261）の車掌は2027年12月31日までの3年協約を批准し、投票は10月15日に締め切られ賛成75.6%・投票率81%だった。",
+      "DM&Eでは協約期間を通じ機関士の時間賃率が複利で41.42%、車掌・制動手が32.63%上昇する見込みで、CPKCは米国側の主要労務コストを長期で固定した。"
+    ],
+    "collected_at": "2026-10-26T13:24:44-07:00"
   },
   {
     "category": "container_leasing",
