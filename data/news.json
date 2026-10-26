@@ -1,6 +1,96 @@
 [
   {
     "category": "rail_industry",
+    "kind": "news",
+    "title": "Norfolk Southern to serve new Audi plant in Georgia",
+    "title_ja": "Audi、NS路線沿いのジョージア州に初の米国工場",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/norfolk-southern-to-serve-new-audi-plant-in-georgia/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "Audi が初の米国工場をジョージア州メーコン近郊の Middle Georgia Megasite に建設すると10月24日に発表した。",
+      "投資額は40億ドル、新規雇用は約4,500人で、着工は2028年、年産約20万台の本格稼働は2031年を見込む。",
+      "敷地の北側を Norfolk Southern の Albany District 本線が走り、サバンナ港まで171マイルと、完成車・部品の鉄道輸送需要につながる立地。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "US formalises two-month suspension of Chinese vessel fees",
+    "title_ja": "USTR、中国船向け港湾料金措置の停止を2カ月延長",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/regulations/us-formalises-two-month-suspension-of-chinese-vessel-fees",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "USTR が10月23日公表の通知で、中国の海運・造船を対象とする Section 301 措置の停止をさらに2カ月延長する手続きに入った。",
+      "延長期間は2027年1月9日までで、その間は輸送サービス料やクレーンなど関連品目の関税の支払い義務が発生しない。",
+      "当初の1年間の停止は11月9日に失効予定だったが、9月の米中首脳会談での合意を今回の通知で正式化した形となる。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Asia - Europe container spot rates see October recovery",
+    "title_ja": "アジア発欧州向けコンテナ運賃、10月に上昇へ反転",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/asia-europe-container-spot-rates-see-october-recovery",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "7月から下落していたアジア発欧州向けのスポット運賃が9月末で底を打ち、10月は上昇に転じた。",
+      "Xeneta のデータでは極東発北欧州向けが前週比6.8%高の1FEU当たり3,698ドル、地中海向けが5.8%高の4,442ドル。",
+      "紅海・スエズ回帰で船腹が戻っても運賃が上がる状況が続き、ホルムズ危機前比では北欧州向けが67%高、地中海向けが33%高の水準にある。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "China-India rates ease but port delays still a strain on services",
+    "title_ja": "中国発インド向け運賃が下落、港湾遅延は依然継続",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/china-india-rates-ease-but-port-delays-still-a-strain-on-services/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "インドの祭事需要が一巡し、中国の主要積地からインド向けのスポット運賃が10〜20%下落した。",
+      "上海発 JNPA（Nhava Sheva）向け40フィートは1カ月前の約3,800ドルから約3,200ドルへ、上海発チェンナイ向けも3,900ドルから3,200ドルへ低下した。",
+      "香港・シンガポール発も下落傾向だが、インド側の港湾混雑と遅延がサービスの制約として残り、機材の回転に影響しうる。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Valenciaport reports September container growth despite weaker transshipment",
+    "title_ja": "バレンシア港、9月のコンテナ取扱が5.5%増",
+    "source": "Container News",
+    "url": "https://container-news.com/valenciaport-reports-september-container-growth-despite-weaker-transshipment/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "バレンシア港湾局（APV）が10月23日に公表した9月の取扱量は49万8,837TEUで、前年同月比5.48%増となった。",
+      "実コンテナの輸出は5.68%増、輸入は11.68%増、総貨物量は2.05%増の660万トンだった。",
+      "一方で実コンテナの積み替えは0.82%減の17万9,002本と小幅減にとどまったが、年初来の減少傾向は続いている。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Romania ‘disciplines’ rail freight: no more “warehouses on wheels”",
+    "title_ja": "ルーマニア、貨車の「動く倉庫」化を抑える規則案",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk5yZmNqTWRKbEtta1JFdkNwOTNoQTJpc3RXYm1hRGVXeFFCZjMyWElDdWFVR3pxVmdyOGRIV1RFZUhzTnZFZnBVN2ktQzd0LTZnaTRNNkcxX2cxeWE5LXhmVVVQN04yZUp0MDVnWE9lVTBWWk1ST21wRHY0QlU1dmRZZEdDNlVyeW1xcWNRekdacm5uTElQS0RpNkIwRjVybENaaHRZVzlFeUJmangyTWw3RQ?oc=5",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "ルーマニア運輸省が、コンスタンツァ港へ計画外に到着する貨物列車の受け入れを制限する省令案をまとめたと報じられている。",
+      "ダイヤ外列車の優先的な取り扱いを認めず、遅延を招いた事業者には積載順位の後退や罰金の引き上げを課す内容とされる。",
+      "滞留した貨車が事実上の保管スペースとして使われる状態の是正が狙いで、現時点では案の段階とみられるため確定事項としては扱えない。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
+  },
+  {
+    "category": "rail_industry",
     "kind": "regulatory",
     "title": "Judge rules speech by UP’s CEO must be made public",
     "title_ja": "UP-NS合併審査、Vena CEO講演の録音公開を行政法判事が命令",
@@ -13,6 +103,21 @@
       "7月にBaldwin上院議員が「合併に公然と賛成しない顧客への値上げをちらつかせる脅し」と指摘し、CPKCと荷主団体連合が公開を求めていた。"
     ],
     "collected_at": "2026-10-25T13:22:45-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Flooding closes BNSF main line in New Mexico",
+    "title_ja": "BNSF、ニューメキシコの本線が洪水で一時不通",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/flooding-closes-bnsf-main-line-in-new-mexico/",
+    "published_at": "2026-10-25",
+    "summary_ja": [
+      "Rio San Jose の氾濫により、BNSF の Southern Transcon がニューメキシコ州 Marmon–Laguna 間で週末に不通となった。",
+      "被害が大きかったのは Gallup サブディビジョンのマイルポスト69.7〜72.7で、同区間は1日平均59本の貨物列車が通る。",
+      "日曜に水が引き、バラスト交換などの復旧作業で1線目を日曜夜、2線目を月曜未明に開通させる見通しと BNSF は説明した。"
+    ],
+    "collected_at": "2026-10-26T06:27:46-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -4588,20 +4693,5 @@
       "地政学リスクと台風による混乱が実効船腹・機材の供給を圧迫しており、域内調達コストの上昇はコンテナ機材の再配置負担にも波及しうる。"
     ],
     "collected_at": "2026-09-28T06:32:48-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "The disruption dividend is running out, and carriers are ending it themselves",
-    "title_ja": "コンテナ船社の「混乱プレミアム」縮小、スエズ復帰と新造船で",
-    "source": "Container News",
-    "url": "https://container-news.com/the-disruption-dividend-is-running-out-and-carriers-are-ending-it-themselves/",
-    "published_at": "2026-09-26",
-    "summary_ja": [
-      "Container Newsは、紅海・ホルムズ情勢の混乱で高収益を享受してきたコンテナ船社が、スエズ運河経由への復帰を1航海ずつ進めることで「混乱プレミアム」を自ら手放しつつあると論じた。",
-      "復帰と並行して2026年は記録的な新造船の竣工が続き、東西基幹航路の定時率は依然6割を下回る水準にとどまると伝えられている。",
-      "喜望峰迂回の解消は輸送日数の短縮を通じて滞留していたコンテナを解放するため、機材需給と稼働率には緩和方向の圧力となる可能性がある。"
-    ],
-    "collected_at": "2026-09-26T13:27:08-07:00"
   }
 ]
