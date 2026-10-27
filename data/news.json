@@ -1,5 +1,35 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container freight rates diverge as global benchmarks rise and Asian indexes weaken",
+    "title_ja": "コンテナ運賃、WCIが15週ぶり高値も中国系指数は停滞",
+    "source": "Container News",
+    "url": "https://container-news.com/container-freight-rates-diverge-as-global-benchmarks-rise-and-asian-indexes-weaken/",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "DrewryのWCIは前週比2%上昇し40フィート当たり4,585ドルと15週ぶりの高値、Freightos Baltic Index（FBX）も5%上昇して3,560ドルとなった。",
+      "一方でCCFIは下落し、SCFIは10月23日時点で0.05%高の3,681.34ポイント、NCFIも小幅高にとどまった。",
+      "アジア-欧州航路ではDrewryが上昇を示す一方NYSHEX運賃指数（NYFI）は下落を続け、指標間・航路間で方向感が分かれている。"
+    ],
+    "collected_at": "2026-10-27T06:38:05-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hambantota Port sees new opportunities as container ships return to Suez",
+    "title_ja": "Suez回帰見通しでHambantota港がコンテナ能力拡張へ",
+    "source": "Container News",
+    "url": "https://container-news.com/hambantota-port-sees-new-opportunities-as-container-ships-return-to-suez/",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "スリランカのHambantota International Port Group（HIPG）は紅海・スエズ経由のコンテナ輸送の本格回復を見込み、コンテナ取扱能力の拡張を準備していると表明。",
+      "海事コンサルLinerlyticaは10月の分析で、2027年第1四半期までにスエズ航路へのコンテナ輸送が全面的に回帰すると予測している。",
+      "東西基幹航路から約10海里という立地を生かし積替えハブとしての地位強化を狙うが、回復ペースは治安情勢と各船社の判断に左右されるとみられる。"
+    ],
+    "collected_at": "2026-10-27T06:38:05-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Norfolk Southern to serve new Audi plant in Georgia",
@@ -103,6 +133,66 @@
       "連合にはBilbao港とPasaia港の港湾局やÁlava州の機関も参加し、バスク圏の港湾と内陸を結ぶコンテナ鉄道輸送の強化が狙い。"
     ],
     "collected_at": "2026-10-26T13:24:44-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "Greenbrier Reports Fourth Quarter and Fiscal 2026 Results",
+    "title_ja": "Greenbrier、FY26通期純利益79百万ドルで6割減益",
+    "source": "SEC EDGAR (The Greenbrier Companies)",
+    "url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431928/gbx-ex99_1.htm",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "8月末締めのFY2026通期は売上24.6億ドル（前期比24%減）、純利益79百万ドル（同61%減、1株2.49ドル）と大幅減益。",
+      "第4四半期は新造貨車受注3,400両・6億ドル、納入3,600両で、受注残は8月末時点で14,000両・推定21億ドルとFY2024以来初めて前四半期から増加。",
+      "FY2027見通しは売上28〜32億ドル、EPS2.75〜3.75ドル、北米業界納入26,000〜28,000両で、関税の不透明感による貨車購入の先送りからの回復を想定。"
+    ],
+    "collected_at": "2026-10-27T06:38:05-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "personnel",
+    "title": "Greenbrier Elects Emanuel Pearlman to Board of Directors",
+    "title_ja": "Greenbrier、Atlasとの合意でPearlman氏を取締役に選任",
+    "source": "SEC EDGAR (The Greenbrier Companies)",
+    "url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431927/gbx-ex99_1.htm",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "GreenbrierはEmanuel（Manny）Pearlman氏をClass III取締役に選任し、2026年10月27日付で就任すると発表。",
+      "選任はAtlas Holdingsとのcooperation agreement（協調合意）の一環で、取締役会は11名に拡大する。",
+      "Pearlman氏は2027年の年次株主総会で改選に臨む予定で、会社は投資運用分野での同氏の経験を収益力改善戦略に活かすとしている。"
+    ],
+    "collected_at": "2026-10-27T06:38:05-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "SMART-TD’s Soo Line members ratify agreement with CPKC",
+    "title_ja": "SMART-TDのSoo Line組合員、CPKCとの3年協約を批准",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/smart-tds-soo-line-members-ratify-agreement-with-cpkc/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "旧Soo Line管内で働くSMART-TD（鉄道運輸労組）の組合員が、CPKCとの3年協約を批准したと組合が発表。",
+      "協約は2027年12月31日まで有効で、時給の大幅な引き上げを含み、賃上げは2025年に遡及、新たな引き上げは2027年1月1日発効。",
+      "10月15日に締め切られた投票は賛成75.6%・反対24.4%で、有権者の81%が投票に参加した。"
+    ],
+    "collected_at": "2026-10-27T06:38:05-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CSX expands Chambersburg, Pa., intermodal terminal",
+    "title_ja": "CSX、Chambersburgインターモーダル拠点の能力を増強",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/csx-expands-chambersburg-pa-intermodal-terminal/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "CSXは貨物量の増加に対応し、ペンシルベニア州Chambersburgのインターモーダルターミナルにゴムタイヤ式ガントリークレーン1基とリーチスタッカー2台を追加した。",
+      "コンテナ・シャーシ・従業員用の駐車スペースを拡張し、整備施設の拡張工事も進行中で、さらなる追加投資も検討している。",
+      "同ターミナルの取扱量は2023年の約159,000ユニットから2025年に約192,000ユニットへと約21%増加している。"
+    ],
+    "collected_at": "2026-10-27T06:38:05-07:00"
   },
   {
     "category": "rail_industry",
@@ -4723,35 +4813,5 @@
       "戦略は既存スポンサーとの関係を基礎とした単一資産のコンティニュエーション・ビークルが中心で、ある機関投資家は既存2ファンドの約3億ドル分を新ファンドへ移す検討をしているとされる。"
     ],
     "collected_at": "2026-09-30T13:26:59-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Asia-US container rates still rising; liquid tanker rates ex-US Gulf largely stable",
-    "title_ja": "アジア発米国向けコンテナ運賃、なお上昇も10月に頭打ち観測",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-still-rising-liquid-tanker-rates-ex-us-gulf-largely-stable/",
-    "published_at": "2026-09-27",
-    "summary_ja": [
-      "東アジア・中国発米国向けのコンテナ運賃が、底堅い荷動きと悪天候によるアジア港湾の滞船を背景に今週も上昇した。",
-      "米西岸向けは1FEUあたり7,400〜8,300ドル、東岸向けは9,600〜11,500ドルと、いずれも2022年半ばの高値圏に近い水準にある。",
-      "Xenetaのチーフアナリスト Peter Sand 氏は、この上昇基調は2026年10月前半にも終わりが見え始める可能性があると指摘しており、機材の需給逼迫も同時に和らぐ余地がある。"
-    ],
-    "collected_at": "2026-09-28T06:32:48-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Intra Asia Container Index Up 6% Last Week",
-    "title_ja": "Drewryのアジア域内コンテナ指数、6%上昇し5週連続で最高値",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-up-6-last-week-2/",
-    "published_at": "2026-09-27",
-    "summary_ja": [
-      "Drewryのアジア域内コンテナ指数（IACI）は前週比6%上昇し、40フィートコンテナあたり1,491ドルとなった。",
-      "IACI総合指数は5週連続で過去最高を更新し、中国発の東南アジア・南アジア向けスポット運賃も一部航路で史上最高値に達した。",
-      "地政学リスクと台風による混乱が実効船腹・機材の供給を圧迫しており、域内調達コストの上昇はコンテナ機材の再配置負担にも波及しうる。"
-    ],
-    "collected_at": "2026-09-28T06:32:48-07:00"
   }
 ]
