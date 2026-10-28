@@ -2,6 +2,51 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
+    "title_ja": "欧州主要港、トランシップ減とゲートウェイ貨物増が並走",
+    "source": "Container News",
+    "url": "https://container-news.com/europes-container-ports-why-is-transshipment-falling-while-gateway-traffic-grows/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "欧州主要港で取扱量の内訳が分かれ、トランシップが細る一方で輸入・内陸向けのゲートウェイ貨物が強まっている。",
+      "ロッテルダムとバレンシアは1〜9月のトランシップ量が大幅減、アントワープ・ブルージュは小幅増だが伸びを牽引したのは実入りではなく空コンテナだった。",
+      "記事は欧州全体の構造転換と断定せず、ターミナル能力・荷動き・配船網の変化による個別港の動きとみている。"
+    ],
+    "collected_at": "2026-10-28T06:36:23-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "US awards US$498m to 35 port infrastructure projects",
+    "title_ja": "米運輸省、港湾整備35件に4億9,800万ドルを交付",
+    "source": "WorldCargo News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmh0cVNRMjgwdFJ6NWdOalZNYjVDaEVBNktESkpMTlBhNk1SeC1MbVBnWklNbFBtaUVWdVgxWkpDV3AzeU5KTFJTUENFZUh6eW41MldyM25uQjdXSEFYektQYmwwZFlfaHQxOENxcTFBM1FZd2ZoVlBra21NX29sZTlYTDJBeVZXWGNHdW1fdEpyNzVJTFFYdzY0c1E?oc=5",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "米運輸省が港湾インフラ整備プログラム（PIDP）で19州35件に総額4億9,800万ドルの交付を決めた。",
+      "ジャクソンビルのBlount Island Marine Terminal岸壁とハワイ・Kahului港の荷役ヤード拡張が各約4,000万ドル、Port EvergladesのSlip 1再配置が3,070万ドル超。",
+      "報道ではPIDPとして過去5年で最低水準の配分で、超党派インフラ法に基づく先行歳出の最終回に当たるとされる。"
+    ],
+    "collected_at": "2026-10-28T06:36:23-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Ukraine to return rail quotas as 20,000 wagons get stuck on way to EU borders",
+    "title_ja": "UZ、EU国境で2万車超が滞留し月次割当を再導入",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/28/ukraine-to-return-rail-quotas-as-20000-wagons-get-stuck-on-way-to-eu-borders/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "ウクライナ鉄道（UZ）は西部国境での貨車滞留の拡大を抑えるため、11月から月次計画と輸送割当を再導入する。",
+      "10月23日時点で国境通過を待つ貨車は20,718両に達し、国境駅にいるのは約837両で残りは手前の路線上に散在している。",
+      "隣国鉄道への引き渡しまでの待ち時間は平均19日、ハンガリー方面のBatiovo向けでは32日に及んでいる。"
+    ],
+    "collected_at": "2026-10-28T06:36:23-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Container freight rates diverge as global benchmarks rise and Asian indexes weaken",
     "title_ja": "コンテナ運賃、WCIが15週ぶり高値も中国系指数は停滞",
     "source": "Container News",
@@ -133,6 +178,36 @@
       "DirecTrainSのAlberto Mandler CEOはDACやERTMSと競合しないとし、初期投資が小さく混雑路線の容量増に寄与しうると説明している。"
     ],
     "collected_at": "2026-10-27T13:23:20-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB Judge Rules SWARS Vena Keynote Address Video ‘Public’",
+    "title_ja": "STB判事、UP CEO講演動画の機密指定解除を命令",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/regulatory/stb-judge-rules-swars-vena-keynote-address-video-public/",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "STBの行政法判事が、UPがディスカバリーで「機密」指定したVena CEOの講演動画について指定解除を命じた。",
+      "判断は10月23日付で、UPは10月30日までに機密表示なしで動画を提出する必要があり、CPKCが10月6日に申し立てていた。",
+      "対象は約900人が参加した2026年3月のSWARS年次総会の基調講演で、合併を支持しない荷主への運賃引き上げ示唆が問題視されていた。"
+    ],
+    "collected_at": "2026-10-28T06:36:23-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "RailState data shows strike’s impact on coal traffic at Port of Prince Rupert",
+    "title_ja": "Prince Rupert港のストで石炭列車が48%減",
+    "source": "Trains Magazine",
+    "url": "https://www.trains.com/pro/freight/railstate-data-shows-strikes-impact-on-coal-traffic-at-port-of-prince-rupert/",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "RailStateの線路脇センサーデータで、Trigon Pacific Terminals向けの石炭・石油コークス列車が港湾ストの影響で大幅に減少した。",
+      "10月2〜25日は週5.8本で8〜9月の週11.2本から48%減、最大顧客Conuma Coalの列車は週8.1本から2.9本に落ち込んだ。",
+      "一部列車はバンクーバーのWestshoreへ振り替えられ、カナダ産業関係委員会は10月27日にTrigonへ請負業者の使用停止を命じた。"
+    ],
+    "collected_at": "2026-10-28T06:36:23-07:00"
   },
   {
     "category": "rail_industry",
@@ -1003,6 +1078,21 @@
       "同社は2026年1月にも管理職の約5%に当たる166ポストを削減しており、今回の再編は第3四半期決算やCory最高執行責任者の退任発表と同時期に重なった。"
     ],
     "collected_at": "2026-10-24T06:21:37-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Autonomous railcar technology earns $16M federal grant",
+    "title_ja": "Intramotev、自律貨車実証に1,620万ドルの連邦補助金",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "FRAのCRISI補助金がミズーリ州コロンビア・ターミナル鉄道（COLT）の近代化事業に交付され、Intramotevが技術パートナーとして自律貨車を投入する。",
+      "補助額は1,620.7万ドルで事業総額2,082.7万ドル、Centralia〜Columbia間21.4マイルにTugVolt自律貨車2両を導入する。",
+      "FRA承認の試験プログラムの下、ターミナル構内の遠隔入換から踏切を含む本線での自律運行へ段階的に拡大する計画。"
+    ],
+    "collected_at": "2026-10-28T06:36:23-07:00"
   },
   {
     "category": "container_leasing",
@@ -4753,170 +4843,5 @@
       "専用線や自社貨車を持たない荷主の鉄道利用を広げる動きで、同州の産業向け輸送需要の取り込みを狙う。"
     ],
     "collected_at": "2026-10-05T06:29:57-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Hazardous Materials: Incorporation of ASME Code Section XII and the National Board Inspection Code",
-    "title_ja": "PHMSA、タンク車等にASME Section XII 2015年版を採用",
-    "source": "Federal Register (PHMSA)",
-    "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19741/hazardous-materials-incorporation-of-asme-code-section-xii-and-the-national-board-inspection-code",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "PHMSAは危険物規則（HMR）を改正し、ASMEボイラー・圧力容器規格Section XIIの2015年版を参照規格として取り込む最終規則を公表した。",
-      "対象は特定仕様のカーゴタンク車両（CTMV）、極低温ポータブルタンク、マルチユニット・タンク車タンクの製造と継続使用で、National Board Inspection Code（NBIC）Parts 2・3（Supplement 6含む）の2015年版も併せて取り込む。",
-      "PHMSAは2010年にASME Section XIIをHMRへ初めて採用しており、今回は参照版の更新でタンク製造・補修時に使える規格の選択肢を広げる内容となる。"
-    ],
-    "collected_at": "2026-09-26T06:27:48-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Delays mount as port disruption in Asia ties up 3m teu of box capacity",
-    "title_ja": "アジア港湾混乱で世界船腹の8.5%が実質稼働不能",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/delays-mount-as-port-disruption-in-asia-ties-up-3m-teu-of-box-capacity/",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "Sea-Intelligenceの分析によると、台風とアジアの港湾混乱による遅延の急増で、世界のコンテナ船腹の8.5%・約300万TEUが実質的に使えない状態になっている。",
-      "定時運航率は8月に50%を下回り、7〜8月の2カ月で12.7ポイント低下。遅延した船の平均遅れは6.8日で、コロナ期の最悪局面に次ぐ水準となった。",
-      "滞留している300万TEUは世界5位の船社の船隊規模に相当し、機材の回転低下による空コンテナの返却・再配置の遅れが長引く可能性がある。"
-    ],
-    "collected_at": "2026-09-28T13:27:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Hapag-Lloyd confirms first SE1 sailings via Red Sea and Suez Canal",
-    "title_ja": "Hapag-Lloyd、SE1航路で紅海・スエズ経由の初便を確定",
-    "source": "Container News",
-    "url": "https://container-news.com/hapag-lloyd-confirms-first-se1-sailings-via-red-sea-and-suez-canal/",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "Hapag-LloydはGemini協業のSE1サービスで、紅海・スエズ運河を経由する初の西航・東航便を確定したと発表した。",
-      "両航海はコンテナ船Umm Qarnが担当し、バブ・エル・マンデブ海峡の先行通航で得た知見を踏まえ、航海ごとの安全評価と海軍の護衛下で通航する。",
-      "同社は喜望峰迂回からのサービス単位の段階的な切り替えであり、Gemini網全体の紅海回帰ではないと強調。輸送日数短縮は機材回転の改善要因となる。"
-    ],
-    "collected_at": "2026-09-28T13:27:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "China-India box rates double as import demand strains vessel space",
-    "title_ja": "中国〜インド運賃が7月比2倍超、船腹と機材が逼迫",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/china-india-box-rates-double-as-import-demand-strains-vessel-space/",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "中国発インド向けのコンテナ運賃が7月比で2倍以上に上昇し、上海〜JNPAのスポット運賃は8月末比20%高の1TEU約3,700ドル・40ft約3,850ドルとなった。",
-      "上海〜チェンナイは前月比25%高で1TEU約3,600ドル・40ft約3,900ドルと、上げ幅がさらに大きい。",
-      "船社が東西基幹航路に船腹を移す一方、インドの旺盛な輸入需要（対中輸入は年約1,320億ドル）が続き、域内航路の船腹・機材の逼迫が長引く見通し。"
-    ],
-    "collected_at": "2026-09-28T13:27:40-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "InfraRed announces SKr2.61bn acquisition of Scandinavian rail freight operator Hector Rail",
-    "title_ja": "InfraRed、北欧貨物鉄道Hector Railを約2.3億ユーロで買収",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/freight/2026/09/28/infrared-announces-skr2-61bn-acquisition-of-scandinavian-rail-freight-operator-hector-rail/",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "インフラ投資会社InfraRed Capital PartnersがAncalaから、北欧最大の民間貨物鉄道事業者Hector Railの全株式を取得することで合意した。",
-      "評価額は26.1億スウェーデン・クローナ（約2.3億ユーロ）で、第三者の同意を条件に2026年末までの完了を見込む。",
-      "Hector Railはスウェーデン・ノルウェー・デンマークで約100両（大半が電気機関車）を運用し、木材・パルプ、インターモーダル、エネルギー分野の顧客を抱え、ドイツにも乗り入れている。"
-    ],
-    "collected_at": "2026-09-28T13:27:40-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "A.P. Moller Capital Agrees to Acquire a Majority Stake in Euroports Group",
-    "title_ja": "A.P. Moller Capital、欧州港湾Europortsの過半株取得へ",
-    "source": "A.P. Moller Capital (GlobeNewswire)",
-    "url": "https://www.globenewswire.com/news-release/2026/09/28/3369556/0/en/a-p-moller-capital-agrees-to-acquire-a-majority-stake-in-euroports-group.html",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "A.P. Moller CapitalがEuroportsを間接保有するThaumas N.V.の53.35%を取得し、同社の過半数株主となることで合意した。",
-      "株式譲渡契約は9月25日に締結。取得価格は2026年の連結EBITDA連動で非開示とされ、規制当局などの承認は2027年第1四半期を見込む。",
-      "Europortsは欧州最大級のバルク・ブレークバルク港湾運営会社で、50カ所超の外航・内陸ターミナルで年間7,000万トン超を扱う。既存株主のSFPIMとPMVは残留する。"
-    ],
-    "collected_at": "2026-09-28T13:27:40-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "‘Higher rates, less reliable service’: Family farmers oppose rail merger",
-    "title_ja": "全米農業者組合、UP-NS合併の却下をSTBに要求",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/higher-rates-less-reliable-service-family-farmers-oppose-rail-merger",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "全米農業者組合（NFU）が、Union PacificとNorfolk Southernの合併申請を却下するようSTBに求める声明を出した。",
-      "NFUは全米22万人超の家族経営農家・牧場主を代表する団体で、Rob Larew会長は過去の鉄道再編により農家の選択肢が減り運賃上昇と輸送信頼性の低下を招いたと主張した。",
-      "同団体は審査で鉄道間競争の維持と農産物出荷者・消費者・食料サプライチェーンの保護を重視すべきだとしており、荷主側の反対意見がSTB審査の論点として積み上がっている。"
-    ],
-    "collected_at": "2026-09-29T13:28:19-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Oakland sees 9.6% drop in August container volumes",
-    "title_ja": "Oakland港、8月のコンテナ取扱量が9.6%減",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/09/oakland-sees-9-6-drop-in-august-container-volumes/",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "Oakland港の8月のコンテナ取扱量は173,818TEUで、前年同月比9.6%減となった。",
-      "実入りは131,666TEU（9.0%減）、空コンテナは42,152TEU（11.4%減）で、寄港隻数も前年の90隻から82隻に減った。",
-      "1〜8月累計は147万TEU（4.5%減）と西海岸のゲートウェイで荷動きが鈍く、空コンテナの回送や機材配置の負担に影響しうる。"
-    ],
-    "collected_at": "2026-09-29T13:28:19-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "ROSCo twilight? Government unveils proposals for fewer trains to be leased",
-    "title_ja": "英政府、新車両のリース前提を見直しGBR保有も選択肢に",
-    "source": "Railnews",
-    "url": "https://www.railnews.co.uk/news/2026/09/28-rosco-twilight-government-unveils-proposals.html",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "英運輸省（DfT）とDfT Operatorは9月28日に車両・インフラ戦略を公表し、新規車両ごとにリース・公的保有・その他の資金調達手段を比較する方針を示した。",
-      "既存のリース契約は維持される一方、新車両については「リースを既定の選択肢としない」とし、全生涯・全システムのコストやリスク配分、運用柔軟性を評価するとしている。",
-      "背景として車両リース支出は年間27億ポンド、リースと保守で年40億ポンド超に達し、ORRの報告ではROSCOの配当が過去10年で25億ポンドに上ると指摘されている。"
-    ],
-    "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Israeli economy minister shifts position on $4.2 billion Hapag-Lloyd–ZIM deal",
-    "title_ja": "イスラエル経済相、ZIM売却容認に転換と報道",
-    "source": "Container News",
-    "url": "https://container-news.com/israeli-economy-minister-shifts-position-on-4-2-billion-hapag-lloyd-zim-deal/",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "イスラエルのNir Barkat経済相が、Hapag-LloydとFIMIによる42億ドルのZIM買収案について反対姿勢を転換し、承認は可能との見方を示したと報じられた。",
-      "経済省は5月に同案へ反対していたが、取引条件の修正とFIMIのIshay Davidi CEOとの協議を経て、実務担当者に買い手側との再協議を指示したとされる。",
-      "修正案ではFIMI傘下にイスラエルの船社を新設し12隻を保有・4隻を用船してZIMに関する政府の特別権利に伴う義務を引き継ぐ構造で、実現すれば同社の船腹とコンテナ機材の保有体制が再編される。"
-    ],
-    "collected_at": "2026-09-30T13:26:59-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Hamilton Lane lines up third infra secondaries fund",
-    "title_ja": "Hamilton Lane、インフラ・セカンダリー3号ファンドを準備",
-    "source": "SecondaryLink",
-    "url": "https://secondarylink.com/news/6aba9a19a4101a393e4240d7/hamilton-lane-lines-up-third-infra-secondaries-fund",
-    "published_at": "2026-09-28",
-    "summary_ja": [
-      "Hamilton Laneが、インフラ資産のセカンダリー投資を手がける3号ファンドの立ち上げを準備していると報じられた。",
-      "2号ファンド（Infrastructure Opportunities Fund II）は今年、コミットメント約15億ドル（関連ビークルを含め約20億ドル）で募集を完了しており、後継ファンドは2026年後半から2027年初めの立ち上げが見込まれる。",
-      "戦略は既存スポンサーとの関係を基礎とした単一資産のコンティニュエーション・ビークルが中心で、ある機関投資家は既存2ファンドの約3億ドル分を新ファンドへ移す検討をしているとされる。"
-    ],
-    "collected_at": "2026-09-30T13:26:59-07:00"
   }
 ]
