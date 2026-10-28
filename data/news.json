@@ -45,6 +45,36 @@
     "collected_at": "2026-10-28T06:36:23-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR: Another Double-Digit Gain for Intermodal",
+    "title_ja": "米鉄道貨物、10月24日週は7.8%増でインターモーダル3週連続2桁増",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/freight/class-i/aar-another-double-digit-gain-for-intermodal/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "AARによると、10月24日までの週の米国鉄道輸送量は車扱とインターモーダルの合計で538,503ユニットとなり、前年同週比7.8%増と6週連続で増加した。",
+      "車扱は234,826両で3.6%増、インターモーダルは303,677個で11.3%増と3週連続の2桁増となり、10品目グループ中8品目が前年を上回った。",
+      "年初来42週では米国の車扱が2.7%増、インターモーダルが4.7%増、北米9社合計の週間輸送量は739,068ユニットで8.0%増だった。"
+    ],
+    "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Backlog grows as 35,000 containers await rail service at LA–Long Beach",
+    "title_ja": "LA・ロングビーチ港、鉄道待ちコンテナ3.5万個に滞留が拡大",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "10月26日時点でロサンゼルス・ロングビーチ両港のオンドック鉄道待ちの輸入コンテナは35,688個に達し、うち10,562個が9日以上ターミナルに滞留していた。",
+      "滞留はロサンゼルス港でより深刻で鉄道待ち19,626個のうち8,133個が9日以上（ロングビーチ港は16,062個中2,429個）、平均鉄道滞留日数も8月6.75日から9月7.19日に悪化した。",
+      "C.H. Robinsonは南カリフォルニアのインターモーダル貨車不足と空コンテナの回送を制約要因に挙げており、11月1日には港湾警備員約250人によるストの可能性も警告されている。"
+    ],
+    "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Container freight rates diverge as global benchmarks rise and Asian indexes weaken",
@@ -210,6 +240,21 @@
     "collected_at": "2026-10-28T06:36:23-07:00"
   },
   {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Oregon PERF commits $330m to Brookfield’s global infrastructure strategy",
+    "title_ja": "Oregon PERF、Brookfieldのインフラ戦略に3.3億ドルをコミット",
+    "source": "IPE Real Assets",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbTVJRGl3cWxEVnB5QmlocnR5SGxJRG9HQ1phMU9nSjZCa1ZnZ3U5UnhuSTdYS2VrRmJCUk5IVDhqWXo2OWpyMDRueGtqQXdhZUhWemJtZVozZlJnOWZBZ3ZEMWprUFNPeUdiM1VaNEIzNUNsdTlEU1pSS3RQZEhjSDRvSmNwQ2JIRGM3b1hNNEdUeWFacTVEMmlYSnZNOTY3TGVtRGUtaWQ5emZ5aGRmUl9RYzZ2WUI1aldF?oc=5",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "米オレゴン州公務員年金基金（Oregon PERF）が、Brookfieldのグローバルインフラ戦略に総額3億3,000万ドルをコミットしたと報じられた。",
+      "内訳はクローズドエンド型のBrookfield Infrastructure Fund VIと関連する共同投資ビークルで、州財務局ベースでは同ファンドへのコミットは3億ドルとされる（同ファンドは300億ドルの調達を目標）。",
+      "Oregon PERFは2026年にインフラ・天然資源分野で5〜7本のファンド等へ最大10億ドルを投じる方針で、6月にもBlackstone、Cube、LS Powerの3戦略に計5億2,500万ドルをコミットしている。"
+    ],
+    "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Norfolk Southern to serve new Audi plant in Georgia",
@@ -373,6 +418,51 @@
       "同ターミナルの取扱量は2023年の約159,000ユニットから2025年に約192,000ユニットへと約21%増加している。"
     ],
     "collected_at": "2026-10-27T06:38:05-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "The PFL Railcar Market Report for October 25, 2026",
+    "title_ja": "タンク車オンライン数25.5万両に微減、DOT-117置換ペースに遅れ",
+    "source": "PFL Petroleum",
+    "url": "https://pflpetroleum.com/reports/pfl-railcar-report-10-26-2026/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "週次のPFL Railcar Market Reportによると、Class I 6社の線路上にあるタンク車は10月21日までの4週間平均で約255,400両と、前期比0.2%減となった。",
+      "BTS集計では2026年のタンク車製造計画は約2,800両にとどまり、残る非DOT-117の可燃性液体用タンク車を置き換えるのに必要とされる年約4,247両を大きく下回る。",
+      "同レポートは、北米向けタンク車を多く製造する国に課される関税にも言及しており、置換の遅れと併せて今後の供給制約要因になりうると見られる。"
+    ],
+    "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CSX sees rail conversion opportunities from battered trucking market",
+    "title_ja": "CSX、トラック市況の悪化を追い風にモーダルシフト獲得を強化",
+    "source": "Supply Chain Dive",
+    "url": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "CSXは第3四半期決算説明に関連し、荷主のトラック輸送データを守秘のうえ分析してインターモーダルに転換可能なレーンを特定する取り組みを強化していると説明した。",
+      "同社の営業責任者は、高止まりする軽油価格、トラック供給力の減少、高いトラック運賃がインターモーダル部門の追い風になっていると指摘した。",
+      "第3四半期は化学品輸送量がトラックからの転換により前年同期比7%増え、廃棄物や石油製品も有望分野に挙げられた一方、トラック積載率の高い林産品は転換が難しいとされた。"
+    ],
+    "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "London Gateway resumes empty container acceptance",
+    "title_ja": "London Gateway、空コンテナの受け入れを再開",
+    "source": "Container News",
+    "url": "https://container-news.com/london-gateway-resumes-empty-container-acceptance/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "Maerskは、英London Gatewayターミナルが10月26日12時に空コンテナの受け入れ制限を解除し、返却受け入れを再開したと通知した。",
+      "制限は10月23日付の顧客アドバイザリーで示されていたもので、再開後もハウラーは返却前にVBS（車両予約システム）の枠を確保する必要がある。",
+      "同港では悪天候による鉄道貨物の停止など混乱が続いており、Maerskは返却指示をMATS Onlineで随時確認するよう求めている。"
+    ],
+    "collected_at": "2026-10-28T13:25:39-07:00"
   },
   {
     "category": "rail_industry",
