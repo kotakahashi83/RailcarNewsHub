@@ -92,6 +92,51 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "BofA tracks shipping data showing Red Sea transit recovery",
+    "title_ja": "紅海通航が平常の65%に回復、港湾混雑は10%へ縮小",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/bofa-tracks-shipping-data-showing-red-sea-transit-recovery/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "BofAの最新の海運・サプライチェーン追跡リポートで、紅海経由のコンテナ輸送が直近2週間で平常時の65%まで回復した。",
+      "9月時点の50%から上昇し、船社の航路復帰がさらに計画されている一方、世界の港湾混雑は船腹比11〜12%のピークから10%へ低下した。",
+      "長距離航路の運賃はピークを打った模様だが、台風Champiの混乱と紅海復帰に伴う寄港集中で混雑が再拡大する可能性が指摘されている。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Boluda to acquire Samskip: 'a combination to lead European shortsea shipping'",
+    "title_ja": "Boluda、Samskip買収で欧州近海輸送網を統合",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "スペインのBoluda ShippingがSamskipの買収契約を締結し、規制当局の承認を前提に2027年1月1日の完了を見込む。",
+      "統合後は32隻で75万TEU超の輸送能力を持ち、28カ国18航路、海上ターミナル21カ所と鉄道ターミナル5カ所、500台超のトラックを擁する。",
+      "北欧からイベリア半島・カナリア諸島・西アフリカに及ぶ近海網となり、欧州近海コンテナ輸送の集約が一段と進む。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container line reliability improves to just over 50%",
+    "title_ja": "コンテナ船の定時到着率、50%強に改善",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/container-line-reliability-improves-to-just-over-50-",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Seatrade Maritimeによると、コンテナ船の定時到着率は50%をわずかに上回る水準まで改善した。",
+      "直前の8月はSea-Intelligence集計で49.9%と2022年9月以来の低水準で、遅延船の平均遅延は6.81日に達していた。",
+      "定時性の持ち直しは機材回転や空コンテナ回収の効率に追い風となるが、アジア主要港の混雑が引き続き変動要因となる。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
     "title_ja": "欧州主要港、トランシップ減とゲートウェイ貨物増が並走",
     "source": "Container News",
@@ -223,6 +268,21 @@
       "FS Logistixは2024年6月に70両（オプション30両）の機関車を発注済みで、5年間で135両の新車投入を掲げており、欧州の貨物用機関車需要の底堅さを示す動きとなる。"
     ],
     "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CPKC head calls out alleged threats to shippers who oppose major U.S. rail merger",
+    "title_ja": "CPKC CEO、合併反対の荷主への威圧を公に批判",
+    "source": "Supply Professional",
+    "url": "https://www.supplypro.ca/cpkc-head-calls-out-alleged-threats-to-shippers-who-oppose-major-u-s-rail-merger/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "CPKCのKeith Creel CEOは10月28日、UP-NS合併に反対する荷主が圧力を受けていると公に主張した。",
+      "顧客から「味方でなければ敵だ」「負ける側につくな」といった警告を受けたと伝えられていると述べた。",
+      "STBの審査が続くなか、UPのCEO発言動画の開示命令と相まって、荷主への報復リスクが審査の争点に浮上している。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
   },
   {
     "category": "container_leasing",
@@ -418,6 +478,21 @@
       "自社保有リースフリートは2026年度に23%増の20,900両まで拡大し、稼働率は98%を維持した一方、タンク車の関税不透明感が長期投資の意思決定を遅らせていると説明された。"
     ],
     "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Hazardous Materials: Harmonization With International Standards",
+    "title_ja": "PHMSA、危険物規則の国際基準調和へ規則案",
+    "source": "Federal Register (PHMSA)",
+    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "PHMSAは危険物規則(HMR)を最新の国際基準に合わせて改正する規則案を10月27日付の官報に掲載した。",
+      "対象は正式輸送品名・危険性区分・容器等級・特別規定・容器承認に加え、航空輸送の数量制限や船舶積載要件。",
+      "国際整合の維持と国内事業者のコスト低減が狙いで、現段階は提案（NPRM）であり最終規則ではない。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
   },
   {
     "category": "rail_industry",
@@ -628,6 +703,36 @@
       "同港では悪天候による鉄道貨物の停止など混乱が続いており、Maerskは返却指示をMATS Onlineで随時確認するよう求めている。"
     ],
     "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific ordered to release video of threat to raise rates on shippers that don't support merger",
+    "title_ja": "UP、荷主への値上げ示唆動画の開示を命じられる",
+    "source": "Axios",
+    "url": "https://www.axios.com/pro/supply-chain-deals/2026/10/26/union-pacific-video-threat-rates-shippers-merger",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "STBの行政法判事は10月23日、UPのJim Vena CEOが映った動画をUPに開示させる命令を出した。",
+      "動画は3月のヒューストンでの荷主向け講演で、NS合併に公に賛同しない荷主への値上げを示唆したとされるもの。",
+      "判事は報復を容認しないと明記。UPは発言が文脈から切り取られたとし、荷主500社超を含む2,000超の支持者がいると主張している。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Ukrainian Railways starts selling freight cars unfit for operation",
+    "title_ja": "UZ、運用不能の貨車490両を競売 入札は11月3日",
+    "source": "GMK Center",
+    "url": "https://gmk.center/en/news/ukrainian-railways-starts-selling-freight-cars-unfit-for-operation/",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "ウクライナ鉄道(UZ)は運用に適さない貨車490両を4ロット（各約120〜130両）に分けて売却する競売を開始した。",
+      "4ロットの開始価格は合計約6,180万フリブニャ（付加価値税別）で、入札はProzorro.Saleで11月3日に予定されている。",
+      "対象はゴンドラ車と鉱物・セメント用ホッパー車で、解体・保管コストの回避を狙う総額102億フリブニャのコスト削減策の一環。"
+    ],
+    "collected_at": "2026-10-29T13:24:01-07:00"
   },
   {
     "category": "rail_industry",
