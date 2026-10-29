@@ -1,5 +1,95 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "GATX Corporation Reports 2026 Third-Quarter Results",
+    "title_ja": "GATX、3Q増益でEPS2.92ドル 通期は上限超えへ",
+    "source": "SEC EDGAR (GATX Corporation)",
+    "url": "https://www.sec.gov/Archives/edgar/data/40211/000004021126000091/a3q26earningsreleaseex991.htm",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "GATXは10月29日、2026年第3四半期の純利益を1億520万ドル（希薄化後EPS2.92ドル）と発表し、前年同期の8,220万ドル（同2.25ドル）から増益となった。",
+      "Rail North Americaのフリート稼働率は四半期末に98.4%へ上昇し、四半期の投資額は1億7,170万ドル、年初来では48億ドルを超えた。",
+      "9カ月累計EPSは8.11ドル（前年同期6.46ドル）で、通期利益は従来ガイダンスのレンジ上限を小幅に上回る見通しを示した。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "Trinity Industries, Inc. Announces Third Quarter 2026 Results",
+    "title_ja": "Trinity、3Qは増収も減益 貨車納入2,030両",
+    "source": "Business Wire (Yahoo Finance)",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0hnUTZ3dUZwbmlWVVpULWNISVl5a2c4WF9SQ0d6SFFNSUF6TzJKWG16RU9SbzY4cWlPZkZKYlROQlVsOWVyaUg5alZzdkNfWXVtV2pHQVZ3ODlmTHlUMy1kWVVRZ2pHUWZraGxIUFktOGZ0ZFdOYS03cHJ0M0JTMmN5bjM5T05paHZFV3dfUk5IWDZWRjNyaXhwV2t4NE5oRnBZbHVn?oc=5",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Trinity Industriesは10月29日に2026年第3四半期決算を発表し、継続事業の希薄化後EPSは0.27ドル、売上は約5億3,500万ドルで前年同期比18%程度の増収となった。",
+      "四半期の貨車納入は2,030両、新規受注は2,190両で、受注残は16億ドル、リースフリート稼働率は四半期末に97.0%だった。",
+      "通期EPSガイダンスは2.20〜2.40ドルを据え置き、業界全体の2026年納入は25,000両を下回る見込みとし、リースポートフォリオ売却益の減少などが営業利益を押し下げたと報じられている。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "India greenlights $1bn drive to break China's container manufacturing dominance",
+    "title_ja": "インド、コンテナ製造に10.5億ドルの支援策を承認",
+    "source": "Splash247",
+    "url": "https://splash247.com/india-greenlights-1bn-drive-to-break-chinas-container-manufacturing-dominance/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "インド内閣は1,000億ルピー（約10億5,000万ドル）のContainer Manufacturing Promotion Schemeを承認し、2月の予算案で示された構想を13年間の産業振興プログラムとして始動させた。",
+      "年間コンテナ製造能力を現在の約7万TEUから75万TEUへ10倍に引き上げ、生産補助金・低利融資・製造インフラ投資を組み合わせる。",
+      "中国メーカーは世界のドライコンテナ生産の95%超とリーファーのほぼ全量を占めており、新造コンテナの調達先分散が進むかが機材価格・供給の論点となる。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Freightos Weekly Update: Union approves LA/Long Beach port strike; container rates still under pressure",
+    "title_ja": "LA/LB港でスト承認、コンテナ運賃は軟調続く",
+    "source": "Container News",
+    "url": "https://container-news.com/freightos-weekly-update-union-approves-la-long-beach-port-strike-container-rates-still-under-pressure/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "ロサンゼルス／ロングビーチ港の保安職を代表するILWU Local 26が労使交渉の行き詰まりを受けてストライキを承認し、契約延長の期限切れ後は11月1日以降にAPM TerminalsやLong Beach Container Terminalなど8ターミナルの稼働に影響が及ぶ恐れがある。",
+      "ピークシーズン明けで需要が緩み、コンテナ運賃には引き続き下押し圧力がかかる一方、港湾混雑が部分的に下支え要因になっていると報じられている。",
+      "紅海経由の復帰は進み、Alphalinerの推計ではアジア〜欧州の船腹の約3分の2が同ルートに戻り、ZIMもMSCとの共同アジア〜米東岸サービスで紅海航行を再開した。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "SC Ports secures nearly 160,000 containers of new business",
+    "title_ja": "South Carolina Ports、約16万本の新規貨物を獲得",
+    "source": "Container News",
+    "url": "https://container-news.com/sc-ports-secures-nearly-160000-containers-of-new-business/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "South Carolina Ports（SC Ports）は10月27日のState of the Port演説で、約16万本のコンテナ相当の新規貨物を獲得したと明らかにした。",
+      "獲得した貨物は小売・消費財・製造業・輸出商品が中心で、2027年にかけて段階的に取扱量へ反映される見込みという。",
+      "経費を20%削減して競合港に対する料金競争力を回復させたことが受注の要因とされ、今後は小売・製造・リーファー貨物に注力する方針を示した。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Five Point Infrastructure increases fund target to $4bn after five-month haul",
+    "title_ja": "Five Point、5号インフラファンド目標を40億ドルに増額",
+    "source": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/five-point-infrastructure-increases-fund-target-to-4bn-after-five-month-haul-exclusive/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "エネルギーインフラ特化のFive Point Infrastructureが、5号フラッグシップファンドの募集目標を40億ドルへ引き上げたとInfrastructure Investorが報じた。",
+      "当初目標の25億ドルは募集開始から5カ月で達成済みで、目標引き上げは投資家需要の強さを反映したものとされる。",
+      "同社はこれまで4本のファンドとイールドファンドで累計約40億ドルを調達しており、実物資産向けの資金流入が続いていることを示す事例となる。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
@@ -73,6 +163,66 @@
       "C.H. Robinsonは南カリフォルニアのインターモーダル貨車不足と空コンテナの回送を制約要因に挙げており、11月1日には港湾警備員約250人によるストの可能性も警告されている。"
     ],
     "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
+    "title_ja": "CPKC、3Qは穀物と複合輸送で過去最高の収入",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "CPKCは10月28日、第3四半期の収入が15%増の30億ドル（C$42億2,000万）と過去最高になり、営業利益は11%増の10億6,000万ドルになったと発表した。",
+      "輸送量は車扱いベースで5%増、収入トンマイルで6%増え、穀物が20%増、複合輸送が9%増と国内・国際の複合輸送と穀物で記録を更新した。",
+      "希薄化後EPSは3%増の0.74ドル（コア調整後は0.91ドル）だが、燃料費を中心に費用が18%増えたため営業比率は1.3ポイント悪化の64.8%となった。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CSX operations affected by technology systems outage (updated)",
+    "title_ja": "CSX、システム障害で輸送量6割減 他社との継送も停止",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/csx-operations-affected-by-technology-systems-outage/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "CSXは10月27日朝に始まったITシステム障害の復旧作業を進めており、障害中は他のClass I鉄道との車両継送（インターチェンジ）ができない状態になった。",
+      "トラックサイドのセンサー網で輸送量を監視するRailStateによると、27日午後7時から28日午後4時40分までの21時間でCSXの輸送量は直近30日平均を60%下回った。",
+      "CSXはサイバー攻撃ではなくデータ侵害も確認されていないとし、システムは順次復旧しているが全機能はまだ戻っていないと説明している。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BNSF reopens Southern Transcon across New Mexico",
+    "title_ja": "BNSF、NM州の洪水被害から南部幹線を全面復旧",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/bnsf-reopens-southern-transcon-across-new-mexico/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "BNSFは10月27日、ニューメキシコ州のGallup Subdivisionの複線をともに復旧させ、南部Transcon（Southern Transcon）の全面運行再開にこぎ着けた。",
+      "週末にRio San Jose川がラグナ付近で氾濫して線路が洗掘・流出し、まず1線を27日朝に復旧させた後、同日午後に2線目も使用可能になった。",
+      "同幹線は国際・国内の複合輸送列車が行き交う主要ルートで、最高執行責任者Craig Morehouseが復旧状況を公表している。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "FS Logistix orders six more Czech locomotives amid EUR1bn fleet renewal",
+    "title_ja": "FS Logistix、CZ LOKOの入換機6両を追加発注",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/business/2026/10/28/fs-logistix-orders-six-more-czech-locomotives-amid-e1bn-fleet-renewal/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "イタリアFS傘下の貨物物流会社FS Logistixが、チェコのCZ LOKOにEffiShunter 1000形入換機関車6両を追加発注した。",
+      "同形式の発注は合計18両となり、10億ユーロ規模のフリート投資プログラムの一環として車両の更新・近代化を進める。",
+      "FS Logistixは2024年6月に70両（オプション30両）の機関車を発注済みで、5年間で135両の新車投入を掲げており、欧州の貨物用機関車需要の底堅さを示す動きとなる。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
   },
   {
     "category": "container_leasing",
@@ -253,6 +403,21 @@
       "Oregon PERFは2026年にインフラ・天然資源分野で5〜7本のファンド等へ最大10億ドルを投じる方針で、6月にもBlackstone、Cube、LS Powerの3戦略に計5億2,500万ドルをコミットしている。"
     ],
     "collected_at": "2026-10-28T13:25:39-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "Greenbrier Reports $79MM in Fiscal 2026 Net Earnings as Railcar Backlog Grows",
+    "title_ja": "Greenbrier、FY26純利益79百万ドル 受注残14,000両に増加",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/mechanical/freight-cars/greenbrier-reports-79mm-in-fiscal-2026-net-earnings-as-railcar-backlog-grows/",
+    "published_at": "2026-10-27",
+    "summary_ja": [
+      "Greenbrierは8月31日に終了した2026年度の純利益を7,900万ドル（希薄化後EPS2.49ドル）と発表し、第4四半期は900万ドル（同0.27ドル）、売上は5億9,100万ドルで前年同期の7億5,950万ドルから22%減少した。",
+      "第4四半期の新規受注は3,400両・6億ドル相当、納入は3,600両で、期末受注残は14,000両・推定21億ドルと2024年度以来初めて前四半期比で増加した。",
+      "自社保有リースフリートは2026年度に23%増の20,900両まで拡大し、稼働率は98%を維持した一方、タンク車の関税不透明感が長期投資の意思決定を遅らせていると説明された。"
+    ],
+    "collected_at": "2026-10-29T06:58:22-07:00"
   },
   {
     "category": "rail_industry",
@@ -4738,200 +4903,5 @@
       "部品の標準化と簡素な修繕手順で保守負担を抑え、将来の DAC（デジタル自動連結器）への改造にも対応できる設計とされる。"
     ],
     "collected_at": "2026-10-03T13:26:23-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container spot rates to US East and West coasts slide",
-    "title_ja": "米東西岸向けコンテナスポット運賃が下落、国慶節前に一服",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/container-spot-rates-to-us-east-and-west-coasts-slide",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "Linerlyticaによると、中国の国慶節連休に伴う工場停止を前に、米東岸・西岸向けのスポット運賃がそろって軟化した。",
-      "欧州向けは需要減速で弱含む一方、米国向けは秋の連休明けに関税休戦が需要を押し上げるとの見方もあり、両航路で方向感が分かれている。",
-      "アジア港湾の混雑悪化とスエズ運河経由への復帰加速が重なり、コンテナ機材の回転と配船計画の見通しは複雑さを増している。"
-    ],
-    "collected_at": "2026-09-29T06:28:18-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "earnings",
-    "title": "Hapag-Lloyd ups 2026 profit forecast and submits revised Zim bid",
-    "title_ja": "Hapag-Lloyd、通期EBITDA見通しを上方修正しZim買収案を再提出",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/hapag-lloyd-ups-2026-profit-forecast-and-submits-revised-zim-bid/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "Hapag-Lloydは投資家向け通知で、2026年通期のEBITDA見通しを27〜37億ドルから39〜44億ドルへ引き上げた。",
-      "グループEBITの見通しも1〜11億ドルから12.5〜17.5億ドルへ修正し、旺盛な需要とスポット運賃の上昇が理由と説明した。",
-      "厚みを増した資金余力は総額42億ドル規模のZim国際事業買収を後押しする一方、同社は運賃の変動と地政学リスクで見通しの不確実性は高いと警告した。"
-    ],
-    "collected_at": "2026-09-29T06:28:18-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "China-US trade truce too late to boost weakening transpac rates",
-    "title_ja": "米中関税休戦、太平洋航路の運賃下支えには間に合わず",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/china-us-trade-truce-too-late-to-boost-weakening-transpac-rates/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "米中は300億ドル相当の物品を対象に関税を相互に引き下げる「30対30」の合意に達し、対象1,696品目のうち9割超が最恵国税率まで下がる。",
-      "中国側の1,619品目は農産物・水産品・木材などが中心で、米国側は77分類ながら玩具・小型家電・食卓用品といったコンテナ貨物を含み、中国は2027〜28年に米国炭を年1,000万トン以上輸入すると約束した。",
-      "発効には双方の国内手続きが必要で、太平洋航路のスポット運賃はすでに下落局面に入っているため、足元のコンテナ機材需給を押し上げる効果は限られるとみられる。"
-    ],
-    "collected_at": "2026-09-29T06:28:18-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "CWE launches end-to-end Wagon Overhaul Facility",
-    "title_ja": "CWE、英Gascoigne Woodに貨車オーバーホール新拠点を開設",
-    "source": "Rail UK",
-    "url": "https://railuk.com/company-news/cwe-launches-end-to-end-wagon-overhaul-facility/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "英国の鉄道部品・サービス企業CWEが、North YorkshireのGascoigne Woodに一体型の貨車オーバーホール施設を開設した。",
-      "貨車のオーバーホール、リファービッシュ、技術改造、部品製造を1社で担う体制とし、貨物事業者と貨車リース会社を主な顧客に据える。",
-      "幹線に双方向で接続する全天候型設備で、通年稼働と貨車の動線短縮により入出場の回転を速め、資産の運用復帰を早められるとしている。"
-    ],
-    "collected_at": "2026-09-29T06:28:18-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Double trouble: two closures to shut down EU-Türkiye rail freight for months",
-    "title_ja": "バルカン2路線の長期閉鎖でEU–トルコ間鉄道貨物が停止へ",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/29/double-trouble-two-closures-to-shut-down-eu-turkiye-rail-freight-for-months/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "セルビアのNiš–Dimitrovgrad線とルーマニア・ブルガリア国境のGiurgiu–Ruse区間が、近代化工事のため相次いで長期閉鎖される。",
-      "前者は来月から約200日間、後者は来年4月から12月までの閉鎖が見込まれ、中欧・バルカン・トルコ間の貨物流動が制限される。",
-      "ブルガリア運輸省は両ルートの同時規制が貨物流動に深刻な影響を与えると懸念を示す一方、工事完了後はより長く速い列車の通過が可能になる。"
-    ],
-    "collected_at": "2026-09-29T13:28:19-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Transalpine rail freight in Switzerland grows, but infrastructure remains a challenge",
-    "title_ja": "スイス越アルプス鉄道貨物、上期3.1%増も設備制約が足かせ",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/29/transalpine-rail-freight-in-switzerland-grows-but-infrastructure-remains-a-challenge/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "2026年上期にスイス・アルプスを鉄道で越えた貨物は1,230万トンとなり、前年同期比3.1%増加した。",
-      "ゴッタルド軸が8.4%（約78万トン）増えた一方でレッチベルク＝シンプロン軸は15.3%（約41万トン）減り、単一貨車輸送は9.9%増、非同伴複合輸送は7.1%増だった。",
-      "シンプロントンネル改修などの工事による線路容量の低下と長距離輸送の信頼性不足が伸びを抑えた要因と指摘されている。"
-    ],
-    "collected_at": "2026-09-29T13:28:19-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Great White Fleet supports additional vessel with 2,000 new reefer containers",
-    "title_ja": "Great White Fleet、リーファー2,000本と14隻目を投入",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/shipping-logistics/2026/09/great-white-fleet-supports-additional-vessel-with-2000-new-reefer-containers/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "Great White Fleet（GWF）は低温物流事業の拡大に伴い、新造リーファーコンテナ2,000本を追加投入すると発表した。",
-      "新造機材はCarrier Transicold製OptimaLINEユニットを搭載し、CA（雰囲気制御）技術でアボカド・ベリー・柑橘などの長距離輸送に対応する。",
-      "14隻目となる「Chiquita Enterprise」が2026年後半に就航予定で、Guayaquil発の新規冷蔵ルートを含む米州・欧州の航路拡充と合わせた機材増強となる。"
-    ],
-    "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Israel Finance Ministry opposes Zim sale to Hapag-Lloyd",
-    "title_ja": "イスラエル財務省、ZIM売却に反対の立場",
-    "source": "Axios",
-    "url": "https://www.axios.com/2026/09/29/israel-finance-ministry-zim-hapag-lloyd",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "イスラエル財務省は、Hapag-Lloydによる42億ドルのZIM買収を承認すべきでないとの立場を示した。",
-      "首相府も反対姿勢とされ、政府はZIMに対する「ゴールデンシェア」を通じて取引の可否に関与できる立場にある。",
-      "Hapag-Lloydは、財務省の見解が9月24日に提示した改善案（極東への直航路、ゴールデンシェアの強化、イスラエル人船員への投資など）を反映していないとして再検討を求めている。"
-    ],
-    "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "CFL Cargo gets first out of 6 Akiem Traxx MS3s",
-    "title_ja": "Akiem、CFL Cargoへ Traxx MS3 の1両目を引き渡し",
-    "source": "RAILMARKET.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWt1YXpFUjNaekVhdUZoWThvNDlyOUFlR1ViUVJuQWJlOHUxeWp5a2tCTEJ5c1NfV3NQSU9TVXVXblBRX2ZxckNjeDZIX1JCeDBEUnYyY1J",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "欧州の機関車リース会社Akiemは、CFL Cargo向けAlstom製Traxx MS3計6両のうち1両目を引き渡したと、InnoTrans 2026に合わせて明らかにした。",
-      "残る車両は順次CFL Cargoのフリートに編入され、ルクセンブルク・ポーランド・フランス・ベルギー・ドイツ・スイスでの越境運用に充当される見込み。",
-      "CFL Cargoは既に同プラットフォームの運用実績があり、今回の調達は国際輸送要件に合わせた車両の標準化・近代化の一環とされる。"
-    ],
-    "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Status of the Railroad - A Message from Kenny Rocker, EVP, Marketing & Sales",
-    "title_ja": "UP、8月の輸送量が2018年末以来の高水準",
-    "source": "Union Pacific",
-    "url": "https://www.up.com/announcements/customer-news/2026/CN2026-26",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "Union Pacificのマーケティング・販売担当EVPであるKenny Rockerが9月29日、顧客向けに鉄道の運行状況を報告した。",
-      "年初来8月までの指標は貨車速度が1日231マイル（前年比6%改善）、ターミナル滞留19.8時間（同8%改善）、列車速度は時速20.6マイル（同6%改善）。",
-      "8月は断続的な輸送障害があったものの7日間カーロードは2018年12月以来の最高水準に達し、Norfolk Southernとの統合後ネットワークについて顧客の意見収集を進めているとした。"
-    ],
-    "collected_at": "2026-09-30T13:26:59-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Peters seeks to boost 'outdated pay' for nation's railroad inspectors",
-    "title_ja": "FRA検査官の給与引き上げ法案、米上院に提出",
-    "source": "Detroit Free Press",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHp6N0ZOS1FnaC15cVVJN0V1VTlQR3FPNDNhdWxWckdGdVBMOU1nM2N6VVZhNU8yNzF0YVBrS21ZLXRueUlhQUF3bHk2cThDYmhubTJQLVozT1k1MlpMR0xlYUZabWtzTEFHTnhIR25nSVFGOEl3UUtJaVpiVU44eEI4NkRRMndsb3lyTWVacGJhUGJaSVp0Y1dUaXRZRG5ORWNfZU80NjRVaGM4QURPTVhZV1VCUjln?oc=5",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "Gary Peters（民主・ミシガン）とJim Justice（共和・ウェストバージニア）両上院議員が9月22日、FRAの鉄道安全検査官・専門官の給与水準を引き上げる超党派法案を提出し、上院国土安全保障・政府問題委員会に付託された。",
-      "現行のステップ1の年俸は検査官が76,463ドル、専門官が90,926ドルで、法案により多くの地域で各18.91%、18.17%程度の引き上げになると説明されている。",
-      "検査官向けの給与水準の見直しは1979年以来行われておらず、訓練後に高給の職へ流出する構図が約16万マイルの路線を監督する体制の弱点になっていると指摘されている。"
-    ],
-    "collected_at": "2026-09-30T13:26:59-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Parallel Systems and Agility to bring autonomous wagons to the Gulf and EMEA",
-    "title_ja": "Parallel Systems、AgilityとGCCで自律貨車の展開へ",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/technology/2026/09/29/parallel-systems-and-agility-to-bring-autonomous-wagons-to-the-gulf-and-emea/",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "米国の自律型貨車開発企業Parallel Systemsが、アブダビに本拠を置く投資会社Agilityと、GCCおよびEMEA地域などで自律鉄道貨物システムを開発・商用化・ファイナンス・配備する戦略提携契約を締結した。",
-      "Parallelの車両はバッテリー駆動で単独または小編成での走行と自動的な編成組成が可能で、コンテナ輸送時の航続距離は1充電あたり最大500マイルとされる。",
-      "両社はまず投入路線と採算性の検討に着手し、地域仕様への適合や試験、規制当局の承認取得を進める方針で、北米発の貨車自動化技術の海外展開例となる。"
-    ],
-    "collected_at": "2026-09-30T13:26:59-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CN Focuses on Terminal Efficiency, Expands Transload Operations in Wisconsin",
-    "title_ja": "CN、ウィスコンシン州でトランスロード事業を拡大",
-    "source": "Railway Age",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTlDcTV4VlN1ZEYybll3cmJreGMxS0ZXYnU3ZmJ0QzQ5Z2xrVnZ3NnlrMFNEN2R5UkhDbUlJbWswZVltQmVSVHJrVDJLSEFIeDdqV0pVdG1EbGt3eWVxRTRrWDhJdEI5dFFZWkZGQ1ZReExTcnZncHZCSE5WRGFfZW9vRUtIMU9tdVJsMXEtZi1hMnNCUnlRczJoU3MtZzNBR0FXUFRSeVg4RHFmbm9SVHFXd3liSmRvTGdv?oc=5",
-    "published_at": "2026-09-29",
-    "summary_ja": [
-      "CNはターミナルの効率改善を進めつつ、建設資材・工業材料の需要増に対応してトランスロード（積み替え）能力を拡大すると明らかにした。",
-      "同社のウィスコンシン州への投資は約1億1,000万ドルで、従業員は約1,197人、路線距離は988マイルに及ぶ。",
-      "専用線や自社貨車を持たない荷主の鉄道利用を広げる動きで、同州の産業向け輸送需要の取り込みを狙う。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
   }
 ]
