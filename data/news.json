@@ -45,6 +45,36 @@
     "collected_at": "2026-10-30T06:28:01-07:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CN targets terminal optimization with Fast Tracking initiative",
+    "title_ja": "CN、ターミナル最適化策「Fast Tracking」を主要拠点に拡大",
+    "source": "Progressive Railroading",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSjhiQjhpSG5CZVNVYnR1N1prOHN5RDgyTlVqc2RmalY2NS1OQ21tXzl0WGxVQ1R1eTdFSk1TVmFtYlNWU3JBTDZheFNFalRpM1Z2bXZxTzZkZGxHWWpzeGpoek9Uc3l6dGdQbnZxcmhEMWR5TW1XVzQ1MlRoTUNLRnRudVlEWjBJOGNnZmpwNWpJQTg1dTd4WC0wbTZaZ21ucmtubGRNUFdTSmRZdzJpUVRXem5DamFndW5PWGkzZU9ET1hWZ05UNDJQSEphU3c2ZlBMM19TWkpOcTdVME1qYXB6UDdWNDRrWFZYSnFQV2hxZGdsRnBlcE14amVNQl9oaVVXZXlMdUFtM09jbkRRelNuaGxraTVTdzlRVXlWb0JYdw?oc=5",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "CN は部門横断でターミナル業務の計画と実行を見直す改善策「Fast Tracking」を、主要ターミナルへ順次拡大していると説明した。",
+      "2025年に Memphis と Montreal で始めたレビューを2026年にかけて他の主要ターミナルに広げ、労務・機関車・燃料の生産性指標が改善したとしている。",
+      "Tracy Robinson CEO はターミナルが同社の運行労務の約5割を占めると述べており、滞留短縮が進めば貨車の回転率改善にもつながりうる。"
+    ],
+    "collected_at": "2026-10-30T13:22:59-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Track defect led to 2025 CN derailment in Mississippi: NTSB",
+    "title_ja": "NTSB、CN脱線はカーブの軌道欠陥が原因と認定",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/track-defect-led-to-2025-cn-derailment-in-mississippi-ntsb/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "NTSB は10月29日公表の調査報告で、2025年7月5日にミシシッピ州 Glendora で起きた CN の脱線は、カーブ部の軌道欠陥を CN が適切に処置しなかったことが原因と結論付けた。",
+      "時速29マイルで走行していた139両編成のうち22両が脱線し、ベンゼンを積んだタンク車が破損して火災となり、半径1マイルの住民約160人が避難した（負傷者なし、CN の損害見積りは約150万ドル）。",
+      "タンク車の破損を伴う事故の原因が線路側の保守に帰せられたことで、危険品輸送用タンク車のリスク評価では線路保守の質が改めて論点となる。"
+    ],
+    "collected_at": "2026-10-30T13:22:59-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "GATX Corporation Reports 2026 Third-Quarter Results",
@@ -253,6 +283,36 @@
       "BMOは移行期間中に債権のサービシングと新規組成を継続し、同取引により2026年度第4四半期にCET1比率が約23bp改善する見込みとしている。"
     ],
     "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Schneider CEO calls UP-NS merger 'icing on the cake' for new Norfolk Southern intermodal deal",
+    "title_ja": "Schneider CEO、UP-NS合併は NS との新契約への「上乗せ」",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/intermodal/schneider-ceo-calls-up-ns-merger-icing-on-the-cake-for-new-norfolk-southern-intermodal-deal/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Schneider National の Jim Filter CEO は第3四半期決算説明会で、新たに発表した Norfolk Southern の東部ネットワーク契約は単独で成り立つ取引であり、UP-NS 合併は「ケーキの上のアイシング（上乗せ）」に過ぎないと述べた。",
+      "大陸横断鉄道が実現すれば、輸送距離が短く連絡輸送が課題だった米国中部の市場を含め、インターモーダルで「国土の広い部分が開かれる」との見方を示した。",
+      "同四半期はインターモーダル事業の採算改善も示され、トラック大手の東部鉄道の乗り換えがコンテナ・シャーシ機材の流動に影響する可能性がある。"
+    ],
+    "collected_at": "2026-10-30T13:22:59-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "The cold chain just got weaponised - logistics is exposed",
+    "title_ja": "冷凍設備へのサイバー攻撃、リーファー機材にもリスク",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/the-cold-chain-just-got-weaponised-logistics-is-exposed/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "フランスのスーパー Intermarché で冷蔵設備が遠隔操作され、Gradignan 店では冷蔵室の温度が50℃まで上昇してスプリンクラーが作動、ノルマンディーの店舗では約80℃に達して設備が損傷したと報じられた。",
+      "同じ遠隔制御の脆弱性は冷蔵倉庫や医薬品倉庫、通信接続されたリーファー機材にも及びうるとされ、1つのベンダー経由で38件が標的になった可能性にも触れている。",
+      "実害の立証ではなく警告との位置付けだが、遠隔監視機能付きリーファーを保有・リースする事業者には制御系セキュリティという新たな管理項目を示す内容となっている。"
+    ],
+    "collected_at": "2026-10-30T13:22:59-07:00"
   },
   {
     "category": "container_leasing",
@@ -3238,6 +3298,21 @@
       "投資対象は北米などOECD諸国のロウアーミドル〜ミドルマーケットのエネルギー・天然資源・インフラ関連事業で、2022年9月に約2億6,500万ドルでクローズした前号比で約4割の増加となる。"
     ],
     "collected_at": "2026-10-19T06:26:36-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "500 new freight wagons for scrap metal transport",
+    "title_ja": "ÖBB RCG、金属スクラップ用貨車500両を MFD Rail からリース",
+    "source": "ÖBB Rail Cargo Group",
+    "url": "https://www.railcargo.com/en/news/2026/500-new-freight-wagons-for-scrap-metal-transport",
+    "published_at": "2026-10-12",
+    "summary_ja": [
+      "ÖBB Rail Cargo Group は、軽量金属スクラップやせん断スクラップの輸送向けに新型 Eanos-y 貨車500両を MFD Rail からリースすると発表した。",
+      "同貨車は RCG と MFD Rail が共同開発した4軸車で、積載容積は約95立方メートル・従来比約15%増とし、車体を補強して損傷を抑える設計とした（契約額は非公表）。",
+      "納入は2026年初めに始まり7月末時点で約110両が稼働、2027年半ばの全車投入を目標としており、老朽化して保守負担の大きい貨車の置き換えを狙う。"
+    ],
+    "collected_at": "2026-10-30T13:22:59-07:00"
   },
   {
     "category": "rail_industry",
