@@ -1,6 +1,51 @@
 [
   {
     "category": "railcar_leasing",
+    "kind": "news",
+    "title": "GATX earnings rise on strong demand for existing railcars",
+    "title_ja": "GATX、中古貨車の需要は「極めて堅調」 3Q収入36%増",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/mechanical/freight-cars/gatx-earnings-rise-on-strong-demand-for-existing-railcars/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "GATXのRobert C. Lyons CEOは3Q決算で、既存貨車の流通（セカンダリー）市場の需要が「極めて堅調」で保有フリートの価値の高さを裏付けると述べた。",
+      "3Qの収入は旧Wells Fargo貨車フリート分を含め36%増の5億9,800万ドル、純利益は28%増の1億520万ドルで、通期EPSは7月に示した9.90〜10.30ドルのレンジ上限を小幅に上回る見通し。",
+      "同社は貨物輸送量が多くの品目で安定〜小幅増、業界フリートの自然減が続き新造貨車の供給が限られる環境が北米貨車リースに有利に働いていると説明した。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "personnel",
+    "title": "Ghislain Houle, CN chief financial officer, to retire",
+    "title_ja": "CN、Houle CFOが2027年初に退任 後任はLockwood氏",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/ghislain-houle-cn-chief-financial-officer-to-retire/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "Canadian NationalはGhislain Houle最高財務責任者が2027年初めに退任し、現投資家向け広報・特別プロジェクト担当副社長のJamie Lockwood氏が後任となると発表した。",
+      "Houle氏は2027年1月31日までCFOを務めて年度末の決算開示までの継続性を確保し、その後3月31日までTracy Robinson CEOの戦略アドバイザーを務める。Lockwood氏は2月1日付で執行副社長兼CFOに就任する。",
+      "Houle氏はCN在籍30年超で2016年からCFOを務めており、発表は10月29日の四半期決算説明会の前日に行われた。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "250 watchmen, one picket line and half of America's busiest port complex",
+    "title_ja": "LA/LB港、警備員250人のスト構えで半分が停止リスク",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/250-watchmen-one-picket-line-and-half-of-americas-busiest-port-complex/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "ロサンゼルス/ロングビーチ港で警備員(watchmen)約250人の小規模労組がストを構え、港湾コンプレックスの半分の稼働が止まりうる状況となっている。",
+      "日曜に予定された離脱は水曜まで延期される可能性があるとされ、同港では既に35,688個のコンテナが鉄道輸送待ちで滞留している。",
+      "少人数の労組でもピケットラインの影響が広範囲に及ぶ構図で、ターミナルの滞留とコンテナ機材の回転悪化が長期化する懸念がある。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "railcar_leasing",
     "kind": "earnings",
     "title": "GATX Corporation Reports 2026 Third-Quarter Results",
     "title_ja": "GATX、3Q増益でEPS2.92ドル 通期は上限超えへ",
@@ -133,6 +178,81 @@
       "定時性の持ち直しは機材回転や空コンテナ回収の効率に追い風となるが、アジア主要港の混雑が引き続き変動要因となる。"
     ],
     "collected_at": "2026-10-29T13:24:01-07:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Trinity reports higher railcar orders, tightening leasing market",
+    "title_ja": "Trinity、貨車フリート17カ月連続縮小 2026年が納入の底",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/mechanical/freight-cars/trinity-reports-higher-railcar-orders-tightening-leasing-market/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Trinity IndustriesのJean Savage CEOは3Q決算の場で、新造貨車の納入は2026年が業界の景気循環の底になるとの見方を示した。",
+      "北米の貨車フリートは10月で17カ月連続の縮小となり、留置中の貨車は全体の18%で2023年5月以来の低水準、2026年は約4万両が解体される一方で新造は2.5万両未満にとどまる見込み。",
+      "フリート縮小と留置減がリース市場の引き締まりを示すとし、3Qの受注2,190両が納入2,030両を上回った一方、受注残は16億ドルに減少した。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Schneider to shift intermodal business to Norfolk Southern",
+    "title_ja": "Schneider、東部の主力鉄道をCSXからNSに変更",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/intermodal/schneider-to-shift-intermodal-business-to-norfolk-southern/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "国内インターモーダル3位のSchneiderは10月29日、東部の主力鉄道をCSXからNorfolk Southernに切り替えると発表し、1月1日付で適用する。",
+      "Schneiderは西部でUnion Pacificと提携しており、今回の変更はUP-NS合併が認可された場合の単一事業者による大陸横断サービスをにらんだ布石となる。",
+      "最大手J.B. HuntがBNSF-CSXの連携拡大を受けて東部でCSXへの輸送を増やしており、インターモーダルの提携関係の組み替えが続いている。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "AAR: Virginia Crew Size Law 'Invalid' and 'Unenforceable'",
+    "title_ja": "AAR、Virginia州の2人乗務義務法は無効と提訴",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/regulatory/aar-virginia-crew-size-law-invalid-and-unenforceable/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "全米鉄道協会(AAR)はVirginia州公益事業委員会と州司法長官を相手に、同州の乗務員数規制法が無効かつ執行不能だとして連邦地裁(東部地区)に提訴した。",
+      "対象はVa. Code §56-425.1で、2026年7月1日施行、貨物列車と単機回送に有資格乗務員2名以上を義務付け、入換補助などの限定的な業務を除外している。",
+      "AARは連邦鉄道安全法、1973年地域鉄道再編(3R)法、ICC廃止法、および連邦規則との抵触による専占の4点を根拠に主張しており、FRAの全国的な乗務員数規則は2026年に連邦第11巡回区控訴裁が支持し、AARの再審理請求が係属中とされる。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "ITCO & BIC announce digital verification for tank containers",
+    "title_ja": "ITCOとBIC、タンクコンテナ情報のデジタル照会を開始",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/shipping-logistics/2026/10/itco-bic-announce-digital-verification-for-tank-containers/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "国際タンクコンテナ協会(ITCO)とBICは、船社がタンクコンテナの仕様と検査証明をBICのBoxTechデータベース上でオンラインまたはAPI経由で確認できる仕組みを発表した。",
+      "Stolt Tank ContainersとBertschiが数百基分のデータを登録済みで、現在1基あたり最大30分かかる安全書類の確認が即時化されるとしている。",
+      "船社向けのパイロットは2027年に予定され、後続段階ではタンクごとのデジタル・ツインを「デジタル・パスポート」へ発展させる構想が示されている。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Stonepeak Completes Acquisition of BMO's Transportation and Vendor Finance Businesses and Launches Longview Capital Solutions",
+    "title_ja": "Stonepeak、BMOの輸送金融事業買収を完了 Longview設立",
+    "source": "Stonepeak",
+    "url": "https://stonepeak.com/news/stonepeak-completes-acquisition-of-bmos-transportation-and-vendor-finance-businesses-and-launches-longview-capital-solutions",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Stonepeakは10月29日、BMOの輸送金融(Transportation Finance)とベンダーファイナンス事業の買収を完了し、独立企業Longview Capital Solutionsとして立ち上げたと発表した。",
+      "対象のローン・リース債権は2026年3月末時点で約145億ドル規模で、新会社はLongview Transportation FinanceとLongview Vendor Financeの2部門で運営され、BMOは19.9%の持分を保有する。",
+      "BMOは移行期間中に債権のサービシングと新規組成を継続し、同取引により2026年度第4四半期にCET1比率が約23bp改善する見込みとしている。"
+    ],
+    "collected_at": "2026-10-30T06:28:01-07:00"
   },
   {
     "category": "container_leasing",
@@ -4843,170 +4963,5 @@
       "資金はバランスシートの柔軟性確保と、カナダ・豪州・米国・中南米のLNG権益やシンガポールの輸送・マーケティング事業を含む案件パイプラインの拡充に充てる。"
     ],
     "collected_at": "2026-10-12T06:40:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR reports mixed U.S. rail carload and intermodal units, for week ending September 26",
-    "title_ja": "AAR週次、貨車10.5%減・インターモーダル5.5%増",
-    "source": "Logistics Management",
-    "url": "https://www.logisticsmgmt.com/article/aar_reports_mixed_u.s._rail_carload_and_intermodal_units_for_week_ending_se",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "AARが公表した9月26日週の米国輸送量は、貨車が224,146両で前年同週比10.5%減、インターモーダルが294,144個で同5.5%増と方向感が分かれた。",
-      "10品目群のうち増加は3つで、穀物が7,061両増の24,995両、自動車・部品が421両増の16,340両だった。",
-      "減少幅は石炭が21,008両減の58,220両と最大で、非金属鉱物（5,357両減）や化学品（2,937両減）も落ち込み、貨車需要の重しとなっている。"
-    ],
-    "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Hormuz closure a fatal blow for Dubai and Abu Dhabi transhipment volumes",
-    "title_ja": "ホルムズ閉鎖8カ月、湾岸2港の積替貨物が恒久流出の見方",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "ホルムズ海峡の閉鎖は8カ月目に入り、湾岸最大のコンテナ拠点であるJebel Ali（ドバイ）とKhalifa（アブダビ）の積替貨物が恒久的に失われるとの見方が出ている。",
-      "Jebel Aliのターミナル取扱量は第2四半期に前年同期比90.1%減の37.4万TEU（前年同期は380万TEU）まで落ち込んだ。",
-      "DP Worldは海峡外に250万TEU規模の能力を整備し、GulftainerもKhor Fakkanを350万TEUから1,000万TEUへ拡張する計画で、リレー拠点の移動は空コンテナの配置にも影響しうる。"
-    ],
-    "collected_at": "2026-09-30T06:29:52-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Four Swedish rail projects targeted for earlier starts, freight set to gain",
-    "title_ja": "スウェーデン、鉄道4事業の着工前倒しを提言",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/09/30/four-swedish-rail-projects-targeted-for-earlier-starts-freight-set-to-gain/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "スウェーデンの交通庁Trafikverketが、2027〜29年に着工すべき大型インフラ事業10件を政府に勧告し、うち5件については着工の前倒しを求めた。",
-      "前倒し対象には鉄道4事業が含まれ、Nässjö–Värnamo間の電化は南幹線（Southern Main Line）に依存しない新たな貨物ルートと迂回路を生むとされる。",
-      "実現すれば北欧の鉄道貨物の輸送力と代替経路が広がり、同国で車両を運用する貨車オペレーターやリース会社の稼働環境にも追い風となる。"
-    ],
-    "collected_at": "2026-09-30T13:26:59-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Buchanan Announces New Trade Remedy Investigation into Imports of Unfairly Priced Railway Tank Cars from Mexico",
-    "title_ja": "UTLX、メキシコ製タンク車へのAD/CVD課税を申請",
-    "source": "PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/buchanan-announces-new-trade-remedy-investigation-into-imports-of-unfairly-priced-railway-tank-cars-from-mexico-302894643.html",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "UTLX Manufacturing が9月30日、メキシコ産の鉄道用タンク車および部品に対する反ダンピング税・相殺関税の併行申請を米商務省とITCに提出した。",
-      "対象範囲はDOT-105/109/111/112/114/115/117/120およびAAR-206/211など主要なタンク車規格と、それらに実質的に類似する規格・後継規格に及ぶ。",
-      "Union Tank Car の Neil Finn 社長は不公正価格の輸入が国内生産を損なうと主張し、ルイジアナ州アレクサンドリア工場の雇用に言及。認定されれば北米のタンク車調達コストと供給構成に影響しうる。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF completes capacity projects in Illinois, Arizona, Tennessee",
-    "title_ja": "BNSF、3州で輸送力増強工事を完了",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/bnsf-completes-capacity-projects-in-illinois-arizona-tennessee/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "BNSF は輸送力拡大を狙う3件の主要工事をイリノイ・アリゾナ・テネシーの各州で完了したと発表した。",
-      "イリノイ州Galesburgのハンプヤードでは2本目のリード線を増設し、処理能力を1日約2,000両から2,300両へ引き上げた。",
-      "アリゾナ州Winslowでは機関車の交換・整備が本線を塞いでいた遅延要因を線路増設で解消しており、Southern Transcon の流動性改善につながる。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CN highlights fleet reliability, technology advances in winter plan",
-    "title_ja": "CN、冬季計画で機器信頼性とブレーキ技術に投資",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/canadian_national/news/CN-highlights-fleet-reliability-technology-advances-in-winter-plan--77847",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "CN が2026-27年の冬季計画を公表し、設備・人員・技術への投資で厳寒期の輸送維持を図る方針を示した。",
-      "100両超の分散型エア（ブレーキ補助）車両に予測保全を実施し、21基のエンジンとコンプレッサーを交換。関連技術には計画開始以降およそ6,400万ドルを投じたとしている。",
-      "寒冷下で空気漏れが増えても制動圧を保つ high-flow ブレーキ技術を拡大し、カナダでの恒久的な適用免除を申請中。機関車や除雪機材、予備電源の事前配置も進める。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "OmniTRAX launches expanded transloading platform",
-    "title_ja": "OmniTRAX、全米対応のトランスロード網を拡充",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/short-lines-regionals/omnitrax-launches-expanded-transloading-platform/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "短距離鉄道持株の OmniTRAX が9月30日、全米での鉄道アクセス拡大を狙うトランスロード（積替）プラットフォームの拡充版を立ち上げた。",
-      "同社が2026年の Southwest Association of Rail Shippers 会合で発表した「OmniTRAX Connect: Where Rail Meets Road」を発展させたもので、長距離トラック依存の削減を狙う。",
-      "運賃上昇とドライバー不足を背景に荷主の鉄道回帰を見込む内容で、Ryan Dreier 最高商務責任者はオンショアリング・ニアショアリングによる需要拡大を指摘している。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Port of Bilbao strengthens reefer logistics links with new Americas services",
-    "title_ja": "ビルバオ港、米州新航路でリーファー物流を強化",
-    "source": "Container News",
-    "url": "https://container-news.com/port-of-bilbao-strengthens-reefer-logistics-links-with-new-americas-services/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "ビルバオ港が米州と結ぶ2本の新規直航コンテナ航路を得て、温度管理貨物の取扱い強化を進めている。",
-      "新航路は南米西岸向け（ドミニカ共和国・コロンビア・パナマ・ペルー・チリ寄港）とカナダ直航の2サービスで、既存の約900港ネットワークを補完する。",
-      "北部スペイン最大の同港コンテナターミナルはリーファーソケット540口を備えており、欧州側のリーファー機材需要と空コンテナ回送の経路に影響しうる。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Savannah's Ocean Terminal renovation passes 60% completion",
-    "title_ja": "サバンナ港Ocean Terminal改修が6割超進捗",
-    "source": "Container News",
-    "url": "https://container-news.com/savannahs-ocean-terminal-renovation-passes-60-completion/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "ジョージア州港湾局（GPA）が16億ドルを投じるサバンナ港 Ocean Terminal の改修が6割超まで進んだ。",
-      "完成後の年間コンテナ処理能力は改修前の20万TEUから175万TEUへ拡大し、全長2,650フィートの岸壁は整備を終えて大型船受入れが可能になった。",
-      "コンテナヤードの第1期は2027年秋ごろ、全体は2028年末の完成予定で、米東岸の荷役能力と機材滞留の緩和余地が広がる。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Rhine waters hit new historical low, add tension to rail and road transport",
-    "title_ja": "ライン川水位が過去最低、鉄道・道路に貨物圧力",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/business/2026/09/30/rhine-waters-hit-new-historical-low-add-tension-to-rail-and-road-transport/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "ライン川の水位が記録的な低水準に落ち込み、内航バージ輸送の制約が鉄道・道路への貨物シフト圧力を強めている。",
-      "隘路となるKaub観測所の水位は9月24日に1880年以降の記録で最低となる4センチまで低下し、積載制限の目安となる78センチを下回った日数は74日に達した。",
-      "振替先の鉄道も容量に余裕がなく、Troisdorf–Wiesbaden間のライン右岸線が12月12日まで改修で全面運休しているため迂回による混雑が重なっている。"
-    ],
-    "collected_at": "2026-10-01T06:26:16-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Rolling stock supplies: key InnoTrans 2026 deals at a glance",
-    "title_ja": "SBB Cargo、Tatravagonka製の新標準貨車Rensを570両導入",
-    "source": "RollingStockWorld",
-    "url": "https://rollingstockworld.com/locomotives/rolling-stock-supplies-key-innotrans-deals-at-a-glance/",
-    "published_at": "2026-09-30",
-    "summary_ja": [
-      "InnoTrans 2026 で SBB Cargo が Tatravagonka 製の新しい標準平床貨車 Rens を公開し、同型を570両導入する計画が示された。",
-      "Rens は2040年までの貨車更新・標準化計画の第1弾で、SBB Cargo は保有形式を平床・バラ積み・有蓋の3種類に絞り込む方針と報じられている。",
-      "部品の標準化と簡素な修繕手順で保守負担を抑え、将来の DAC（デジタル自動連結器）への改造にも対応できる設計とされる。"
-    ],
-    "collected_at": "2026-10-03T13:26:23-07:00"
   }
 ]
