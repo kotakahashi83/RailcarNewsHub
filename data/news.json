@@ -1,5 +1,50 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "FRA awards $1.24 billion for grade crossing projects",
+    "title_ja": "FRA、踏切除却補助に12.4億ドルを交付",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/fra-awards-1-24-billion-for-grade-crossing-projects/",
+    "published_at": "2026-10-31",
+    "summary_ja": [
+      "FRA が踏切除却補助金プログラム（Grade Crossing Elimination）で37州の91事業に総額12.4億ドルを交付した。",
+      "申請は264件・総額49億ドルで、採択事業には20%以上の自己負担が求められる。テキサス州が8件で最多、カリフォルニア・ジョージア・ワシントンが各6件。",
+      "財源は今年失効する2021年インフラ投資雇用法（IIJA）で、David Fink FRA 長官は踏切事故と踏切閉塞の削減につながると説明した。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CPKC urges STB to end review of UP-NS merger due to CEO comments",
+    "title_ja": "CPKC、UP-NS合併審査の打ち切りをSTBに要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/cpkc-urges-stb-to-end-review-of-up-ns-merger-due-to-ceo-comments/",
+    "published_at": "2026-10-31",
+    "summary_ja": [
+      "CPKC は、UP の Jim Vena CEO の発言が荷主の審査参加を萎縮させたとして、UP-NS 合併審査の終結を求める申立てを STB に提出した。",
+      "申立ては、2026年3月の SWARS 年次総会での Vena 氏の基調講演映像を「公開」と認定した直近の STB 裁定を主な根拠としている。",
+      "Keith Creel CPKC CEO は決算電話会議で、荷主が意見表明を恐れ審査の公正性が損なわれたと主張。UP は合併は競争促進的だと反論し、UP と NS は10月20日の申立てで審査期間の45日短縮を求めている。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "COSCO SHIPPING Ports revenue rises as overseas volumes accelerate",
+    "title_ja": "COSCO Shipping Ports、第3四半期売上13%増",
+    "source": "Container News",
+    "url": "https://container-news.com/cosco-shipping-ports-revenue-rises-as-overseas-volumes-accelerate/",
+    "published_at": "2026-10-31",
+    "summary_ja": [
+      "COSCO SHIPPING Ports の第3四半期は売上が13%増の4億8,430万ドル、粗利益が19.3%増の1億2,810万ドル、営業利益が8,100万ドルとなった。",
+      "総取扱量は8.4%増の4,227万TEU、持分取扱量は8.1%増の1,288万TEU で、海外ターミナルが伸びを主導した。",
+      "株主帰属利益は8,260万ドルでほぼ横ばいだが、1〜9月累計では売上が12.6%増の13.9億ドル、株主帰属利益が19.7%増の3億1,630万ドルとなった。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "GATX earnings rise on strong demand for existing railcars",
@@ -73,6 +118,96 @@
       "タンク車の破損を伴う事故の原因が線路側の保守に帰せられたことで、危険品輸送用タンク車のリスク評価では線路保守の質が改めて論点となる。"
     ],
     "collected_at": "2026-10-30T13:22:59-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "CN reports stronger third-quarter profits",
+    "title_ja": "CN、第3四半期の営業利益8%増・売上15%増",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/cn-reports-stronger-third-quarter-profits/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "CN の第3四半期は営業利益が8%増の13.3億ドル、売上が15%増の34.1億ドル、EPS が9%増の1.43ドルとなった。",
+      "営業係数（OR）は63.7%で前年同期から2.3ポイント悪化し、燃料費が56%増と費用全体を18%押し上げた。",
+      "Tracy Robinson CEO は年初来で1.2億ドルの生産性改善と営業活動による3億ドルの増収を挙げた。輸送量はカーロード・コンテナ数では横ばいだが収入トンマイルでは4%増。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific dispatchers to vote on unionization",
+    "title_ja": "UPの運転指令員、労組代表選挙をNMBが承認",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/union-pacific-dispatchers-to-vote-on-unionization/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "全米調停委員会（NMB）が Union Pacific の運転指令員（dispatchers）を対象とする労組代表選挙を正式に承認した。",
+      "選挙では American Train Dispatchers Association（ATDA）の下で組織化するかが問われ、ATDA は10月29日の発表で「重要な節目」と評価した。",
+      "ATDA は1917年設立・会員約2,700人で、指令員のほか電力監督者や保線要員なども代表している。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Georgia officially opens Gainesville Inland Port",
+    "title_ja": "ジョージア州、1.34億ドルのGainesville内陸港を開業",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/intermodal/georgia-opens-gainesville-inland-port-2/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "ジョージア州港湾局と Norfolk Southern が10月29日、1億3,400万ドルを投じた Gainesville Inland Port の開業式を行った（稼働開始は5月4日）。",
+      "104エーカーの施設は NS が週5日運行でサバンナ港と結び、北東ジョージアの約300社の製造業者が利用できる。",
+      "州港湾局は初年度で26,000ロードをトラックから鉄道に移す可能性があるとしており、往復約600マイルのトラック輸送の代替となる。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Carriers’ November rate hikes ‘doomed’ say analysts, as demand goes flat",
+    "title_ja": "太平洋東航スポット運賃が急落、11月値上げに暗雲",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "Drewry の太平洋東航スポット運賃が2025年6月以来最大の週間下落となり、上海-ロサンゼルスは6%安の40フィート当たり7,514ドル、上海-ニューヨークは5%安の9,631ドルとなった。",
+      "長引いたピークシーズンが終了し米国の輸入需要が減速。全米小売業協会（NRF）は11月の海上輸入量が前月比11%減と予測しており、アナリストは船社の11月値上げは実現しないとみる。",
+      "一方で米国のフォワーダーは週間では価格は「安定」と報告しており、市況は流動的な状態にある。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "A platform to challenge ‘death by a thousand [D&D] invoices’",
+    "title_ja": "LA/LB港の混雑、11月のD&D請求急増を招くとの指摘",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/a-platform-to-challenge-death-by-a-thousand-dd-invoices/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "足元の港湾混雑が今後のディテンション・デマレージ（D&D）請求の急増につながると、FourOneOne 創業者の Sara Dandan 氏が指摘した。",
+      "ロサンゼルス・ロングビーチでは約34,000本のコンテナが鉄道輸送を待ち、空コンテナの返却も難しくなっている。「10月の混雑は11月に請求書として表れる」という。",
+      "遅延の責任が自らにないドレージ業者に課金が転嫁されるリスクがあり、労働協約失効に伴うストライキの可能性がさらに状況を悪化させうる。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Bridge closure, strong import volumes cause delays for containers at port of LA/LB",
+    "title_ja": "LA/LB港で鉄道滞留7.19日に悪化、橋梁閉鎖も影響",
+    "source": "Hellenic Shipping News (ICIS)",
+    "url": "https://www.hellenicshippingnews.com/bridge-closure-strong-import-volumes-cause-delays-for-containers-at-port-of-la-lb/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "西海岸ロサンゼルス・ロングビーチ港周辺の工事と好調な輸入量が、コンテナの鉄道・トラック輸送に遅延を生じさせていると ICIS が報じた。",
+      "PMSA データでは9月のトラック滞留が3.18日（8月2.95日）、鉄道滞留が7.19日（8月6.75日）に悪化した。",
+      "カルトランスが Vincent Thomas 橋（SR-47）の16カ月閉鎖に向けた準備を進めており、市場関係者はリードタイムに2〜4日の上乗せを見込んでいる。"
+    ],
+    "collected_at": "2026-10-31T06:22:28-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -4723,320 +4858,5 @@
       "連休明けの荷動き回復が力強ければ主要便の満載と運賃水準が維持され、回復が弱ければ10月後半にスペースが緩む見通しで、機材の回転率と空コンテナの偏在に直結する。"
     ],
     "collected_at": "2026-10-07T13:30:32-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BLET, CPKC reach tentative agreement on new contract for Dakota, Minnesota & Eastern workers",
-    "title_ja": "BLETとCPKC、DM&E線の労使協約で暫定合意",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/blet-cpkc-reach-tentative-agreement-on-new-contract-for-dakota-minnesota-eastern-workers/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "機関士労組 BLET が CPKC との間で、Dakota, Minnesota & Eastern（DM&E）territory の従業員を対象とする5年間の暫定協約に達した。",
-      "協約期間を通じ機関士の時間給は複利で41.42%、車掌・制動手は32.63%上昇し、適用は2025年1月1日に遡及する。",
-      "批准されれば2029年までに旧Soo Line地区の従業員との条件格差が解消される見込みで、食事手当の増額や私用休暇の柔軟化も含む。現在批准投票が進行中。"
-    ],
-    "collected_at": "2026-10-01T06:30:00-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "ZIM shareholders seek vote on revised Hapag-Lloyd deal",
-    "title_ja": "ZIM株主、修正買収案の株主投票を要求",
-    "source": "Container News",
-    "url": "https://container-news.com/zim-shareholders-seek-vote-on-revised-hapag-lloyd-deal/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "ZIM の株主グループが、Hapag-Lloyd と FIMI による実質的に修正された取引については株主承認に付すべきだと会社側に求めた。",
-      "同グループは発行済株式の10%超を代表するとしており、総額42億ドルの買収案に新たな障害が加わった形となる。",
-      "イスラエル政府企業庁が当初のスキームに関する審査を終え、新提案には改めて審査が必要との立場を示したことが背景にある。"
-    ],
-    "collected_at": "2026-10-01T06:30:00-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Premier Alliance prepares for Asia-N Europe services return to Suez",
-    "title_ja": "Premier Alliance、アジア-北欧州航路のスエズ復帰を準備",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/premier-alliance-prepares-for-asia-n-europe-services-return-to-suez/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "改定されたプロフォーマ船腹表により、Premier Allianceがアジア-北欧州航路の船舶を紅海・スエズ運河経由に戻す見通しとなった。",
-      "ONEが公表した8,100TEU型「One Continuity」のスケジュールでは、FE1サービスに再配船のうえ10月19日にレムチャバンを出港する。",
-      "10月はほぼ全ての主要船社がアジア-欧州でスエズ通航を暫定的に再開する形となり、航海日数短縮に伴うコンテナ機材の回転改善と空コンテナ配置の変化が見込まれる。"
-    ],
-    "collected_at": "2026-10-01T13:23:28-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "RCG expands automotive wagon fleet",
-    "title_ja": "RCG、EV対応の自動車輸送貨車70両を追加調達",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/business/2026/10/01/rcg-expands-automotive-wagon-fleet/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "ÖBB Rail Cargo Group（RCG）が完成車輸送用のLaaers型貨車70両を調達し、自動車輸送フリートを拡大する。",
-      "車両は全長31メートルの2階建てで電気自動車の輸送に対応し、2027年にはさらに130両の調達を計画している。",
-      "RCGは年間約100万台の完成車と60万トンの部品を欧州20拠点超に輸送しており、自社の貨車と機関車の双方を保有する欧州で2社しかない鉄道物流事業者の一つとされる。"
-    ],
-    "collected_at": "2026-10-01T13:23:28-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Oaktree closes debut ABF fund on $2bn",
-    "title_ja": "Oaktree、初のアセットバック金融ファンドを20億ドルで募集完了",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/01/oaktree-closes-debut-abf-fund-on-2bn/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "Brookfield傘下のOaktree Capital Managementが、初のアセットバック金融（ABF）ファンドを20億ドルのコミットメントで募集完了した。",
-      "資金はAsset-Backed Finance Fund I（ABF I）と関連ビークルを通じて調達され、米国の公的年金やソブリン・ウェルス・ファンドなどの機関投資家が出資した。",
-      "同社はプライベート・アセットバック市場がセクター・ストラクチャー・リスクリターンの面で多様化し、選別が難しくなっていると指摘しており、設備・輸送機材リース向け与信を含む領域への資金流入が続いていることを示す。"
-    ],
-    "collected_at": "2026-10-01T13:23:28-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Form 8-K — Entry into a Material Definitive Agreement (Commercial Paper Program)",
-    "title_ja": "Wabtec、最大20億ドルのCP発行プログラムを新設",
-    "source": "SEC EDGAR (Wabtec)",
-    "url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000013/wab-20261001.htm",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "Wabtec が10月1日付の Form 8-K で、無担保の短期コマーシャルペーパー（CP）発行プログラムを新設したと届け出た。",
-      "発行できるノートの残高上限は常時20億ドルで、各ノートの満期は発行日から最長397日とされている。",
-      "支払いは子会社の GE Transportation などが無条件で保証する構成で、機関車・鉄道機材事業の短期資金調達手段を広げる内容となる。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "NTSB releases preliminary report on NS conductor injury during shoving move",
-    "title_ja": "NTSB、NS車掌の推進運転中の負傷事故で予備報告書",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/ntsb-releases-preliminary-report-on-ns-conductor-injury-during-shoving-move/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "NTSB は10月1日、9月8日にペンシルベニア州 Conway Yard で起きた Norfolk Southern の車掌重傷事故に関する予備報告書を公表した。",
-      "車掌は219両編成を本線からヤードへ推進（shoving）させる際に乗っていたタンク車から転落し、機関士は無線連絡が取れなくなって列車を停止させようとしていた。",
-      "NTSB は9月に、2020年10月以降の推進運転中の死亡が14件に達したとして乗務員が車両に乗る入換作業の中止を勧告しており、今回はその一連の事案の最新例となる。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Only 12% of container ships berthed on time at Shanghai in August",
-    "title_ja": "上海の定時着岸率12%、アジア港湾の混雑が深刻化",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/ports-logistics/only-12-of-container-ships-berthed-on-time-at-shanghai-in-august",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "Sea-Intelligence によると、8月のアジア港湾でのコンテナ船の定時到着率は32.2%まで低下し、遅延船の平均遅延日数は7.28日に拡大した。",
-      "複数の台風に見舞われた中国が最も悪化し、定時率は前月の35.8%から23.9%へ低下、上海は12.2%、寧波は16.9%まで落ち込んだ。",
-      "上海と寧波舟山は2026年上期の世界最大のコンテナ港で、寧波は同期間にシンガポールを上回っており、混雑の長期化は空コンテナの回転と機材手配の不確実性を高める。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "‘Poland punishes EU rail companies for its own customs failures, some risk insolvency’",
-    "title_ja": "ポーランドの関税遡及請求で欧州鉄道物流企業に破綻リスク",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/01/poland-punishes-eu-rail-companies-for-its-own-customs-failures-some-risk-insolvency/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "ポーランド当局が鉄道物流各社に対し、関税詐欺に絡む制裁金・VAT・関税として合計数億ユーロ規模の支払いを遡及的に求めている。",
-      "対象は2021年から2026年にマワシェビチェ（Małaszewicze）経由で輸入された貨物で、ポーランド自身が検査・通関を済ませた後にEUの調査で不正と判断されたもので、輸入者や倉庫業者が追跡不能・支払不能となったため物流会社が連帯責任を問われている。",
-      "請求額が会社の総資産を超える例もあり裁判所の審理前に破綻する恐れがあるとして、CER・CLECAT・FIATA・UIRR などの欧州業界団体が欧州委員会に緊急の介入を要請した。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Liberty Mutual and Orion expand tie-up with $750m infra debt mandate",
-    "title_ja": "Liberty Mutual、インフラ債務に最大7.5億ドル",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/01/liberty-mutual-and-orion-expand-tie-up-with-750m-infra-debt-mandate/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "Liberty Mutual Investments（LMI）が Orion Infrastructure Capital（OIC）との提携を拡大し、インフラ・デットへ最大7.5億ドル（5.68億ポンド）を投じる枠組みを設けた。",
-      "両社は OIC のプラットフォームで組成するミドルマーケットのインフラ債務を対象とする「Credit Income Strategy」を立ち上げ、これまでに合計2.4億ドルを共同でコミットした。",
-      "LMI は運用資産1,300億ドル超を持つ保険会社 Liberty Mutual Group の運用部門で、OIC と長期の運用委託契約を結ぶことで最大7.5億ドルまで展開できる選択権を得た。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "New Petitions Put Mexican Railway Tank Cars and Parts Thereof at Risk of Duties Near 32 Percent",
-    "title_ja": "メキシコ製タンク車、ダンピング率最大32.58%の申立て",
-    "source": "Clark Hill",
-    "url": "https://www.clarkhill.com/news-events/news/new-antidumping-countervailing-duty-petitions-mexico-railway-tank-cars/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "UTLX Manufacturing が9月30日に提出したメキシコ産タンク車および部品のAD/CVD申立てで、申立書はダンピングマージンを12.70〜32.58%と算定している。",
-      "対象範囲は液体・ガスのばら積み輸送用貨車で、肥料・樹脂・エタノール・食品用途に加え、プロパンなど加圧・液化ガス輸送車も含む広範なものとなっている。",
-      "ITCは10月21日に予備審理を開く予定で、商務省が仮決定で肯定的判断を示せば、CVDは2026年12月、ADは2027年3月にも輸入者に現金供託が発生しうる。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF reopens one track at Minot derailment site",
-    "title_ja": "BNSF、ミノット脱線現場の1線を復旧",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/bnsf-reopens-one-track-at-minot-derailment-site/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "BNSFは9月30日未明にノースダコタ州ミノットの市街地付近で発生した脱線事故の現場で、同日22時32分（中部時間）に2番線を復旧させた。",
-      "脱線した貨車は19両で、1番線も10月1日11時（同）に復旧させる見込みを顧客向け通知で示した。",
-      "復旧までは北部幹線の輸送力が制約され、Amtrakのエンパイア・ビルダーでシアトル・ポートランド発の東行きが運休するなど、同回廊のダイヤに影響が残った。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Baltimore port eyes volume growth from expanded grain, intermodal capacity",
-    "title_ja": "ボルティモア港、穀物積替とICTF拡張で取扱増を狙う",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/RailPrime/details/Baltimore-port-eyes-volume-growth-from-expanded-grain-intermodal-capacity--77860",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "ボルティモア港は9月に穀物トランスロード施設を稼働させ、貯蔵能力6万ブッシェルのサイロ3基で週200本超のコンテナ積み込みが可能になった。",
-      "同施設からの鉄道輸送は10月から11月に開始される見通しで、港の穀物取扱量の押し上げが見込まれる。",
-      "Seagirt ターミナルのICTFでは4,200万ドルを投じた線路再配置などの工事が10月に着工し、約18カ月で年間取扱能力を6〜7万リフトから16万リフト超へ引き上げてダブルスタック輸送に対応する。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Chemet unveils liquid CO₂ tank wagon",
-    "title_ja": "Chemet、液化CO2輸送用タンク車を初公開",
-    "source": "RollingStockWorld",
-    "url": "https://rollingstockworld.com/freight-cars/chemet-unveils-liquid-co%E2%82%82-tank-wagon/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "欧州有力タンク車メーカーであるポーランドの Chemet が、液化二酸化炭素輸送用タンク車の試作車を InnoTrans で初公開した。",
-      "タンク容積62立方メートル、自重約28トン、積載量62トンで軸重は22.5トン。ステンレス外装と200ミリ厚の硬質ポリウレタン断熱で-40℃まで対応し、設計圧力は2.6MPa。",
-      "制動装置に Knorr-Bremse、底部バルブに Pekos、テレマティクスに Nexxiot を採用。工場で回収したCO2を貯留地へ運ぶCCS案件での運用を想定しており、タンク車の新たな需要分野となりうる。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Ukraine approves roadmap to open rail market to competition",
-    "title_ja": "ウクライナ、鉄道市場の段階的自由化ロードマップを承認",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/01/ukraine-approves-roadmap-to-open-rail-market-to-competition/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "ウクライナ内閣は、貨物・旅客鉄道市場に段階的に競争を導入する鉄道輸送改革のロードマップを承認した。",
-      "現行の垂直統合モデルから、インフラ管理の分離と旅客輸送への透明な財政支援を伴う欧州型の体制へ移行する内容で、EU法・EU加盟交渉・Ukraine Facilityの約束と明確に結び付けられている。",
-      "市場開放は貨物と旅客、1435mm軌間と1520mm軌間の違いを踏まえて段階的に進められ、主要な1520mm網は戒厳令の終了前には開放しないとしている。"
-    ],
-    "collected_at": "2026-10-03T06:27:21-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CPKC Issues Winter Contingency Report",
-    "title_ja": "CPKC、2026-27年の冬季コンティンジェンシー報告書を提出",
-    "source": "Railway Age",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSURmZ1AyUG5ENnNMUU1tbk5nZ0kwXy1OZUE0dGFHelgzQm5FZ0VKYWNMcmd5d1FYZUl5NlduSHpBQWV5Z3FyNy1pbHY5YTNIRUZoV3FTaUJ1TWFqQ3h1bndvZ0ZfU1owLXZSX195YzJQeHl6Y3E1OHI1T0M5Ykl2TGNBZkNZdnds?oc=5",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "CPKC が、カナダ運輸法151.01(2)条に基づく冬季コンティンジェンシー報告書を運輸大臣に提出し、冬季の穀物輸送維持の計画を示した。",
-      "サンダーベイ港が閉鎖される冬季には、カナダ産穀物・穀物製品を週平均で最大54万トン運べる輸送力を市場需要に応じて確保するとしている。",
-      "気象データと予測モデルで冬季条件の種類・程度・範囲を見積もり、地域・操車場・施設ごとの冬季計画を策定して除雪機材や砂を事前配置する。"
-    ],
-    "collected_at": "2026-10-03T13:26:23-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Global ports caught in a perfect storm",
-    "title_ja": "世界の港湾、地政学・異常気象・労使紛争で混乱",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/ports-terminals/2026/10/global-ports-caught-in-a-perfect-storm/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "WorldCargo News は、地政学リスク・異常気象・労使紛争が重なり、世界の主要港湾が「パーフェクト・ストーム」の状況に置かれていると報じた。",
-      "同記事によると、Jebel Ali の取扱量は2026年第2四半期に90%減少したとされる。",
-      "既存航路の分断により主要ゲートウェイの序列が塗り替わりつつあり、空コンテナの再配置や機材需給への影響が懸念される。"
-    ],
-    "collected_at": "2026-10-04T06:27:52-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Transportation Secretary Sean P. Duffy Invests $426 Million to Eliminate Bottlenecks and Congested Highways Across U.S.",
-    "title_ja": "USDOT、貨物隘路の解消に4億2600万ドルを配分",
-    "source": "U.S. Department of Transportation",
-    "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-invests-426-million-eliminate",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "米運輸省は10月1日、INFRA(全国的に重要な複合輸送・幹線道路事業)プログラムを通じ、12州の貨物インフラ事業に総額4億2600万ドルを配分すると発表した。",
-      "最大はフロリダ州 I-4 の約20マイル区間を上下各1車線拡幅する8500万ドルで、カンザス州 K-96 の4車線から6車線への拡幅に5350万ドル、ルイジアナ州 Lafayette の立体交差化に2800万ドルが充てられる。",
-      "いずれも全米上位の貨物ボトルネック解消を狙う事業で、トラック輸送の滞留緩和を通じて複合一貫輸送の信頼性にも波及しうる。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Chemet introduces solution for a rail-based CO2 transport and storage in Europe",
-    "title_ja": "Chemet、液化CO2用62立方mタンク貨車を発表",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/technology-innovation/42184-chemet-introduces-solution-for-a-rail-based-co2-transport-and-storage-in-europe",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "ポーランドのタンク製造Chemetが、液化CO2輸送向けの容量62立方メートルの鉄道タンク貨車と、貯蔵・積卸設備を組み合わせた一貫ソリューションを発表した。",
-      "貨車はTSI 321/2013認証で自重約28トン・最大積載62トン（総重量90トン）、積車100km/h・空車120km/h対応、タンクは試験圧力2.6MPaで200mmのポリウレタン断熱とステンレス外装を備える。",
-      "複数車両を同時充填できる専用積卸プラットフォームも併せて提供し、欧州のCCS（CO2回収・貯留）需要拡大を見込んだ新たな貨車需要の芽となる。"
-    ],
-    "collected_at": "2026-10-07T13:30:32-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Fresno County pension keen to avoid AI-driven exuberance as it expands infra programme",
-    "title_ja": "Fresno County 年金、AI 偏重を避けインフラ配分を拡大",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/fresno-county-pension-keen-to-avoid-ai-driven-exuberance-as-it-expands-infra-programme/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "運用資産約80億ドルのカリフォルニア州 Fresno County Employees' Retirement Association がインフラ投資の配分目標を引き上げる。",
-      "投資はミドルマーケット中心のバリューアッド、インフラデット、セカンダリーを軸とし、AI 関連資産の過熱を避ける方針を示した。",
-      "2026年のペーシングプランは8,000万ドル（2025年は1億2,000万ドル）で、直近では Nova Infrastructure、Ares Management、Palistar Capital のファンドに計9,500万ドルをコミットしている。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "MidOcean Concludes 2026 Equity Raise, Securing More Than $4 Billion of Equity Commitments to Accelerate Global LNG Growth Strategy",
-    "title_ja": "MidOcean、LNG事業拡大へ40億ドル超の出資を確保",
-    "source": "EnergyNow (Business Wire)",
-    "url": "https://energynow.com/2026/10/midocean-concludes-2026-equity-raise-securing-more-than-4-billion-of-equity-commitments-to-accelerate-global-lng-growth-strategy/",
-    "published_at": "2026-10-01",
-    "summary_ja": [
-      "EIG が運営する LNG 投資会社 MidOcean Energy が、過去12カ月の資金調達で40億ドル超の出資コミットメントを確保し、当初目標の20億ドルを大きく上回った。",
-      "新規投資家には NYK Line（Diamond Gas MidOcean 経由）、出光興産、The Arab Energy Fund、静岡ガス、韓国の機関投資家などが名を連ねる。",
-      "資金はバランスシートの柔軟性確保と、カナダ・豪州・米国・中南米のLNG権益やシンガポールの輸送・マーケティング事業を含む案件パイプラインの拡充に充てる。"
-    ],
-    "collected_at": "2026-10-12T06:40:18-07:00"
   }
 ]
