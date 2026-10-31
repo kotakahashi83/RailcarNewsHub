@@ -45,6 +45,21 @@
     "collected_at": "2026-10-31T06:22:28-07:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Impending strike threatens LA-LB ports container flow",
+    "title_ja": "LA/LB港の警備員スト、期限延長で緊張が継続",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/impending-strike-threatens-la-lb-ports-container-flow",
+    "published_at": "2026-10-31",
+    "summary_ja": [
+      "ロサンゼルス/ロングビーチ港でILWU Local 26の警備員(watchmen)約250人の労働契約交渉が続き、ストライキの期限は11月4日まで延長されたと報じられた。",
+      "対象ターミナルはロングビーチ港の取扱貨物の約85%、ロサンゼルス港の約33%を占めるとされ、PMAは他のILWU組合員がピケットラインを尊重し本船・ヤード・ゲート業務が停止しうると指摘している。",
+      "両港では既に3万5,000個超の輸入コンテナが鉄道輸送待ちで滞留しており、ストが実施されればコンテナ機材の回転悪化と滞留の長期化が懸念される。"
+    ],
+    "collected_at": "2026-10-31T13:25:44-07:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "GATX earnings rise on strong demand for existing railcars",
@@ -208,6 +223,21 @@
       "カルトランスが Vincent Thomas 橋（SR-47）の16カ月閉鎖に向けた準備を進めており、市場関係者はリードタイムに2〜4日の上乗せを見込んでいる。"
     ],
     "collected_at": "2026-10-31T06:22:28-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hapag-Lloyd warns of London Gateway rail disruption",
+    "title_ja": "Hapag-Lloyd、London Gateway発着の鉄道輸送を停止",
+    "source": "Container News",
+    "url": "https://container-news.com/hapag-lloyd-warns-of-london-gateway-rail-disruption/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "Hapag-Lloydは英Barkingでの列車脱線を受け、London Gateway発着の鉄道輸送を停止すると顧客に通知した。",
+      "同社は入手している最新情報に基づき、この混乱が少なくとも1週間続く見込みだとしている。",
+      "マーチャントホーレージおよびランプ条件の貨物は顧客側でトラックによる引き取りを手配するよう求め、混乱中は自社でトラックを確保できない場合も含め新規のキャリアホーレージ依頼を受け付けないとした。"
+    ],
+    "collected_at": "2026-10-31T13:25:44-07:00"
   },
   {
     "category": "railcar_leasing",
@@ -448,6 +478,51 @@
       "実害の立証ではなく警告との位置付けだが、遠隔監視機能付きリーファーを保有・リースする事業者には制御系セキュリティという新たな管理項目を示す内容となっている。"
     ],
     "collected_at": "2026-10-30T13:22:59-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "CPKC reports record revenue on strength of grain and intermodal traffic",
+    "title_ja": "CPKC、第3四半期は売上15%増で過去最高の30億ドル",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/cpkc-reports-record-revenue-on-strength-of-grain-and-intermodal-traffic",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "CPKCの第3四半期は売上高が15%増の30億ドルと四半期として過去最高を記録し、営業利益も11%増の10.6億ドルとなった。",
+      "希薄化後EPSは3%増の74セントだったが、燃料費上昇などで営業費用が18%増え、営業費用率(OR)は前年同期比1.3ポイント悪化の64.8%となった。",
+      "穀物とインターモーダルが伸びを牽引して輸送量は6%増となり、Keith Creel CEOは変動の大きい事業環境下での実績に満足しており、さらなる成長余地があると述べた。"
+    ],
+    "collected_at": "2026-10-31T13:25:44-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 24, 2026",
+    "title_ja": "AAR週次輸送量、10月24日週は7.8%増の53.8万単位",
+    "source": "Railpace",
+    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-24-2026/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "AARによると10月24日までの週の米国鉄道輸送量は貨車とインターモーダルの合計で53万8,503単位となり、前年同週比7.8%増加した。",
+      "内訳は貨車が23万4,826車で3.6%増、インターモーダルが30万3,677個で11.3%増と、伸びはインターモーダルが主導した。",
+      "10品目中8品目が増加し、鉱石・金属が2,272車増の2万1,811車、自動車・部品が2,234車増の1万6,788車、石油・石油製品が1,565車増の1万1,700車となった一方、穀物は1.4%減と珍しく減少した。"
+    ],
+    "collected_at": "2026-10-31T13:25:44-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "9 alleged Mexican Cartel associates arrested in California train theft ring",
+    "title_ja": "BNSF貨物狙う組織的窃盗で9人逮捕、カルテル関与の疑い",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/9-alleged-mexican-cartel-associates-arrested-in-california-train-theft-ring",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "南カリフォルニアでBNSF鉄道の貨物列車を狙った組織的な貨物窃盗に関与したとされる9人が逮捕され、当局はメキシコのシナロア・カルテルとつながる犯罪ネットワークの一部とみている。",
+      "サンバーナーディーノ郡保安官局の農村犯罪タスクフォースが1年にわたる捜査の末、10月16日に同郡内の住宅を捜索して容疑者を拘束したと発表した。",
+      "被害は数百万ドル規模の商品が盗まれたとされるが、当局は関連する列車侵入の件数や盗品の正確な金額を公表しておらず、幹線沿線での組織的な貨物窃盗リスクを示す事例となった。"
+    ],
+    "collected_at": "2026-10-31T13:25:44-07:00"
   },
   {
     "category": "container_leasing",
