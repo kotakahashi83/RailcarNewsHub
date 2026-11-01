@@ -241,6 +241,21 @@
   },
   {
     "category": "railcar_leasing",
+    "kind": "news",
+    "title": "GATX Corporation Announces Quarterly Dividend",
+    "title_ja": "GATX、四半期配当0.66ドルを据え置き決定",
+    "source": "Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcV9VaXQ1bjhHVEx6RjdEcjFWUGRlemRMMTUyVW9wZl9scE1PZlpHUG5WN0pIYzVUZUxSSWppTXBUYURyN1Frb2J1aUNXS29GaHlpTHpTTEJsWlNCX0hQenBkUmRxZkEyRHZTUV9HOWJNcWhBckVXMW02cmJxTFNYQjItNWpoYktqdTAyOTJyMFdLaWtRdklrSC1rUC1sVlV3N21PNVhuVEtPVjg5dWFV?oc=5",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "GATXの取締役会は10月30日、普通株1株当たり0.66ドルの四半期配当を決定したと発表した。",
+      "支払日は2026年12月31日、権利確定日は12月15日で、配当額は前四半期から据え置かれた。",
+      "四半期配当は2026年を通じて0.66ドル（2025年は0.61ドル）の水準で推移しており、同社は1919年以降、途切れずに四半期配当を支払い続けているとしている。"
+    ],
+    "collected_at": "2026-11-01T06:26:08-08:00"
+  },
+  {
+    "category": "railcar_leasing",
     "kind": "earnings",
     "title": "GATX Corporation Reports 2026 Third-Quarter Results",
     "title_ja": "GATX、3Q増益でEPS2.92ドル 通期は上限超えへ",
@@ -523,6 +538,36 @@
       "被害は数百万ドル規模の商品が盗まれたとされるが、当局は関連する列車侵入の件数や盗品の正確な金額を公表しておらず、幹線沿線での組織的な貨物窃盗リスクを示す事例となった。"
     ],
     "collected_at": "2026-10-31T13:25:44-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CSX operations returning to normal after technology systems outage",
+    "title_ja": "CSX、システム障害から復旧し他社との連絡輸送を再開",
+    "source": "Trains Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEZZaEVWdGFrOE1OdlhacC0zTkY3cnB4U0tVaXdudmFEWVBSd0N3OGYwSG1rSzRYdC1nQTNRRDRKN0pEdDF1TDBlNnhyX1laek04Zm9PbW9ERGR6QXJEdmhhd1FrbEVQYk9zWlhlSElHeENieUt2ZXBnZmFMOW9QLTVWVk8xRTF1VnI2R2djNHVLLXUxaTZDUmZVdW15SF93WjJjQXNtdkVDU2t2SUNJ?oc=5",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "CSXは10月27日朝に始まった技術システム障害について、主要アプリケーションの中核機能が回復し、他のクラスI鉄道との連絡輸送（インターチェンジ）を再開したと説明した。",
+      "RailStateのデータでは、BNSFからCSXへの引き渡しが平常の141%増、UP-CSX間が平常の98%、CPKC-CSX間が63%の水準で、ある1日の貨物列車は通常の138本に対し162本に達した。",
+      "CSXは障害がサイバー攻撃によるものではないとし、指令（ディスパッチ）とPTCには影響がなかったが、障害中は乗務員が折返し地点のホテルで足止めされる事態が生じていた。"
+    ],
+    "collected_at": "2026-11-01T06:26:08-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Why container rates are climbing despite cooling demand",
+    "title_ja": "需要減速下でもコンテナ運賃上昇、滞船と減便が支え",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Freightos指数では前週、アジア発北欧州が1FEU当たり3,551ドル（前週比3%高）、地中海向けが4,252ドル（8%高）、アジア発米西岸が8,368ドル（3%高）、米東岸が10,565ドル（9%高）と主要航路で上昇した。",
+      "米東岸運賃は2026年の最高値を更新し、台風による東アジアの港湾閉鎖、中国主要港の滞船、紅海航路復帰に伴う本船の集中着岸が上昇要因とされる。",
+      "一方でフォワーダーは需要減速とスペース確保の容易化を指摘し、船社は11月の値上げと減便（ブランクセーリング）を併用、LA/ロングビーチ港で11月1日に始まり得るストも機材需給の不確実要素となっている。"
+    ],
+    "collected_at": "2026-11-01T06:26:08-08:00"
   },
   {
     "category": "container_leasing",
@@ -4648,290 +4693,5 @@
       "Southamptonには来週さらに2基が到着して岸壁クレーンは計16基となり、2026年に納入された4基の投資額は6,000万ポンド、40フィート2本の同時吊り上げと24,000TEU級船への対応が可能。"
     ],
     "collected_at": "2026-10-03T06:27:21-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF hit by severe weather in Southwest and Nebraska",
-    "title_ja": "BNSF、ネブラスカ州の洪水でヤード混乱と輸送遅延",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/bnsf-hit-by-severe-weather-in-southwest-and-nebraska/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "BNSF は10月1日、数時間で4〜5インチの降雨による広域の洪水でネブラスカ州リンカーン周辺の輸送に支障が出ていると顧客に通知した。",
-      "リンカーン・ヤードの作業が乱れ、周辺道路の閉鎖も重なったことで、同社は貨物の遅延と通常より長い輸送日数を見込むとしている。",
-      "同日午後4時半頃にはアイオワ州 Pleasantville 付近で57両編成のうち約25両が脱線し（負傷者・危険物の関与なし）、デモインは9月の降水量14.5インチで観測史上3番目の多雨となっていた。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Piraeus container throughput falls 39% in H1 2026",
-    "title_ja": "ピレウス港Pier I、上期の取扱量が38.7%減",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/piraeus-container-throughput-falls-39-in-h1-2026/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "ギリシャ・ピレウス港 Pier I の2026年上期コンテナ取扱量は241,290TEUで、前年同期の393,876TEU から38.7%減少した。",
-      "内訳は国内貨物が33.1%減の91,967TEU、トランシップが41.8%減の149,323TEU で、減少幅はトランシップでより大きい。",
-      "COSCO Shipping が67%を保有する PPA は、国内・トランシップ双方の商況低迷に加え、関税導入前の前倒し輸送で膨らんだ前年上期の高い基準、および Pier I の投資工事でコンテナ蔵置能力が一時的に縮小したことを理由に挙げた。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "Hapag-Lloyd warns of Malaysia’s new manifest rule",
-    "title_ja": "マレーシア、輸出の「マニフェスト無しは積載不可」即時適用",
-    "source": "Container News",
-    "url": "https://container-news.com/hapag-lloyd-warns-of-malaysias-new-manifest-rule/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "Hapag-Lloyd は、マレーシア関税局による「No Manifest, No Load」要件が輸出貨物に即時適用されると顧客に通知した。",
-      "積載前に有効かつ完全な K5 輸出マニフェストが必要で、荷主は本船の入港予定時刻の48時間前までに完全な船積指示を提出し、マレーシア経由のトランシップ貨物も K6 マニフェスト用情報を同じ48時間前までに提出しなければならない。",
-      "不備や遅延がある船積指示のコンテナは承認マニフェストに載らず、Westports、Northport、タンジュン・ペレパス港などでターミナルが積載を拒否して次船へのロールが生じうるため、遅延・ロールに伴う費用は荷主負担となる可能性がある。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Linklaters advises underwriters and lenders on the financing of USS's acquisition of VTG Rail UK",
-    "title_ja": "VTG Rail UK買収、USSが買収ファイナンスを組成",
-    "source": "Legal Desire",
-    "url": "https://legaldesire.com/linklaters-advises-underwriters-and-lenders-on-the-financing-of-usss-acquisition-of-vtg-rail-uk/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "英年金基金 USS による VTG Rail UK の全株式取得について、買収ファイナンスの引受金融機関および貸し手側に Linklaters が助言したと伝えられた。",
-      "案件は同法律事務所の Energy & Infrastructure 部門グローバル責任者 Richard Ginks と Subir Rajadhyaksha パートナーが率いるチームが担当したとされる。",
-      "VTG Rail UK は英国の貨物鉄道向けに約4,500両の車両を貸し出すリース事業で、売買契約は規制当局の承認を要さず2026年第4四半期のクロージングが見込まれている。"
-    ],
-    "collected_at": "2026-10-02T06:27:04-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "CMA CGM fires back at Samsung’s $186m FMC claim",
-    "title_ja": "CMA CGM、Samsungの1.86億ドルFMC申立てに反論",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/cma-cgm-fires-back-at-samsung-s-186m-fmc-claim",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "CMA CGM は今週、米FMCに宣誓回答書を提出し、Samsung Electronics による1億8,600万ドルの申立ての却下を求めた。",
-      "Samsungの請求は不当とする滞留料・ディテンション・鉄道保管料など1億4,800万ドルを軸に、代替輸送などの費用810万ドルと判決前利息3,000万ドル以上で構成され、対象は12万1,000件を超える課金に及ぶ。",
-      "CMA CGMは申立てを「見当違いのキャンペーン」と批判し、Samsungがコロナ期に収益を大きく伸ばす一方で輸入急増への備えを欠いていたと主張。初審判断は2027年9月1日、最終決定は2028年3月15日が見込まれる。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "New material cuts shipping container temperatures by up to 22°C",
-    "title_ja": "無電源の放射冷却フィルム、コンテナ温度を最大22℃低減",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/new-material-cuts-shipping-container-temperatures-by-up-to-22c/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "スペインのスタートアップ Cooling Photonics の放射冷却フィルム「CoolPly」が、バレンシア港のサンドボックス実証でコンテナ内温度を最大22℃引き下げた。",
-      "実証は Transbase Soler のデポで夏季15日間、日射条件を揃えた20フィートコンテナ4本（無処理・内側断熱ブランケット・屋根のみ塗布・屋根と側壁に塗布）を比較する形で行われた。",
-      "無処理は53℃に達し試験期間の3分の1超で40℃を上回った一方、全面塗布は34.2℃以下に収まり日最高温度の低減幅は平均17.5℃。電力を使わず機材の熱負荷を抑える手法として、ドライコンテナの保管・輸送にも応用余地がある。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "RTC buys SBB Cargo’s entire 100-wagon Tagnpps grain fleet",
-    "title_ja": "RTC Europe、SBB Cargoの穀物車100両を一括取得",
-    "source": "RailMarket",
-    "url": "https://railmarket.com/news/rolling-stock/64042-rtc-buys-sbb-cargo-s-entire-100-wagon-tagnpps-grain-fleet",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "RTC Europe が SBB Cargo の保有する Tagnpps 型穀物ホッパー車100両（25両編成4本）の全量を取得した。",
-      "Tagnpps は食品用ばら積み貨物向けの4軸大容量ホッパー車で、積載容積96.5立方メートル、最大積載量66.5トンの仕様を持つ。",
-      "RTC Europe は自社運用ではなく既存取引先への再販を想定し、主に東欧発の穀物輸送での運用を見込む。4週間前には DB Cargo から Tagds 型53両を取得している。"
-    ],
-    "collected_at": "2026-10-02T13:28:54-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Public data shines spotlight on U.S. Class I railroad carload service",
-    "title_ja": "Class I鉄道の貨車サービス実績、STB週次データで初公開",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/public-data-shines-spotlight-on-u-s-class-i-railroad-carload-service/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "STBが7月8日から義務付けた manifest・ローカル輸送の週次サービス報告が、9月29日に初めて公開された。",
-      "アナリストのRick Patersonが13週分の実績を集計し、10月2日付の週次レポート「State of the Rails」で公表した。",
-      "2022年の乗務員不足による広域サービス混乱時の臨時報告制度が恒久化した形だが、Patersonは事業構成・地理・算定方法の違いから鉄道間の単純比較には数%の誤差を見込むべきと警告している。"
-    ],
-    "collected_at": "2026-10-03T06:27:21-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Freight rates into US reach post-Hormuz crisis peak – but no collapse is in sight",
-    "title_ja": "極東発米国向けスポット運賃、Hormuz危機後のピークに到達",
-    "source": "Hellenic Shipping News (Xeneta)",
-    "url": "https://www.hellenicshippingnews.com/freight-rates-into-us-reach-post-hormuz-crisis-peak-but-no-collapse-is-in-sight/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "Xenetaは、極東発米国向けスポット運賃が10月1日に再上昇したものの、2026年のHormuz危機後のピークに達したとの見方を示した。",
-      "上げ幅は米西岸向けが1.4%、米東岸向けが0.7%にとどまる一方、危機前の2月28日比では依然それぞれ344%、335%高い水準にある。",
-      "転換の背景として、台風シーズン終了に伴うアジア側の港湾混雑の緩和と、中国の国慶節連休による10月第1週の輸出減をXenetaのPeter Sand氏は挙げており、極東発北欧州・地中海向けはより早くピークを打って下落中。"
-    ],
-    "collected_at": "2026-10-03T06:27:21-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: World Container Index Down 1% Last Week",
-    "title_ja": "Drewryのコンテナ運賃指数、1%下落し4,434ドル",
-    "source": "Hellenic Shipping News (Drewry)",
-    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-1-last-week-12/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "10月1日時点のDrewry World Container Index（WCI）は40フィート当たり4,434ドルと前週比1%下落し、アジア発欧州向けの下げが主因となった。",
-      "太平洋航路では上海発ニューヨーク向けが1%上昇の10,428ドル、上海発ロサンゼルス向けは7,835ドルで横ばいだった。",
-      "船社は抜港（blank sailing）で船腹を調整しており、翌週の予定は今週の13便から10便に減少、供給はやや増加する見通し。"
-    ],
-    "collected_at": "2026-10-03T06:27:21-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "FMC ‘flexing its muscles’ as it looks to support MARAD",
-    "title_ja": "FMC委員長、定期船会社への監視強化とMARAD支援を表明",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/regulations/fmc-flexing-its-muscles-as-it-looks-to-support-marad",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "FMCのLaura DiBella委員長がニューヨークで開かれたCapital Link年次海事フォーラムで、規制対象である国際定期船社に対し「FMCはかなり大きく力を行使していく」と述べた。",
-      "多数の調査を実施済みで、今後複数の執行措置が動き出すとし、海事分野全体に対してより広く能動的な姿勢を取ると説明した。",
-      "同席したMARADのSydney Plante戦略エンゲージメント担当代理の発言とともに、米国商船隊の再建に向けFMCがMARADを支援する方針が示された。"
-    ],
-    "collected_at": "2026-10-03T06:27:21-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Senators' bill would provide pay raises for FRA inspectors",
-    "title_ja": "上院議員2氏、FRA安全検査官の給与引き上げ法案を提出",
-    "source": "Trains",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGVrNWcxQ19aVmdQMnQ2RW5IZVcxU0R4eVBPRmhTcUdfLVkxQW5wTmFSUXlTanhSOE9Pd25NaHB1NVJ6cEtva19WNEh4RldGRjV6dGlKZm4zZjNTOGdKbzR1eHN1ZHNlQVNFdk90dmExRjFac0ZXZzhEUUZLdXpPa3oxczVta1kwWm1GaFBMdGN4UXJKTHJHUw?oc=5",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "ジム・ジャスティス（共和・ウェストバージニア）とゲーリー・ピーターズ（民主・ミシガン）の両上院議員が、連邦鉄道局（FRA）の鉄道安全検査官の給与を引き上げる超党派法案を提出した。",
-      "法案は検査官報酬の改善を通じて有資格者の採用と定着を図る内容と報じられており、複数媒体が同じ趣旨で伝えている。",
-      "FRA の検査官給与は長年、連邦の人事・給与基準の下で制約されてきたとされ、検査体制の確保という業界共通の課題に関わる動きとなる。"
-    ],
-    "collected_at": "2026-10-03T13:26:23-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Leo Mobility Management orders ‘configurable’ coaches from Magyar Vagon",
-    "title_ja": "新興リース Leo Mobility、客車200両をMagyar Vagonに発注",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/coach/2026/10/02/leo-mobility-management-orders-configurable-coaches-from-magyar-vagon/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "リース会社 Leo Mobility Management が、ハンガリーの Magyar Vagon Vasúti Kft に対し、事業者の要件に応じて車内を構成できるモジュール式客車「Neo」200両を発注した。",
-      "同社は Leo Express 創業者の Leoš Novotný 氏が設立し、チェコの投資会社 Creditas Group が支援しており、発注は InnoTrans 2026 で公表された。",
-      "車両は最高速度200km/h で内装を用途別に組み替えられ、購入ではなくリースで欧州の鉄道事業者に提供する計画で、200両はより広い展開の第一弾と位置づけられている。"
-    ],
-    "collected_at": "2026-10-04T13:27:40-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Class I Briefs: CPKC, CSX, UP",
-    "title_ja": "CPKC、カナダ産穀物を第8週までに499万トン輸送",
-    "source": "Railway Age",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtX0RubldrWGpLOW0xVGZDRTNKYTVUUWQzRUZVU1ZBVUg2eERXSnV4cE5iVWFUTE1LYzlvY1lYQldfWHE0LVlKRVNKeHktNnR5Si1BZEtTaVR3NDdwWlBRUmNPazd1NkFqNTNpcmN2U1gzZTRoc1VBd2NB?oc=5",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "CPKCは穀物年度第8週までに、カナダ産穀物・穀物製品を499万トン超、5万1,268車輸送したと報告した。",
-      "CSXは第35回短距離鉄道カンファレンスを開催し、UPはシュリーブポート（ルイジアナ州）拠点で安全記録の節目を迎えた。",
-      "UPは重量・車両位置・勾配・機関車配置を物理モデルで最適化するPhysics Train Builderを活用し、出発前の編成段階で燃費と安全性を高めているとしている。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Buchanan Secures Win for U.S. Industry as Customs and Border Protection Affirms Finding of Duty Evasion By Importer of Freight Rail Couplers from China and Mexico",
-    "title_ja": "CBP、Greenbrierの連結器関税回避認定を再審査でも維持",
-    "source": "PR Newswire (Buchanan Ingersoll & Rooney)",
-    "url": "https://www.prnewswire.com/news-releases/buchanan-secures-win-for-us-industry-as-customs-and-border-protection-affirms-finding-of-duty-evasion-by-importer-of-freight-rail-couplers-from-china-and-mexico-302897353.html",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "米税関国境警備局(CBP)は10月2日、Greenbrier が中国・メキシコ産の貨車用連結器(FRC)に対するAD/CVD命令の納付を回避していたとする5月18日のEAPA認定を、再審査のうえ維持した。",
-      "CBP は、同社が連結器を装着した貨車を正式な輸入申告の対象外と扱い、AD/CVDの現金供託や関税を納付していなかった点を重大な不作為と判断した。",
-      "今後は対象連結器について正式輸入申告が必要となり、同社は調査対象期間の不適合の是正を求められるため、貨車の製造コストと国境を越えた車両運用に影響が及ぶ可能性がある。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Track access charges in Germany to explode: +75%",
-    "title_ja": "ドイツの線路使用料、12月改正で貨物は75%上昇へ",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/policy/2026/10/02/track-access-charges-in-germany-to-explode-75/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "ケルン行政裁判所が10月1日、連邦ネットワーク庁が6月に約73億ユーロと定めた DB InfraGO の総費用上限を取り消し、約82億ユーロに引き上げる判断を示した。",
-      "線路使用料(TAC)への補助金も3億4500万ユーロから2億ユーロへ縮小されるため、業界団体 Die Güterbahnen は12月のダイヤ改正で鉄道貨物の TAC が現行年度比で75%上昇すると見込んでいる。",
-      "DB InfraGO は標準区分で少なくとも12.5%の引き上げが可能とされ、欧州の貨車・機関車リース利用者にとって運行コストの前提が大きく変わることになる。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Train owner companies pay out record £390m in dividends last year",
-    "title_ja": "英ROSCo3社、過去最高の3億9,000万ポンド配当",
-    "source": "Morning Star",
-    "url": "https://morningstaronline.co.uk/article/train-owner-companies-pay-out-record-ps390m-dividends-last-year",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "英国の鉄道車両の約70%を保有するROSCo3社（Angel Trains、Eversholt Rail、Porterbrook）が、2025年に過去最高の約3億9,000万ポンドの配当を実施したことが決算公表で明らかになった。",
-      "内訳はEversholt Railが2億ポンド、Angel Trainsが1億1,100万ポンド、Porterbrook Holdingsが8,000万ポンドで、3社CEOの報酬は合計約340万ポンド（Porterbrook Mary Grant氏144万ポンド、Eversholt Mary Kenny氏133万ポンド、Angel Trains Malcolm Brown氏70万ポンド）だった。",
-      "政府が鉄道車両の調達・リース方針の見直しを打ち出した直後の公表で、鉄道労組はROSCoへの課税（levy）導入を求めている。"
-    ],
-    "collected_at": "2026-10-07T06:30:10-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "personnel",
-    "title": "Piper Sandler Establishes Infrastructure Debt Advisory Team in London",
-    "title_ja": "Piper Sandler、ロンドンにインフラデット助言チーム新設",
-    "source": "Piper Sandler",
-    "url": "https://www.pipersandler.com/news/piper-sandler-establishes-infrastructure-debt-advisory-team-london",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "Piper Sandlerが10月2日、ロンドン拠点でインフラ向けデット・アドバイザリーチームを新設すると発表した。",
-      "チームはNomura InternationalでEMEAデット助言責任者を務めたStewart Robinson氏が率い、Hugo Muller氏とAnish Shah氏をディレクターとして採用した。",
-      "同チームはエネルギー・電力・インフラ部門に統合され、インフラ企業のデット調達・資本調達案件の助言を担う。"
-    ],
-    "collected_at": "2026-10-07T06:30:10-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Port Congestion Ties Up 12% of Global Container Shipping Capacity",
-    "title_ja": "港湾混雑が世界船腹の12%を吸収、4年ぶり高水準",
-    "source": "gCaptain",
-    "url": "https://gcaptain.com/port-congestion-ties-up-12-of-global-global-container-shipping-capacity/",
-    "published_at": "2026-10-02",
-    "summary_ja": [
-      "C.H. Robinsonの10月版Edge Reportによると、世界のコンテナ船腹の約12%が港湾混雑に吸収され、過去4年で最も高い水準に達した。",
-      "影響は東アジア・北欧・インド亜大陸で特に大きく、船腹供給自体は比較的潤沢でも荷主が実際に使える輸送能力は目減りしている。",
-      "連休明けの荷動き回復が力強ければ主要便の満載と運賃水準が維持され、回復が弱ければ10月後半にスペースが緩む見通しで、機材の回転率と空コンテナの偏在に直結する。"
-    ],
-    "collected_at": "2026-10-07T13:30:32-07:00"
   }
 ]
