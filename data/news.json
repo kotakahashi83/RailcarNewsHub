@@ -1,6 +1,51 @@
 [
   {
     "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Cosco: Shipping vs Ports – same parent, not quite siblings",
+    "title_ja": "Cosco、船社部門は81%増益も港湾子会社は横ばい",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/cosco-shipping-vs-ports-same-parent-not-quite-siblings/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "中国国有船社 Cosco Shipping Holdings の2026年第3四半期利益は前年同期比81%増と大幅に伸びた。",
+      "港湾混雑と長距離の迂回航行で船腹が拘束され運賃が上昇したことが増益要因で、一方で傘下のターミナル運営会社 Cosco Shipping Ports の利益はほぼ横ばいだった。",
+      "中国の主力ターミナルは能力上限に近く、Citi は2027年初にかけた季節的な緩和を見込むものの港湾ボトルネックは残るとみており、コンテナ機材の回転制約が続く可能性がある。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "German wagon keepers urge parliament to reverse rail freight funding cuts",
+    "title_ja": "独の貨車保有者団体VPI、鉄道貨物補助の削減撤回を議会に要求",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDE2QWRQeVl4TFBRMXUtRlpyRGFRc05YOHlRa3FxaE1KMktLUDdkSHVqUUI3SEFFVkl1Q1R5Q1lWZWt4d204WWM1ZzhfbElfTDAwZjlLRDR5Slk0MmYwOU5sRkJRMGl0RlAzaW5BUzhEcjVlY1lUNjFraUo0bGE5U2VPU3ZlMmptdkVKRklHN1JlcWUtd011a050SVQtX01YVElDWlAtS2stS0JfTUZFQV9yNE1zRk96Tkhsdkx2cHNjQWc?oc=5",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "ドイツの貨車保有者団体 VPI が、連邦議会に対し2027年予算案の鉄道貨物向け補助削減を撤回するよう改めて求めた。",
+      "予算案では線路使用料への補助が約6,500万ユーロ削減され、単車（単一貨車）輸送への支援縮小も盛り込まれているとされる。",
+      "VPI の Malte Lawrenz 会長は線路使用料制度の改革が実現するまで現行支援を維持すべきだと主張しており、削減は欧州の貨車リース需要の基盤となる貨物量を下押ししかねない。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Igneo sails past target to close EDIF IV on €6bn hard-cap",
+    "title_ja": "Igneo、欧州インフラ4号を60億ユーロのハードキャップで完了",
+    "source": "Infrastructure Investor",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2lLTm52cnNwWmhpRmRORm13aWpueVNERzJYckdFOXNuN2xhUG9RcXNxQkZZdENyNlVDNUdGaU9ENlFxTUFWUFZvYm1UVlV3QVM1WXpWcDFiMVA0ZTFaS2stV1Y2cnhOdEU5WWNmRTN6dXViRFFhMVdBSW9ldXVjVmx5dWZiMXBZMGJjRy1DU0h3THJhRlR2Z2Y1YjRJZw?oc=5",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "Igneo Infrastructure Partners が欧州ディバーシファイド・インフラファンド4号(EDIF IV)を60億ユーロのハードキャップで最終クローズしたと報じられた。",
+      "当初目標を上回る調達で、ファーストクローズからわずか約6カ月での到達とされる。",
+      "前身の EDIF III（最終クローズ約53億ユーロ）を上回る規模で、欧州のインフラ実物資産に対する機関投資家の資金需要が引き続き強いことを示す。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
+  },
+  {
+    "category": "container_leasing",
     "kind": "news",
     "title": "Asia-US container rates mixed as capacity tightens, import demand slows; tanker rates mostly higher",
     "title_ja": "アジア発米国向けコンテナ運賃、強弱混在で高値圏を維持",
@@ -28,6 +73,36 @@
       "中国の主要港や積替拠点シンガポールが混雑を吸収したことで滞船が緩和し、上海発の一部航路では小幅な値下がりもみられた。"
     ],
     "collected_at": "2026-11-02T06:32:04-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "Trinity books 2,190 Q3 railcar orders, sees 2026 industry deliveries below 25,000",
+    "title_ja": "Trinity、Q3受注2,190両 業界納入は2.5万両割れ見通し",
+    "source": "Railway Supply",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmpXbC1VVm53Tlhmd1ZNRjMwSTZCcC1iWEN0RzhSZ3RMVks5azF2TUg3VVI1QnBrVmt4TmRjb0JnNUxPb21IRDVhZDZlLXhwT0RkUEloeTVBNEI4Tk44aVNTNGVNekNVTGpDYjMwRnF1cmpJN3h0SzVwWjRWOUhUcFpPNE9xSnR6S1h2ajhTN1ktQno2U2IyZEQ2M0VheFgwSEs5c3E3akx6Zw?oc=5",
+    "published_at": "2026-11-01",
+    "summary_ja": [
+      "Trinity Industries は2026年第3四半期に新造貨車2,190両を受注し、納入2,030両を上回った。受注が納入を超えたのは5四半期ぶり。",
+      "受注は前年同期の350両から急増、納入も前年同期1,680両から増え前四半期比では約29%増で、新造貨車の受注残は約16.5億ドル。",
+      "同社は2026年の業界全体の納入を25,000両未満（第3四半期までで約16,000両）と見込み、2026年が納入のサイクル底になるとの見方を示した。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Talks continue with watchmen at ports of LA and Long Beach",
+    "title_ja": "LA・LB港の監視員労組、スト期限を11月5日に延長し交渉継続",
+    "source": "Trains Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1Qwc1B6M1pQeHQ5QUgtVzYtN29fMklLdW43LVlWcGdtQ3FhSnBmcy03VVRnREk3TnU2Si1oQ0hOZzRFWkVQbmEwZjlxWlJsS3RNY0F0LXhrdktsMTk4SnhIMVk2cW9fS3pPYjItRVZmMkxWbXRHRS1wc2ZmTXhKYVBULUMyb0p0WVpXRmpiMVpBcFRnU0hUMGg1OGFrdUdybDZidm43QlQ?oc=5",
+    "published_at": "2026-11-01",
+    "summary_ja": [
+      "ロサンゼルス・ロングビーチ港の使用者団体 PMA と ILWU Local 26 は交渉期限を11月1日から11月5日に延長し、連邦調停局(FMCS)の支援下で交渉を続けている。",
+      "対象は監視員(watchmen)約250人で、両港の ILWU 労働者の約2%にすぎないが、担当ターミナルはロングビーチ貨物の約85%、ロサンゼルスの約33%を扱う。",
+      "ストに至れば他の ILWU 組合員がピケを尊重し本船・ヤード・ゲート作業が止まる恐れがあり、すでに滞留が発生している西岸のコンテナ機材回転をさらに圧迫しうる。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
   },
   {
     "category": "rail_industry",
@@ -88,6 +163,21 @@
       "両港では既に3万5,000個超の輸入コンテナが鉄道輸送待ちで滞留しており、ストが実施されればコンテナ機材の回転悪化と滞留の長期化が懸念される。"
     ],
     "collected_at": "2026-10-31T13:25:44-07:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Proposed rail merger puts focus on grain rates and service",
+    "title_ja": "UP-NS合併審査、穀物の運賃とサービスに農業団体が懸念",
+    "source": "Brownfield Ag News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcXRGVFFhS0tvNmVFdVNBZmVsRE9jMFVobmxEY3ZneHY4ZkJBaE1PZXdlbTZmb2NPTHBBOHFBNHVjWXZQYVI2VGI4ZWgzUEVCampPUWtTdFBULVkxa0U4YV9aN3I5LTg3dGhSUUxvRHZRbG14OWdUTllnUXhfRGdOZ1FESVJfVkJ4bllFNkJCRHM3cTlEa2psQw?oc=5",
+    "published_at": "2026-10-31",
+    "summary_ja": [
+      "Union Pacific と Norfolk Southern の合併審査をめぐり、穀物業界では運賃水準と輸送サービスへの影響に関心が集まっていると報じられた。",
+      "全米穀物飼料協会(NGFA)によると農産品は年間約320万車が鉄道輸送されており、American Farm Bureau Federation はルートと相互接続の選択肢が減ることを理由に合併に反対している。",
+      "両社は相互接続の遅延解消と輸送時間短縮を主張し、公約した便益が実現しない場合に荷主が監督期間中に運賃へ異議を申し立てられる制度も提案している。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -613,6 +703,21 @@
       "一方でフォワーダーは需要減速とスペース確保の容易化を指摘し、船社は11月の値上げと減便（ブランクセーリング）を併用、LA/ロングビーチ港で11月1日に始まり得るストも機材需給の不確実要素となっている。"
     ],
     "collected_at": "2026-11-01T06:26:08-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "GATX railcar utilization hits 98.4% as lease renewal gains slow to 12.4%",
+    "title_ja": "GATX、貨車稼働率98.4%も更新料率の上昇は12.4%に鈍化",
+    "source": "Railway Supply",
+    "url": "https://www.railway.supply/gatx-railcar-utilization-hits-98-4-as-lease-renewal-gains-slow-to-12-4/",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "GATX の2026年第3四半期のリース料率指数(LPI)は更新時の料率上昇が+12.4%となり、前年同期の+22.8%、前四半期の+16.8%から2四半期連続で伸びが鈍化した。",
+      "北米鉄道事業の貨車稼働率は四半期末で98.4%（前四半期98.0%、前年同期98.9%）、更新成功率は86.1%、LPI対象の平均更新リース期間は52カ月（前四半期54カ月）。",
+      "新造貨車の供給制約と継続的な貨車退役が高稼働を支える一方、料率の上昇モメンタムは明確に減速しており、レッサーの今後の収益成長はより緩やかになる可能性がある。"
+    ],
+    "collected_at": "2026-11-02T13:20:53-08:00"
   },
   {
     "category": "container_leasing",
