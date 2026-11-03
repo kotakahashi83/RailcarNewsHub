@@ -45,6 +45,66 @@
     "collected_at": "2026-11-02T13:20:53-08:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific appeals decision requiring public release of Vena speech",
+    "title_ja": "UP、Vena CEO 演説動画の公開命令を STB に不服申立て",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/union-pacific-appeals-decision-requiring-public-release-of-vena-speech/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "Union Pacific は10月30日、Vena CEO の SWARS 講演動画の公開を命じた行政法判事の判断を STB に不服申立てし、審理中の公開の一時停止も求めた。",
+      "CPKC は11月2日、UP が10月28日の申立て期限を過ぎていると主張し、直ちに命令の履行を命じるよう STB に申し立てた（CPKC は11月4日までに反論を提出予定）。",
+      "BNSF、CSX と荷主連合も UP の申立てに反対する意見を提出し、11月18日の荷主意見提出期限をにらんだ時間稼ぎだと批判している。"
+    ],
+    "collected_at": "2026-11-03T06:23:21-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "ONE expands container reuse services to Switzerland with Avantida",
+    "title_ja": "ONE、Avantida と組みスイスでコンテナ再利用を開始",
+    "source": "Container News",
+    "url": "https://container-news.com/one-expands-container-reuse-services-to-switzerland-with-avantida/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "Ocean Network Express (ONE) は Avantida との連携により、スイスで輸入コンテナを輸出貨物に転用できるコンテナ再利用サービスを開始した。",
+      "対象の輸入コンテナをデポに返却せずそのまま輸出に充当する street turn 方式で、空コンテナの不要な移動とトラック走行・待機時間を削減する。",
+      "内陸での空コンテナ回送が減ることで輸送コストと混雑が軽減され、機材の回転効率が改善するとしている。"
+    ],
+    "collected_at": "2026-11-03T06:23:21-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Gdansk recorded increased cargo handling",
+    "title_ja": "Port of Gdansk、1-9月のコンテナ取扱個数が21%増",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-gdansk-recorded-increased-cargo-handling/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "ポーランドの Port of Gdansk は2026年1-9月の貨物取扱量が6,520万トンとなり、前年同期の5,910万トンから10%超増えたと発表した。",
+      "コンテナ貨物は2,110万トンで17.6%増、コンテナ取扱個数は約200万TEUから約250万TEUへ21%増、一般貨物全体は2,350万トン（18%増）となった。",
+      "石炭は36%増の670万トン、穀物は33%増の210万トンで、バルト海側ゲートウェイでのコンテナ機材需要の底堅さを示す内容となっている。"
+    ],
+    "collected_at": "2026-11-03T06:23:21-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "IMs, operators hand Commission agreed plan on temporary capacity restrictions",
+    "title_ja": "欧州鉄道業界、工事規制TCRの共通案を欧州委に提出",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWDlTUlRBMjFoRnU3WkZETjhPa1dOZmJhMjR0enNVUEdlRU5xVXNHYWFDSHp0VHFPdkNIVGVhUWpudE5yT01IWi0zQzVsUy14NFlHNnE5dUdYU0FhQmUtNkNxbHdPMVlrQkVvbmdFRXRMUVZVYzNTb3hfYlo1NFBmOEFubTd6NjYzZG5sUVl3UTd3QTMxUHl5ajlSaUNoZVlSckNtdEo1dG9MdVM5VjgyZmdTZGRxZ3NIRERKdHRUY2JqZHBsNU53?oc=5",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "欧州のインフラ管理者(IM)と鉄道事業者は、工事に伴う一時的容量制限(TCR)の運用について合意した共通案を欧州委員会に提出したと報じられた。",
+      "EU 容量規則の委任法令（第11条9項・第37条）策定に向けた作業で、RailNetEurope が2026年5月に立ち上げたセクター共同の取り組みが土台になっている。",
+      "貨物側はこれまで法的な担保がなければ IM の一方的な工事計画が続くと警告しており、合意案が貨車運用の予見性をどこまで高めるかが焦点となる。"
+    ],
+    "collected_at": "2026-11-03T06:23:21-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Asia-US container rates mixed as capacity tightens, import demand slows; tanker rates mostly higher",
@@ -2068,6 +2128,21 @@
       "取引は株主および規制当局の承認を前提に2027年前半の完了が見込まれ、ABP は2006年に28億ポンドで非公開化された経緯がある。"
     ],
     "collected_at": "2026-11-02T06:32:04-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "FreightCar America Acquires Trinity Equipment Company",
+    "title_ja": "FreightCar America、貨車部品の Trinity Equipment を買収",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/mechanical/freight-cars/freightcar-america-acquires-trinity-equipment-company/",
+    "published_at": "2026-10-21",
+    "summary_ja": [
+      "FreightCar America は貨車部品・締結部品を供給する Trinity Equipment Company (TEC) の買収を完了したと発表した（完了は10月20日と報じられている）。",
+      "TEC は1986年設立のミシガン州拠点の独立系サプライヤーで、OEM向けと補修用の貨車部品・ファスナーを扱う（買収額は非開示）。",
+      "同社のアフターマーケット買収は約1年で3件目（2025年12月 Carly Railcar Components、7月 Southern Parts & Equipment）で、経営陣は即時の利益貢献を見込むとしている。"
+    ],
+    "collected_at": "2026-11-03T06:23:21-08:00"
   },
   {
     "category": "container_leasing",
@@ -4798,80 +4873,5 @@
       "命令は確定しておらず、UPは異議を申し立てて労働省の行政法判事による審理を請求している。同社は2026年3月にもサンアントニオの職員の案件で31万ドル超の支払いを命じられている。"
     ],
     "collected_at": "2026-10-12T13:27:25-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Adriatic Gate Container Terminal reaches milestone at port of Rijeka",
-    "title_ja": "Rijeka の AGCT、累計取扱量400万TEUに到達",
-    "source": "Container News",
-    "url": "https://container-news.com/adriatic-gate-container-terminal-reaches-milestone-at-port-of-rijeka/",
-    "published_at": "2026-10-04",
-    "summary_ja": [
-      "ICTSI 傘下でクロアチア最大の海港 Rijeka を拠点とする Adriatic Gate Container Terminal（AGCT）が、2011年の ICTSI グループ参加以降の累計取扱量400万TEUに到達した。",
-      "200万TEU通過から5年、ICTSI との提携開始から15年目での達成で、同港を通るコンテナ取扱量が継続的に伸びていることを示す。",
-      "取扱貨物の多くは鉄道・道路でオーストリア、チェコ、ハンガリー、セルビア、スロバキアなどの内陸市場へ流れており、アドリア海ゲートウェイとしての役割が拡大している。"
-    ],
-    "collected_at": "2026-10-04T13:27:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Asia-US container rates rise, could be at peak; liquid chem tanker rates ex-USG tick higher",
-    "title_ja": "アジア発米国向けコンテナ運賃、2022年来の高値圏でピーク観測",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-rise-could-be-at-peak-liquid-chem-tanker-rates-ex-usg-tick-higher/",
-    "published_at": "2026-10-04",
-    "summary_ja": [
-      "アジア・中国発米国向けのコンテナ運賃は、船社が抜港（ブランクセーリング）で船腹を調整したことから週間でおおむね上昇した。",
-      "米西岸向けは1FEU当たり7,550〜8,400ドル、米東岸向けは9,600〜1万2,000ドルで、いずれも2022年半ばの高値に近い水準にある。",
-      "翌週の抜港予定は13便から10便に減り、国慶節連休で中国の工場が停止することから、Drewryは運賃に下押し圧力がかかるとみている。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Intra Asia Container Index Up 2% Last Week",
-    "title_ja": "Drewryのアジア域内コンテナ指数、6週連続で過去最高",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-up-2-last-week/",
-    "published_at": "2026-10-04",
-    "summary_ja": [
-      "Drewryのアジア域内コンテナ指数（IACI）は前週比2%上昇し、40フィートコンテナ当たり1,518ドルとなった。",
-      "複合指数は6週連続で過去最高を更新し、台風による混乱と港湾混雑が需給を引き締めた。",
-      "船社は抜港や寄港地飛ばしで供給を絞っており、運航コストの上昇も運賃を押し上げる要因になっている。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Rail suppliers warn €1.2bn EU research partnership has no successor yet",
-    "title_ja": "UNIFE、12億ユーロのEU鉄道研究枠組みに後継なしと警告",
-    "source": "Railway Supply",
-    "url": "https://www.railway.supply/rail-suppliers-warn-e1-2bn-eu-research-partnership-has-no-successor-yet",
-    "published_at": "2026-10-04",
-    "summary_ja": [
-      "欧州鉄道産業連盟（UNIFE）は、12億ユーロ規模のEurope's Rail Joint Undertakingについて、2028〜2034年のEU予算に後継枠組みが用意されていないと警告した。",
-      "9月30日に欧州議会で開かれた会合で、UNIFEのEnno Wiebe事務局長や欧州議会議員らが後継プログラムの必要性を訴えた。",
-      "研究資金が途絶えればDAC（デジタル自動連結器）やFRMCSの開発・展開が滞り、研究開発費が欧州大手の3倍以上とされる中国勢に押されると主張している。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Macquarie reveals $99m Technomar boxship refinancing",
-    "title_ja": "Macquarie、Technomarのコンテナ船7隻に9,900万ドルの再融資",
-    "source": "Splash247",
-    "url": "https://splash247.com/macquarie-reveals-99m-technomar-boxship-refinancing/",
-    "published_at": "2026-10-04",
-    "summary_ja": [
-      "Macquarieは、George Youroukos氏率いるTechnomar Groupの船主会社に対し、コンテナ船7隻の再融資を含む9,900万ドルのシニアローンを供与したと明らかにした。",
-      "対象船名・金利・満期は公表しておらず、同社のギリシャ海運向け融資残高は75件超・10億ドル以上に達する。",
-      "Macquarieは2017年のAtlas Maritime案件以降、ギリシャ海運に20億ドル超を投じており、輸送実物資産向けプライベートクレジットの広がりを示している。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
   }
 ]
