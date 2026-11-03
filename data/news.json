@@ -1,5 +1,65 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Upswing in domestic demand gives railfreight operators a revenue boost",
+    "title_ja": "北米インターモーダル主要4社、トラック逼迫で揃って増収",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/upswing-in-domestic-demand-gives-railfreight-operators-a-revenue-boost/",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "The Loadstarは11月3日、北米の主要インターモーダル事業者4社が10月までの3カ月間に揃って増収となり、国内貨物需要の回復とトラック輸送能力の引き締まりが追い風になったと報じた。",
+      "Union Pacificは同四半期のインターモーダル収入が前年同期比27%増の15億2,000万ドル、輸送量は11%増の95万6,000カーロードで、同社はトラック輸送能力の縮小を増加要因に挙げた。",
+      "UPのKenny Rocker営業・マーケティング担当EVPは国内インターモーダルが輸送量・収入ともに5四半期連続で過去最高を更新したと述べ、UP-NS統合審査が続くなかでもモーダルシフトの受益が広がっていることを示した。"
+    ],
+    "collected_at": "2026-11-03T13:24:10-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container freight rates diverge as NYFI rises and Drewry WCI falls",
+    "title_ja": "コンテナ運賃指標が分岐、NYFI上昇もDrewry WCIは下落",
+    "source": "Container News",
+    "url": "https://container-news.com/container-freight-rates-diverge-as-nyfi-rises-and-drewry-wci-falls/",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "最新の週次評価でコンテナ運賃指標の方向が分かれ、NYSHEX運賃指数(NYFI)は対象5航路すべてで上昇した一方、DrewryのWorld Container Index(WCI)とFreightos Baltic Index(FBX)は下落した。",
+      "太平洋航路で差が顕著で、NYFIは米国東西両岸で上昇したのに対し、Drewryは上海発ロサンゼルス向け・ニューヨーク向けでいずれも明確な下落を記録した。",
+      "中国系指標は小動きで、SCFIは10月30日時点で前週の3,681.34から0.16%上昇の3,687.35ポイント、CCFIは1,876.27から0.30%上昇の1,881.82ポイント、NCFIは下落した。"
+    ],
+    "collected_at": "2026-11-03T13:24:10-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Vote opens on controversial Port of LA workforce disclosure rules",
+    "title_ja": "ロサンゼルス市、港湾リースの雇用情報開示義務を住民投票に",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/vote-opens-on-controversial-port-of-la-workforce-disclosure-rules/",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "ロサンゼルス市民は11月3日、市の空港・港湾・水道電力局に関する改正案Charter Amendment PRTの住民投票に臨み、同案には港湾局(Harbor Department)のリースに新たな雇用情報の開示義務を課す内容が含まれる。",
+      "可決されれば一部の新規リースおよび延長・変更の申請者は雇用と経済への影響に関する情報提出を求められ、港湾委員会(Board of Harbor Commissioners)がこれを審査する仕組みとなる。",
+      "Pacific Maritime Association(PMA)やPacific Merchant Shipping Association(PMSA)を含む50を超える業界・サプライチェーン団体が反対連合を組み、ターミナル用地のリース条件への影響が争点となっている。"
+    ],
+    "collected_at": "2026-11-03T13:24:10-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Allianz Infrastructure Credit Opportunities Fund II closes at €1.5b",
+    "title_ja": "AllianzGI、インフラ債務ファンド2号を15億ユーロでクローズ",
+    "source": "Institutional Real Estate, Inc.",
+    "url": "https://irei.com/news/allianz-infrastructure-credit-opportunities-fund-ii-closes-at-e1-5b/",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "Allianz Global Investors(AllianzGI)はAllianz Infrastructure Credit Opportunities Fund II(AICOF II)の最終クローズを15億ユーロ(約17億ドル)で完了し、当初目標の10億ユーロを上回った。",
+      "出資は欧州とアジアの機関投資家に分散しており、同ファンドはインフラ債務のシニアと劣後の各層に投資してリスク調整後リターンを狙う戦略を掲げる。",
+      "報道によれば既に約10億ユーロを案件にコミット済みで、AllianzGIは同戦略を継続する後継ファンドの立ち上げを計画している。"
+    ],
+    "collected_at": "2026-11-03T13:24:10-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Cosco: Shipping vs Ports – same parent, not quite siblings",
@@ -103,6 +163,21 @@
       "貨物側はこれまで法的な担保がなければ IM の一方的な工事計画が続くと警告しており、合意案が貨車運用の予見性をどこまで高めるかが焦点となる。"
     ],
     "collected_at": "2026-11-03T06:23:21-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CPKC: STB ‘Should Order Compliance Immediately’",
+    "title_ja": "CPKC、UPの不服申立ては期限切れとSTBに即時履行を要求",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/news/cpkc-stb-should-order-compliance-immediately/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "CPKCはSTBへの申立てで、UPのJim Vena CEOによる2026年3月SWARS基調講演の録画を公開せよとした行政法判事(ALJ)の10月23日決定について、STBが即時の履行を命じるべきだと主張した。",
+      "CPKCはALJ決定への不服申立て期限が5暦日(10月28日)だったとしてUPの10月30日申立ては期限切れだと述べ、UP側はSTB規則上7日以内で適時だと反論している。",
+      "CPKCはUPの対応が11月18日の荷主意見提出期限までの時間稼ぎだと批判し、UPの不服申立てと執行停止申請への反論を11月4日までに提出するとしている。"
+    ],
+    "collected_at": "2026-11-03T13:24:10-08:00"
   },
   {
     "category": "container_leasing",
@@ -928,6 +1003,21 @@
       "STBの審査が続くなか、UPのCEO発言動画の開示命令と相まって、荷主への報復リスクが審査の争点に浮上している。"
     ],
     "collected_at": "2026-10-29T13:24:01-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Container Manufacturing Promotion Scheme Wins ₹10,000 Crore Cabinet Approval",
+    "title_ja": "インド、10.5億ドル規模のコンテナ製造支援策を閣議承認",
+    "source": "Maritime Gateway",
+    "url": "https://www.maritimegateway.com/container-manufacturing-promotion-scheme-wins-%E2%82%B910000-crore-cabinet-approval/",
+    "published_at": "2026-10-28",
+    "summary_ja": [
+      "インドの連邦閣議は10月28日、総額1,000億ルピー(約10億5,000万ドル)のコンテナ製造促進スキーム(CMPS)を承認し、2039〜40年度までを支援対象期間とした。",
+      "報道によれば年間のコンテナ生産能力を現在の約7万TEUから約10倍の75万TEUへ引き上げる狙いで、新規工場と既存設備の拡張の双方に資金支援・生産補助・試験設備・港湾用地の優遇提供を行う。",
+      "設備立ち上げに3年、生産支援に10年を認める枠組みで、Sonowal海運相は約1兆ルピーの投資を呼び込みうるとしており、中国勢に集中する新造コンテナ供給の構図に影響する可能性がある。"
+    ],
+    "collected_at": "2026-11-03T13:24:10-08:00"
   },
   {
     "category": "container_leasing",
