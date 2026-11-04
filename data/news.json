@@ -2,6 +2,66 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "AAR reports Rail Traffic for the week ending October 31, 2026",
+    "title_ja": "AAR週次輸送量、10月31日週は3.5%増に伸び鈍化",
+    "source": "Material Handling Wholesaler (AAR)",
+    "url": "https://www.mhwmag.com/nuts-bolts/aar-reports-rail-traffic-for-the-week-ending-october-31-2026/",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "AARによると10月31日までの週の米国鉄道輸送量は貨車とインターモーダルの合計で51万4,080単位となり、前年同週比3.5%増だった。",
+      "内訳は貨車が23万3,816車で3.0%増、インターモーダルが28万264個で3.9%増で、穀物が2,092車減の2万3,078車、雑貨が1,162車減の8,369車、石炭が224車減の5万5,042車と減少した。",
+      "前週（10月24日週）の7.8%増から伸びは大きく鈍化したが、年初43週累計は2,211万5,264単位で3.8%増、北米全体の週間輸送量は71万5,620単位の4.3%増を維持している。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Freightos Weekly Update: Asia - US air rates already nearing last year's high on peak season volumes",
+    "title_ja": "Freightos週報、アジア発欧州向け海上運賃が1カ月で最大23%上昇",
+    "source": "Container News",
+    "url": "https://container-news.com/freightos-weekly-update-asia-us-air-rates-already-nearing-last-years-high-on-peak-season-volumes/",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "アジア発北欧州向けコンテナ運賃は1カ月で10%、地中海向けは23%上昇し、直近では地中海向けが前週比3%高の4,375ドル/FEU、北欧州向けが3,595ドル/FEUでほぼ横ばいとなった。",
+      "紅海経由への復帰が進みピーク後の需要減速が見込まれるなかでの上昇で、北欧州ハブの混雑や極東の積み残し、欧州各港での1日ストライキが押し上げ要因と指摘されている。",
+      "船社は月初に1,000〜1,500ドル/FEUのGRIを計画し中旬にも追加引き上げを予定するが、週初の実勢は横ばいで、浸透するかどうかフォワーダーの間には懐疑的な見方もある。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Transpacific the most profitable container trade by far, says Alphaliner",
+    "title_ja": "太平洋航路の収益性が突出、1海里当たり1.30ドル",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/transpacific-the-most-profitable-container-trade-by-far-says-alphaliner/",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "Alphalinerの分析によると、中国発米西岸のスポット輸送は1海里当たり最大1.30ドルの運賃収入を生み、主要コンテナ航路で最も収益性が高い。",
+      "上海-米西岸のSCFIは7月以降3,063〜3,687ポイントのレンジで推移し、40フィート当たり約7,500ドルの水準を上海-ロサンゼルス間5,775海里で割った試算が根拠となっている。",
+      "2022年1月に記録したコロナ期のピーク5,110ポイントには届かないものの足元は高水準で、中国-欧州航路との1海里当たり収益の差が拡大している。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Barking reopening recedes into mid November",
+    "title_ja": "Barking脱線の復旧、11月中旬以降にずれ込む",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/04/barking-reopening-recedes-into-mid-november/",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "10月23日に発生したBarkingでの貨物列車脱線の復旧が難航しており、旅客側の運休は少なくとも11月10日まで続くと公表された一方、貨物輸送の正常化時期は依然として不透明である。",
+      "運行会社GBR Angliaは信号設備やケーブルなどの損傷が大きく約1.2kmの線路更新が必要としており、再開日を示していない。",
+      "Tilbury および Tilbury2 では鉄道貨物の運行が止まり、鉄道が取扱量の27%を担う London Gateway も縮小運行が続いているほか、North London線などの旅客列車で迂回ルートの容量も限られている。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "Upswing in domestic demand gives railfreight operators a revenue boost",
     "title_ja": "北米インターモーダル主要4社、トラック逼迫で揃って増収",
     "source": "The Loadstar",
@@ -253,6 +313,21 @@
       "同社は同じ発表で Projektbahn による旧ドイツ鉄道 ICE 2 車両の取得をファイナンスしたことも明らかにした。"
     ],
     "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Avolon, I Squared Capital and Abu Dhabi Investment Authority Launch Constellation Aviation, a New Aircraft Leasing and Infrastructure Investment Platform",
+    "title_ja": "Avolon・I Squared・ADIA、航空機リース新会社Constellationを設立",
+    "source": "I Squared Capital",
+    "url": "https://isquaredcapital.com/news/avolon-isq-aida-launch-constellation-aviation/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "航空機リース大手Avolon、インフラ投資のI Squared Capital、アブダビ投資庁（ADIA）の子会社は11月2日、航空機リースとインフラ投資を手がける新プラットフォーム Constellation Aviation の設立で合意したと発表した。",
+      "Constellation は Avolon から市場価値14億ドル相当の航空機22機をシード資産として取得する見込みで、平均機齢は約5年、15カ国17社の航空会社にリースされている。",
+      "Avolon は少数株主として残りつつ独占的な機材マネージャー兼サービサーを務める一方、取引金額などの詳細は非開示で、実行は関係当局の承認が条件となっている。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
   },
   {
     "category": "container_leasing",
@@ -613,6 +688,21 @@
       "完成すればバンクーバー港のコンテナ取扱能力は約50%増え、北米西岸の鉄道インターモーダル輸送の容量にも影響する。"
     ],
     "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "CIMC Group Announces Results for the First Three Quarters of 2026",
+    "title_ja": "CIMC、1-9月のドライコンテナ販売が14%増の205.5万TEU",
+    "source": "CIMC (JCN Newswire)",
+    "url": "https://www.jcnnewswire.com/pressrelease/111246/3/CIMC-Group-Announces-Results-for-the-First-Three-Quarters-of-2026",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "コンテナ最大手CIMCは2026年1-9月期決算を公表し、ドライコンテナの累計販売量が205万5,000TEUで前年同期比約14.05%増となった。",
+      "第3四半期単独のドライコンテナ販売は約92万TEUで、前年同期比・前四半期比ともに約35%増と伸びが加速した。",
+      "リーファーコンテナは南米の果物輸送需要を背景に累計15万2,600TEUを販売しており、上期時点では1.12%増にとどまっていたドライの販売がQ3に大きく上振れた形となる。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -1573,6 +1663,21 @@
       "同社は10月19日に、顧客が契約を履行しない可能性が高いとしてタンク車改造受注1,285両を受注残から除外し2026年見通しを下方修正しており、9月末の受注残は2,660両・2億8,450万ドルとなっている。"
     ],
     "collected_at": "2026-11-02T06:32:04-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Certain Railway Tank Cars and Parts Thereof From Mexico",
+    "title_ja": "商務省、メキシコ製タンク車のAD/CVD調査開始判断を11月9日に延期",
+    "source": "Federal Register (U.S. Department of Commerce)",
+    "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21792/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and",
+    "published_at": "2026-10-26",
+    "summary_ja": [
+      "米商務省は9月30日にUTLX Manufacturingが提出したメキシコ製タンク車および部品の反ダンピング・相殺関税申請について、調査開始の可否を判断する期限を延長する告示を10月26日付で出した。",
+      "延長理由は申請書だけでは業界支持（industry support）の要件を満たすかが明確でないためで、新たな判断期限は11月9日、事件番号は A-201-872（AD）および C-201-873（CVD）となる。",
+      "申請は12.70〜32.58%のダンピングマージンを主張しており、メキシコでタンク車を製造する Trinity Industries と Greenbrier はいずれも申請内容に反対の立場を表明している。"
+    ],
+    "collected_at": "2026-11-04T13:23:33-08:00"
   },
   {
     "category": "rail_industry",
