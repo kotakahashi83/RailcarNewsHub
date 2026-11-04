@@ -60,6 +60,66 @@
     "collected_at": "2026-11-03T13:24:10-08:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Wabtec Announces Pricing of Senior Notes Offering",
+    "title_ja": "Wabtec、5億ドルの2037年満期シニア債を起債",
+    "source": "SEC EDGAR (Wabtec)",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126041841/ef20084613_ex99-1.htm",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "Wabtec が 2037年2月25日満期・利率5.900%のシニア債5億ドルの公募価格を決定したと発表した。",
+      "利払いは半年ごとで、同社の信用契約などを保証する現在・将来の子会社が連帯保証する。",
+      "調達資金とリボルビング・短期枠・CPでの借入を合わせ、11月15日満期の3.450%債の償還に充てる。"
+    ],
+    "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Q3 traffic: Short lines' tallies still mostly in the black",
+    "title_ja": "米短距離鉄道、第3四半期の輸送量は概ね増加基調",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/RailPrime/details/Q3-traffic-Short-lines-tallies-still-mostly-in-the-black--78072",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "RailConnect Index によると、10月3日までの39週で444社の小規模鉄道が約460万車を扱い前年同期比3.3%増となった。",
+      "14の品目群のうち7つが増加、7つが減少し、石炭は21%減と最も落ち込んだ。",
+      "持株会社では Watco の第3四半期車両数が11.8%増、一方 Alaska Railroad は砂利と石油需要の減少で6.7%減となった。"
+    ],
+    "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Fears a strike at San Pedro Bay ports could worsen congestion",
+    "title_ja": "LA/LB港の監視員、11月4日夕にスト突入の構え",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/fears-a-strike-at-san-pedro-bay-ports-could-see-congestion/",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "LA/ロングビーチ港のコンテナターミナルで保安業務を担う監視員約250人が、交渉決裂なら11月4日午後5時（太平洋時間）に職場を離脱する構えを見せている。",
+      "PMA によれば労働停止が起きればロングビーチ港のコンテナ取扱量の85%が影響を受け、監視員は2025年7月の協約失効後も延長下で就労している。",
+      "荷主や物流事業者からは、既に悪化している同港の滞留をストが一段と深刻化させ機材の回転を阻害するとの懸念が出ている。"
+    ],
+    "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "I Squared Capital hits $3bn for infra credit strategy",
+    "title_ja": "I Squared、インフラ債務2号を30億ドルでクローズ",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/03/i-squared-capital-hits-3bn-for-infra-credit-strategy/",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "I Squared Capital がインフラ債務戦略の2号ファンド ISQ Global Infrastructure Credit Fund II を最終クローズした。",
+      "本体で24億ドル超、共同投資ビークルで約6億ドルを加え戦略全体で30億ドルとなり、当初目標15億ドルの2倍・前号の4倍の規模となった。",
+      "すでに7件の投資で資本の約37%をコミット済みで、同社は資本市場のリスク再評価を背景に柔軟な貸し手への需要が強いとしている。"
+    ],
+    "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Cosco: Shipping vs Ports – same parent, not quite siblings",
@@ -178,6 +238,21 @@
       "CPKCはUPの対応が11月18日の荷主意見提出期限までの時間稼ぎだと批判し、UPの不服申立てと執行停止申請への反論を11月4日までに提出するとしている。"
     ],
     "collected_at": "2026-11-03T13:24:10-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "SRI Rail Invest orders a Vectron Dual Mode for its electric fleet",
+    "title_ja": "SRI Rail Invest、Vectron Dual Modeを1両発注",
+    "source": "Railway Supply",
+    "url": "https://www.railway.supply/sri-rail-invest-orders-a-vectron-dual-mode-for-its-electric-fleet/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "独リース会社 SRI Rail Invest が Siemens Mobility に Vectron Dual Mode 機関車1両を発注したと発表した。",
+      "車番は248 223-0で、納入は2027年末から2028年初めの見込み。契約額や賃借先は公表されていない。",
+      "同社は同じ発表で Projektbahn による旧ドイツ鉄道 ICE 2 車両の取得をファイナンスしたことも明らかにした。"
+    ],
+    "collected_at": "2026-11-04T06:24:43-08:00"
   },
   {
     "category": "container_leasing",
@@ -523,6 +598,21 @@
       "Cook Political Report は同選挙を「共和党やや有利」と分類する一方で終盤に差が縮まっているとされ、STB の合併審査に対する政治的圧力が強まる可能性がある。"
     ],
     "collected_at": "2026-11-02T06:32:04-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Ottawa lists Roberts Bank port expansion in B.C. as project of national interest",
+    "title_ja": "カナダ政府、Roberts Bank T2拡張を国益案件に指定",
+    "source": "BNN Bloomberg",
+    "url": "https://www.bnnbloomberg.ca/business/politics/2026/10/30/ottawa-lists-roberts-bank-port-expansion-in-bc-as-project-of-national-interest/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "カナダ連邦政府は10月30日、バンクーバー港の Roberts Bank Terminal 2 拡張を「国益上の案件」に正式指定した。",
+      "事業費は金融費用を除き59億カナダドルで、残る連邦の許認可を一本化した手続きで処理し開業を約4年早められるとしている。",
+      "完成すればバンクーバー港のコンテナ取扱能力は約50%増え、北米西岸の鉄道インターモーダル輸送の容量にも影響する。"
+    ],
+    "collected_at": "2026-11-04T06:24:43-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4738,230 +4828,5 @@
       "DGTは8月初旬以降ターミナル保管料をゼロに据え置き、10月1日着岸船から段階的に通常の保管条件へ戻す方針で、空コンテナの回転や機材確保への影響は当面続く見通し。"
     ],
     "collected_at": "2026-10-11T13:27:01-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Railway Tank Cars and Parts Thereof From Mexico; Institution of Antidumping and Countervailing Duty Investigations and Scheduling of Preliminary Phase Investigations",
-    "title_ja": "USITC、メキシコ製タンク車の反ダンピング調査を開始",
-    "source": "Federal Register (USITC)",
-    "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20349/railway-tank-cars-and-parts-thereof-from-mexico-institution-of-antidumping-and-countervailing-duty",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "USITCは10月5日、メキシコ産の鉄道タンク車と部品を対象とする反ダンピング・相殺関税調査（701-TA-809、731-TA-1810）の予備段階調査を開始した。",
-      "申立人はUTLX Manufacturingで、ダンピングマージンを12.70〜32.58%、補助金もデミニミス超と主張している。",
-      "予備裁定の期限は11月16日で、肯定的な予備決定が出れば相殺関税は2026年12月、反ダンピング関税は2027年3月から現金担保の対象となりうる。"
-    ],
-    "collected_at": "2026-10-05T06:29:57-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Empty box pile-up at port of Manila sparks truckers’ strike",
-    "title_ja": "マニラ港で空コンテナ滞留、トラック業者が3日間のストへ",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/empty-boxes-chaos-at-port-of-manila-sparks-truckers-strike/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "マニラで3日間のトラックストライキが予定され、通関業者と運送業者はこれに先立ち自主的に業務を停止した。",
-      "船社が空コンテナを引き取らない状態が1年続き、ターミナルや業者ヤードに数千本が滞留、港からの搬出は貨物量の約10%にとどまる。",
-      "Hapag-Lloyd は混乱を受けてブッキングを停止し、業界団体 PCBPTA の Reynaldo Soliman 会長は抗議が「1週間続く可能性」があると警告している。"
-    ],
-    "collected_at": "2026-10-05T13:30:14-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Divide between Asia-US and Asia-Europe rates at historic levels",
-    "title_ja": "アジア発の北米向けと欧州向け運賃格差が過去最大水準に",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/divide-between-asia-us-and-asia-europe-rates-at-historic-levels/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "Sea-Intelligence の分析で、アジア発北米向けスポット運賃とアジア発欧州向けの価格差が過去最大の水準に達した。",
-      "アジア-米東岸と北欧州の差は直近週に40フィート当たり7,026ドルで、2021年6月の従来記録3,179ドルの2倍超となった。",
-      "アジア-米国が上昇し欧州が下落する構図が続くため、同社はこの裁定差が数カ月持続しうるとみている。"
-    ],
-    "collected_at": "2026-10-05T13:30:14-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "South Korea-Russia ocean volumes boosted by rail congestion in China",
-    "title_ja": "中国の鉄道混雑で韓国-ロシア間の海上コンテナ輸送が増加",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/south-korea-russia-ocean-volumes-boosted-by-rail-congestion-in-china/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "中国とロシアを結ぶトランス・チャイナおよびシベリア鉄道の混雑が進み、韓国-ロシア間の海上コンテナ輸送に荷動きが移っている。",
-      "8月は釜山から極東ロシアのウラジオストクなどへ3万3,000TEU超が輸送され、積み替えを除く輸出は8,000TEU、9月の輸出は前月比10%増の8,800TEUと推計される。",
-      "スペース不足による貨物の「ロールオーバー」が増加し、船社は今月からより大型船の投入を検討している。"
-    ],
-    "collected_at": "2026-10-05T13:30:14-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Railroad Development Corp. seeing expansion in the U.S. and abroad",
-    "title_ja": "短距離鉄道持株 RDC、米欧で事業領域の拡大が進行",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/short-lines-regionals/railroad-development-corp-seeing-expansion-in-the-u-s-and-abroad/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "ピッツバーグを本拠とする Railroad Development Corp.（RDC、Henry Posner III 会長）が InnoTrans に出展し、欧州子会社の主要経営陣も揃えて拡大する事業領域を説明した。",
-      "欧州事業はこの10年で、ドイツの小規模な旅客運行とフランスの短距離貨物鉄道から、ドイツでのオープンアクセス営利旅客列車の運行へと大きく広がった。",
-      "ドイツ最北のジュルト島への鉄道連絡では自動車を載せたフラットカーで年8,000人超を運んでおり、同島は道路で結ばれず鉄道のみでアクセスできる。"
-    ],
-    "collected_at": "2026-10-05T13:30:14-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Italy unveils its first DAC demo train",
-    "title_ja": "FS Logistix、イタリア初の DAC デモ列車をボローニャで公開",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/technology/2026/10/05/italy-unveils-its-first-dac-demo-train/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "イタリア国鉄系の FS Logistix が、デジタル自動連結器（DAC）を搭載したイタリア初のデモ列車を公開した。",
-      "公開は欧州10大インターモーダルターミナルの一つ Interporto Bologna で行われ、来年イタリアで予定される試験に向けた初披露となる。",
-      "インターモーダル輸送向けに機関車6両と貨車120両へ DAC を搭載する計画で、CEO の Sabrina De Filippis は欧州の鉄道イノベーションの具体例をボローニャに持ち込んだと述べた。"
-    ],
-    "collected_at": "2026-10-05T13:30:14-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Aviva Investors buys infra CLO in private debt expansion",
-    "title_ja": "Aviva Investors、英インフラ債権を裏付けとする CLO を取得",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/05/aviva-investors-buys-infra-clo-in-private-debt-push/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "Aviva Investors が英国のインフラ向けローンを裏付けとする Adriana Infrastructure CLO を取得し、プライベートデット事業を拡大した。",
-      "同 CLO は2008年に組成され、PPP・PFI 方式で実行された英インフラローンのポートフォリオが裏付けで、同社は2013年からシニア債に投資してきた。",
-      "運用資産2,730億ポンドの同社は、今回の取得によりインフラ・プライベートデット事業をインフラ担保 CLO などの証券化実物資産投資へ広げると説明している。"
-    ],
-    "collected_at": "2026-10-05T13:30:14-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Trinity Industries Statement on Antidumping and Countervailing Duty Petition Filed Against Railway Tank Car Imports from Mexico",
-    "title_ja": "Trinity、メキシコ製タンク車の反ダンピング申立てに全面抗弁",
-    "source": "Stock Titan (Trinity Industries)",
-    "url": "https://www.stocktitan.net/news/TRN/trinity-industries-statement-on-antidumping-and-countervailing-duty-0d1l54p1yikc.html",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "Trinity Industries は、Berkshire Hathaway 傘下の UTLX Manufacturing がメキシコ製タンク車に対して申し立てた反ダンピング・補助金相殺関税の請願に全面的に抗弁すると表明した。",
-      "メキシコの Monclova 工場は1998年から北米生産網の一部で、タンク車事業では米国内で2,500人超を雇用し、同工場には米国産鋼材を供給していると説明した。",
-      "商務省と ITC の双方の手続きに積極的に参加する方針で、調査の帰結はメキシコ生産に依存するタンク車の供給コストに影響しうる。"
-    ],
-    "collected_at": "2026-10-06T06:30:53-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Tank car builders square off over Mexican imports",
-    "title_ja": "Greenbrier、タンク車の対メキシコ関税申立てに反論",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/mechanical/freight-cars/tank-car-builders-square-off-over-mexican-imports/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "Greenbrier は UTLX の請願が「事実にも法にも支持されていない」として、自社の実績を強く擁護する姿勢を示した。",
-      "同社はアーカンソー州 Marmaduke にタンク車専用工場を構え、米国人従業員が現にタンク車を製造していると強調した。",
-      "請願した UTLX は Berkshire Hathaway 傘下で、メキシコからの輸入タンク車がダンピングと補助金を受けていると主張しており、北米タンク車の供給をめぐる貨車メーカー間の対立が鮮明になった。"
-    ],
-    "collected_at": "2026-10-06T06:30:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Automotive logistics specialist leases electro-diesel locos",
-    "title_ja": "ARS Altmann、European Loc Pool から Euro9000 を2両リース",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/freight/2026/10/05/automotive-logistics-specialist-leases-electro-diesel-locos/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "自動車物流を手がける ARS Altmann が、リース会社 European Loc Pool から Stadler Euro9000 電気ディーゼル機関車2両をフルサービスリースで導入する。",
-      "用途はオーストリアを経由するブレンナー回廊の国際輸送で、運行対象国すべてで型式認可を持つため機関車の付け替えが不要になる点を評価した。",
-      "Euro9000 は電化区間で最大9MW・起動牽引力500kN、非電化区間では合計約1.9MWのディーゼル2基で入換やラストマイル輸送に対応する。"
-    ],
-    "collected_at": "2026-10-06T06:30:53-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "CIP Scores Over $1.3 Billion Commitment from NBIM for New Clean Energy Infrastructure Fund",
-    "title_ja": "NBIM、CIP の新旗艦インフラ基金に12億ユーロを出資",
-    "source": "ESG Today",
-    "url": "https://www.esgtoday.com/nbim-commits-over-1-3-billion-to-cips-new-flagship-clean-energy-infrastructure-fund/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "ノルウェー政府系ファンドの運用主体 NBIM が、Copenhagen Infrastructure Partners の新旗艦ファンド CI VI に12億ユーロ(約13.4億ドル)を出資すると発表した。",
-      "CI VI は今年立ち上げられ目標調達額は160億ユーロとされ、前身の CIP V は2025年に120億ユーロでファイナルクローズしている。",
-      "資金は北米・西欧・アジア太平洋の OECD 諸国で再生可能エネルギーの発電と蓄電に投じられ、機関投資家による実物資産への大型配分が続いている。"
-    ],
-    "collected_at": "2026-10-06T06:30:53-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Yilport invests €100m in Leixões North Container Terminal",
-    "title_ja": "Yilport、Leixões北コンテナTに1億ユーロ投資",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/yilport-invests-e100m-in-leixoes-north-container-terminal/",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "トルコ拠点の港湾運営会社Yilportが、ポルトガル・Leixões港の北コンテナターミナルに1億ユーロを投資すると報じられた。",
-      "同ターミナルはポルトガル政府が2035年までにLeixões港へ投じる9億3,100万ユーロ計画の中核で、うち7億1,200万ユーロは民間負担とされる。",
-      "北ターミナルは年間取扱能力100万TEU規模を目標としており、イベリア半島北部でのコンテナ機材の取り扱い能力拡大につながる可能性がある。"
-    ],
-    "collected_at": "2026-10-07T06:30:10-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "personnel",
-    "title": "Barings appoints Sloan Sutta as global head of asset-based finance",
-    "title_ja": "Barings、ABF責任者に Sloan Sutta 氏を起用",
-    "source": "Barings",
-    "url": "https://www.barings.com/en-us/guest/contact/media/news/barings-appoints-sloan-sutta-as-global-head-of-asset-based-finance",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "Barings は asset-based finance（ABF）のグローバル責任者として Sloan Sutta 氏を起用した。",
-      "同氏はニューヨークを拠点に Martin Horne グローバル投資共同責任者へ報告し、運用規模約600億ドル・投資プロフェッショナル65名超のABFプラットフォームの戦略を統括する。",
-      "ABF は設備・輸送機材リースの重要な資金調達チャネルでもあり、大手運用会社の体制強化はリース会社の調達環境に影響しうる。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "China Arctic service container ship returns to Asia via Suez",
-    "title_ja": "北極海航路の第1船、復航はスエズ経由に",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/china-arctic-service-container-ship-returns-to-asia-via-suez",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "中国の Sea Legend が8月に開設した中国〜欧州の北極海航路（NSR）で、第1船 Dubai Tower がアジアへの復航に NSR ではなくスエズ運河を使っている。",
-      "同社は寧波―舟山と英国を結ぶ航路で週8便の運航を計画し、夏季の NSR 利用は喜望峰経由に比べ輸送日数を大幅に短縮できる点が注目されていた。",
-      "復路のスエズ回帰は NSR の通年利用が難しいことを示し、航路選択を前提としたコンテナの回転日数・機材配置の見積もりに影響しうる。"
-    ],
-    "collected_at": "2026-10-09T13:26:37-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Union Pacific Railroad Fined $304K for Firing Employee During Severe Weather",
-    "title_ja": "OSHA、UPに雷リスク通報者の解雇で30万ドル超の支払い命令",
-    "source": "Insurance Journal",
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/10/05/887830.htm",
-    "published_at": "2026-10-05",
-    "summary_ja": [
-      "OSHA は Union Pacific が連邦鉄道安全法(FRSA)に違反したと認定し、最低30万4,869ドルの未払賃金・逸失給付・補償的および懲罰的損害賠償と弁護士費用の支払いと、記録の抹消を命じた。",
-      "対象はアーカンソー州ノースリトルロックの操車場職員で、落雷リスクを理由に安全上の作業中断を求めて就労を拒否した後に乗務を外され、2024年5月30日に解雇されていた。",
-      "命令は確定しておらず、UPは異議を申し立てて労働省の行政法判事による審理を請求している。同社は2026年3月にもサンアントニオの職員の案件で31万ドル超の支払いを命じられている。"
-    ],
-    "collected_at": "2026-10-12T13:27:25-07:00"
   }
 ]
