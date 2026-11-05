@@ -1,5 +1,20 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Maersk converts market opportunities into significantly higher earnings and raises full-year guidance",
+    "title_ja": "Maersk、通期 EBITDA 見通しを145億ドルへ上方修正",
+    "source": "Maersk",
+    "url": "https://www.maersk.com/news/articles/2026/11/05/maersk-higher-earnings-raises-full-year-guidance",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Maersk は11月5日、2026年通期の基礎的 EBITDA 見通しを105〜125億ドルから140〜145億ドルへ引き上げた（年内3度目の上方修正）。",
+      "第3四半期は売上高181億ドル（前年同期比27%増）、EBIT 33億ドルで、Ocean 部門の EBIT は約26億ドルと前年同期の約5.7億ドルから急拡大した。",
+      "アジアの台風シーズンによる混乱で世界平均の港湾待機時間は16.6時間と2023年1月以来の高水準となり、船腹稼働率96%、世界のコンテナ需要は前年同期比2〜4%増で通期は約4%増を前提とする。"
+    ],
+    "collected_at": "2026-11-05T06:24:18-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "AAR reports Rail Traffic for the week ending October 31, 2026",
@@ -58,6 +73,66 @@
       "Tilbury および Tilbury2 では鉄道貨物の運行が止まり、鉄道が取扱量の27%を担う London Gateway も縮小運行が続いているほか、North London線などの旅客列車で迂回ルートの容量も限られている。"
     ],
     "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Regulators reject UP appeal seeking to keep Vena speech confidential",
+    "title_ja": "STB、UP の機密維持申立てを却下し講演動画の公開を命令",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/regulators-reject-up-appeal-seeking-to-keep-vena-speech-confidential/",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "STB は11月4日、Vena CEO の講演録画の公開を命じた行政法判事の判断に対する Union Pacific の不服申立てを却下した。",
+      "UP は10月30日に Jenifer Soulikias 判事の決定を不服として申立てていたが、11月5日午後5時までに機密表示のない公開版を提出する必要がある。",
+      "STB は Vena 氏の発言が UP-NS 合併審査への当事者の参加意欲に影響している可能性に「重大な懸念」があると述べた。"
+    ],
+    "collected_at": "2026-11-05T06:24:18-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CPKC’s Creel delivers 12-minute broadside against UP-NS merger",
+    "title_ja": "CPKC の Creel CEO、UP-NS 合併を12分間にわたり批判",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/cpkcs-creel-delivers-12-minute-broadside-against-up-ns-merger/",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "CPKC の Keith Creel CEO が第3四半期決算説明会で、UP-NS 合併について12分14秒にわたる批判を展開した。",
+      "条件付き承認や譲歩ではなく申請自体の却下を求める立場で、11月18日に提出する意見書でも STB に却下を要請する方針を示した。",
+      "米国史上最大の鉄道統合となる案件について「これほどの市場支配力を永久に生むリスクは全く不要だ」と述べた。"
+    ],
+    "collected_at": "2026-11-05T06:24:18-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Jupiter Wagons receives orders and commitments for nearly 3,000 freight wagons in India",
+    "title_ja": "GATX India、ACT2 自動車輸送貨車270両の LOI を発給",
+    "source": "RAILMARKET.com",
+    "url": "https://en.railmarket.com/news/rolling-stock/65718-jupiter-wagons-receives-orders-and-commitments-for-nearly-3-000-freight-wagons-in-india",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "GATX India が Jupiter Wagons に対し、ACT2 型自動車輸送貨車270両（10編成、約2,000万ユーロ）の基本合意書（LOI）を発給した。",
+      "同時に Chetak International が135両（5編成）を正式発注し、私企業向け2件は計405両・約32億4,000万ルピー規模となる。",
+      "ACT2 は SUV など車高の高い車両を運ぶ2階建て貨車で、Jupiter Wagons は10月28日のインド鉄道省向け2,583両と合わせ約1億3,800万ユーロの受注を公表した。"
+    ],
+    "collected_at": "2026-11-05T06:24:18-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Triton International Declares Quarterly Dividends on Preference Shares",
+    "title_ja": "Triton、優先株7シリーズの四半期配当を決議",
+    "source": "Triton International",
+    "url": "https://www.tritoninternational.com/news/press-release/106042/triton-international-declares-quarterly-dividends-on-preference-shares",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "コンテナリース大手の Triton International が、Series A から G までの優先株7シリーズについて四半期配当を宣言した。",
+      "支払日は2026年12月15日、基準日は12月8日で、1株当たり配当は Series A（年8.500%）の0.53125ドルから Series E（同5.750%）の0.359375ドルまで。",
+      "Series G（年7.500%）の0.46875ドルは7月の前回決議から据え置きで、Brookfield 傘下に入った後も優先株の配当は従来水準を維持している。"
+    ],
+    "collected_at": "2026-11-05T06:24:18-08:00"
   },
   {
     "category": "rail_industry",
@@ -703,6 +778,21 @@
       "リーファーコンテナは南米の果物輸送需要を背景に累計15万2,600TEUを販売しており、上期時点では1.12%増にとどまっていたドライの販売がQ3に大きく上振れた形となる。"
     ],
     "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Automated Shunting Operations to move to pilot deployments after successful test",
+    "title_ja": "欧州の自動入換技術 ASO、実証成功でパイロット運用へ",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/10/30/automated-shunting-operations-to-move-to-pilot-deployments-after-successful-test/",
+    "published_at": "2026-10-30",
+    "summary_ja": [
+      "Wabtec が主導する共同プロジェクトが自動入換（ASO）の実証をウィーンの Albern Hafen 操車場で行い、次段階のパイロット運用に移行する。",
+      "実証は EU の鉄道研究プログラム Europe's Rail FP5 の「TRANS4M-R」の枠組みで実施された。",
+      "ASO は入換作業の生産性向上・人員不足の緩和・安全性改善が期待され、商用展開前の実地試験が次の節目となる。"
+    ],
+    "collected_at": "2026-11-05T06:24:18-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4693,245 +4783,5 @@
       "受注に備えてKnorr製ブレーキの実地研修を受け、台車測定用の測定アームを導入しており、将来は車輪交換サービスの提供も検討している。"
     ],
     "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Suez return a major threat to carrier efforts to halt transpac spot rate slide",
-    "title_ja": "スエズ復帰が運賃反転の最大の障害に、荷動きの伸びも鈍化",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/suez-return-a-major-threat-to-carrier-efforts-to-halt-transpac-spot-rate-slide/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "Linerlytica は、アジア-欧州航路で3カ月続く運賃下落を反転させるうえで最大の障害がスエズ運河経由への復帰だと指摘した。",
-      "MSC はアジア-北欧州の FAK 運賃を10月19日から20フィート3,150ドル、40フィート4,500ドルに引き上げる方針で、各社が10月下旬から値上げを進める。",
-      "国慶節の減便、新造船の竣工増、スエズ回帰が重なり TEU マイル需要は1月以来初めて減少に転じ、機材の回転と調達判断にも影響しうる。"
-    ],
-    "collected_at": "2026-10-06T06:30:53-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "UK freight could benefit from rolling stock reform",
-    "title_ja": "英GBRの車両調達改革、貨物は所管外ながら恩恵の余地",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/06/uk-freight-could-benefit-from-rolling-stock-reform/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "英政府が9月28日に公表した車両・インフラ戦略により、新造車両を民間保有・リースで調達する従来の前提が改められ、GBR が案件ごとに公有・リース等の資金調達方式を比較する。",
-      "貨物用車両は GBR の所管外だが、インフラ・電化・線路容量への長期的な投資計画を通じて供給網に確実性が生まれ、貨物も間接的に恩恵を受けうる。",
-      "鉄道産業協会(RIA)のダレン・キャプラン最高経営責任者は「貨物が明確に欠けている」と述べ、2050年までに鉄道貨物を75%増やす政府目標の支援を求めた。"
-    ],
-    "collected_at": "2026-10-06T06:30:53-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Greenbrier Responds to Trade Petition on Railway Tank Cars",
-    "title_ja": "Greenbrier、メキシコ製タンク車のAD提訴に反論",
-    "source": "PR Newswire (The Greenbrier Companies)",
-    "url": "https://www.prnewswire.com/news-releases/greenbrier-responds-to-trade-petition-on-railway-tank-cars-302899098.html",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "Greenbrier は、UTLX Manufacturing が9月30日に提出したメキシコ製鉄道用タンク車へのアンチダンピング・相殺関税提訴について「事実にも法にも裏付けられていない」として強く反対する声明を出した。",
-      "提訴は Greenbrier と Trinity Industries がメキシコで製造するタンク車を対象としており、同社は商務省と国際貿易委員会の調査に全面的に協力するとしている。",
-      "同社は貿易救済措置は競合他社の主張ではなく完全な事実記録に基づくべきだと主張しており、北米のタンク車供給をめぐるメーカー間の対立が鮮明になった。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "IBEW becomes latest union to oppose UP-NS merger",
-    "title_ja": "IBEW、UP・NS合併に反対を表明",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/ibew-becomes-latest-union-to-oppose-up-ns-merger/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "国際電気労働組合(IBEW)は10月6日、Union Pacific と Norfolk Southern の合併に反対する立場を明らかにし、反対する労働組合の列に加わった。",
-      "IBEW は機関車・通信・列車制御設備の設置保守にあたる1万人超を代表し、Kenneth W. Cooper 国際委員長は職種管轄・強制転勤・外注・雇用安定をめぐるUPとの協議が納得に至らなかったとしている。",
-      "すでに BLET、BMWED、IAM、TCU、TWU が反対しており、STB の審査案件(Docket No. FD 36873)で労働側の反対がさらに広がった形となる。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Capacity conundrum for shippers as carriers unveil post-Golden Week blanks",
-    "title_ja": "国慶節明けに欠便39便、アジア発スペースに不透明感",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/capacity-conundrum-for-shippers-as-carriers-unveil-post-golden-week-blanks/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "中国の国慶節休暇明けに荷動きが戻るのを前に、船社が相次いで減便(ブランクセーリング)を発表し、アジア発のスペース確保が読みにくくなっている。",
-      "Drewry の集計では第41週(10月5〜11日)から第45週(11月2〜8日)にかけて、太平洋航路・大西洋航路・アジア欧州航路の予定710航海のうち39便(5%)の欠便が公表され、その半数が太平洋航路に集中している。",
-      "欠便が続けば空コンテナの回送が滞り、積地での機材需給と返却サイクルに影響が出るため、リース機材の稼働や回収ペースにも波及する可能性がある。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "FMC targets Cosco with millions in late payment fines",
-    "title_ja": "FMC、Coscoの賠償金支払い遅延に巨額制裁を警告",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/regulations/fmc-targets-cosco-with-millions-in-late-payment-fines",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "米連邦海事委員会(FMC)は Cosco Shipping に対し、顧客への賠償金支払いを7か月以上遅延させたことについて、多額の遅延金を課されない理由を説明するよう命じた。",
-      "対象は2万4328.80ドルの賠償裁定だが、遅延金を加えると同社の負担は最大1670万ドルに達しうると FMC は警告している。",
-      "この裁定は Bridgewell Agribusiness が2025年7月に申し立てたもので、2022年の輸入コンテナに課されたディマレージ・ディテンション料金の不当性を争ったものであり、FMC の滞留料金規制の執行姿勢を示す事例となる。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "First ever overhauled Vectron delivered to Beacon Rail",
-    "title_ja": "Beacon Rail、初のオーバーホール済み Vectron を受領",
-    "source": "Railway PRO",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemlGWWs2ZmhXT3Z2emRWdm1jZFRqSERQeDN5aFdhX2NTWXBmdFB0WEYtN0xobnlQZlNHdEdYWGdGRkYybzJ6M28tU1RrVWo3QUdodk9abnNrV0p6U1VlanZPQ2VmVUNkUjVBSlBvckM0aFpFejYtQWFaZnZZVVM2LWVETWNTU01VQXFyVDN3?oc=5",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "欧州の鉄道車両リース会社 Beacon Rail に、Siemens 製 Vectron としては初となるオーバーホール(全般検査)済み機関車が納入されたと報じられた。",
-      "整備を担ったのはスロベニアの車両整備事業者 VIT とされ、同社は Vectron のオーバーホールに関する2年契約を獲得していると伝えられている。",
-      "Vectron は欧州の機関車リース市場の主力機種であり、本格的なオーバーホール事例の登場はリース各社の資産寿命延長戦略や中古機関車の評価に影響しうる。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Meridiam raises $4.5bn at final close of North America Core Fund",
-    "title_ja": "Meridiam、北米コアインフラ継続ファンドで45億ドル調達",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/meridiam-raises-4-5bn-for-multi-asset-cv/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "パリに本拠を置く Meridiam が、北米のコアインフラ資産を対象とする North America Core Fund の最終クローズで45億ドルを調達した。",
-      "同ファンドは複数資産を束ねた継続ビークル(CV)で、Meridiam が2026年に完了した2本目の CV にあたる。",
-      "インフラ実物資産では、既存ファンドの保有資産を長期保有に移す継続ビークルの活用が広がっており、大型の二次取引が資金循環の主要な出口になりつつある。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "LS Power Closes $6 Billion Fund VI for Energy Infrastructure Investments",
-    "title_ja": "LS Power、エネルギーインフラ6号ファンドを60億ドルで完了",
-    "source": "citybiz",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOW54NjZELTF3WWxHYVlDcldnYnNTV1JReFBtXzg1YnRRNF9heVZqZDBnRGNMbE9ybUVBcGItQ2RxcUxzOHVrTV9Td1BpSm5BWDFGaVJJMkRqdE1HZ0lXUjBYbEpYTkxMWDhpV3JlUmxUT3A4OTRHeUlBbUlUTXBlUnY0ajJ3cnlLXzRrWHFNQV9Ib1VGVVUzY2lRQnVoT1B2alByMmxyU0M5M2dLS2dN?oc=5",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "米 LS Power がエネルギーインフラ向けの6号ファンド(LS Power Equity Partners VI)を総額60億ドルでクローズしたと報じられた。",
-      "同ファンドは当初40億ドルを目標としていたとされ、2026年前半には Virginia Retirement System、Washington State Investment Board、New Mexico State Investment Council が相次いで出資を決めていた。",
-      "投資対象は北米のガス火力・再生可能エネルギー・蓄電・送電などの発電送電インフラで、機関投資家の実物資産への大型配分が続いていることを示す事例となる。"
-    ],
-    "collected_at": "2026-10-06T13:18:28-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Major chemical producer backs UP-NS merger",
-    "title_ja": "米PVC最大手Shintech、UP-NS合併を支持",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/major-chemical-producer-backs-up-ns-merger/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "米国最大のPVC（塩化ビニル樹脂）生産者Shintechが、UP-NS合併を支持する書簡をSTBに提出した。",
-      "同社は3カ所の生産拠点すべてでUPが鉄道貨物の100%を担う単独接続顧客で、ルイジアナ・テキサスでのSIT用側線拡張などUPのガルフ地域投資を評価した。",
-      "化学業界団体が合併の最有力な批判勢力となってきた中、主要荷主からの明確な支持表明は審査の論点に影響しうる。"
-    ],
-    "collected_at": "2026-10-07T06:30:10-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Senators introduce environmental permitting reform bill",
-    "title_ja": "超党派上院議員、環境許認可改革法案を提出",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/federal_legislation_regulation/news/Senators-introduce-environmental-permitting-reform-bill--77883",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "超党派の上院議員4名が9月30日、連邦の環境審査・許認可手続きを改革するBipartisan American Affordability and Jobs Act of 2026（S.5653）を提出した。",
-      "提案者はCapito環境公共事業委員長で、Whitehouse、Heinrich、Lee各議員が共同提案し、法案はエネルギー・天然資源委員会に付託された。",
-      "審査・訴訟提起の期限明確化、環境審査の範囲の明確化、水質浄化法401条認証の制限などを盛り込み、AARは貨物鉄道の設備投資が長期停滞する現状の改善につながるとして支持を表明した。"
-    ],
-    "collected_at": "2026-10-07T06:30:10-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container shippers focus on service delivery over cost",
-    "title_ja": "荷主、コンテナ輸送でコストより定時性を重視",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/container-shippers-focus-on-service-delivery-over-cost",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "Xenetaのアナリストによると、2027年の物流計画で荷主は運賃水準よりサービス品質・定時性を優先する姿勢に転じている。",
-      "2月末のイラン戦争開始以降、燃油サーチャージ（BAF）は2倍以上に上昇し、スポット運賃はアラビア湾向けで558%、南米東岸向けで466%、米国東岸・西岸向けで各327%・321%上昇した。",
-      "荷主の20〜35%が運賃下落を見込んで3カ月のローリング契約を選んだが、相場が高止まりしたまま交渉力を失う結果となった。"
-    ],
-    "collected_at": "2026-10-07T06:30:10-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Silence Is Not Opposition",
-    "title_ja": "UP、統合支持顧客は貨物量の3割超と主張",
-    "source": "Union Pacific",
-    "url": "https://www.up.com/announcements/customer-news/2026/CN2026-27",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "Union Pacificのマーケティング・販売担当EVPケニー・ロッカー氏が顧客向け書簡を公表し、NS統合について沈黙している顧客を反対派として数えるべきではないと主張した。",
-      "STBに支持意見書を提出済みの顧客はUPの輸送量の30%超を占めるとし、業界団体による1件の提出を顧客数として扱う対立陣営の集計手法を批判している。",
-      "統合案の本論に関する意見・条件付与要求の提出期限は2026年11月18日で、労組や荷主団体の反対表明が相次ぐなかでの顧客向け説得工作となる。"
-    ],
-    "collected_at": "2026-10-07T13:30:32-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Sea-Intelligence: Asian port congestion could persist into mid-2027",
-    "title_ja": "アジア港湾混雑、2027年半ばまで長期化の恐れ",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/sea-intelligence-asian-port-congestion-could-persist-into-mid-2027/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "Sea-Intelligence は、台風による滞船で積み上がったアジア主要港の混雑が2027年半ばまで解消しない可能性があると分析した。",
-      "世界の定時到着率はコロナ禍以降初めて50%を下回り、2025年6月の水準に戻るには7〜10か月を要すると試算している。",
-      "9月時点の同社試算は4.5〜6か月だったため回復見通しは後退し、2027年2月の春節前の需要期までに正常化しない恐れがある。"
-    ],
-    "collected_at": "2026-10-08T06:26:06-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Freight Rail Costs That Don't Appear in Freight Rates",
-    "title_ja": "鉄道運賃に表れない荷主負担コストを Railway Age が分析",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/regulatory/freight-rail-costs-that-dont-appear-in-freight-rates/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "Railway Age の寄稿は、鉄道とトラックのコスト比較で見落とされがちな、ラインホール運賃に含まれない荷主側負担のコストを論じた。",
-      "列車内で貨物に加わる力に耐えるための梱包・積付け費用や、紙ロールのように納入先の印刷ラインで初めて判明する貨物損傷の損失が荷主負担になる例を挙げた。",
-      "Union Pacific の運送約款では Carmack 条項に基づく補償上限の引き上げが別建ての有料オプションであり、列車の長大化・重量化で車両への作用力が増すとする FRA の研究も引用している。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Durban terminal delays drag on as minister calls for action to clear backlog",
-    "title_ja": "ダーバン港の滞留長期化、南ア運輸相が回復計画を要求",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/durban-terminal-delays-drag-on-as-minister-calls-for-action-to-clear-backlog/",
-    "published_at": "2026-10-06",
-    "summary_ja": [
-      "南アフリカの運輸相がダーバン・ゲートウェイ・ターミナル（DGT）を視察し、滞留解消に向けた詳細な回復計画の提出を求めた。",
-      "混乱は8月15日のターミナル運営システム（Navis N4）への移行が発端で、業界関係者の指摘では移行後に週間取扱量が約26%落ち込み、荷役機材の稼働制約も残っているとされる。",
-      "DGTは8月初旬以降ターミナル保管料をゼロに据え置き、10月1日着岸船から段階的に通常の保管条件へ戻す方針で、空コンテナの回転や機材確保への影響は当面続く見通し。"
-    ],
-    "collected_at": "2026-10-11T13:27:01-07:00"
   }
 ]
