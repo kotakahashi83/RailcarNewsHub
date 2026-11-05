@@ -15,6 +15,66 @@
     "collected_at": "2026-11-05T06:24:18-08:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Long Beach set to handle record 10m teu this year",
+    "title_ja": "Long Beach港、初の年間1,000万TEU超えの見通し",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Long Beach港のNoel Hacegaba CEOがロンドンのWorld Ports Conferenceで、2026年は同港として初めて年間1,000万TEUを超える見通しだと述べた。",
+      "9月単月の取扱量は997,177TEUで2024年10月の記録を上回る過去最高となり、1〜9月累計は約780万TEU（前年同期比3.9%増）に達した。",
+      "中国船籍・中国運航船を対象とするUSTR301条の港湾手数料導入が取り沙汰されたことやパナマ運河の先行き懸念を背景に、輸入の前倒しが太平洋航路の荷動きと機材需要を押し上げたとしている。"
+    ],
+    "collected_at": "2026-11-05T13:25:44-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Red Sea Diversion Tracker Shows Significant Increase in Suez Canal Transits",
+    "title_ja": "Drewry、スエズ運河のコンテナ船通航が前年比130%増",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-red-sea-diversion-tracker-shows-significant-increase-in-suez-canal-transits/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Drewryの隔週集計によると、11月1日までの週にスエズ運河を双方向で通航したコンテナ船は53隻となり、前年同週比で130%増えた。",
+      "アジア〜欧州航路の船腹の60%が既にスエズ経由に戻り、週50隻超の通航は5週続いて直近3週平均は57隻（前の3週平均比13%増）となっている。",
+      "約3年続いた喜望峰迂回の巻き戻しが進んでおり、航海日数の短縮はコンテナの回転改善を通じて機材需給に影響しうる。"
+    ],
+    "collected_at": "2026-11-05T13:25:44-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hapag-Lloyd unveils standalone AMX and ASX services linking Asia and Latin America",
+    "title_ja": "Hapag-Lloyd、アジア〜中南米に自社単独の2新サービス",
+    "source": "Container News",
+    "url": "https://container-news.com/hapag-lloyd-unveils-standalone-amx-and-asx-services-linking-asia-and-latin-america/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Hapag-Lloydが2027年の航路網拡充に向け、アジアとメキシコを結ぶAMXとアジアと南米東岸を結ぶASXの2サービスを自社単独運航で開設すると発表した。",
+      "AMXは2027年1月に週1便で開始し、寧波・青島・釜山・Ensenada・Manzanillo・Lázaro Cárdenasを直航で結ぶ構成で、ASXは同年4月に続く。",
+      "メキシコでの積み替えにより中南米西岸向けの接続も加わるため、同地域での空コンテナ配置や機材回転への影響が見込まれる。"
+    ],
+    "collected_at": "2026-11-05T13:25:44-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "State Attorneys General: Union Pacific’s Norfolk Southern deal fails the public interest test",
+    "title_ja": "複数州の司法長官、UP-NS統合は公益基準を満たさずと主張",
+    "source": "Florida Politics",
+    "url": "https://floridapolitics.com/archives/829813-state-attorneys-general-union-pacifics-norfolk-southern-deal-fails-the-public-interest-test/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "複数州の司法長官が、Union PacificによるNorfolk Southern買収は鉄道統合の認可要件である「公益に適合する」との基準を満たしていないとSTBに主張していると報じられた。",
+      "STBは2026年9月18日にBNSFやCSX、荷主団体が求めた申請の即時却下を全会一致で退けて本案審査に進めており、意見提出期限は2026年11月18日、反論期限は2027年2月16日とされている。",
+      "2026年にはモンタナ州やフロリダ州など7州の司法長官が修正申請の却下をSTBに求めており、競争減少による運賃上昇への懸念を軸に州側の反対が積み上がっている。"
+    ],
+    "collected_at": "2026-11-05T13:25:44-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "AAR reports Rail Traffic for the week ending October 31, 2026",
@@ -403,6 +463,21 @@
       "Avolon は少数株主として残りつつ独占的な機材マネージャー兼サービサーを務める一方、取引金額などの詳細は非開示で、実行は関係当局の承認が条件となっている。"
     ],
     "collected_at": "2026-11-04T13:23:33-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "EU approves €30 million in state aid for EUREGIO terminal near Aachen",
+    "title_ja": "欧州委、Aachen近郊の貨物ターミナルに2,930万ユーロの国家補助を承認",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/02/eu-approves-e30-million-in-state-aid-for-euregio-terminal-near-aachen/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "欧州委員会は2026年10月30日、ドイツのStolberg中央駅に建設される鉄道・道路の複合一貫輸送ターミナル向けに2,930万ユーロの国家補助を承認した（案件番号SA.122481）。",
+      "補助は施設を保有するEVS EUREGIO Verkehrsschienennetz GmbHへの直接交付で、ターミナルは2035年の供用開始、2037年のフル稼働を計画している。",
+      "同ターミナルはベルギー・オランダの港湾とドイツ内陸ターミナルを結ぶ拠点とされ、委員会はTFEU93条と陸上・複合輸送ガイドラインに基づき必要かつ比例的と判断した。"
+    ],
+    "collected_at": "2026-11-05T13:25:44-08:00"
   },
   {
     "category": "container_leasing",
@@ -1123,6 +1198,21 @@
       "新造貨車の供給制約と継続的な貨車退役が高稼働を支える一方、料率の上昇モメンタムは明確に減速しており、レッサーの今後の収益成長はより緩やかになる可能性がある。"
     ],
     "collected_at": "2026-11-02T13:20:53-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "earnings",
+    "title": "Ares Management Corporation Reports Third Quarter 2026 Results",
+    "title_ja": "Ares、第3四半期に310億ドル超の資金を調達",
+    "source": "SEC EDGAR (Ares Management)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001176948/000162828026067994/a2026q3-ex991.htm",
+    "published_at": "2026-10-29",
+    "summary_ja": [
+      "Ares Managementが2026年10月29日に発表した第3四半期決算で、総額310億ドル超の新規コミットメントを獲得し、その半分以上がクレジット部門以外からの資金だったと明らかにした。",
+      "総投融資額は350億ドル（うちドローダウン型ファンドで180億ドル超）、フィー関連利益は5億2,420万ドル、運用資産残高は6,900億ドル超となった。",
+      "インフラ・エクイティは四半期で3.7%のリターンを計上しており、同社は10月にKKRから貨車約5万両を保有するInfinity Transportationを企業価値29億ドルで取得することで合意している。"
+    ],
+    "collected_at": "2026-11-05T13:25:44-08:00"
   },
   {
     "category": "container_leasing",
