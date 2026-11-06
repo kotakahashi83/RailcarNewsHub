@@ -75,6 +75,126 @@
     "collected_at": "2026-11-05T13:25:44-08:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Watch: RailPulse Releases ‘Fleet Value Calculator’",
+    "title_ja": "RailPulse、貨車テレマティクスの投資効果試算ツールを公開",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/cs/watch-railpulse-releases-fleet-value-calculator/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "貨車テレマティクス連合のRailPulseが、フリートへのテレマティクス搭載による財務効果を試算する無料ツール「Fleet Value Calculator」を公開した。",
+      "利用者は保有車両数・リース料率・平均サイクルタイムを入力し、車両の所在不明や滞留料（demurrage）紛争など該当する課題を選ぶと想定リターンが算出される。",
+      "計算はブラウザ内で完結し入力値はサーバーに保存されないとしており、見落とされた側線での積車の発見やGPS記録と滞留料請求の突合といった実務例も示されている。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific releases video of CEO’s rate remarks at shipper conference",
+    "title_ja": "Union Pacific、Vena CEOの料率発言を含む講演動画を公開",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/union-pacific-releases-video-of-ceos-rate-remarks-at-shipper-conference/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Union Pacificは、Jim Vena CEOが3月のSouthwest Association of Rail Shippers年次総会（ヒューストン）で行った基調講演の動画（52分42秒）を公開した。",
+      "動画にはNorfolk Southern買収に反対する顧客の料率引き上げに言及したとされる問題の発言が含まれ、Venaは合併の利点を強調し顧客と取引する用意があると述べている。",
+      "STBは11月4日にUPの異議申立てを退けて機密指定の解除を維持しており、CPKCは同発言が審査手続きへの意見提出を萎縮させたと主張していた。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "personnel",
+    "title": "Conrail tabs Wright as president and chief operating officer",
+    "title_ja": "Conrail、John Wrightを社長兼COOに起用",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/conrail-tabs-wright-as-president-and-chief-operating-officer",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Norfolk SouthernとCSXが共同保有するConrailが、John Wrightを新しい社長兼最高執行責任者（COO）に起用した。",
+      "Wrightは直前までインディアナ州ハモンド拠点の入換・ベルトライン鉄道Indiana Harbor Belt Railroadのゼネラルマネージャーを務め、1996年にNSの車掌として鉄道業界でのキャリアを開始した。",
+      "退任するBrian Gortonの後任で、Conrailは従業員約920人、ニュージャージー州北部・南部/フィラデルフィアおよびデトロイトの3地区で1,200トラックマイルを運営している。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Norfolk Southern begins offering hiring bonuses for experienced conductors",
+    "title_ja": "Norfolk Southern、経験者車掌に最大5万ドルの入社ボーナス",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/norfolk-southern-begins-offering-hiring-bonuses-for-experienced-conductors/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Norfolk Southernが、経験のある車掌を対象に重点11拠点で5万ドル、他の7拠点で3万ドルの入社ボーナスを提供し始めた。",
+      "5万ドル対象はBinghamton、Cincinnati、Decatur、Elkhart、Fort Wayne、Princeton、Harrisburg、Louisville、Roanoke、Shire Oaks、Toledoの各ターミナル。",
+      "同社は現在および今後見込まれる輸送需要への対応を理由に挙げており、要員水準を早期に引き上げる狙いとみられる。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back",
+    "title_ja": "Xeneta、2027年のコンテナスポット運賃が30%下落と予測",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/xeneta-summit-analysts-forecast-ocean-freight-spot-rates-to-fall-30-in-2027-as-red-sea-return-sees-capacity-flooding-back/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Xenetaは「Ocean Outlook 2027」で、紅海航路への復帰により船腹が市場に戻り、2027年の世界平均スポット運賃が30%下落すると予測した。",
+      "長期契約運賃は5%下落、需要の伸びは2.5〜4%に減速する一方で船隊は6.8%（5.4〜8.3%のレンジ）拡大する見通しで、いずれも2026年第3四半期を基準とした2027年通年平均。",
+      "同社のPeter Sandは、過去3年も運賃下落が予想されながら2024年の紅海危機、2025年の米関税、2026年のホルムズ危機で逆に急騰したとして、下落は確定ではないと留保を付けた。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Why Evergreen’s Suez return matters for container supply",
+    "title_ja": "Evergreenのスエズ復帰、コンテナ機材需給への影響に注目",
+    "source": "Container News",
+    "url": "https://container-news.com/why-evergreens-suez-return-matters-for-container-supply/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Container Newsは、Evergreenの紅海・スエズ航路復帰をコンテナ機材・船腹需給の転換点として取り上げ、足元の高収益は需要の強さよりも使える船腹の希少さを反映していると論じている。",
+      "他媒体の報道では、今回の復帰は自社船によるOcean Alliance「China-Europe Shuttle」でのスエズ通航5便と中国〜紅海4便にとどまる限定的なもので、11〜12月に実施される見込みとされる。",
+      "Linerlyticaは全面復帰を2027年第1四半期と見込んでおり、喜望峰迂回がコンテナ船需要を約10%押し上げていたことから、復帰が進めば実質的な船腹・機材供給は緩む方向とみられる。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hapag-Lloyd announces export gate-in restrictions at APMT Valencia",
+    "title_ja": "Hapag-Lloyd、混雑のValencia港で輸出搬入期間を短縮",
+    "source": "Container News",
+    "url": "https://container-news.com/hapag-lloyd-announces-export-gate-in-restrictions-at-apmt-valencia/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Hapag-Lloydは、APM Terminals Valenciaの混雑を理由に、輸出コンテナの搬入を即時制限すると発表した。",
+      "搬入可能期間は本船の入港予定（ETA）前14日から9日に短縮され、当面この措置が継続される。",
+      "期間外に搬入されたコンテナは受け取りを拒否され遅延や追加の輸送・保管費用が生じる可能性があり、例外やコンテナ都合での寄港変更は認められないとしている。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Lineas extends wagons lease from Ermewa",
+    "title_ja": "Lineas、Ermewaからの貨車約4,000両のリースを延長",
+    "source": "RAILMARKET.com",
+    "url": "https://en.railmarket.com/news/rolling-stock/65922-lineas-extends-ermewa-wagon-leases-for-around-4-000-freight-wagons",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "ベルギーの貨物鉄道事業者Lineasが、Ermewaから借り受けている貨車リースの大部分をさらに数年間延長した。",
+      "対象は欧州網で使用する各種貨車約4,000両で、新たなリース期間や金額などの条件は公表されていない。",
+      "両社の関係は2021年にLineasが約4,000両をErmewaに売却してリースバックした取引に遡り、Lineasは2025年にベルギー政府から6,100万ユーロの救済融資を受け裁判所監督下の債務再編に入っている。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "AAR reports Rail Traffic for the week ending October 31, 2026",
@@ -3000,6 +3120,21 @@
     "collected_at": "2026-10-22T13:24:55-07:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
+    "title_ja": "KKR、貨車リースInfinityをAresに29億ドルで売却",
+    "source": "KKR",
+    "url": "https://media.kkr.com/news-details?news_id=d0c36c0d-89fa-403b-8f3a-346d93c0067f",
+    "published_at": "2026-10-19",
+    "summary_ja": [
+      "KKRが貨車・インターモーダル機材リースのInfinity Transportationを、Ares運用のAres Infrastructure EquityおよびAres Insurance Solutionsの各ファンドに売却することで合意した。",
+      "企業価値は約29億ドルで、規制当局の承認などを条件に2027年第1四半期の完了を見込む。",
+      "Infinityは米国・カナダ・メキシコの350社超に約5万両の貨車を賃貸しており、KKR傘下のGlobal Atlanticが2016年から出資、2021年以降にフリート簿価を150%拡大させていた。"
+    ],
+    "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Asia-US container rates mixed as extended peak season demand wanes; tanker rates stable",
@@ -4738,140 +4873,5 @@
       "CMC Railroad は1,000両超の貨車のスイッチングと留置を担っており、年末までにさらに約1,000両分の留置能力を追加する計画とされる。"
     ],
     "collected_at": "2026-10-18T06:22:26-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "Container battery fire risks prompt US labeling legislation",
-    "title_ja": "米下院、リチウム電池コンテナへの標識義務化法案",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/regulations/container-battery-fire-risks-prompt-us-labeling-legislation",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "Hageman下院議員（共和党・ワイオミング州）が10月1日、リチウムイオン電池を輸送するコンテナへの外部標識表示を義務付ける「Battery Safety Placarding Act」を提出した。",
-      "対象はコンテナに加えて車両と貨車にも及び、輸入海上コンテナが内陸へ輸送される局面を念頭に置いている。",
-      "数週間前にIMOの小委員会がコンテナ内リチウムイオン電池による船上火災の防止策の改正を進めることで合意しており、国内・国際の両面で規制圧力が強まっている。"
-    ],
-    "collected_at": "2026-10-07T06:31:43-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Weekly U.S. rail traffic remains ahead of 2025 levels",
-    "title_ja": "AAR週次輸送量、10月3日週は5.1%増",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/weekly-u-s-rail-traffic-remains-ahead-of-2025-levels/",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "AAR集計の10月3日までの週（第39週）の米国鉄道輸送量は、貨車とインターモーダルの合計で52万9,712ユニット、前年同週比5.1%増となった。",
-      "内訳は貨車が23万711両で2.4%増、インターモーダルが29万9,001ユニットで7.4%増。品目別では10分類中7分類が増加し、金属鉱石・金属が12.8%増、石油・同関連製品が12.2%増と伸びを牽引した。",
-      "北米9鉄道合計は72万1,440ユニットで4.4%増、年初39週の米国累計は1,998万8,290ユニット（3.5%増）となり、インターモーダル主導の増勢が続いている。"
-    ],
-    "collected_at": "2026-10-07T13:30:32-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Railcar Market: Fleet Shrinks as Demand Rises (2026 Outlook)",
-    "title_ja": "北米貨車、新造2.5万両に対し解体3.5万両超でフリート純減",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/railcar-market-fleet-shrinks-as-demand-rises-2026-outlook",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "Trinity Industries の Eric Marchetto CFO が、業界の新造が年2.5万両規模にとどまる一方で解体が3.5万両超に達し、北米フリートが純減していると指摘した。",
-      "需要は堅調で、AAR 第39週の北米 carload は前年比1.6%増、インターモーダルは6.9%増、インターモーダル貨車の保留車両数は6〜7年ぶりの低水準にある。",
-      "関税の不確実性と鋼材価格・金利の上昇が顧客の発注判断を遅らせており、UTLX によるメキシコ製タンク車の提訴も車両価格を押し上げる可能性があるという。"
-    ],
-    "collected_at": "2026-10-08T06:26:06-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Union Pacific CEO ‘99.99%’ confident rail merger will win approval",
-    "title_ja": "UP の Vena CEO、NS 統合の承認に「99.99%」の自信",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/union-pacific-ceo-99-99-confident-rail-merger-will-win-approval",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "Union Pacific の Jim Vena CEO が10月6日の Fox Business 出演で、Norfolk Southern との統合は「99.99%」の確度で承認されると述べた。",
-      "対象案件は850億ドル規模で、同氏は統合により貨物の輸送日数が短縮し、トラックに対する競争力が高まると主張している。",
-      "案件は引き続き STB の審査中で、直近では IBEW をはじめ複数の労働組合が反対を表明している。"
-    ],
-    "collected_at": "2026-10-08T06:26:06-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Yusen Terminals to keep West Coast operating model at Los Angeles",
-    "title_ja": "ONE 傘下 Yusen Terminals、LA で従来型ヤード運営を維持",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/ports-terminals/2026/10/yusen-terminals-to-keep-west-coast-operating-model-at-los-angeles/",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "ONE が51%を保有する Yusen Terminals は、ロサンゼルス港 Berths 212-224 の2056年までのリース延長に伴い、RTG とトップハンドラーを組み合わせた従来型の西海岸ヤード運営を続ける。",
-      "蔵置密度を高められる RMG 方式は採用せず、背後地の制約から年間処理能力は約190万TEUで据え置かれる。",
-      "同社はゼロエミッション荷役機器に2億ドルを追加投資し、STS クレーン2基の新規購入と既存最大6基の嵩上げを行う一方、5年間の最低保証賃料は2億1,380万ドルから2億2,420万ドルに上がる。"
-    ],
-    "collected_at": "2026-10-08T06:26:06-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "A record month for Savannah",
-    "title_ja": "Savannah港、9月に過去最高の50.4万TEU",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/a-record-month-for-savannah/",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "Georgia Ports Authority は、Savannah 港の9月のコンテナ取扱が504,015TEU となり、9月としては過去最高だったと発表した。",
-      "前年同月比3.7%増で輸入実入りコンテナは5.5%増、7〜9月の会計年度第1四半期は150万TEU超（前年比約2.7%増）で同港史上2番目の四半期となった。",
-      "アジアの台風による出荷遅れがピーク需要を9月に押し出した形で、北米東岸での実入り・空コンテナの滞留と機材回転に影響しうる。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "A Model Is Not a Shipment",
-    "title_ja": "UP-NS合併の貨物転移予測モデルに疑問符",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/regulatory/a-model-is-not-a-shipment/",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "Railway Age の寄稿（Bob Granatelli）は、UP-NS 合併申請を支える経済モデルの前提と商業的結論に疑問を投げかけた。",
-      "申請側の分析は年約214万トラック分の貨物が道路から鉄道へ転移し、荷主に年約35億ドルの節約が生じると予測している。",
-      "元STB委員長 Marty Oberman は、実際に転移すると述べたトラック荷主の証言がない点と、側線・積込設備といった転換コストの負担を指摘しているという。"
-    ],
-    "collected_at": "2026-10-12T06:40:18-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Think tanks: Focus on tank cars and components",
-    "title_ja": "Greenbrier、炭素回収向けの次世代CO2タンク車を投入",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/mechanical/article/Think-tanks-Focus-on-tank-cars-and-components--77900",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "Progressive Railroadingの2026年10月号が、タンク車と関連コンポーネントの最新動向をまとめた特集記事を掲載した。",
-      "冒頭で取り上げられたGreenbrierの次世代CO2タンク車は、輸送中も液化状態のCO2を保持できる設計とされる。",
-      "炭素回収プロジェクトの拡大が新たなタンク車需要の受け皿になりつつあることが、こうした新型車投入の背景にあるとみられる。"
-    ],
-    "collected_at": "2026-10-17T13:24:15-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "SZ-VIT competes first Vectron loco overhaul for Beacon Rail",
-    "title_ja": "SŽ-VIT、Beacon Rail向けVectronの全般検査を初完遂",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/slovenia/2026/10/07/sz-vit-competes-first-vectron-loco-overhaul-for-beacon-rail/",
-    "published_at": "2026-10-07",
-    "summary_ja": [
-      "スロベニア鉄道の車両保守子会社SŽ-VITが、リース会社Beacon Rail所有のSiemens Vectron機関車191-023の全般検査を自社で初めて完了し、2026年9月に返却した。",
-      "同社は2026年内にVectron2両、2027年に6両の全般検査を計画しており、Beacon Railとは2024年から取引がある。",
-      "受注に備えてKnorr製ブレーキの実地研修を受け、台車測定用の測定アームを導入しており、将来は車輪交換サービスの提供も検討している。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
   }
 ]
