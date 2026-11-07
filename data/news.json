@@ -120,6 +120,96 @@
     "collected_at": "2026-11-07T06:24:37-08:00"
   },
   {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "GATX Corporation: Form 8-K — Underwriting Agreement for $300 Million 5.950% Senior Notes due 2036",
+    "title_ja": "GATX、3億ドルの2036年満期シニア債を発行",
+    "source": "SEC EDGAR (GATX Corporation)",
+    "url": "https://www.sec.gov/Archives/edgar/data/40211/000119312526451862/d135779d8k.htm",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "GATXは2026年11月2日付の引受契約に基づき2036年11月15日満期の5.950%シニア債3億ドルを発行し、11月6日に払い込みを完了した。",
+      "発行価格は額面の99.789%で利回りは5.978%、米国債に対するスプレッドは110ベーシスポイントで、利払いは毎年5月15日と11月15日（初回は2027年5月15日）。",
+      "想定格付けはMoody's Baa1・S&P BBB・Fitch BBB+でいずれも見通し安定、引受主幹事はBofA Securities、Citigroup、Morgan Stanley、PNC Capital Marketsが務めた。"
+    ],
+    "collected_at": "2026-11-07T13:25:36-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "EXCLUSIVE: ‘Humor is good,’ Union Pacific CEO says of video rate threat",
+    "title_ja": "UP CEO、荷主への値上げ発言は「冗談」と説明",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/exclusive-humor-is-good-union-pacific-ceo-says-of-video-rate-threat",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "Union PacificのJim Vena CEOは、合併に賛同しない荷主の運賃を引き上げると述べた3月の発言について「少しユーモアを交えたもの」で本意ではないとFreightWavesに説明した。",
+      "問題の発言は3月にヒューストンで開かれたSouthwest Association of Rail Shippers年次総会の基調講演でのもので、UPは録画を非公開扱いとするよう求めていた。",
+      "公開を求めたCPKCは発言が規制手続きへの荷主の参加を萎縮させたと主張し、STBがこれを認めて公開を命じた結果、UPは11月5日に録画を公開した。"
+    ],
+    "collected_at": "2026-11-07T13:25:36-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Maersk confirms Rotterdam rail constraints through June 2027",
+    "title_ja": "Maersk、Rotterdamの鉄道制約が27年6月まで長期化",
+    "source": "Container News",
+    "url": "https://container-news.com/maersk-confirms-rotterdam-rail-constraints-through-june-2027/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "Maerskは11月の欧州市場アップデートで、APM Terminals Maasvlakte II（Rotterdam）の鉄道取扱能力の制約が2027年6月末まで続く見込みだと明らかにした。",
+      "同社は5月時点では2026年7月1日から始まる制約について2027年1月までに通常能力へ復帰すると説明しており、今回の見通しは約半年の長期化となる。",
+      "代替手段として内陸ターミナルへのバージ輸送やトラック、別の鉄道ルートの利用を案内し、荷主には内陸輸送の早期手配と余裕を持った計画を求めている。"
+    ],
+    "collected_at": "2026-11-07T13:25:36-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hong Kong reviews river fees as mainland ports lure cargo away",
+    "title_ja": "香港、珠江デルタ河川船の入港手数料を見直し",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/hong-kong-reviews-river-fees-as-mainland-ports-lure-cargo-away/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "香港政府は、珠江デルタと香港を結ぶ河川輸送船に課している入港許可手数料の見直しに着手した。",
+      "運輸物流局長のChan Mei-po氏が立法会への書面回答で表明したもので、現行制度は月10回までの入港を単独入港5回分相当の料金で認める複数回許可制となっている。",
+      "広州・深圳など中国本土の港が補助金や強制パイロットの免除で内陸水運船を誘致しており、香港はトランシップ拠点としての競争力維持を図る。"
+    ],
+    "collected_at": "2026-11-07T13:25:36-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "What will happen to DB Cargo if it fails to break even?",
+    "title_ja": "DB Cargo、年末の黒字化期限未達なら分割リスク",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/06/what-will-happen-to-db-cargo-if-it-fails-to-break-even/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "DB Cargoは欧州委員会と合意した再建計画に基づき2026年12月31日までに黒字化を達成する必要があり、未達なら深刻な局面に入るとRailFreightは指摘する。",
+      "Bernhard Osburg CEOは9月、DB Cargo UK売却に伴う約2億6,000万ユーロの評価損が響き今年の営業黒字化は困難と述べ、英国売却がなければ達成できていたと説明していた。",
+      "違法な国家補助の認定を受けてDB AGからの損益振替契約は終了しており、未達の場合は2024年に事業分割されたSNCF Fretが前例として取り沙汰されている。"
+    ],
+    "collected_at": "2026-11-07T13:25:36-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Brookfield eyes ‘early 2027’ final close after raising $26bn for Fund VI",
+    "title_ja": "Brookfield、旗艦インフラ6号で260億ドルを調達",
+    "source": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/brookfield-eyes-early-2027-final-close-after-raising-26bn-for-fund-vi/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "Brookfieldは旗艦インフラファンドBrookfield Infrastructure Fund VIでこれまでに約260億ドルを調達し、最終クロージングを2027年初めに見込んでいる。",
+      "同社の第5号インフラデットファンドも80億ドルに達し、インフラのエクイティとクレジットの双方で過去最大級のファンドを運用することになる。",
+      "前身のFund Vは総額300億ドル規模で世界最大のインフラファンドとされ、10月末にはOregon State Treasuryが6号への3億ドルのコミットを承認している。"
+    ],
+    "collected_at": "2026-11-07T13:25:36-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Maersk converts market opportunities into significantly higher earnings and raises full-year guidance",
