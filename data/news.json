@@ -1,5 +1,125 @@
 [
   {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Europe: ‘We see a supply gap for hauled coaches and locos’",
+    "title_ja": "欧州で客車・機関車の供給不足、2030年に客車3,000両の需要",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/traction-rolling-stock/2026/11/07/europe-we-see-a-supply-gap-for-hauled-coaches-and-locos/",
+    "published_at": "2026-11-07",
+    "summary_ja": [
+      "Leo Mobility ManagementのLeoš Novotný氏は、欧州で客車と機関車の供給が不足しており、2030年までに中古・新造を合わせ客車3,000両以上、機関車300両の需要が見込まれると述べた（同社委託のコンサル調査に基づく）。",
+      "同社は車両の仕様選定・発注・ファイナンスを一つの基盤で完結させる「Trainshop.com」を立ち上げ、鉄道事業者向けの予約サイトのような仕組みを目指すとしている。",
+      "現時点の保有プールはSiemens製機関車と中古のAlstom車両、Magyar Vagonに発注した客車200両で、客車発注分の約4割（80両）が既に引き合い済みという。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "Kelso Technologies Inc. (KLS) Reports Q3 Revenue of $1.8M Amid Tank Car Slowdown",
+    "title_ja": "Kelso、タンク車新造減速でQ3売上176万ドル",
+    "source": "TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaUYteGNtSUdiaFBzZVJrdXk1V3hVa0pkNktSM1lfSjdHa2NPanJzVjN2eUxST3JGbS1sNDBVQWhPV3dvaDJSWTJhUDlFcVpLTXVGMWJxUDc1UVo5U21UR0I3dUhkbjZCalBpRVAxcW9fQ1FEemhFVEoxbjE4MTNramQ2Qnp4VWFEbXQ0NWdqbVQzM09vUlpNUjREQ0hsdEQteVFLSUhuWVlmelljVlRQNWVBWTJJWmcyLTNwMzRLZVAzU01aX1RnczlmRHhSYnpoYm1XZw?oc=5",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "タンク車用バルブを手がけるKelso Technologiesの2026年第3四半期（9月末締め）売上は約176万ドルで、北米の新造タンク車の減速を反映した水準にとどまった。",
+      "為替と非現金の株式報酬を除く営業費用は3四半期連続で減少し約95万4,000ドル（前年同期比8%減）、四半期の粗利益は53万1,995ドル（売上比30%）だった。",
+      "同社は四半期中にAARから新型2インチアングルバルブ（K2AV）の本生産承認を取得し、北米のタンク車納入が2026年に35%超減少した後、2027〜2028年に新造が回復すると見込んでいる。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB signals broader protection for rail-served projects against state and local restrictions",
+    "title_ja": "STB、鉄道接続施設への州・地方規制に連邦法優先の方針声明",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/stb-signals-broader-protection-for-rail-served-projects-against-state-and-local-restrictions",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "STB（陸上運輸委員会）は、鉄道利用荷主の施設に対する州・地方の規制を連邦法のもとでより厳しく精査する方向を示す包括的な方針声明を公表した。",
+      "声明は11月9日に確定し、民有ターミナルなど鉄道接続施設に関する過去の同局決定の一部に疑問を呈するとともに、鉄道用地の排他的占有を目的とする収用等は列車運行への影響を個別に審査せずカテゴリカルに連邦法優先の対象とする論拠を示した。",
+      "同局は「本方針声明で拘束力のある判断は行わない」と明記しており、個別紛争は従来どおり事案ごとの判断となるが、鉄道インフラと貨物サービスへのアクセスに対する連邦的な保護が強まる可能性がある。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Rail industry begins to react to election results",
+    "title_ja": "米中間選挙で民主党が両院制圧、鉄道業界は助成復活に期待",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/rail-industry-begins-to-react-to-election-results/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "中間選挙で下院・上院ともに民主党が新たに多数を握り、鉄道業界は立法の優先順位がどう変わるかを見極めている段階にある。",
+      "焦点は、2021年のインフラ投資・雇用法（IIJA）が9月に失効して途絶えたCRISI（鉄道インフラ・安全改善）補助金などの財源復活の可否である。",
+      "短距離鉄道を代表するASLRRAのChuck Baker会長は第120議会で両党と協働する姿勢を示し、新議員の着任を待たずに働きかけを進めるとした。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Triton International Ltd.: Form 6-K for the quarterly period ended September 30, 2026",
+    "title_ja": "Triton、Q3平均稼働率98.7%に上昇 タンク売却益46百万ドル",
+    "source": "SEC EDGAR (Triton International)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001660734/000162828026071407/trtn-20260930.htm",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "コンテナリース最大手Tritonの2026年第3四半期の平均コンテナ稼働率は98.7%で、前四半期の98.0%、前年同期の97.9%から上昇し、期末稼働率は98.9%となった。",
+      "9月30日時点の収益資産（revenue earning assets）は79億ドルで、7月1日に実行したTCF IXの売却により約10億ドル減少した。",
+      "四半期中にタンクコンテナ事業の売却益4,610万ドルを計上しており、会社はコンテナ貨物量の堅調な伸びと、本船・コンテナの回転低下を招いている運航混乱が需要を支えたと説明している。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Calmer waters for container spot rates, but ‘fragile’ Middle East a threat",
+    "title_ja": "コンテナスポット運賃が落ち着き、11月のFAK値上げは不成立",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/calmer-waters-for-container-spot-rates-but-fragile-middle-east-a-threat/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "船腹の需給逼迫が緩み荷動きも季節的に低調なため、太平洋航路とアジア欧州航路の双方でスポット運賃が小幅に下落した。",
+      "DrewryのWCI上海→ロッテルダムは前週比2%安の40フィート当たり3,615ドル、上海→ジェノバは4,166ドルで横ばいとなり、船社が11月1日に導入したFAK（品目無差別運賃）の新水準は定着しなかった。",
+      "船社はアジア北欧州で4,500ドル前後、地中海向けで5,000ドル前後を目標に11月15日に再度の引き上げを予定するが、低調な需要と十分な船腹が重荷になるとみられている。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Down 1% Last Week",
+    "title_ja": "Drewry WCI、1%下落し40フィート4,389ドル",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-1-last-week-13/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "11月5日時点のDrewry World Container Index（WCI、総合）は前週比1%下落し、40フィート当たり4,389ドルとなった。",
+      "太平洋航路とアジア欧州航路が下落の主因で、上海→ニューヨークは3%安の9,303ドル、上海→ロサンゼルスは7,539ドルで横ばいだった。",
+      "数週間続いていた中国主要港の混雑が緩和に向かい、上海の平均待船時間が改善したことと、中国発の荷動きの落ち着きが背景にある。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Brookfield raises $12bn for credit in Q3",
+    "title_ja": "Brookfield、Q3に総額250億ドルを調達しAUMは1兆ドル超",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/06/brookfield-raises-12bn-for-credit-in-q3/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "Brookfield Asset Managementは2026年第3四半期にクレジット部門で120億ドル、全事業で250億ドルを調達し、年初来の調達額は1,230億ドル、運用資産は1兆ドルを超えた。",
+      "クレジット部門の120億ドルの内訳は、長期プライベートクレジット・ファンド24億ドル、Brookfield Wealth Solutions経由38億ドル、提携運用会社20億ドルなど。",
+      "フィー対象資本は過去1年で13%増の6,820億ドル、フィー関連収益は15%増の8億6,400万ドルとなり、同四半期の投融資実行額は100億ドルだった。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Maersk converts market opportunities into significantly higher earnings and raises full-year guidance",
@@ -433,6 +553,21 @@
       "すでに7件の投資で資本の約37%をコミット済みで、同社は資本市場のリスク再評価を背景に柔軟な貸し手への需要が強いとしている。"
     ],
     "collected_at": "2026-11-04T06:24:43-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "CPKC sets new October grain records in Canada, U.S.",
+    "title_ja": "CPKC、10月の穀物輸送で加米ともに月間記録を更新",
+    "source": "CPKC",
+    "url": "https://www.cpkcr.com/en/media/Grain-Nov2026",
+    "published_at": "2026-11-03",
+    "summary_ja": [
+      "CPKCは2026年10月の穀物・穀物製品輸送でカナダと米国の双方で月間記録を更新したと発表した。",
+      "カナダでは326万トン・33,822車、米国では265万トン・27,739車を輸送し、両国合計の車数・トン数はいずれも単月の過去最高となった。",
+      "カナダは2026-27穀物年度の開始から3カ月連続の記録更新で、同社のJohn Brooks氏は北米の平年を上回る作柄とネットワークの広がりを要因に挙げた。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
   },
   {
     "category": "container_leasing",
@@ -2503,6 +2638,21 @@
       "報道によると米タンク車メーカーの主張は関税の支持と反対に分かれており、メキシコ生産を持つTrinityとGreenbrierは申立てに反対、結果次第で北米のタンク車価格と供給に影響しうる。"
     ],
     "collected_at": "2026-10-26T13:24:44-07:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "First Ever Overhauled Vectron Delivered to Beacon Rail",
+    "title_ja": "Beacon Rail、Vectron初の全工程内製オーバーホール車を受領",
+    "source": "Railway-News",
+    "url": "https://railway-news.com/first-ever-overhauled-vectron-delivered-to-beacon-rail/",
+    "published_at": "2026-10-22",
+    "summary_ja": [
+      "スロベニア鉄道の車両整備部門SŽ-VITが全工程を自社で手がけた初のSiemens Vectron（191-023号機）のオーバーホールを完了し、所有するリース会社Beacon Railに引き渡した。",
+      "作業はリュブリャナの整備拠点で行われ、SŽ-VITは2019年のF4台車オーバーホールから電気機関車整備を広げ、2024年からBeacon Railの車両を受託している。",
+      "Siemensは同拠点をVectron整備のコンピテンスセンターと位置づけており、年内にさらに2両、2027年には6両のオーバーホールが計画されている。"
+    ],
+    "collected_at": "2026-11-07T06:24:37-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4663,215 +4813,5 @@
       "決算説明では UP-NS 合併が話題を占めるとみて承認確率90%の見方を維持し、両社は株主投票を11月14日に設定、STB の判断は早くても2027年後半との見通しを示した。"
     ],
     "collected_at": "2026-10-19T13:24:03-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "earnings",
-    "title": "GATX Corporation Sets Date for 2026 Third-Quarter Earnings Release and Conference Call",
-    "title_ja": "GATX、第3四半期決算を10月29日に発表",
-    "source": "Stock Titan (GATX)",
-    "url": "https://www.stocktitan.net/news/GATX/gatx-corporation-sets-date-for-2026-third-quarter-earnings-release-6x5ogy1wihib.html",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "GATX は2026年第3四半期決算を10月29日の米国市場寄り付き前に公表すると発表した。",
-      "同日午前11時（米国東部時間）から電話会議を開催し、自社サイトでウェブキャストと午後2時以降の再生を提供する。",
-      "同社は第2四半期時点で2026年通期の希薄化後EPS見通しを9.90〜10.30ドルとしており、Wells Fargo Rail 統合後のフリート稼働とリース料率が焦点となる。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Four Class I railroads were revenue adequate in 2025",
-    "title_ja": "STB、2025年はClass I 6社中4社が収益十分と判定",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/four-class-i-railroads-were-revenue-adequate-in-2025/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "STB は、2025年に収益十分（revenue adequate）と認定された米国Class I は6社中4社で、BNSF・CSX・Norfolk Southern・Union Pacific だったと公表した。",
-      "ROI は UP が17.09%で最高、CSX 11.4%、BNSF 10.91%、NS 10.29%と続き、CN の Grand Trunk は6.09%、CPKC 傘下の Soo Line/KCS は5.3%で業界資本コスト9.79%を下回った。",
-      "収益十分性は各社のROIと鉄道業界の税引後資本コストを毎年比較して判定され、運賃規制や投資回収の議論の前提となるため貨車調達・リース需要の見通しにも関わる。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Red Sea Diversion Tracker Shows Exponential Annual Rise",
-    "title_ja": "スエズのコンテナ船通航、前年比154%増で1年ぶり高水準",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-red-sea-diversion-tracker-shows-exponential-annual-rise/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "Drewry の Red Sea Diversion Tracker によると、10月4日までの週のスエズ運河のコンテナ船通航は双方向合計61隻で過去1年の最高となった。",
-      "通航隻数は前年同週比154%増、直近3週平均は52隻でその前の3週平均を15%上回り、船社が段階的にスエズ航路へ復帰している。",
-      "喜望峰迂回の解消は航海日数の短縮を通じて船腹とコンテナ機材の回転を速めるため、機材需給の緩みにつながりうる。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "High yields spark new container services on ‘bumpy’ India-Middle East trade",
-    "title_ja": "高採算のインド〜中東航路に新サービスが相次ぐ",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/high-yields-spark-new-container-services-on-bumpy-india-middle-east-trade/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "歴史的に高い運賃採算を背景に、インド〜中東航路で専用コンテナサービスの新設が相次いでいると報じられた。",
-      "Maersk は Nhava Sheva（JNPA）〜Khor Fakkan のシャトル航路を9月24日出航の2,600TEU 船 Maersk Namibia で開始し、当初は隔週運航とされる。",
-      "中国発インド向けの運賃が倍増し船腹が逼迫するなかでの動きで、域内の機材配置や空コンテナの偏在に影響する可能性がある。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "‘It’s not the fault of ERTMS, it’s our fault’: ERA calls for ‘freeze’ on technical rules",
-    "title_ja": "EU鉄道機関、ERTMS仕様の凍結を提唱",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/ertms/2026/10/08/its-not-the-fault-of-ertms-its-our-fault-era-calls-for-freeze-on-technical-rules/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "欧州鉄道機関（ERA）の Oana Gherghinescu 事務局長は InnoTrans の UNIFE フォーラムで、成熟した ERTMS 仕様は凍結し、産業側に導入を定着させる時間を与えるべきだと述べた。",
-      "欧州ERTMSコーディネーターの Matthias Ruete は、車載 ETCS の改造費が約45万ユーロから90万ユーロへ倍増したと指摘し、2030年の全面導入義務に対し各国計画の達成見込みは約50%にとどまるとした。",
-      "CCS TSI の頻繁な改定は車両改造コストを押し上げ残存価値を損なうため、機関車・貨車リース会社の投資判断に直結する論点となる。"
-    ],
-    "collected_at": "2026-10-08T13:28:24-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "earnings",
-    "title": "Trinity Industries, Inc. Announces Date for Earnings Release",
-    "title_ja": "Trinity Industries、第3四半期決算を10月29日に発表",
-    "source": "Stock Titan (Trinity Industries)",
-    "url": "https://www.stocktitan.net/news/TRN/trinity-industries-inc-announces-date-for-earnings-dokonqblahrl.html",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "Trinity Industries は2026年9月30日締めの第3四半期および9カ月累計の決算を10月29日の米国市場寄り付き前に公表すると発表した。",
-      "同日午前8時（米国東部時間）から経営陣による電話会議を開催する。",
-      "貨車リース大手の GATX も同じ10月29日に第3四半期決算を予定しており、メキシコ製タンク車のAD/CVD提訴が続く中で両社の受注とリース料率動向が焦点となる。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF needs to clear one more BIG hurdle for sprawling Barstow facility",
-    "title_ja": "BNSF のバーストー巨大拠点、残る障害は環境訴訟のみ",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/railprime/details/BNSF-needs-to-clear-one-more-BIG-hurdle-for-sprawling-Barstow-facility--77904",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "BNSF の総額40億ドル超のインターモーダル拠点「Barstow International Gateway（BIG）」は地元認可を取得済みで、残る障害は環境団体がバーストー市を相手に起こした訴訟のみとなった。",
-      "原告は市の環境影響評価が野生生物・植物への影響や、エネルギー・水・騒音・累積的影響の分析を欠くとして認可の取り消しを求め、窒素酸化物と温室効果ガスの排出増も主張している。",
-      "訴訟は迅速審理に付され、BNSF は今秋の審理と年内の判決を見込み、判決次第で2026年末の着工、2028〜29年の開業を想定している。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Bulgaria invests €60 million to revive Ruse railway workshop",
-    "title_ja": "Bulmarket、ルセの旧車両工場再生に6,000万ユーロを投資",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/08/bulgaria-invests-e60-million-to-revive-ruse-railway-workshop/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "ブルガリアの Bulmarket Group が、ルセの旧機関車・貨車工場（LVZ）跡地の再生に6,000万ユーロを投じ、貨車製造と車両保守の拠点を整備している。",
-      "敷地は17万6,000平方メートルで既に7社が入居して210人超を雇用し、鉄道部門の LVZ 1866 は年間1,000両超の貨車と200両の機関車を扱える能力を持つ。",
-      "2025年に初の貨車を製造認証し、タンク車は当初5両から1シフトで月20両まで拡大する計画で、投資には復興・強靭化計画からの1,700万ユーロが含まれる。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "TD Cowen: 3Q26 Surveys, Roundtable, Outlook Highlights",
-    "title_ja": "TD Cowen調査、荷主の32%が鉄道へ貨物シフト",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/class-i/td-cowen-3q26-surveys-roundtable-outlook-highlights/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "TD Cowenが2026年第3四半期の鉄道荷主調査・ラウンドテーブル・業績見通しをまとめ、鉄道株にとって中立的な内容と総括した。",
-      "今後6〜12カ月のレート上昇見通しは4.4%（5年平均3.7%）に上昇し、インターモーダル・カーロード荷主の32%が鉄道への貨物シフトを進めている（前四半期は20%）。",
-      "一方で荷主の事業成長見通しは1.8%に低下、3Q26は軽油価格高が営業費用率を約250bp押し上げる逆風となり、UP-NS統合の譲歩条件への懸念も続いているという。"
-    ],
-    "collected_at": "2026-10-09T13:26:37-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "East Midlands Railway to extend Class 222 lease",
-    "title_ja": "East Midlands Railway、Class 222のリースを延長",
-    "source": "Rail Business UK",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFAxSVQ3REoya1BmNEpnY3RaT21keXB5UHE1dDR5RDlEZXAzMlZfMWROUzhTMWtKQ1JPSmNoYU9nSDBvZkdrellQVWF6cHNWTThiOWtqZXE3emJIRkMwUmlLMGVNYlpPYzAtRXZFdzBjUXdmRjE2cVpnZjZ2R29nbzBJa3VkaXduWl8xOWE3VnNKMFlVdl9HRnIyOVRuX2hkZ1R0bmZBRXllOThfNnE5WXN3?oc=5",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "East Midlands Railway（EMR）が、Eversholt からリースする Class 222 車両のリース契約を延長する方針と報じられた。",
-      "新型 Class 810 Aurora の導入遅延に加え、7月20日以降は両形式の信頼性問題で減便ダイヤが続いており、追加2編成の営業投入は11月下旬が見込まれている。",
-      "英国では ROSCo のリース見直し議論が進む一方、車両投入の遅れが既存リースの期間延長を招く構図が鮮明になっている。"
-    ],
-    "collected_at": "2026-10-09T13:26:37-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Let's Talk Facts About the Union Pacific-Norfolk Southern Merger",
-    "title_ja": "UP、NS合併で顧客500社超の支持を公表し反論",
-    "source": "Union Pacific",
-    "url": "https://www.up.com/news/growth/facts-up-ns-merger-261008",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "Union Pacific は Norfolk Southern 合併への反対論に対し、事実関係をまとめた反論ページを公開した。",
-      "年間210万トラック相当の貨物を道路から鉄道へ移し、荷主のコストを年35億ドル削減、郡間8万8,000超のレーンで単一鉄道サービスを可能にすると主張している。",
-      "STB に支持を提出した顧客は500社超で同社取扱量の30%以上を占めるとし、反対の中心は競合鉄道だと位置づけた。"
-    ],
-    "collected_at": "2026-10-12T06:40:18-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 3, 2026",
-    "title_ja": "米鉄道輸送量、10月3日週は前年比5.1%増",
-    "source": "Railpace",
-    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-3-2026/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "AAR によると10月3日までの週の米国鉄道輸送量は貨車とインターモーダルの合計で52万9,712ユニットとなり、前年同週比5.1%増加した。",
-      "貨車は23万711両で2.4%増、インターモーダルは29万9,001個で7.4%増と、伸びはインターモーダルが牽引した。",
-      "10品目中7品目が増加し、金属鉱石・金属が2,647両増の2万3,387両、石炭が1,627両増の5万8,163両、石油・石油製品が1,286両増の1万1,804両だった一方、穀物は1,160両減の2万1,170両と落ち込んだ。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Bulgaria invests €60 million to revive Ruse railway workshop",
-    "title_ja": "ブルガリア Ruse の貨車工場、6,000万ユーロで再生",
-    "source": "RailFreight.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2IzbktfRzFFR3lHNERNNUhKY0xwQmc0ZDhqbmhPSnlrUmxtUEFZdEgtV2xLeWdxYXVlcTBaNHhPek9pVUtWWUhiaWlkNjJBUU5ocGUxZTczZVMzWHozMnBMZlFCeGxqVEdVTFUySUFrOTNwcmxYVmNhQUJIQ2xxVTBVcHRLUnVZaUtlRXpfNkpUcmQ1a0haaG1yQ1pUWm5UOVByREpiXzZ5NWRFbEhNcFRR?oc=5",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "ブルガリア最古の機関車・貨車工場 LVZ 1866（Ruse、1866年創業）が、約6,000万ユーロを投じて鉄道・産業・技術パークとして再生された。",
-      "敷地は17.6ヘクタール・建屋5.3万平方メートル超で、貨車の製造・修繕・近代化と機関車の整備を担い、年間能力は貨車1,000両超・機関車200両とされる。",
-      "事業主体は Bulmarket Group で、インフラ部分には復興・回復計画からの約2,600万レフが充てられたと報じられるが、金額の内訳は媒体により差がある。"
-    ],
-    "collected_at": "2026-10-15T13:26:35-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Wafra Acquires Liberty Development Partners, Invests in Gulf Inland Logistics Park and CMC Railroad",
-    "title_ja": "Wafra、鉄道接続物流施設とCMC Railroadに出資",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/news/wafra-acquires-liberty-development-partners-invests-in-gulf-inland-logistics-park-and-cmc-railroad/",
-    "published_at": "2026-10-08",
-    "summary_ja": [
-      "Wafra が助言するファンドが、鉄道接続インフラの開発・運営を手がける Liberty Development Partners とその主要資産に出資した（金額非開示）。",
-      "対象にはヒューストン北東のテキサス州 Dayton にある約3,900エーカーの Gulf Inland Logistics Park と、UP・BNSF に接続する CMC Railroad が含まれる。",
-      "CMC Railroad は1,000両超の貨車のスイッチングと留置を担っており、年末までにさらに約1,000両分の留置能力を追加する計画とされる。"
-    ],
-    "collected_at": "2026-10-18T06:22:26-07:00"
   }
 ]
