@@ -1,5 +1,20 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "BNSF third-quarter revenue and profits rise",
+    "title_ja": "BNSF、第3四半期の税引前利益18.5%増",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/bnsf-third-quarter-revenue-and-profits-rise/",
+    "published_at": "2026-11-08",
+    "summary_ja": [
+      "親会社Berkshire Hathawayが11月7日に公表した第3四半期で、BNSFの税引前利益は18.5%増の22億6,000万ドル、売上は14.7%増の68億7,000万ドル、純利益は19.3%増となった。",
+      "営業費用は燃料費の60%増を主因に14%増えたが、オペレーティングレシオは63.8%と前年同期から0.3ポイント改善した。",
+      "輸送量は全体で3.9%増、1単位当たり収入は燃料サーチャージと単価上昇で10.5%増。インターモーダル・自動車を含む消費財が5.6%増、農産品・エネルギーが8.3%増と西岸輸入とトラック供給の引き締まりが効いた。"
+    ],
+    "collected_at": "2026-11-08T06:28:26-08:00"
+  },
+  {
     "category": "eu_railcar_leasing",
     "kind": "news",
     "title": "Europe: ‘We see a supply gap for hauled coaches and locos’",
@@ -210,6 +225,36 @@
     "collected_at": "2026-11-07T13:25:36-08:00"
   },
   {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Alstom signs 13-year Prima bogie maintenance deal with Akiem",
+    "title_ja": "Akiem、Alstomと13年のPrima台車保守契約",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/business/58197-alstom-signs-13-year-prima-bogie-maintenance-deal-with-akiem",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "欧州の機関車リース大手AkiemがAlstomと13年間の契約を結び、Prima型電気機関車の台車保守・オーバーホールを委託する。",
+      "対象はBB27000・BB37000・BB37500の各フリートから計170台車で、予防保全に加え大規模オーバーホールと車軸関連作業を含む。",
+      "作業はAlstomの台車拠点Le Creusotが主管し、主電動機の整備はOrnans拠点が担当して、フリートの稼働率維持を狙う。"
+    ],
+    "collected_at": "2026-11-08T06:28:26-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "earnings",
+    "title": "Brookfield Infrastructure Reports Strong Third Quarter 2026 Results",
+    "title_ja": "Brookfield Infrastructure、Q3のFFO10%増",
+    "source": "SEC EDGAR (Brookfield Infrastructure Partners)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001406234/000140623426000008/bipq32026ex991.htm",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "第3四半期のFFOは7億1,700万ドルで前年同期比10%増、1口当たり0.91ドルとなり、10%成長目標の達成は3四半期連続となった。",
+      "輸送セグメントのFFOは3億1,500万ドル（前年同期2億8,600万ドル）で、北米貨車リース事業の取得と港湾取扱量・有料道路の料金上昇が寄与した。",
+      "一方、前年に完了した豪州コンテナターミナル売却と英国港湾事業の一部売却による収益の喪失が押し下げ要因となった。"
+    ],
+    "collected_at": "2026-11-08T06:28:26-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Maersk converts market opportunities into significantly higher earnings and raises full-year guidance",
@@ -403,6 +448,21 @@
       "両社の関係は2021年にLineasが約4,000両をErmewaに売却してリースバックした取引に遡り、Lineasは2025年にベルギー政府から6,100万ユーロの救済融資を受け裁判所監督下の債務再編に入っている。"
     ],
     "collected_at": "2026-11-06T06:23:49-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Continued congestion at ports puts pressure on intra-Asia box rates",
+    "title_ja": "アジア域内、港湾混雑で空コンテナ回送が停滞",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/continued-congestion-at-ports-puts-pressure-on-intra-asia-box-rates/",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "Drewryのアジア域内コンテナ運賃指数が40フィート当たり46ドル上昇し、1,504ドルとなった。",
+      "機材の回転が遅れるなか、船社が空コンテナ回送のコスト負担に消極的で、現地で確保できるコンテナの価格が押し上げられていると荷主側は指摘している。",
+      "ホーチミン港の本船待機時間は直近2週間で8時間から22時間へ悪化し、混雑が機材需給の逼迫を長引かせている。"
+    ],
+    "collected_at": "2026-11-08T06:28:26-08:00"
   },
   {
     "category": "rail_industry",
@@ -4768,140 +4828,5 @@
       "最初の6編成は2026年12月に引き渡される予定で、Alpha Trains は需要次第で今後数年に最大50編成の Talent をポーランド市場へ供給しうるとしている。"
     ],
     "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Capital Volume Remains High",
-    "title_ja": "貨車受注は12カ月で2.1万両に低迷、中古売買は売り手市場",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/financeleasing/capital-volume-remains-high/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "Railway Age の金融エディター David Nahass は、直近12カ月の新造貨車受注が約2万1,000両という極めて弱い水準にとどまっていると指摘した。",
-      "現行の納入ペースでは貨車の受注残は1年強分にすぎない一方、車両オーナー間のフリート売買は猛烈なペースで進み、売り手市場になっているという。",
-      "Railroad Appraisal Associates の Pat Mazzanti は、新造両数の少なさが貨車ユーザーにとって供給の「チョークポイント」になりかねないと懸念を示した。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Post-peak spot rates tumble as ocean carriers eye price increases",
-    "title_ja": "国慶節明けに太平洋航路のスポット運賃が下落、船社は値上げ模索",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/post-peak-spot-rates-tumble-as-ocean-carriers-eye-price-increases/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "中国の国慶節休暇が長期化していた太平洋航路のピークシーズンの終わりを示したとみられ、アジア発米国向けのスポット運賃が今週下落した。",
-      "Drewry の WCI では上海〜ロサンゼルスが前週比3%安の40フィート当たり7,624ドル、上海〜ニューヨークが2%安の1万220ドルとなった。",
-      "アジア〜欧州航路は契約交渉期入りで13週連続の下落となり、荷主とフォワーダーの交渉力が今年最も強まる一方、船社は運賃引き上げを狙っている。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Tradelanes: Intra-Asia freight rates ease after post-Covid high",
-    "title_ja": "アジア域内運賃、コロナ後最高値から6週ぶりに反落",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/tradelanes-intra-asia-freight-rates-ease-after-post-covid-high/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "Drewry のアジア域内コンテナ指数（IACI）は前週比1%下落の40フィート当たり1,503ドルとなり、6週連続の上昇が止まった。",
-      "それでも指数は前年同期比209%高で、国慶節期間中もほぼ横ばい（前年同期は12%下落）と高止まりが続いている。",
-      "上海〜レムチャバン、マニラ、横浜の各スポット運賃は10月1日比で3%下落したが、ネットワーク調整や運航の混乱が下げ幅を抑え、燃料高と地政学リスクも相場を支えている。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "European box rates continue steep decline",
-    "title_ja": "アジア〜欧州運賃の下落続く、8月の世界荷動きは過去最高",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/european-box-rates-continue-steep-decline",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "太平洋航路の運賃が4月以降上昇を続ける一方、アジア発欧州向けは失速し急落が続いていると Seatrade Maritime が報じた。",
-      "Drewry のデータでは上海〜ロッテルダムが2%安の1FEU当たり3,337ドル、上海〜ジェノバは前週比6ドル安にとどまり、前週の430ドル超の急落からは下げ幅が縮小した。",
-      "Container Trades Statistics によると2026年8月の世界コンテナ荷動きは1,746万TEUで月間過去最高を更新し、1〜8月累計は前年同期比4.7%増、太平洋航路は5%増だった。"
-    ],
-    "collected_at": "2026-10-09T06:29:11-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Back to Suez – Why the rush?",
-    "title_ja": "Drewry、スエズ回帰の経済メリットは小幅と分析",
-    "source": "Hellenic Shipping News (Drewry)",
-    "url": "https://www.hellenicshippingnews.com/back-to-suez-why-the-rush/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "Drewryは9月30日公表のContainer Forecaster 2026年第3号で、船社がスエズ運河経由に戻ろうとする動きは単純な航海コスト比較では説明しにくいと指摘した。",
-      "2.4万TEU船を往復で投入する航路の比較では、スエズ利用による節約は1往復あたり約100万ドル、スロット当たり43ドルにとどまる。",
-      "この試算は戦争リスク保険料や運河側の割引を含んでおらず、いずれも航海ごとの交渉・裁量で変動するため、回帰判断はコスト以外の要因に左右されるとみられる。"
-    ],
-    "collected_at": "2026-10-10T06:26:04-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: World Container Index Down 2% Last Week",
-    "title_ja": "Drewry WCI、2%下落し40フィート4,351ドル",
-    "source": "Hellenic Shipping News (Drewry)",
-    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-2-last-week-7/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "10月8日時点のDrewry World Container Index（WCI）は40フィートコンテナ当たり4,351ドルで、前週比2%下落した。",
-      "太平洋航路は上海-ロサンゼルスが3%安の7,624ドル、上海-ニューヨークが2%安の1万220ドルとなり、アジア-欧州航路も下落した。",
-      "中国の国慶節連休で需要が弱含んだことが主因で、翌週の抜港（ブランクセーリング）は今週の11便から4便へ減少し、船腹（スペース）は増える見通し。"
-    ],
-    "collected_at": "2026-10-10T06:26:04-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "H.I.G. Said to Canvass Investors on $2.6 Billion Infra Fund",
-    "title_ja": "H.I.G.、2号インフラファンドで26億ドル調達を模索",
-    "source": "Bloomberg",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-09/h-i-g-said-to-canvass-investors-on-2-6-billion-infra-fund",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "H.I.G. Capitalが2号インフラファンド「H.I.G. Infrastructure Partners II」で約26億ドルの調達を目指し、既存投資家への打診を始めたと報じられた。",
-      "目標額は2024年6月に約13億ドルで募集を終えた1号ファンドの約2倍の規模にあたる。",
-      "ミドルマーケットのインフラ企業の過半数株式取得を狙い、グロスIRR15〜20%を目標とするとされるが、関係者の話に基づく報道で正式発表はない。"
-    ],
-    "collected_at": "2026-10-10T06:26:04-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "NTSB releases final report on fatal accident involving BNSF conductor in Montana",
-    "title_ja": "NTSB、BNSF車掌死亡事故で安全規定の不備を指摘",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/ntsb-releases-final-report-on-fatal-accident-involving-bnsf-conductor-in-montana/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "NTSBが2025年10月19日にモンタナ州コロンバスで発生したBNSF車掌死亡事故の最終報告書を公表した。",
-      "車掌は停車中の列車の手ブレーキを解放する作業中に隣接本線へ踏み出し、東行きの空の穀物列車に衝突されたとされる。",
-      "報告書は、停車車両の手ブレーキ解放時に線路上安全措置を求める規定がFRA規則にもBNSF社内規則にも無いことと、作業場所の危険に関する安全ブリーフィングの不十分さを要因に挙げたと報じられており、同種作業の取り扱い見直しにつながる可能性がある。"
-    ],
-    "collected_at": "2026-10-11T13:27:01-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "TD Cowen Insight: Merger to Dominate Rail Earnings Despite Diverging Q3 Operations",
-    "title_ja": "TD Cowen、3Q決算で東部2社のEPS予想を下方修正",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/class-i/td-cowen-insight-merger-to-dominate-rail-earnings-despite-diverging-q3-operations/",
-    "published_at": "2026-10-09",
-    "summary_ja": [
-      "TD Cowen は3Q26決算プレビューで東部2社（NS・CSX）のEPS予想をコンセンサス以下に引き下げ、インターモーダルと石炭が好調な UP は小幅上方修正した。",
-      "下方修正幅が最大の NS は通期ガイダンス達成が困難で営業比率が大きく圧迫されるとみており、四半期中の米鉄道カーロードは0.5%増（自動車・機器が6.5%増）、インターモーダルは0.4%減、軽油価格も利益率の重荷と指摘した。",
-      "決算説明では UP-NS 合併が話題を占めるとみて承認確率90%の見方を維持し、両社は株主投票を11月14日に設定、STB の判断は早くても2027年後半との見通しを示した。"
-    ],
-    "collected_at": "2026-10-19T13:24:03-07:00"
   }
 ]
