@@ -1,5 +1,80 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "FreightCar America, Inc. Reports Third Quarter 2026 Results",
+    "title_ja": "FreightCar America、Q3売上52%減・EBITDAほぼ消失",
+    "source": "FreightCar America (GlobeNewswire)",
+    "url": "https://www.globenewswire.com/news-release/2026/11/09/3399012/0/en/freightcar-america-inc-reports-third-quarter-2026-results.html",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "FreightCar Americaは第3四半期決算を正式公表し、売上は前年同期の1億6,050万ドルから7,650万ドルへ、貨車納入は1,304両から662両へ減少した。",
+      "調整後EBITDAは10万ドル（マージン0.2%）で前年同期の1,590万ドル（9.9%）からほぼ消失し、通期の調整後EBITDAガイダンスも従来の3,600万〜4,400万ドルから1,500万〜1,900万ドルへ引き下げられた。",
+      "受注残は顧客の履行能力に疑義があるとしてタンク車改造1,285両を除外した後も2,660両・2億8,450万ドルで前年同期比28%増、アフターマーケット売上は65%増と、納入減を補う収益源の育成が進んでいる。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Cargo boycott threat by Indian brokers over empty-box fee hikes",
+    "title_ja": "インド港湾、空コンテナ荷役料の倍増に仲介業者が貨物ボイコットを警告",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/cargo-boycott-threat-by-indian-brokers-over-empty-box-fee-hikes/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "インドの港湾で、船社による空コンテナの取り扱い方針変更とデポ料金の引き上げをめぐりサプライチェーン仲介業者との対立が広がり、貨物ボイコットの可能性が取り沙汰されている。",
+      "Maerskはインド最大のコンテナ港ムンドラ経由の空コンテナについて11月1日からlift-on/lift-off料金を20フィート当たり23ドルから51ドル、40フィート当たり31ドルから67ドル（別途現地税）へ、実質2倍以上に引き上げた。",
+      "空コンテナのヤードでの積み降ろしが対立の焦点となっており、デリー後背地の主要ゲートウェイでの機材回送コスト上昇は内陸デポの運用にも影響しうる。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Latest locomotive leases: CARGOUNIT, Alpha Trains and OnTrain deliver to freight operators",
+    "title_ja": "欧州機関車リース3社、11月初旬に新規顧客へ相次ぎ引き渡し",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/rolling-stock/66012-latest-locomotive-leases-cargounit-alpha-trains-and-ontrain-deliver-to-freight-operators",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "ポーランドのリース会社CARGOUNITは Rail&Sea Logistics Group を新規顧客に加え、同グループの運行会社向けにSiemens製電気機関車2両を投入した。",
+      "Alpha Trains は新規顧客となるドイツの Dinlok Group へ Siemens Vectron AC を1両引き渡し、OnTrain は Qemetica Cargo へ Newag Dragon 2 を引き渡して同形式の保有を4両に増やした。",
+      "OnTrain の Dragon 2 は2024年12月に10両（追加10両のオプション付き）を発注した案件からの引き渡しで、欧州の機関車リース各社が貨物オペレーターの新規顧客開拓を続けている。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Cube Infrastructure targets €1.5bn for fourth flagship fund, hits €587m first close",
+    "title_ja": "Cube Infrastructure、第4号ファンドで5.87億ユーロの初回クローズ",
+    "source": "AltAssets",
+    "url": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/cube-infrastructure-targets-e1-5bn-for-fourth-flagship-fund-hits-e587m-first-close.html",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "Cube Infrastructure Managers は4本目の旗艦ファンド Cube IV について、コインベストメントを含め5億8,700万ユーロ（約6億5,400万ドル）で初回クローズしたと発表した。",
+      "2025年末に立ち上げた同ファンドの目標額は15億ユーロ（約17億ドル）で、前号 Cube III の最終クローズ13億5,000万ユーロを上回る規模を狙い、数週間以内に初回投資を決める見込みとしている。",
+      "投資対象は欧州ミドルマーケットのコアプラス型インフラで、エネルギー移行・通信/デジタル・輸送・環境サービスのプラットフォームを主にブラウンフィールド案件で手がける。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Texas Teachers commits over $1.5 billion across real estate, private equity and infrastructure",
+    "title_ja": "Texas Teachers、実物資産・PEに15.3億ドル超を新規コミット",
+    "source": "Pensions & Investments",
+    "url": "https://www.pionline.com/searches-hires-mandates/pi-texas-teachers-commitments-october-real-estate-private-equity-enri/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "米最大級の公的年金 Teacher Retirement System of Texas（オースティン）が、15億3,000万ドル強の新規コミットメントを開示した。",
+      "配分先は不動産、プライベートエクイティ、およびエネルギー・天然資源・インフラ（ENRI）の3区分にまたがり、インフラを含む実物資産枠への継続的な資金投入が確認できる。",
+      "直近9月分の開示が5億ドル強だったのに対し10月分は3倍前後の規模とみられ、機関投資家のインフラ・実物資産への配分意欲が引き続き強いことを示す（区分別の内訳は非開示）。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "earnings",
     "title": "BNSF third-quarter revenue and profits rise",
@@ -315,6 +390,21 @@
     "collected_at": "2026-11-09T06:30:43-08:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "U.S. intermodal volume sets record in October",
+    "title_ja": "米インターモーダル、10月に月間過去最高で3カ月連続記録",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/u-s-intermodal-volume-sets-record-in-october/",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "AARの11月Rail Industry Overviewによれば、10月の米インターモーダル輸送量は前年同月比9.6%増で月間の過去最高を記録し、記録更新は3カ月連続となった。",
+      "10月のcarloadsは3.4%増と8カ月ぶりに最大の伸び率となり、20の品目区分のうち15が前年を上回り、石炭と穀物を除くFreight Rail Indexは過去2番目の水準に達した。",
+      "AARは史上1位・3位・5位のインターモーダル週がいずれも10月に集中したとし、年初来4.7%増を踏まえ2026年は通年でも過去最高になると見込んでいる（軽油価格の高騰とトラック輸送能力の逼迫が背景）。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "earnings",
     "title": "Maersk converts market opportunities into significantly higher earnings and raises full-year guidance",
@@ -570,6 +660,21 @@
     "collected_at": "2026-11-09T06:30:43-08:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container rates to plummet in 2027",
+    "title_ja": "Xeneta、2027年のコンテナスポット運賃3割下落を予想",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/container-rates-to-plummet-in-2027",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "XenetaのOcean Outlookは、2027年の世界のコンテナスポット運賃が2026年第3四半期を基準に通年平均で約30%下落し、長期契約運賃も約5%下がると予想した。",
+      "最大の要因は紅海・スエズ航路への本格回帰で、2027年の船腹供給は6.8%増に対し需要の伸びは2.5〜4%にとどまり、年初の立ち上がりとピークシーズンはいずれも弱いと見込む。",
+      "Drewryも2027年の契約運賃低下を予想し船腹供給の伸びを8.8%とより高く見るなど見方には幅があり、Xeneta自身も新たなサプライチェーン混乱が起きれば予想は覆るとしているが、運賃下落局面ではコンテナ機材の調達コストや中古価格にも下押し圧力がかかる。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "AAR reports Rail Traffic for the week ending October 31, 2026",
@@ -688,6 +793,21 @@
       "Series G（年7.500%）の0.46875ドルは7月の前回決議から据え置きで、Brookfield 傘下に入った後も優先株の配当は従来水準を維持している。"
     ],
     "collected_at": "2026-11-05T06:24:18-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Intermodal leads weekly gains as US rail traffic rises 3.5%, says AAR",
+    "title_ja": "AAR、10月31日週の米鉄道輸送量が3.5%増",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "AARによると10月31日までの週の米国鉄道輸送量は前年同週比3.5%増で、carloadsが3.0%増、インターモーダルが3.9%増となった。",
+      "10商品群のうち7つが前年を上回り、金属鉱石・金属が18.3%増で最大、林産品9.3%増、自動車・部品9.1%増、化学品7.9%増が続いた一方、穀物は8.3%減、石炭は0.4%減だった。",
+      "2026年の累計43週では総輸送量が3.8%増で、インターモーダル4.7%増がcarloads2.7%増を上回り、年初来では穀物が10.1%増と最も強い品目となっている。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
   },
   {
     "category": "rail_industry",
@@ -1003,6 +1123,21 @@
       "Contagemは南米市場と輸出向けの供給拠点にあたり、能力増強はWabtecの機関車供給余力の底上げにつながる。"
     ],
     "collected_at": "2026-11-08T13:24:25-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Greenbrier expects 26,000-28,000 industry railcar deliveries in fiscal 2027",
+    "title_ja": "Greenbrier、FY2027の業界貨車納入を2.6万〜2.8万両と予想",
+    "source": "Railway Supply",
+    "url": "https://www.railway.supply/greenbrier-expects-26000-28000-industry-railcar-deliveries-in-fiscal-2027/",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "Greenbrierは2027会計年度の北米業界全体の貨車納入を2万6,000〜2万8,000両と見込み、自社納入見通しに代えて業界推計を示す方式へ開示を変更した。",
+      "2026会計年度の自社納入は1万5,400両、8月31日時点の受注残は約1万4,000両・推定21億ドルで、FY2027は売上28億〜32億ドル、EPS2.75〜3.75ドル、営業利益率7〜7.5%を見込む。",
+      "経営陣は関税の不確実性がとくにタンク車で顧客の長期投資判断を遅らせていると指摘し、納入は下半期偏重になるとの見方を示した。"
+    ],
+    "collected_at": "2026-11-09T13:21:39-08:00"
   },
   {
     "category": "container_leasing",
