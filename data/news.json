@@ -76,6 +76,51 @@
   },
   {
     "category": "rail_industry",
+    "kind": "news",
+    "title": "Senator renews opposition to UP-NS merger in wake of Vena video",
+    "title_ja": "Baldwin上院議員、Vena動画公開でUP-NS合併の却下を再要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/senator-renews-opposition-to-up-ns-merger-in-wake-of-vena-video/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "ウィスコンシン州のTammy Baldwin上院議員（民主党）が、UPのJim Vena CEOによる3月のSWARS（南西部鉄道荷主協会）講演動画の公開を受け、STBにUP-NS合併を却下するよう改めて求めた。",
+      "Vena氏はヒューストンでの講演の最後に「シームレスな鉄道を望まないと言った全員の運賃を3〜4%上乗せして教訓を与えるだろう」と述べており、UPはSTBが不服申立てを却下した後、11月5日に動画を公開した。",
+      "Baldwin議員は2026年7月16日にも同じ講演を取り上げてSTBに書簡を送っており、UP側は発言を講演全体の文脈で捉えるべきだとして荷主に合併審査への参加を促している。"
+    ],
+    "collected_at": "2026-11-10T06:28:09-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "TrainsPRO Podcast episode 5 recap",
+    "title_ja": "UP Vena CEO、大陸横断合併の論拠と批判に率直に反論",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/trainspro-podcast-episode-5-recap/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "Trains誌のBill Stephens編集長がUPのJim Vena CEOに聞くポッドキャスト第5回が公開され、NSとの大陸横断合併、規制審査、競争環境、業界の長期課題が議題となった。",
+      "Vena氏はCEOとして初めてUP本社に出社した際、黒い手帳の最終ページに「MERGER」と大文字で記していたと明かし、「最初の仕事は会社を従業員・事業・株主のすべてにとってより良い状態で引き継ぐことだ」と合併の論拠を説明した。",
+      "同氏は2019〜2020年にUPのCOOを務めた後2023年8月にCEOに就任した経歴で、今回は案件に寄せられた批判についても率直な評価を示している。"
+    ],
+    "collected_at": "2026-11-10T06:28:09-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Maersk North America Market Update November 2026",
+    "title_ja": "Maersk、北米の輸入ピーク緩和も機材・混雑の制約は継続と指摘",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/maersk-north-america-market-update-november-2026/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "Maerskの11月の北米市況レポートは、長期化していた輸入ピークシーズンが緩和し始めた一方、輸送網には局所的な輸送力の制約、高止まりする運営コスト、天候による混乱が残るとした。",
+      "Drewryの10月時点の評価では世界のコンテナ市場はより均衡に近づいたが航路ごとのばらつきは大きく、港湾混雑・燃料価格・コンテナ機材の調達可能性・現地の輸送事情が内陸輸送に影響し続けるとしている。",
+      "荷主側の優先課題としては、米国での輸入者情報の正確な登録、カナダでの追加関税（surtax）減免の検討、メキシコの新税関法への対応準備の3点を挙げた。"
+    ],
+    "collected_at": "2026-11-10T06:28:09-08:00"
+  },
+  {
+    "category": "rail_industry",
     "kind": "earnings",
     "title": "BNSF third-quarter revenue and profits rise",
     "title_ja": "BNSF、第3四半期の税引前利益18.5%増",
@@ -5008,65 +5053,5 @@
       "納入は2026年初めに始まり7月末時点で約110両が稼働、2027年半ばの全車投入を目標としており、老朽化して保守負担の大きい貨車の置き換えを狙う。"
     ],
     "collected_at": "2026-10-30T13:22:59-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Federal Railroad Administration investigating rail dispatch incidents in Chicago area",
-    "title_ja": "FRA、シカゴ地区の運行指令トラブル3件を調査",
-    "source": "Chicago Tribune",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDBGZC1sRjhRVTNPeUVVdGEyajZaVGh0blg1RmFxVkNVOFdKaWhPLUdxRmJDSVozZkxLVlJfdHFIUFhpOXBveDNYcWxqa2lQSXA4djhNckZ0ZXVQdXNIa2JPektJQ1hjYnlhZFlhb2p0UjVKLWdqeENEVUlnSEpFeF9ORTJfOE1uMUZidXBUaC1ieXNEZDVxcXlycmtWR281WHRNVU44OTR6dms5Z2dpODBn?oc=5",
-    "published_at": "2026-10-11",
-    "summary_ja": [
-      "米FRAが、この夏にシカゴ地区の複数の中西部鉄道で起きた列車運行指令システムの不具合3件について調査を進めている。",
-      "うち1件は、保線作業員の線路使用が承認済みの区間へ列車を進入させうる信号を指令ソフトが現示したもので、米列車ディスパッチャー協会（ATDA）がFRAに正式に申し立てた。",
-      "指令システムを供給するWabtecは「広範な試験を経ている」と説明する一方、ATDA会長は当該ソフトに連邦の監督規定がない点を問題視しており、FRAは調査完了後に対応を判断するとしている。"
-    ],
-    "collected_at": "2026-10-11T06:25:52-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Intra Asia Container Index Down 1%",
-    "title_ja": "アジア域内コンテナ指数、6週連騰後に1%下落",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-1/",
-    "published_at": "2026-10-11",
-    "summary_ja": [
-      "Drewry のアジア域内コンテナ指数（IACI）は前週比1%下落し、40フィートコンテナ当たり1,503ドルとなった。",
-      "6週連続の上昇を経て総合指数は横ばい圏に転じ、中国の国慶節連休中もほぼ変動しなかった（前年同期は12%下落）。",
-      "大中華圏発の北東・東南・南アジア向けスポット運賃は連休中の需要減で軟化しており、域内の機材需給は一旦緩む方向にある。"
-    ],
-    "collected_at": "2026-10-12T06:40:18-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "CRRC's self-propelled modular MAGIX freight wagon concept",
-    "title_ja": "CRRC、自走式モジュラー貨車MAGIXを欧州で提示",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/technology-innovation/64372-crrc-s-self-propelled-modular-magix-freight-wagon-concept",
-    "published_at": "2026-10-11",
-    "summary_ja": [
-      "CRRC は InnoTrans 2026 で、バッテリー駆動の自走機能とDAC（デジタル自動連結器）、状態監視機能を備えたモジュラー貨車 MAGIX の試作車を公開した。",
-      "自重17トン、軸重22.5トン、最大積載73トン、最高速度120km/h で、標準軌・G1車両限界に対応する仕様が示された。",
-      "ターミナルや操車場での1両ごとの入換に機関車を要しない運用を狙う構想で、現時点で顧客は決まっておらず欧州市場の反応を探る段階とされる。"
-    ],
-    "collected_at": "2026-10-12T06:40:18-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Ares Provides $2 Billion Debt Facility To Phoenix Tower International As Part Of $6.5 Billion Financing",
-    "title_ja": "Ares、Phoenix Towerの65億ドル調達に20億ドルを供与",
-    "source": "Pulse 2.0",
-    "url": "https://pulse2.com/ares-provides-2-billion-debt-facility-to-phoenix-tower-international-as-part-of-6-5-billion-financing/",
-    "published_at": "2026-10-11",
-    "summary_ja": [
-      "Ares Management の運用ファンドが、通信塔運営の Phoenix Tower International による65億ドルのマルチ法域調達のうち20億ドルを引き受けたと報じられた。",
-      "調達はタームローン約53.7億ドル相当、ディレードドローのタームローン6.35億ドル、リボルビングクレジット5億ドルで構成され、クロージング時に約18億ドルが実行されたとされる。",
-      "資金は既存債務の借り換えと設備投資・買収に充てられ、23カ国で3万3,000超のサイトを持つ同社の拡大を支える。"
-    ],
-    "collected_at": "2026-10-17T06:24:49-07:00"
   }
 ]
