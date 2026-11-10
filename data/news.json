@@ -1,5 +1,35 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Suez return could limit November freight rate increases, Sogese warns",
+    "title_ja": "Sogese、スエズ復帰で11月の運賃値上げは限定的と警告",
+    "source": "Container News",
+    "url": "https://container-news.com/suez-return-could-limit-november-freight-rate-increases-sogese-warns/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "イタリアの物流企業Sogeseは11月の欧州コンテナ市況レポートで、スエズ運河経由の船腹がアジア-欧州航路に戻るなか、船社が打ち出した11月の運賃値上げを満額確保するのは難しいと指摘した。",
+      "Drewryの世界コンテナ指数は11月5日時点で40フィート当たり4,389ドルで、10月22日の4,585ドルから下落している。",
+      "短距離のスエズ航路への回帰がスケジュール遵守率の改善を上回る速さで進んでおり、荷主・物流事業者にとって新たな課題になっているとしている。"
+    ],
+    "collected_at": "2026-11-10T13:25:36-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "WH Davis to build 56 MWA box wagons for GBRf scrap traffic to Cardiff",
+    "title_ja": "Porterbrook、GBRf向け大容量貨車56両をWH Davisで製造",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUlUSVZqaGZDelM2OC1PWV9YZ2hmanlWX1dvVzNlMVAyekdtcGZFNURPaUQtYVdrb1AzN1RCRHBkZlVLaVprTXo5TTYyY0hVWDdMazA0YjVfZTc4YTZwS3pxRm8xWk9iNENmeXJzdEFkdnMxbkVkTDB0dV92ODFOejhoQTlfeG5LUEJ0UkpDMmZIYnQ2cjlRSGQzdGtrTWxnYWlCRVJaQkxLUFQwOFo3RXREZ0s4Zw?oc=5",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "リース会社PorterbrookがGB Railfreight（GBRf）向けにMWA型ボックス貨車56両を供給する契約をまとめ、製造は英ノッティンガムシャーのWH Davisが担う。",
+      "容量は75立方メートルで標準的なボックス貨車より約25%大きく、車輪摩耗を抑えるTF25対応台車を装備し、初号車は2027年9月完成予定とされる。",
+      "貨車はカーディフの7Steel向けにリサイクル原料を運ぶ用途に充てられ、英国産鉄鋼の生産を支える輸送に投入される見通し。"
+    ],
+    "collected_at": "2026-11-10T13:25:36-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "FreightCar America, Inc. Reports Third Quarter 2026 Results",
@@ -118,6 +148,21 @@
       "荷主側の優先課題としては、米国での輸入者情報の正確な登録、カナダでの追加関税（surtax）減免の検討、メキシコの新税関法への対応準備の3点を挙げた。"
     ],
     "collected_at": "2026-11-10T06:28:09-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB Issues Policy Statement on Federal Preemption",
+    "title_ja": "STB、連邦法優先の範囲を示す政策声明を公表",
+    "source": "Surface Transportation Board",
+    "url": "https://www.stb.gov/news-communications/latest-news/pr-26-25/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "STBは11月9日、1995年ICC廃止法（ICCTA）に基づく鉄道輸送への排他的管轄と、州・地方法に対する連邦法優先（preemption）の範囲を整理した政策声明を公表した。",
+      "声明はDocket EP 791として出され、施行から30年分の判例を一カ所にまとめた実務資料で、拘束力は持たないが紛争解決の迅速化と訴訟・規制コストの低減を狙う（FR Doc. 2026-22811）。",
+      "鉄道で輸送する荷主施設への州・地方の土地利用規制が連邦法優先でより厳しく審査される可能性があり、AARは管轄の明確化を歓迎する声明を出した。"
+    ],
+    "collected_at": "2026-11-10T13:25:36-08:00"
   },
   {
     "category": "rail_industry",
@@ -1183,6 +1228,21 @@
       "経営陣は関税の不確実性がとくにタンク車で顧客の長期投資判断を遅らせていると指摘し、納入は下半期偏重になるとの見方を示した。"
     ],
     "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Wascosa leases 70 grain hoppers to Granaagro",
+    "title_ja": "Wascosa、Granaagroに穀物用貨車70両をリース",
+    "source": "RAILMARKET.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUXllZ1lRek5nRHJWVkl5SG9VcWFsS015bVk1a0Qxa2VqZG1SeWhIVm5ZXzVFUXVLdGlLcGY0UC1KSXM2SWlhbHA5WlUyVk9BT3JfRzJ0Qnp4dnVNdlNoX3h0bkpFQ18xcy1UVDdpZk01ODhvMEVUVTY0SkVkS1Z4SmpzeVRrRGhFMXpVRE1pamNsbFN6MF8xRA?oc=5",
+    "published_at": "2026-11-02",
+    "summary_ja": [
+      "スイスの貨車リース会社Wascosaが、Granaagro Deutschlandに穀物用貨車70両をリースし、国際的な穀物輸送に投入される。",
+      "対象はフランスとスイスを結ぶ越境の穀物輸送で、2026年1月以降TR Trans Railが列車を運行し、フランス側の牽引はEuroporteが担っている。",
+      "Wascosaは穀物用ホッパー車として95立方メートルと130立方メートルの車種を揃えており、農産物輸送向けのばら積み貨車需要を取り込む動きとみられる。"
+    ],
+    "collected_at": "2026-11-10T13:25:36-08:00"
   },
   {
     "category": "container_leasing",
@@ -2818,6 +2878,21 @@
       "Barkingはロンドンの港湾へ向かう貨物線と旅客線が交わる要衝で、コンテナ列車の迂回や遅延が続いている。"
     ],
     "collected_at": "2026-10-26T13:24:44-07:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "USTR proposes extending port fee suspension on China-linked ships to January",
+    "title_ja": "USTR、中国関連船の入港料停止を2027年1月まで延長提案",
+    "source": "S&P Global Commodity Insights",
+    "url": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/102326-ustr-proposes-extending-port-fee-suspension-on-china-linked-ships-to-january",
+    "published_at": "2026-10-23",
+    "summary_ja": [
+      "USTRは、中国所有・運航船に課すSection 301入港料の徴収停止を2026年11月10日から2027年1月9日まで2カ月延長する案を示し、docket USTR-2026-0694として10月30日締切で意見公募を行った。",
+      "停止が失効すれば基本料率は純トン当たり0ドルから80ドルに戻り、対象にはクレーンや荷役機器への追加関税、自動車専用船へのAnnex III料金も含まれる。",
+      "米中の通商休戦が2027年1月10日まで延長されたことを受けた措置とみられるが、最終告示の公表は確認できておらず、荷主やリース各社は1月以降の再発動も想定した計画を求められる。"
+    ],
+    "collected_at": "2026-11-10T13:25:36-08:00"
   },
   {
     "category": "rail_industry",
