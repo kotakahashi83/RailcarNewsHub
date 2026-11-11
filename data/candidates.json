@@ -1,14 +1,352 @@
 {
- "generated_at": "2026-11-11T00:02:26+00:00",
+ "generated_at": "2026-11-11T14:23:29+00:00",
  "window_days": 30,
  "counts_by_hint": {
   "rail_industry": 48,
   "container_leasing": 45,
+  "eu_railcar_leasing": 45,
   "alt_investment": 45,
-  "railcar_leasing": 45,
-  "eu_railcar_leasing": 45
+  "railcar_leasing": 45
  },
  "candidates": [
+  {
+   "title": "ScaleTrains HO scale EMD SD40-2 diesel locomotive",
+   "url": "https://www.trains.com/mrr/news-reviews/reviews/scaletrains-ho-scale-emd-sd40-2-diesel-locomotive/",
+   "source": "Trains",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Model Railroader Senior Editor Cody Grivno takes the throttle to evaluate the ScaleTrains HO scale (1:87.1) EMD SD40-2 diesel locomotive in this latest product review video! Our review model depicts Burlington Northern Santa Fe No. 8010, an EMD 3,000hp workhorse decorated in the eye-catching Heritage 1 paint scheme. The locomotive features prototypical details such as a nose-mounted headlight, semi-scale knuckle couplers, wire grab irons, see-through radiator fan grilles, and HTC truck sideframes with painted wheel faces. Equipped with an ESU LokSound V5 decoder and dual cube-type speakers, the model delivers realistic sounds, including engine startup (F8), horn (F2), and sanding valves (F18). Direct-current versions retail for $219.99, while DCC sound-equipped models sell for $329.99. Watch Cody using the unit to switch along the Milwaukee, Racine & Troy! Trains.com Product Review videos showcase the latest new items from manufacturers of products in Z, N, HO, S, O, and large scales. "
+  },
+  {
+   "title": "ScaleTrains HO scale EMD SD40-2 diesel locomotive",
+   "url": "https://www.trains.com/vid/modeling/reviews/scaletrains-ho-scale-emd-sd40-2-diesel-locomotive/",
+   "source": "Trains",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "rss:trains.com",
+   "snippet": "Model Railroader Senior Editor Cody Grivno takes the throttle to evaluate the ScaleTrains HO scale (1:87.1) EMD SD40-2 diesel locomotive in this latest product review video! Our review model depicts Burlington Northern Santa Fe No. 8010, an EMD 3,000hp workhorse decorated in the eye-catching Heritage 1 paint scheme. The locomotive features prototypical details such as [...]  Read More...",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Yang Ming reports strong Q3 profit amid higher freight rates",
+   "url": "https://container-news.com/yang-ming-reports-strong-q3-profit-amid-higher-freight-rates/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Yang Ming Marine Transport Corporation reported an after-tax net profit of NT$18.57 billion (US$584.75 million) for the third quarter of 2026, supported by stronger cargo demand, higher freight rates and continued capacity constraints across major shipping routes. The Taiwanese container shipping company generated consolidated quarterly revenue of NT$64.15 billion (US$2.02 billion), while earnings per share reached NT$5.32, according to financial results approved by its board on 10 November. For the first nine months of 2026, Yang Ming recorded consolidated revenue of NT$148.73 billion (US$4.68 billion), representing an 18% increase compared with the corresponding period of 2025. After-tax net profit reached NT$25.74 billion (US$810.56 million), with cumulative earnings per share of NT$7.37. Stronger demand and capacity constraints support earnings Yang Ming attributed its financial performance to improving demand across long-haul container shipping trades since the second quarter, wit"
+  },
+  {
+   "title": "AD Ports Group posts record Q3 profit despite drop in UAE container volumes",
+   "url": "https://container-news.com/ad-ports-group-posts-record-q3-profit-despite-drop-in-uae-container-volumes/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "AD Ports Group reported record quarterly earnings for the third quarter of 2026, despite a sharp decline in container throughput at its UAE ports amid continued disruptions around the Strait of Hormuz. The Abu Dhabi-based group recorded revenue of AED 7.99 billion, up 48% compared with the same period last year. EBITDA increased 63% to AED 1.97 billion, while net profit rose 64% to AED 975 million. The stronger results were supported by growth across the group’s four main business clusters. Maritime & Shipping and Logistics delivered particularly strong revenue increases, while port operations recovered from the previous quarter. However, the operating environment remained challenging for terminals in the UAE, where geopolitical disruptions continued to affect cargo flows. UAE container volumes remain under pressure Container throughput at AD Ports Group’s UAE terminals fell 57% year on year to 751,000 TEU during the third quarter. Nevertheless, volumes increased by more than 30% compa"
+  },
+  {
+   "title": "US container imports hit all-time high in October, Descartes reports",
+   "url": "https://container-news.com/us-container-imports-hit-all-time-high-in-october-descartes-reports/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "US container imports reached an all-time monthly high in October 2026, supported by stronger shipments from China and increased activity at East and Gulf Coast ports, according to Descartes Systems Group. The latest Global Shipping Report shows that US maritime container imports reached 2,674,808 TEUs in October. This represents a 5% increase from September and a 16% rise compared with October 2025. The total exceeded the previous monthly record of 2,622,465 TEUs, set in May 2022, by 52,343 TEUs. During the first ten months of 2026, US container imports increased by 2.3% compared with the same period last year. This marked the second consecutive month in which cumulative volumes remained above their 2025 levels. China imports strengthen as East and Gulf Coast ports gain Imports from China rose for the fourth consecutive month, reaching 987,805 TEUs in October. This was the highest monthly volume recorded since January 2025. China-origin shipments increased by 6.9% from September and 22"
+  },
+  {
+   "title": "Hai An extends Vietnam container service to Tuticorin",
+   "url": "https://container-news.com/hai-an-extends-vietnam-container-service-to-tuticorin/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "The service expansion began with the inaugural call of the 1,781 TEU containership HAIAN ALFA at Dakshin Bharat Gateway Terminal (DBGT) on 7 November 2026. The new call provides southern Indian importers and exporters with additional container shipping connections to Vietnam and other Asian markets. According to the V.O. Chidambaranar Port Authority, the service operates fortnightly, linking Tuticorin with Chennai, Ho Chi Minh City, Hai Phong, Qinzhou and Port Klang. New service strengthens Asian connectivity The expanded CVI service offers scheduled transit times of approximately seven days from Tuticorin to Ho Chi Minh City and ten days to Hai Phong. These connections provide businesses in southern India with additional options for transporting cargo to Vietnamese markets. During its first call at DBGT, HAIAN ALFA handled 823 TEU. The total included 723 TEU of imports, primarily associated with Vietnamese automaker VinFast. The vessel also handled 100 TEU of transshipment cargo desti"
+  },
+  {
+   "title": "RCL posts higher Q3 profit and orders 12 containerships",
+   "url": "https://container-news.com/rcl-posts-higher-q3-profit-and-orders-12-containerships/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Regional Container Lines (RCL) reported a sharp increase in third-quarter profit as higher freight rates supported earnings despite lower container volumes. The Thailand-based shipping company recorded a net profit of THB 3.26 billion for the three months ended 30 September 2026. This represents a 64.7% increase from THB 1.98 billion in the previous quarter. Freight income rose by THB 1.05 billion, or 10.4%, compared with the second quarter. Meanwhile, freight and operating costs declined by 2.4%, supporting the improvement in profitability. However, total container liftings fell by 4.1% during the quarter. RCL attributed the stronger earnings partly to higher freight rates caused by congestion at major ports and the ongoing conflict in the Middle East. The company’s average freight rate increased from US$552 per TEU in the second quarter to US$624 per TEU in the third quarter. Higher freight rates offset lower volumes For the first nine months of 2026, RCL reported a net profit of THB"
+  },
+  {
+   "title": "NYSHEX raises US$8.7 million to expand NYFI freight index",
+   "url": "https://container-news.com/nyshex-raises-us8-7-million-to-expand-nyfi-freight-index/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "New York Shipping Exchange (NYSHEX) has raised US$8.7 million in Series D funding to expand its NYSHEX Freight Index (NYFI) and strengthen its container shipping risk management services. The financing round was led by NewRoad Capital Partners and Intercontinental Exchange (ICE), with participation from existing investors. As part of the investment, Stuart Williams, Chief Operating Officer of ICE, will join the NYSHEX Board of Directors. The funding will support the expansion of NYFI into additional markets. NYSHEX also plans to develop more detailed freight benchmarks and improve analytics linked to exchange-traded freight futures. NYFI expansion targets freight market transparency According to the official NYSHEX announcement, the company will focus on broader geographic coverage and greater detail in its container freight indices. Launched in April 2025, NYFI uses freight rates from shipments that have actually moved rather than relying on quoted or booked rates. This approach provi"
+  },
+  {
+   "title": "SITC CJV6 becomes first international liner service at Nansha Phase IV",
+   "url": "https://container-news.com/sitc-cjv6-becomes-first-international-liner-service-at-nansha-phase-iv/",
+   "source": "Container News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:container-news.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Guangzhou Port’s Nansha Phase IV fully automated terminal has welcomed its first international liner service following the arrival of the container ship SITC YIHE. The vessel’s call marked the introduction of SITC’s CJV6 service at the terminal and the start of regular international liner operations at Nansha Phase IV, according to the Guangzhou Municipal Port Authority. CJV6 connects China, Japan and Vietnam The CJV6 service connects Nansha with the Japanese ports of Tokyo, Yokohama, Kawasaki and Nagoya, as well as Da Nang and Hai Phong in Vietnam. The service is expected to strengthen short-sea connectivity between South China, Japan and Vietnam while supporting more reliable cargo flows and shipping schedules across the regional network. Automated terminal handles first international call Nansha Phase IV is described by the port authority as the world’s first fully automated container terminal integrating river, sea and rail transport. Its operating systems incorporate 5G connectivi"
+  },
+  {
+   "title": "Ports could future-proof to beat box terminal congestion",
+   "url": "https://theloadstar.com/ports-could-future-proof-to-beat-box-terminal-congestion/",
+   "source": "The Loadstar",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:theloadstar.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Shenzhen belly cargo ban threatens peak-season squeeze at other gateways International belly-cargo operations at Shenzhen will be suspended during next week’s APEC summit, while sharply ... In recent months, a daily review of container terminal utilisation levels has become something of a ‘must-read’ for supply chain planners seeking to understand where boxes may be delayed, and for how long. That remains an art rather than science, but indicates how the container shipping industry has experienced something of a paradigm shift into an era in which waves of mega-congestion ripple across the port and shipping system. Terminal occupancy levels – ie, how many containers are sitting in a yard awaiting either a truck or loading on a vessel – continue to sit way above what these facilities were designed to handle. A small selection from just today, as reported by Kuehne+Nagel: Tokyo AOM yard density is at 113%, up from 96%; Yokohama is above 100%; Busan’s BNCT is around 95% overall, “with lad"
+  },
+  {
+   "title": "Return to Suez transits raises congestion fears at Red Sea ports",
+   "url": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/",
+   "source": "The Loadstar",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:theloadstar.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Hapag's standalone Asia-Mexico string adds another spoke to Gemini hub network Hapag-Lloyd has presented AMX, its new Asia–Mexico service, as a standalone: its own ships; its ... Evergreen is planning eight ad hoc Suez Canal and Bab-el-Mandeb Strait transits for its Far East–Europe services, according to Alphaliner, alongside four sailings aimed specifically at the Red Sea market. The Taiwanese carrier’s 16,556 teu Ever Eon made its first Suez transit last weekend, on its way from Rotterdam to Singapore on the Ocean Alliance’s China Europe Shuttle (CES) service. Three more eastbound CES transits are planned this year, and Ever Even is scheduled to make a westbound passage, reaching Suez on 12 December. Evergreen is also preparing to restore direct Far East–Red Sea connections through its ad hoc OGRD service, deploying vessels of 7,024-9,466 teu, on a rotation including Jeddah, Sokhna, and Aqaba. The first vessel, the 7,024 teu Ever Superb, is scheduled to depart Qingdao on 14 November."
+  },
+  {
+   "title": "Reliability ‘unenforceable’ by shippers over ocean contracts",
+   "url": "https://www.seatrade-maritime.com/containers/reliability-unenforceable-by-shippers-over-ocean-contracts",
+   "source": "Seatrade Maritime",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:seatrade-maritime.com",
+   "snippet": "Container shipping reliability has been hit by a series of crisis since 2020 and speakers at TOC Asia don’t expect it to improve",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Evergreen resumes Suez Canal transits after nearly 3-year hiatus",
+   "url": "https://www.hellenicshippingnews.com/evergreen-resumes-suez-canal-transits-after-nearly-3-year-hiatus/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:hellenicshippingnews.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "Evergreen resumes Suez Canal transits after nearly 3-year hiatus Evergreen resumed its shipping services across the Suez Canal following a nearly three-year hiatus amid the Red Sea crisis, Osama Rabie, Chairman of the Suez Canal Authority (SCA), announced. The giant container ship Ever Eon, part of the Evergreen fleet, made its first transit through the canal on Sunday, November 8, as part of the northbound convoy, sailing from the Netherlands to Singapore. The vessel is 369 meters long and 53.6 meters wide, with a gross tonnage of 185,000 tons and a carrying capacity of up to 16,556 twenty-foot equivalent units (TEUs). Rabie emphasized that this step is a positive indicator that global trade between the East and the West is moving back toward a sustainable path. He added that Evergreen intends to resume more of its voyages through the canal in the coming period, noting that the Suez Canal has successfully regained several shipping services from major global carriers operating on the E"
+  },
+  {
+   "title": "LR: Partnering the right yard to the right project",
+   "url": "https://www.hellenicshippingnews.com/lr-partnering-the-right-yard-to-the-right-project/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "rss:hellenicshippingnews.com",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": "LR: Partnering the right yard to the right project For shipowners planning their next generation of vessels, the newbuilding decision has rarely carried more strategic weight. A new construction boom, driven by demand for containerships and gas carriers, is coinciding with an ageing global fleet and a rapidly evolving regulatory and technology landscape. The ships ordered today will remain in service for decades, operating through the energy transition and, in many cases, into a net-zero emissions supply chain by 2050. That reality is changing how owners approach new construction. Yard availability, delivery schedules and commercial terms remain critical, but they are no longer enough on their own. Future-fuel capability and emissions performance are now central to the specification process, while digital integration, build quality, regulatory readiness and long-term asset value will determine how vessels perform throughout their operating lives. Selecting the right yard is an increasi"
+  },
+  {
+   "title": "STB should speed up EJ&E decision-making despite court rejection, CN says (11/11/2008)",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRmoyWmJ3V3I5QWF5cThPRUQ1U3FBS3RXMC0wQjhIWGwwci1RbGFLcVNVcEdyWWtmN0c3SWw3MmZPSm9YLUs1MmxObC04LWZtZHNydEJGODI4NVFoT25ZRzJaampUcmFtaEI2NkM4ckh5ZTN0d3ZjbW9ETG51b2xpcGtIT2FQUy1WYTNCM1FYSnU4aGFyZVFjNzVEUXotSTVabkJMT3k5cnlGblpMVS1ib1JpdGJDUmFsMWU0YzEyRmdualN0WF8yTWl4Y2l2cFBCVzd5VXJjYkc2VnhB?oc=5",
+   "source": "Progressive Railroading",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Western Pacific FP7 805-A selected for return to service",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0pZeGdGMVoya1BtNFoxV1h6R0EtaUJMa05WMENCQ0xpM05TQ2VsdjByUXNUSHotNEVLTUoxdEhSc2tnNFBPQjVHQk5rYXRMTlZuWEpTaVhfTE5sLWhUb3RLbWEzZEpqZlBzYXJLMC1OQWo5N1ZCQWhqQU1jNC1Sd1p5QU9kdmx1OUdGRUdpSUYwcTNtVFVCTUJXc1E2V3hoLWtaWk9FLUN2eHVkeWlSMHR0QnVudHR2R3M2MHpB?oc=5",
+   "source": "Trains Magazine",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "title": "Chessie System Heritage 8556 Rectangular Wooden Sign",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWZaTUZzMUwtcVJwbTJ4U2hLeno0ZURUdm9veG9mN1Q4ZlZ5VHFFb3IyT293TVR1THJ2WlZXZG0wZENXbmVQNWJzZWJ1OFNNOHFiUWZSM3hHRV9IU3VvRDF5R2Z0X2o4Q0pYMVdEbTMxZWxtSXNNazlzYTNGSnBLZkZtQmlOc3hSUnBoYk1R?oc=5",
+   "source": "Trains.com Store",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Conrail Heritage 8098 Rectangular Wooden Sign",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0JxSks3TzVJcF9PM0lHeXVMQm9leGxHM1hIaEwyTWh0aFpxTlN5OXdJdWRNZnJEbjQ5MGhjRjl2MTlzUEVkODZuYUwtMlJ2U1BTZmNDd3JKVTFIYTlfOVhYS1NEcWFfMHZKc090TFlseG9tcHdNUjNWVklGbWM1eGxzbE8?oc=5",
+   "source": "Trains.com Store",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Pennsylvania Railroad Heritage 8102 Rectangular Wooden Sign",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUNIWjJPZENWOU9rM0pZZ3BqTDliT2ZleDhwejNRWnM2SjdUUF84cEZKZUpQUEJZNVNJRjdpNkk3ZE9CSDQ0eEY2RklQcktvZV9yMmM1VldpWFlYWnBwRV81MmlocFRuUTB4ejFWWThNaWR2bXNsbFdCVXc4bFFpM1ljdVp3dG1mWFdrcEdIUWE3Z19IbjJj?oc=5",
+   "source": "Trains.com Store",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "CSX Heritage 7382 Rectangular Wooden Sign",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qN0RzSzZtOUlIdnVnX2RBbXFUV0VJeHV0ZUZHNjBXMDhjd2NaQWpyVXZYZDFhVWdJb0t2WTF2WkhyODNMTTdXVVdnNGhaOWEyUGNNQ2RxQURIeW9EMFAxdFd4YzZPXzNMZG0td2JMemlzd1FhbE9IZzlwVmNjMVk?oc=5",
+   "source": "Trains.com Store",
+   "published": "2026-11-11",
+   "category_hint": "rail_industry",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Maersk container ship topples STS crane at Yantian",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUotR3ZpajhwSWYwMmNYZjlQNGxzZFlMMWUyY3NBaU56cVJxcXR6YjlwLTJ2SmNJc1pRMjIwU181WVFlNkV3S05qZHVOYmU5Q0tMZ01xbzdUZGN4Y0tvQi11Uk9tR3hzV243MWEtbExhTVRzOEMtUkUxc0pvMS1JSW41MG9SSGs4aGNpVnZWTVhMclEyMDZkZ014dw?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-11-11",
+   "category_hint": "container_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "container_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Boluda Shipping to acquire Matrans terminal in Rotterdam",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUG5oVWFGclBoWWczeGRoZ2dUS0hudGx3aXVUdEJTNFVSM3FlV3QtT0RuSmZJdnBxbkdDWGFvakxBY2x0NFNnbXJIX0JiQjdCUVloUDFmY0tXYXFuSmFsaDJKcW9HM0wyLVVobGY2c1N4ZHVxV2FxUXAzbjFKVExKMnFVSWpiaVRLQzIwRDlJQ0E0cVBzVW5hVEFsWUJQZFJiZHprUDJfR1d2NzFualZJNksxT3lXOWhPcnZPSllXQUdCQQ?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-11-11",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "TugVolt autonomous wagons to be trialled on Missouri railway",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVRydVBiOUlJZGV2NEhBdUFNLVZGMEVydmZNbTVaQk51cTR2Y1hBWmVTQThOc2JYRFdfMi00RmRud1dQdU1fYkZqZk5pZXVxS2l0QUhIRWlYYlNxN1VIU2huUkpydzZZNE9LQWVUT3c5SnA5Q2pIN29ib1g5VW44UXRxTElKT2VKRVdNMzl5ekp0Zmc2UUhhcmhMdDZIWk94VWNHZTZ1VVNyelE2c25CWFJXcEM?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-11-11",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Partners : Societe Generale Assurances, and Societe Generale Private Banking launch a private infrastructure fund available through life insurance policies",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSTcwUDNWR3dFQU81LWM3VWhranlPM1JOVFpRdE03LW1aRkdiUDhuMUJ1MnIzZndid1dtZHFjMjRNNmFSR2h4Q0E2b1B5TUxTeGxmSy1YV2RnYmdFOUszSVIwTk96NC1XYmdmWlNVVy13OTVLQUlSTmx2Z0xnR25mMnh2cWFLTzdTdmZxczZMdTB5V0p4WXdic0RaX3NidjlqRENsZzk2cmdHZ21Rem1wdTN2YkhENW1reDhzX1pQUmVjOVFVNXZQZ3RWdFZ3bjFwdk1ibU1KOFJQVjlsd2hZR0RJa0M?oc=5",
+   "source": "www.marketscreener.com",
+   "published": "2026-11-11",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "Stonebriar's equipment deal raises $943.5 million",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkZQV2RDaWR6VENya3czNmhWaGppWmUzd2FrTHU3Yy1hLThmcTZ3TFdkRVJhTVR1aGxDblNGTVBHZUcxM3VvWEVIZl8zZ0w0RnQyOHJUdnlsWjB2MVZmUlZDdjZEZG9FYktZcl9qSUYtaFVqLVVaX1dyUUtDVDZvLUVZVzZSMXpsN1JDS0ExdmxQUQ?oc=5",
+   "source": "Asset Securitization Report",
+   "published": "2026-11-11",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
   {
    "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
    "url": "https://www.freightwaves.com/news/rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-and-reshape-trade",
@@ -19,8 +357,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Rising fuel prices and freight rates are putting pressure on corporate supply chains, but sharply with different consequences: Higher costs for automakers, a competitive opening for railroads and an unexpected advantage for some U.S. oil refiners. Comments from seven executives at Ford (NYSE: F), Union Pacific (NYSE: UNP), XPO (NYSE: XPO) and Valero (NYSE: VLO) during the latest third-quarter earnings season show why transportation inflation is much more than who pays more for diesel. The effect also depends on how far a company ships, which transport networks it controls and whether its competitors face an even steeper freight bill. At Ford, Chief Financial Officer Sherry Ann House drew a distinction between the cost of moving vehicles and customers’ willingness to buy them. “Higher fuel prices are impacting our freight and energy costs. But notably, we are not seeing it impact customer demand for trucks and fleet vehicles at this point,” House said on the company’s earnings call. Chi"
+   "excerpt": "Rising fuel prices and freight rates are putting pressure on corporate supply chains, but sharply with different consequences: Higher costs for automakers, a competitive opening for railroads and an unexpected advantage for some U.S. oil refiners. Comments from seven executives at Ford (NYSE: F), Union Pacific (NYSE: UNP), XPO (NYSE: XPO) and Valero (NYSE: VLO) during the latest third-quarter earnings season show why transportation inflation is much more than who pays more for diesel. The effect also depends on how far a company ships, which transport networks it controls and whether its competitors face an even steeper freight bill. At Ford, Chief Financial Officer Sherry Ann House drew a distinction between the cost of moving vehicles and customers’ willingness to buy them. “Higher fuel prices are impacting our freight and energy costs. But notably, we are not seeing it impact customer demand for trucks and fleet vehicles at this point,” House said on the company’s earnings call. Chi",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "NTSB releases preliminary report on UP derailment in Kansas",
@@ -32,8 +370,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "WASHINGTON — Damage was estimated at $2.4 million after 37 cars of a Union Pacific train derailed near Greensburg, Kan., on Oct. 15, according to a preliminary report from the National Transportation Safety Board. The train was westbound on UP’s Pratt Subdivision with three head-end locomotives, two midtrain distributed power units, and 171 loaded intermodal cars and auto racks when it derailed about 8:25 a.m. There were no injuries and no hazardous materials were released. Prior to the derailment, the train had been running at about 56 mph when it was stopped by a penalty brake application. After confirming that communication was intact with the DPUs and end-of-train device, and restoring brake pipe pressure, the engineer resumed the trip, but the train was stopped shortly thereafter by an emergency brake application, at which time the conductor observed the derailed cars. As part of the ongoing investigation, NTSB investigators examined the derailed cars and track structure; conducte"
+   "excerpt": "WASHINGTON — Damage was estimated at $2.4 million after 37 cars of a Union Pacific train derailed near Greensburg, Kan., on Oct. 15, according to a preliminary report from the National Transportation Safety Board. The train was westbound on UP’s Pratt Subdivision with three head-end locomotives, two midtrain distributed power units, and 171 loaded intermodal cars and auto racks when it derailed about 8:25 a.m. There were no injuries and no hazardous materials were released. Prior to the derailment, the train had been running at about 56 mph when it was stopped by a penalty brake application. After confirming that communication was intact with the DPUs and end-of-train device, and restoring brake pipe pressure, the engineer resumed the trip, but the train was stopped shortly thereafter by an emergency brake application, at which time the conductor observed the derailed cars. As part of the ongoing investigation, NTSB investigators examined the derailed cars and track structure; conducte",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Switch installation celebrated at Pullman historic park",
@@ -45,8 +383,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "CHICAGO — Visitors to the 19th-century Pullman factory complex on Chicago’s South Side frequently ask, “Where are the railcars?” The first step in eliminating that question took place when Norfolk Southern recently reinstalled a switch on an industrial lead two blocks east of the site that was once the conduit in and out of the sprawling plant. Next, a track will be relaid from there along the north side of 111th Street, now a grassy parkway, to a planned building to display vintage Pullman equipment. Norfolk Southern is contributing $250,000 to the venture. On Monday, Nov. 9, Friends of the Pullman National Historical Park staged a “Setting the Spikes” event. Local dignitaries were invited to don protective gear before bringing sledgehammers down on a track slab NS placed in a parking lot nowhere near where the real track will be constructed. The ceremonial spike driving kicked off what will likely be at least a decade of fundraising to again link the factory site with the U.S. rail n"
+   "excerpt": "CHICAGO — Visitors to the 19th-century Pullman factory complex on Chicago’s South Side frequently ask, “Where are the railcars?” The first step in eliminating that question took place when Norfolk Southern recently reinstalled a switch on an industrial lead two blocks east of the site that was once the conduit in and out of the sprawling plant. Next, a track will be relaid from there along the north side of 111th Street, now a grassy parkway, to a planned building to display vintage Pullman equipment. Norfolk Southern is contributing $250,000 to the venture. On Monday, Nov. 9, Friends of the Pullman National Historical Park staged a “Setting the Spikes” event. Local dignitaries were invited to don protective gear before bringing sledgehammers down on a track slab NS placed in a parking lot nowhere near where the real track will be constructed. The ceremonial spike driving kicked off what will likely be at least a decade of fundraising to again link the factory site with the U.S. rail n",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "CSX Santa Train to feature America 250 locomotives",
@@ -58,8 +396,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "KINGSPORT, Tenn. — This year’s CSX Santa Train will feature the railroad’s two America 250 locomotives, Wabtec CM44AHs Nos. 250 and 2026, the railroad has announced. The locomotives, introduced in June, feature a stars-and-stripes theme on No. 250 and a bald eagle and the phrase “United We Stand” on No. 2026 [see “CSX debuts pair …,” Trains.com, June 8, 2026]. The Santa Train is set to travel a 110-mile route through Kentucky, Virginia, and Tennessee on Nov. 21 [see “CSX Santa Train sets annual trip …,” Trains.com, Oct. 6, 2026]. It is the 84th year for the tradition dating to 1943. More information is available on the CSX website. — To report news or errors, contact trainsnewswire@firecrown.com. Share this article"
+   "excerpt": "KINGSPORT, Tenn. — This year’s CSX Santa Train will feature the railroad’s two America 250 locomotives, Wabtec CM44AHs Nos. 250 and 2026, the railroad has announced. The locomotives, introduced in June, feature a stars-and-stripes theme on No. 250 and a bald eagle and the phrase “United We Stand” on No. 2026 [see “CSX debuts pair …,” Trains.com, June 8, 2026]. The Santa Train is set to travel a 110-mile route through Kentucky, Virginia, and Tennessee on Nov. 21 [see “CSX Santa Train sets annual trip …,” Trains.com, Oct. 6, 2026]. It is the 84th year for the tradition dating to 1943. More information is available on the CSX website. — To report news or errors, contact trainsnewswire@firecrown.com. Share this article",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Long Beach commission approves port rail contract for Alameda Belt Line",
@@ -71,8 +409,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "LONG BEACH, Calif. — Members of the Long Beach Harbor Commission on Monday, Nov. 9, approved a contract for Alameda Belt Line to become the contract rail operator for the Port of Long Beach. The vote moves ABL, a joint operation of BNSF Railway and Union Pacific, closer to replacing Pacific Harbor Line, which has been the operator at the ports of Long Beach and Los Angeles since 1998. Los Angeles harbor commissioners voted to approve the contract in October [see “Pacific Harbor Line urges regulators …,” Trains.com, Oct. 8, 2026]. The Surface Transportation Board, however, indefinitely delayed the change of operators in a decision the following week, citing a need for more information on questions raised by both companies [see “Regulators place transfer … on hold,” Oct. 15, 2026]. In a series of unanimous votes, Long Beach commissioners also denied a PHL protest over the contract award and declared the decision an emergency ordinance effective immediately, citing the Dec. 2 expiration o"
+   "excerpt": "LONG BEACH, Calif. — Members of the Long Beach Harbor Commission on Monday, Nov. 9, approved a contract for Alameda Belt Line to become the contract rail operator for the Port of Long Beach. The vote moves ABL, a joint operation of BNSF Railway and Union Pacific, closer to replacing Pacific Harbor Line, which has been the operator at the ports of Long Beach and Los Angeles since 1998. Los Angeles harbor commissioners voted to approve the contract in October [see “Pacific Harbor Line urges regulators …,” Trains.com, Oct. 8, 2026]. The Surface Transportation Board, however, indefinitely delayed the change of operators in a decision the following week, citing a need for more information on questions raised by both companies [see “Regulators place transfer … on hold,” Oct. 15, 2026]. In a series of unanimous votes, Long Beach commissioners also denied a PHL protest over the contract award and declared the decision an emergency ordinance effective immediately, citing the Dec. 2 expiration o",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Memphis-area town asks STB to require UP to keep NS intermodal terminal open",
@@ -84,73 +422,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "WASHINGTON — The town of Rossville, Tenn., has asked the Surface Transportation Board to require Union Pacific to keep Norfolk Southern’s Memphis-area intermodal terminal open for at least five years after the merger. The UP-NS operating plan assumes UP will close the Rossville terminal in favor of its terminal across the Mississippi River in Marion, Ark. NS handles about 500 daily lifts at Rossville, a $125.6 million terminal that opened in 2012 with construction partly funded through a $52.5 million federal grant. Shifting Rossville’s containers to Marion would increase Marion truck traffic by 57% and force Memphis-area containers to cross the Mississippi by rail and return by truck, adding bridge traffic and drayage expense, the town argues in a filing with the STB. The town estimates the shift could add roughly 4.3 million truck-miles, $10 million in trucking costs, and 7,200 metric tons of CO2 annually. “Measured as added truck trips on the bridges, each case is 10 to 19 times the"
-  },
-  {
-   "title": "Rookie weathering Large-scale steam",
-   "url": "https://www.trains.com/grw/how-to/projects/rookie-weathering-large-scale-steam/",
-   "source": "Trains",
-   "published": "2026-11-10",
-   "category_hint": "rail_industry",
-   "feed": "rss:trains.com",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "When I acquired a Large-scale Colorado & Southern 2-6-0 No. 6 by Lehmann Gross Bahn (LGB) over the summer, I knew that I wanted to weather the old, tried-and-true model. Recently, I’ve been refining my weathering skills and techniques through different pieces of rolling stock in Large and O scales. But for a steam locomotive with both mechanisms and electronics to keep operable after a messy job, this rookie will certainly be earning his stripes—for better or for worse. Not going in blind Like past weathering projects on rolling stock, I was content with using powder sets, PanPastels, and dry brushing. Early in this project, I knew that the weathering process for a steam locomotive would require extra layers compared to a boxcar. This is especially true considering a couple objectives of the project: - Giving the locomotive an end-of-day run look, without looking like it has seen better days. - Keeping both the mechanisms—specifically the drivers and running gear—and electronics operab",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Infamy Day",
-   "url": "https://www.trains.com/trn/feature-article/infamy-day/",
-   "source": "Trains",
-   "published": "2026-11-10",
-   "category_hint": "rail_industry",
-   "feed": "rss:trains.com",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "Learn More Start Your Free Trial You’ll get complete access to all content on Trains.com from our family of brands, PLUS thousands of issues in the archives, video series and workshops, live webcams and more! Already a member? Sign In Learn more about magazine subscriber access Already a magazine subscriber? Sign In",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Maersk introduces Nicaragua customs transit surcharge",
-   "url": "https://container-news.com/maersk-introduces-nicaragua-customs-transit-surcharge/",
-   "source": "Container News",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:container-news.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Maersk has introduced an Internal Customs Transit Surcharge for Store Door shipments moving through ports in Nicaragua. The surcharge applies from 9 November 2026 and is set at US$75 per container. It will be added automatically to Maersk quotations for Store Door cargo requiring an internal customs transit declaration, known as DUCA-T. Maersk said the charge covers the use of specialised customs personnel to process transit declarations and coordinate clearance with port authorities and logistics providers. Additional port services subject to separate charges Inspections, warehousing, port fumigation and other third-party services may be invoiced separately through CAI, PAE or PAI surcharge codes. A financial fee of 3% will also apply to payments made by Maersk to third-party service providers on behalf of customers. The carrier said the new customs arrangement is intended to support timely clearance and cargo delivery while ensuring compliance with local requirements."
-  },
-  {
-   "title": "C.H. Robinson warns of persistent port and drayage constraints",
-   "url": "https://container-news.com/c-h-robinson-warns-of-persistent-port-and-drayage-constraints/",
-   "source": "Container News",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:container-news.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": "U.S. container ports continue to face inland transportation challenges despite signs of moderating import demand, according to C.H. Robinson’s November 2026 Edge Report. The logistics company highlights pressure on rail connections, chassis availability and terminal access. These constraints continue to affect container deliveries, even where vessel operations are running relatively smoothly. In its latest ports and drayage outlook, C.H. Robinson warns that lower import volumes may not immediately improve inland transportation capacity. Instead, uneven vessel arrivals and longer container dwell times can increase demand for trucks, equipment and terminal appointments. Rail delays and chassis shortages pressure US gateways Southern California remains a key area of concern. According to figures cited from the Pacific Merchant Shipping Association, rail-bound import containers at Los Angeles and Long Beach spent an average of 7.19 days at marine terminals in September. By comparison, truc"
-  },
-  {
-   "title": "The G7’s answer to China’s automated maritime system",
-   "url": "https://container-news.com/the-g7s-answer-to-chinas-automated-maritime-system/",
-   "source": "Container News",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:container-news.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": "To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions. Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen. The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. The technica"
+   "excerpt": "WASHINGTON — The town of Rossville, Tenn., has asked the Surface Transportation Board to require Union Pacific to keep Norfolk Southern’s Memphis-area intermodal terminal open for at least five years after the merger. The UP-NS operating plan assumes UP will close the Rossville terminal in favor of its terminal across the Mississippi River in Marion, Ark. NS handles about 500 daily lifts at Rossville, a $125.6 million terminal that opened in 2012 with construction partly funded through a $52.5 million federal grant. Shifting Rossville’s containers to Marion would increase Marion truck traffic by 57% and force Memphis-area containers to cross the Mississippi by rail and return by truck, adding bridge traffic and drayage expense, the town argues in a filing with the STB. The town estimates the shift could add roughly 4.3 million truck-miles, $10 million in trucking costs, and 7,200 metric tons of CO2 annually. “Measured as added truck trips on the bridges, each case is 10 to 19 times the",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Profit bonanza redux: is it time to kill the shipping tonnage tax?",
@@ -162,99 +435,22 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Container shipping lines have learned how to manage capacity, print billions, and pay single-digit tax rates — all under a regime originally designed to protect a fragmented, loss-making industry that has changed profoundly. Maersk’s Q3 interims released last week are the latest exhibit for the prosecution. Here is a number that deserves to be read twice. In the third quarter of 2026, AP Moller-Maersk booked profit before tax of about $3.2bn. Against that, it recorded income tax of ..."
+   "excerpt": "Container shipping lines have learned how to manage capacity, print billions, and pay single-digit tax rates — all under a regime originally designed to protect a fragmented, loss-making industry that has changed profoundly. Maersk’s Q3 interims released last week are the latest exhibit for the prosecution. Here is a number that deserves to be read twice. In the third quarter of 2026, AP Moller-Maersk booked profit before tax of about $3.2bn. Against that, it recorded income tax of ...",
+   "first_seen": "2026-11-11"
   },
   {
-   "title": "El Niño transport chaos hits LatAm perishables exports",
-   "url": "https://theloadstar.com/el-nino-transport-chaos-hits-latam-perishables-exports/",
-   "source": "The Loadstar",
+   "title": "DP World shifts 1m teu through alternative corridors amid Hormuz closure",
+   "url": "https://www.seatrade-maritime.com/ports-logistics/dp-world-shifts-1m-teu-through-alternative-corridors-amid-hormuz-closure",
+   "source": "Seatrade Maritime",
    "published": "2026-11-10",
    "category_hint": "container_leasing",
-   "feed": "rss:theloadstar.com",
+   "feed": "rss:seatrade-maritime.com",
+   "snippet": "Calls at flagship Jebel Ali port to take one to three months to recover after Hormuz re-opening, says Ahmad Yousef Al-Hassan CEO of DP World GCC.",
    "category_hints": [
     "container_leasing"
    ],
    "first_seen": "2026-11-11",
-   "excerpt": "World Cup Final the red card for LatAm-N America airfreight boom Freight forwarders in Latin America and their customers are trying to cope with a stark ... When it rains, it pours. Agriculture exporters in Latin America’s southern cone have struggled with headwinds from weather hitting crops as well as transport routes, on top of gateway problems and high transport costs. Chile’s cherry export season got off to a rocky start when truckers staged a protest about high costs that cut off access to the container terminals at the port of San Antonio. They were up in arms over stalled freight rates, rising fuel costs and new charges on the main highway between the port and Santiago. The strike disrupted the official start of Chile’s cherry export season that was set to kick off with the sailing of the first ‘Cherry Express’ to China, scheduled for 9 November, with loading planned to commence two days earlier. San Antonio is the nation’s main gateway for marine cherry exports, which have gai"
-  },
-  {
-   "title": "Cargo surge and port congestion send Far East–Middle East rates climbing",
-   "url": "https://theloadstar.com/cargo-surge-and-port-congestion-send-far-east-middle-east-rates-climbing/",
-   "source": "The Loadstar",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:theloadstar.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Geodis – the last chunky logistics target Squaring the circle? Freight rates from Asia to Gulf economies trapped behind the straits of Hormuz hit unprecedented highs during this year’s peak season as importers rushed to get cargo into the region, prompting another wave of port congestion. According to new data from Container Trades Statistics (CTS), prices on its Far East-Middle East & Indian subcontinent corridor showed the highest growth in freight rates of any major lane in container shipping so far this year. “It’ll be no surprise that the big price index increase is Asia to India and the Middle East, where the index is up 250% since the beginning of the year and 25% month-on-month – so September’s seen a resurgence of the price there and we’re seeing some very strong prices,” CTS chief executive Nigel Pusey tells The Loadstar’s podcast today. The last pricing data came after volumes on the route rebounded during September for the first time since the onset of conflict in the regio"
-  },
-  {
-   "title": "Carriers sense growth and pour capacity into ex-India ocean trades",
-   "url": "https://theloadstar.com/carriers-sense-growth-and-pour-capacity-into-ex-india-ocean-trades/",
-   "source": "The Loadstar",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:theloadstar.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "Cargo boycott threat by Indian brokers over empty-box fee hikes A new storm of stakeholder disputes, and potential operational disruption, is brewing across Indian ports ... Indian trades are seeing a fresh wave of container capacity injections by Asian carriers, as regional freight demand remains upbeat. Among the predominant regional lines, OOCL, HMM, and Emirates Shipping (ESL) have markedly consolidated their operations in India in recent months, with more service launches and network enhancements. Hong Kong-based OOCL is to launch a shuttle loop connecting India’s east coast ports of Chennai and Visakhapatnam to Port Klang in Malaysia at the end of the month, a single port of destination (POD) connection targeting Indian transhipment cargo. “The FCS4 will provide direct connections, offering improved flexibility, connectivity, and service reliability for cargo movements between Malaysia and East India,” the Cosco subsidiary told customers. The move complements two intra-Asia servi",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "‘Severe supply imbalance’ threat as record box ship deliveries loom",
-   "url": "https://theloadstar.com/severe-supply-imbalance-threat-as-record-box-ship-deliveries-loom/",
-   "source": "The Loadstar",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:theloadstar.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "Freighter capacity divides air cargo fortunes as rates climb Access – or not – to freighter capacity is helping shape air cargo’s fortunes. IAG ... The global containership fleet is set to expand by almost 50% by 2030, with even record levels of vessel scrapping unlikely to prevent a severe supply imbalance. In its latest report, Sea-Intelligence forecast the fleet will grow from almost 34m teu today to 40m teu by Q2 28, and 50m teu by the Q3 30. The analyst expects average annual fleet growth of 10% between 2027 and 2030, based on existing orders, with further newbuilding contracts potentially increasing that figure. Quarterly deliveries are forecast to average 1m teu over the period, peaking at 1.8m teu in the third quarter of 2028. This compares with average quarterly deliveries of 560,000 teu between 2023 and 2026, highlighting the scale of capacity due to enter the market. Sea-Intelligence said the current orderbook, covering vessels scheduled for delivery through March 2031, stoo",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Maersk boxship knocks down crane at Yantian",
-   "url": "https://splash247.com/maersk-boxship-knocks-down-crane-at-yantian/",
-   "source": "Splash247",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:splash247.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "Maersk boxship knocks down crane at Yantian A Maersk-operated containership has brought down a ship-to-shore crane at China’s Yantian port after striking the structure while berthing. The incident involved the 366-m-long, 15,516 teu Maersk Cincinnati, which hit the crane at berth 12 of the Shenzhen terminal at around noon local time on November 9. Images and videos shared across Chinese social media show the crane collapsed towards the container yard, with sections of the structure lying alongside the vessel. The extent of the damage remains unclear, with no confirmed reports of injuries or details of any disruption to terminal operations. The Singapore-flagged, 2024-built boxship was operating voyage 645W on the Gemini Cooperation’s Asia-North Europe NE3 service. AIS data placed the vessel at Yantian on Monday, with the ship still alongside on Tuesday. It had been scheduled to depart on November 11 for Ningbo and Shanghai before heading to Tanjung Pelepas in Malaysia and onward to Eur",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Xeneta Ocean Outlook 2027: Three Years, Three Shocks, And What Comes Next",
-   "url": "https://www.hellenicshippingnews.com/xeneta-ocean-outlook-2027-three-years-three-shocks-and-what-comes-next/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:hellenicshippingnews.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Xeneta Ocean Outlook 2027: Three Years, Three Shocks, And What Comes Next For the third year running, 2026 began with an expectation that ocean container rates would soften. For the third year running, a shock got there first. In 2024 it was the rate spike impact of Red Sea conflict escalation. In 2025 it was US tariffs. In 2026 it was conflict in the Middle East and the closure of the Strait of Hormuz. Major supply chain shocks have been a fact of life in ocean container shipping in the post-Covid-19 era. The numbers tell the story. Spot rates from the Far East to the US West Coast are up 343% in October compared with 28 February, the day before the Middle East crisis began. That is just 14% short of the all-time high set in 2022 during the pandemic era spike. Every major fronthaul out of the Far East, to North Europe, the Mediterranean and the US East Coast, has seen triple-digit spot rate increases during 2026. Shippers did not only pay more in the wake of the Middle East crisis. Th"
-  },
-  {
-   "title": "Global Ship Lease Reports Results for the Third Quarter of 2026, Further de-risked Its newbuilding program with $1.0 billion credit facility",
-   "url": "https://www.hellenicshippingnews.com/global-ship-lease-reports-results-for-the-third-quarter-of-2026-further-de-risked-its-newbuilding-program-with-1-0-billion-credit-facility/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "rss:hellenicshippingnews.com",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Global Ship Lease Reports Results for the Third Quarter of 2026, Further de-risked Its newbuilding program with $1.0 billion credit facility Global Ship Lease, Inc., an owner of containerships, announced today its unaudited results for the three and nine-month periods ended September 30, 2026. Third Quarter of 2026 and Year to Date Highlights and Other Recent Developments – 3Q 2026 operating revenue of $201.4 million. 9M 2026 operating revenue of $598.1 million. – 3Q 2026 net income available to common shareholders of $99.2 million, or $2.75 Earnings per Share (“EPS”). 9M 2026 net income available to common shareholders of $279.9 million, or $7.77 EPS. – 3Q 2026 normalized net income (a non-U.S. GAAP financial measure, described below)3 of $99.3 million, or $2.75 normalized EPS³. 9M 2026 normalized net income of $280.6 million, or $7.79 normalized EPS. – 3Q 2026 Adjusted EBITDA (a non-U.S. GAAP financial measure, described below)3 of $138.8 million. 9M 2026 Adjusted EBITDA of $403.4 mi"
+   "excerpt": ""
   },
   {
    "title": "Carlyle and SEI team up on private markets fund for wealth clients",
@@ -266,8 +462,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": "Carlyle and SEI team up on private markets fund for wealth clients Carlyle has teamed up with SEI to launch a closed-ended private markets interval fund for wealth management clients. The SEI Carlyle Private Markets Fund (PRVTX) uses a single-ticker structure to give investors access to private equity, secondaries, private credit, real estate and collateralised loan obligations (CLOs) through one fund. “We believe the continued evolution of private markets is creating a broader set of opportunities for investors to benefit from asset classes that have historically been difficult to incorporate into wealth portfolios,” said Shane Clifford, head of global wealth at Carlyle. “PRVTX marks an important milestone in Carlyle’s strategic relationship with SEI and reflects our shared commitment to expanding access to private markets.” Read more: KKR bolsters board with ex-Goldman Sachs chief risk officer Carlyle, which has $479bn (£355.6bn) of assets under management, manages, sponsors or advis"
+   "excerpt": "Carlyle and SEI team up on private markets fund for wealth clients Carlyle has teamed up with SEI to launch a closed-ended private markets interval fund for wealth management clients. The SEI Carlyle Private Markets Fund (PRVTX) uses a single-ticker structure to give investors access to private equity, secondaries, private credit, real estate and collateralised loan obligations (CLOs) through one fund. “We believe the continued evolution of private markets is creating a broader set of opportunities for investors to benefit from asset classes that have historically been difficult to incorporate into wealth portfolios,” said Shane Clifford, head of global wealth at Carlyle. “PRVTX marks an important milestone in Carlyle’s strategic relationship with SEI and reflects our shared commitment to expanding access to private markets.” Read more: KKR bolsters board with ex-Goldman Sachs chief risk officer Carlyle, which has $479bn (£355.6bn) of assets under management, manages, sponsors or advis",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Calpers commits over $4bn to private debt in Q2",
@@ -306,22 +502,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
-  },
-  {
-   "title": "FreightCar America Q3 2026 Earnings Call Transcript",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkNIZ3lQdV9VZGFBNmRBZnRvUFBsalQwcllTc2pqdWxJdDQ0TEZvTTRWSVlOem0wTHhhUHpOSWN5TVR4ZXJxbHY2cEI5ZXk4YjdxRTdDYThORU1QRUNoRE8ySUpGTUdfdXpSZGlISjFCejBVYVRJU2I2R2xCY295YS16MUVJVTY2ckNiQTZCaG10TDg1dk0tWFJEVTk?oc=5",
-   "source": "Benzinga",
-   "published": "2026-11-10",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Watch: Pullman Cars ‘Homeward Bound’",
@@ -334,8 +516,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Washington state port, short line win FRA grant to modernize 19 crossings",
@@ -349,8 +531,8 @@
     "railcar_leasing",
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "STB policy statement addresses preemption",
@@ -367,22 +549,8 @@
    "first_seen": "2026-11-10"
   },
   {
-   "title": "Long Island Rail Road president to retire",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnVaZ25peEh1YmVUd3JiREo0aEdKa1VLckRuTWpxRktHMXhGQlRQYnBLLXNZX2Q1Y0h4b0J5Z19RYVAzNVF5NHZuTWxBYVdiY1hGWDY3T2xqRmc4ME1xZmpjby1RcEVjUmY1aXhkRDRMWXkzU0ZFeTYtaFNua2paYUJlUTlLT0JNMlBXb1ZIN0NPdmFVZ2lqOVFTUXZOdw?oc=5",
-   "source": "Trains Magazine",
-   "published": "2026-11-10",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Switch installation celebrated at Pullman historic park",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUU3WmIxOU83NVFRQkJNd1pkUnlRSnE5RnFFdWp0SEY4UGxfUU16Q3FLc1htaUhEeTJCRG00clZfNWhpal95MENRcl9QSXNKUVhENWxjREFyaERia0hDc3ptVjZmNS1HSmhYZEgtN0tCVzM5NGFQQkdLbDFSajNfTGluaWx1aF9DYmxTdzB1eFlqWm85aF9TdGtYV1p2ZmRMNjFCYmVkVDNhMExXSkFfMlE0dWtIc0NzQjJCOQ?oc=5",
+   "title": "CSX Santa Train to feature America 250 locomotives",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcW92d2lnNG1NbzhLc0RRZ1NyRUtXX240dTJNSTdodWJXZkhzZXRIOE44VDc4SWJYYlhVbHR3UHo2WDZQZmNFSDdDUnB6cnB0MjZSa1VxSFNIRDlOeXpqeU52Vml2bU9wU2JrbUZNalZNZzZoZjdvdTFURUt6bE9vTXpGVUZOM2VMdEQ1MFhwVVgyZ3dfNEJMRVhn?oc=5",
    "source": "Trains Magazine",
    "published": "2026-11-10",
    "category_hint": "rail_industry",
@@ -405,8 +573,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Rail Vision Successfully Completes U.S. Rail Industry",
@@ -419,8 +587,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Touax to acquire composite boxes",
@@ -433,8 +601,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Boom rolls on for dry box builders",
@@ -447,8 +615,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "India’s box building business gets green light",
@@ -461,8 +629,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Roborigger & TEC partner on spreaders",
@@ -475,8 +643,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Global Ship Lease reports higher Q3 profit as charter backlog reaches $3.4 billion",
@@ -489,22 +657,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
-  },
-  {
-   "title": "DHL Express signs SAF supply agreement with TotalEnergies at Paris CDG",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnFyVGtGZ0Y0UmpyQUFPN3ZrS0lpRVVZXzdwWFNMeVlleWczTUNUaE8zV2Z0ZmNuWGJLNjcxV0U3ZzhmYVdJTkN3Tk9xZ3ZKU3NNMVhGOU1QS1ZSMl85dl94clNGSFNFQWl1UTNrTkNVTlhoYXRoMDRWaHNXeXZRUXhiNXQ4QzVJMDVNWjVBMUFINnhWbG93bURwblIxbzg?oc=5",
-   "source": "Container News",
-   "published": "2026-11-10",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "News Carriers sense growth and pour capacity into ex-India ocean trades",
@@ -531,8 +685,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "I Squared Closes $2.4B Infrastructure Credit Fund",
@@ -545,13 +699,41 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Life insurance: Société Générale and Partners Group launch a private infrastructure fund",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQmdZWEk3bEpveXBRcldaWEowWDRpMWNUbDJHY0o3Vnc5bmtvZkJqazdUSlpDYmh3dWZnbUFHajNBRGl4anlsMXhUVkxTT0lxeWdpOWhETkNNM3VwUF80VHBEQzhvM0FPdWJXeVJ1MjFnZzk1alViNXVodXYybmxkVkVMN0VSSEoxQm1tN052UlIteE83MFhwWTM1UXRTX0VKbEFLOUNudUdWVlNZLUlGTlhnSEd0bDQ3NGY2dzM0cWJkbTZLUlVHMWN6cmtaVmNpdThUTmhpbWVXVEw1NUxn?oc=5",
    "source": "Idéal Investisseur",
+   "published": "2026-11-10",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Alaska Permanent eyes shift to ‘lower risk’ infra after slower deployment year",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1kxSDA4a0ppQmVONXU5TDZEdktxMUlwUDdNRkZybFJzcTYtd0toSVY4Sno2SE5RU3RKd0pyVEY2OHpMSG1xbUhacDdBZUszZVNNRGJzdWFFRm5uX2tCZHpzdkY3RjhYNUNNcTZLdUt5Tjl4Mms3QmJsNFFhbC1iQkMtcjFXQTh5RFdPSnRaekh1ck9WSnRGVUdNZWhWT3RscVJHRHFMelhQckc5d3ZLNHBONk9tOFE?oc=5",
+   "source": "Infrastructure Investor",
+   "published": "2026-11-10",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "excerpt": "",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "Brookfield Infrastructure Partners L.P. (BIP) Stock Price, News, Quote & History",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEWDR2akRna3Y5UWpCYW5DSVFtcDBncUowN0RsZlBHVVpsUWJPUGg0NHEyM19ObVdOb0RrNndjdWJyNUYtNW05bkJPTTREYkJN?oc=5",
+   "source": "Yahoo! Finance Canada",
    "published": "2026-11-10",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -587,22 +769,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
-  },
-  {
-   "title": "Alaska Permanent eyes shift to ‘lower risk’ infra after slower deployment year",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1kxSDA4a0ppQmVONXU5TDZEdktxMUlwUDdNRkZybFJzcTYtd0toSVY4Sno2SE5RU3RKd0pyVEY2OHpMSG1xbUhacDdBZUszZVNNRGJzdWFFRm5uX2tCZHpzdkY3RjhYNUNNcTZLdUt5Tjl4Mms3QmJsNFFhbC1iQkMtcjFXQTh5RFdPSnRaekh1ck9WSnRGVUdNZWhWT3RscVJHRHFMelhQckc5d3ZLNHBONk9tOFE?oc=5",
-   "source": "Infrastructure Investor",
-   "published": "2026-11-10",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "BNSF Q3 earnings climb 19.3% as rail freight volumes rise",
@@ -645,32 +813,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "title": "Deadline looms for Alternative Credit Awards North America",
-   "url": "https://alternativecreditinvestor.com/2026/11/09/deadline-looms-for-alternative-credit-awards-north-america/",
-   "source": "Alternative Credit Investor",
-   "published": "2026-11-09",
-   "category_hint": "alt_investment",
-   "feed": "rss:alternativecreditinvestor.com",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "Deadline looms for Alternative Credit Awards North America Time is running out to enter the Alternative Credit Awards North America 2027, with submissions closing on 11 December. The awards, hosted by Alternative Credit Investor, recognise the most influential fund managers and service providers shaping the alternative credit market. Winners will be announced at a glittering ceremony at 583 Park Avenue in New York on 6 April 2027. Entry is free and all submissions will remain confidential outside the judging process. Find out more about the Alternative Credit Awards North America and submit your entries here. “These awards celebrate the achievements of the sector in its largest market,” said Aysha Gilmore, news editor at Alternative Credit Investor. “We’re looking forward to recognising the industry’s leading players at our ceremony next April, so don’t miss your chance to enter.” Following demand from the industry, the Alternative Credit Awards were expanded into separate North Americ",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "BBB and NatWest back UK lender Capital on Tap with £200m",
-   "url": "https://alternativecreditinvestor.com/2026/11/09/bbb-and-natwest-back-uk-lender-capital-on-tap-with-200m/",
-   "source": "Alternative Credit Investor",
-   "published": "2026-11-09",
-   "category_hint": "alt_investment",
-   "feed": "rss:alternativecreditinvestor.com",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "BBB and NatWest back UK lender Capital on Tap with £200m The British Business Bank (BBB) has backed a £200m funding facility from NatWest for specialist lender Capital on Tap. The money will allow Capital on Tap to keep lending to small businesses across the UK. Capital on Tap has lent to small business owners through its business credit card since 2012. More than 300,000 customers have used the card for around £40bn of transactions in the UK. Read more: BBB backs Beach Point SME lending fund with £59m “This partnership with NatWest and the British Business Bank will give us more capacity to provide the needed working capital that small business owners truly need,” said Damian Brychcy, chief executive of Capital on Tap. The deal is part of the BBB’s Enable Guarantee programme, which is designed to encourage more lending to smaller businesses. Lenders that take part pay a fee in return for a government-backed guarantee on defined portfolios of debt finance. As of October, the programme ",
-   "first_seen": "2026-11-09"
-  },
-  {
    "title": "Stellar Hires Experienced Leader as Plant Manager",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGhBRTduRGhFVk1Ea2Q2MlJsUVNkc1VMbUdJRmlXREdic2J6U3drVW9XdWR5S3dwU19JbVlQbjg2SEg5alctRS1EZFRta2lRTTVQTkd2d25MRFAwaWZZcVMxNzN0eEctMXJwd3llRHYyZ3hwVTZfV0tHZm1jUFgySTMyQldXTlBMRFM2SzBBdw?oc=5",
    "source": "Work Truck Online",
@@ -681,8 +823,8 @@
    "category_hints": [
     "railcar_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "California Awards $66.6MM in State Rail Assistance Funding",
@@ -743,20 +885,6 @@
    "first_seen": "2026-11-09"
   },
   {
-   "title": "Western Pacific FP7 805-A selected for return to service",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0pZeGdGMVoya1BtNFoxV1h6R0EtaUJMa05WMENCQ0xpM05TQ2VsdjByUXNUSHotNEVLTUoxdEhSc2tnNFBPQjVHQk5rYXRMTlZuWEpTaVhfTE5sLWhUb3RLbWEzZEpqZlBzYXJLMC1OQWo5N1ZCQWhqQU1jNC1Sd1p5QU9kdmx1OUdGRUdpSUYwcTNtVFVCTUJXc1E2V3hoLWtaWk9FLUN2eHVkeWlSMHR0QnVudHR2R3M2MHpB?oc=5",
-   "source": "Trains Magazine",
-   "published": "2026-11-09",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
-  },
-  {
    "title": "News & Products for the week of November 9th 2026",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekJwUk05OWpfSFYzVVNicHBuckRWTk5QSU9tZ1RkQmtzWThoMDRncHhVWTJrMWNQaHExZl8zamtjSld0WndjeTJzWlY5djlTb1NwU0ZwUGxGQk1fem9KTkxmQmZFVGxGaGxVZDVRRl83bWpfNnJjVmZQMVpNY0EwYlR6ZFpRQXl5Tlk5d3dUNTFnYjVlVlV3TA?oc=5",
    "source": "Trains Magazine",
@@ -797,20 +925,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-10"
-  },
-  {
-   "title": "STB issues guidance on rail jurisdiction and preemption under ICC Termination Act",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSkZsS3RMSnVMRGNaenRQZUxaQmF0MWxPYlZPOG5Ba2NyaDl1OExjamhEd1Y0OVJCWjJqNERRZVduM1ZTVjV2UFlLdkZVaXNsWWpvWC1UZW9hTVZvT29xRUFmVWd5NzJmZ2Y2VEVXYm5FZWk0bW5iS1Z0Z3A5c0Iyd010VFc4OVI1bXNBbWU3b1JUbUNmMlY3Si1MY09OYlFfRllRa24zZG5YQkM2VGdRMkozQnRhY184TmxkU25DOXEzZmY0TkttOVBwZ1JhRDFTSVE?oc=5",
-   "source": "American Journal of Transportation",
-   "published": "2026-11-09",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-09"
   },
   {
    "title": "SOHAR Freezone signs six land-lease agreements",
@@ -963,36 +1077,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
-  },
-  {
-   "title": "Raft of secondaries funds contribute to StepStone’s ~$11bn raise for new vintages – updated",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTThsTTRfcXNSRUxIMkExLU92T1dtZFg2MW52WnRHSHRSUXdIeFVqN2RvUVlfZmRzcVVNakFHUmJqNkY3TkdSb2dPTW9BZE4tdkZ6dFhlRDJWVHBNY183dmhYd2VaOGRBeElXNGVDd09fXzhhc0QweFhfTnpNbDFCandyc1RsRFE2eW9vc2czWGpaMGZ0bHh2QmV6a3NZaTZ0MTdmVlFKd3E2WHpMcDhsQnFtRkRoLXdHWEdv?oc=5",
-   "source": "PEI Secondaries Investor",
-   "published": "2026-11-09",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
    "excerpt": "",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "title": "Octopus Energy launches Asian renewables fund, targeting $600M Asia push",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNTeW1HX0paU3FiRTRrelFMMXVEYzhaSTc4SlM4Qk4tOC1jeC1xR2FITElYSGNNMHB5UUNyTzZsN014ZEJMVzhnbUVkbXBFMWljUUpQWmpNLWFWT3B5eEl6RzhrV1BOLUc1Q0RpZzJoNHdhdkF5MG5pd2FJRHJnOVQ5U29XREsta05uc2o0NkVQay1NQkxHcU9hWlp3Q0VxUVFBblNLaw?oc=5",
-   "source": "Dealroom",
-   "published": "2026-11-09",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-11"
   },
   {
    "title": "The Pipeline: I Squared’s $2.4bn credit close, LP questions ‘tourist’ capital, Partners Group’s trio of hires",
@@ -1092,9 +1178,9 @@
    "first_seen": "2026-11-10"
   },
   {
-   "title": "- Infrastructure Investor",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXBkY3JkejI4Y0tQbDRYVjA0Q1BxeWVLOXRHOWQ4MndzMldrWkNwRmZ3SXpPRzdqazR5c2wzdHhwS3JjU245MTJaSjJzT2FZaEZfRUFqYTV0VHVOT2RPa25sM3JzbXIydzY0WHRBSEtJLVpESklRUnpZSHBjb0doN2JCX1B2OXVNS0lxbzlaaHJaNF9PRmc?oc=5",
-   "source": "news.google.com",
+   "title": "Soochow Suzhou Industrial Park - Close-End Infrastructure Fund (508027.SS)",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9neHRNNThnTnJwekxYVkxIS0RscGR2NGNLcXg1a3IyUmNISTlzWWtMUGhDS3Z0Q0taV3NmazB3WGlQbnlTbGRUUURYUTR5Y1RITjdSUWN5ZmZicFY0dnlacUJIaFdPem5xeC1qdF84dw?oc=5",
+   "source": "Yahoo! Finance Canada",
    "published": "2026-11-08",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -1162,18 +1248,18 @@
    "first_seen": "2026-11-07"
   },
   {
-   "title": "UP No. 5511 begins steam testing",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZUVxOHNUS2RXV2lSMV9nNkRIVnlnWE1ZSkpvZmp0MTNmZ1h1N0ljRFBDZ1lPelEzRWw1VlNPekpMM2lfR056NG5NX0owYW5fMHk2ZGRvN0R3Qkp0SUZ0T2lhSHVzVHRtbTgzUHFrT2M0VkdSTGdSdzZPNHJ5akg3U3FIcXh0RE9oU1B2c1czZUNaYnRKbWQ5eldWeG8?oc=5",
-   "source": "Trains Magazine",
+   "title": "Lufthansa Cargo, SWISS, ANA and NCA explore Japan–Europe cargo partnership",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTER3TEotanRya0RzaXZxcDR4S3p3eWctN3FWNFZqREJkcEdTX1FhUEh6SEN2NUtPX3Y4MEtZWG16dDJ0S2FLa3h0bjR2U0lCdHctTTdiMklZYXZsSkxYR3dkV0VJT2dReVBpa0IwbHVPNjM0SnBZbDBtSUZsUC1CTDd3T0IxckJTUDBUcVFJcGV5VWhRZk1SLXplWTRnQWpGN0E?oc=5",
+   "source": "Container News",
    "published": "2026-11-07",
-   "category_hint": "rail_industry",
+   "category_hint": "container_leasing",
    "feed": "gnews",
    "snippet": "",
    "category_hints": [
-    "rail_industry"
+    "container_leasing"
    ],
-   "excerpt": "",
-   "first_seen": "2026-11-06"
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "PIL books seven methanol-ready boxships at Huanghai Shipbuilding",
@@ -1190,8 +1276,8 @@
    "first_seen": "2026-11-06"
   },
   {
-   "title": "NJ Transit Advances Three TOD Projects Expected to Deliver More Than 1,000 Homes",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMi00SG9nWjRfc1A0aEJadnFId1Iyd0RxNmtNVHg0eVV2c1dFc25QdG12S1ZHMFI4X3h1U2xpcWp2aFFoVmk1V2JTZVd3bmVyckhjR1FETzhlUWk5cnBxNkpPU2QyUjkxSVdVa0FUZkNPeXN1ZVFwWVVtU3JaQzFCcHNoaVNfZE50T0tIalVWUTR2OXlUYmpfYVZMdjlnOFdFLW5CaTJ5UTVkOC13bXdqZzlHUEFlOEFq?oc=5",
+   "title": "Jim Vena’s 27 Seconds May Have Consequences Far Beyond the UP–NS Merger",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWwxOEdwa1JacndvN2hzQ2lHQXZuc0RwSU91eW1BTVVLVzcybzVyX0RIYUJfTHhnalk4eW5jQkN1WVdybnRLcXU4RDFXUWx4QXlPNGVYMU5oay16Q2pJRUNyZ2FTZ1NYR3RLeWl4Vnl3MF96R1ZDYTBDN3Z2NjB6eEg4ZzRyUkdjS1JNSmlMdkVLUDB4ZlhPUWRhUFM4ZkVVUlM2WUN3?oc=5",
    "source": "Railway Age",
    "published": "2026-11-06",
    "category_hint": "railcar_leasing",
@@ -1201,13 +1287,28 @@
     "railcar_leasing",
     "rail_industry"
    ],
-   "excerpt": "",
-   "first_seen": "2026-11-09"
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
-   "title": "New tech allows public, law enforcement to identify active drones, operator locations",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMm5UdmxkX1VIdUxWR3FqUnNiR2VVT2lRci12X2tJVlplUW9zN1Q4UjRiemg0MjNUejhmUHVuWDdvaWxsck1mOTZNWjRxSUhSVVRSVEtQMlBZMy1DZko4THFMU3IzZ0ZXaGxmU1hRaHl5dW83eWFMdmptWlJGWWwtbFZXbjZ6ZlJaSHFYOTdPUzU2QnJxOGFJVW9MeVpKUHVvNWx4RlcwMjZCTy1uc1RLNnZKTzg5bGtZOGdITk5DaWdxa1F5ODRxQlZDdkZoMGs5N1V6Rw?oc=5",
-   "source": "Trains Magazine",
+   "title": "CoCo is Right for Colorado. It Isn’t California. This Railroader Knows the Difference",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbS03NDhHNEY2NXhXTlZ6YlZ1Vmh6aW9aSTJpcjR3eEZiMUJyeUxaV0R3ZF80a2o0ek9abjB3RW9va1FhVnJqRE1PN0JxY2l3R2lENExHT29FY1p5Z1NFNFp4UW53REloa2pjWEtvS1RpODhPRVVJY3NaTy1YanloUTlkQ3NSMEQxVHB5Y20xRk45dm8wNS05bE95ZWhXbEF6aTVTSlZJNF9tb2owM0oxa0dHT1pUZmRPWThMbHJMcEpUblRoRWltTXlCYy00c1JYNi1J?oc=5",
+   "source": "Railway Age",
+   "published": "2026-11-06",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "railcar_leasing",
+    "rail_industry"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "For Hitachi Rail, New Canadian Headquarters",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DVUl4d2JOaDhrNHM2dHZNWDdXTU83WnhMdVBYSFl4VHEwTjhGMHljbWZjR05Pako0NDA1c19HeVdaUWduYVVESU5iRmhoYmtWOFY3d2NyaGRvbDJSb3JPWXlyVkZmVGl6SDRsQkE1VWx0cnlMZ3Vhb2NIUV8yQQ?oc=5",
+   "source": "Railway Age",
    "published": "2026-11-06",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -1215,8 +1316,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "excerpt": "",
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "Union Pacific releases video of CEO’s rate remarks at shipper conference",
@@ -1248,8 +1349,8 @@
   },
   {
    "title": "STB signals broader protection for rail-served projects against state and local restrictions",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0JqRkQwaVlVRVF1RHNxd2ZKaVVYYmlZZHp0dXdDNG9sQldUOXVpWGFhQU9vX0drWkJ2SlItekl1cnM1eUp1dVVfWGozcGJMVHo4RlRjbndFMzZWNEl5NkY5NlAzbTllWmFsdWxmdFZIZHpPalR4M3JteUNIekEyMlVXbjNya0pjNG9mMHZyRzA2RzA?oc=5",
-   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1dIRVBVSE5vR2prODFuRzZJWVhjRkZTVHluLUFfZy1iTkR1ZWxnOWNPUzd5TUJtTEsyWU1uMk85N1d2ZDhkYUVKZEUxZHFQSXdUZ2d4eHhXNXVVeHI0UGY3RFdsQU9iSXE1eFZtRWd1ZmJFbW1LOGtZaG43dmU3RGp5VHlWSFZqM0lhcUhjZXZHbklQbEdYQTBmUVNmTmhNN2VOenhGUzE3MnR2MzNqNXlTTVV5ZEJaTXVvbEFVNEJKWjVP?oc=5",
+   "source": "FreightWaves",
    "published": "2026-11-06",
    "category_hint": "rail_industry",
    "feed": "gnews",
@@ -1257,8 +1358,8 @@
    "category_hints": [
     "rail_industry"
    ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "CSX to close SR-36 railroad crossing for repair",
@@ -1273,20 +1374,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Big Boy No. 4014: A Year of New Horizons for Union Pacific’s Beloved Locomotive",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXdpalNUQzI3LWY4VGtoZXEwV2xILUdGR1FGY2VnN1VrcXFFMWZDUGZ0ZFdLUzIyNFNqY3ppSTRqWl93TEdScC1kWmw5cWprNEdWYm02YjlFNUgtS0M3UHJJWC15dzBSazJSdVduVGkwTzBqWlhodEpQX2c0cURaWEtlaE40dTBmRjhoMnZ6aG93cmY5enRjYkR4cDVuQQ?oc=5",
-   "source": "Union Pacific",
-   "published": "2026-11-06",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-08"
   },
   {
    "title": "Composite Containers: The Revolution Is Financial, Not Engineering",
@@ -1415,23 +1502,9 @@
    "first_seen": "2026-11-06"
   },
   {
-   "title": "Foundation Credit Closes Infrastructure Debt Fund at $540M",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNFd3YjRQbTQtVHZrbUVjVTQ4REstS0RsaGtYdVNaTFR4UWNrazVtQTdhcFh4MXdJYUlYU0NGOGVsOHlUdHFqV1BuTlEyREhIUzk3T0c4SXl0QkVYQzJJTnkzWWRnQnlIa0ttMV9RZmNPalpVdFNQaFd4SzhwaFNTdWdLWUw5UXdGVlFWSkMzUkhrTFpOSzRTeFlnYw?oc=5",
-   "source": "connectmoney.com",
-   "published": "2026-11-06",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "What Brookfield Infrastructure Partners (BIP) Said on Its Q3 Earnings Call",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa05VeW5SZ1pSZEJOQlNfcW0zSW5vYmdHcHRDaU8yMnNyQ1hxdHQ5NGQtMHV5cUxpWS02bWlWSmktVWFKSk9DWXVEODVJb1NyWUt0NHFoSGJrMDFfUk1SM0JtdHFzRVRVQmJ6N2NlZkR5d01hbWFya3pULVJOQlE2Qjg4Yk9ZRHBFcXZybF9qbG5YLTRkZzVBTExhRWF4OWlodjJwSHZtX2Z3UnpicndiZWoxMVpfUWl3ZF9Gcmg3Sm5GbmpEVkFRQUV6dU9LQQ?oc=5",
-   "source": "TradingView",
+   "title": "Brookfield Raises $25 Billion Amid AI Push as Profits Rise",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDdqRVo3V1h1ZTN3LXBzQTVsNXFpMDdOYkZldmJNUDE3YzEtb18zUUYyZy1nVUlIdTJqTkZ1d1g5Z0NkN19GUmNEYU51ZXlqWm55azVZN3VldHRydGdrR0hMQ2dPNDVkM2ZTNGlFSnBBYlZpR2d3c0h6YTFiTjN1OUVmeGUzS0NyN29VZWp2MTBGNFhWLUVKVkFKazM2bDA3U3JJaUxYNTNZN2hfTmhoM2RSVU4?oc=5",
+   "source": "Bloomberg.com",
    "published": "2026-11-06",
    "category_hint": "alt_investment",
    "feed": "gnews",
@@ -1441,20 +1514,6 @@
    ],
    "first_seen": "2026-11-11",
    "excerpt": ""
-  },
-  {
-   "title": "Brookfield Raises $25 Billion in Q3 as It Backs AI Infrastructure Build-Out",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmRnbzRhM3pXWWhhSkpkVVIwMUlXMWoyQ0FGOHJtQWhRZmpqcExfczAyOGs0amQ1Y2xBU2pmMXdSQnFWeDdLcDJoTmY0a1BhYkRkWVNURzRTSjJzc292TWZ2YzVTalhtRGNSUDFlVEQyTVhzT2I3MXdKbWRDTURlbjRmMkNfa0xhd3BHamhzZkZ0UQ?oc=5",
-   "source": "Briefs Finance",
-   "published": "2026-11-06",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-07"
   },
   {
    "title": "Brookfield (BAM) Q3 2026 Earnings Call Transcript",
@@ -1469,20 +1528,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Brookfield Infrastructure Partners Q3 Funds From Operations, Revenue Rise",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0NXU2gxdmdNLVRRQTdWY1JYeTN5YmduNS1xTTFkRUJFMGVaTUh5ZGF3UjBlc2hZLXA0VDRNU1phWC1idkRRZllKYldJS2E1allSazZURzc2ZXFvWHh5VjlZZlJJQ3U5aVZiTjRadDNWSUhYVHlFT0kySWk3SEdUN0JVYVQ2N2swY0Jtd3ppS082MnZqeGlvaGtuRWZZSHk2bEZkSkotb2hQNmNiRUdOd1h5TVlvcnVscTNoZ1R4alBPbTA?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-11-06",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
   },
   {
    "title": "Macquarie AM credit assets rise 6pc in H1",
@@ -1666,34 +1711,6 @@
    "first_seen": "2026-11-06"
   },
   {
-   "title": "STB Rejects UP Appeal to Keep CEO Speech Under Wraps",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5ZDNPcGJYOXNNS0JXWjF5YVA4VzBfSGZPM0l6ZEgwR2xtQWotd1h2R2ZEbEd2TG1mTk1tVUhObDRHSElmRjFlU0o5ZjVTVkxjZmdnVFhBV1E1V1FqT0dzVHVmZEg3MjAtc0lua1NISVgxZjZZSVFTaw?oc=5",
-   "source": "Railfan & Railroad Magazine",
-   "published": "2026-11-05",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Rail News - STB affirms UP must designate Vena SWARS speech as public. For Railroad Career Professionals",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUNHdkpRUXNRMjBrWENZSjg5MXFvUEFoVmQwQ2tRMWdCV0RwdUFjUHFfU2E2YzJVZjNDZ0VQekhYUUhkcTJjS2ZNaHVLMkV2SnNYM01rNXh3V21tZkwtVWh1cHhHZlVJanF2VVJMaUItRlVhZ1N6Z3NNVmlnQTdGX3hXeFBqY3B6aU9YejJGRWt6R0RHdXB6ZmR0QW93VWE5VUlvZzBmN3dvN29KY3VqbXRHd0lQMG55UFk1R1VMQQ?oc=5",
-   "source": "Progressive Railroading",
-   "published": "2026-11-05",
-   "category_hint": "rail_industry",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "rail_industry"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-06"
-  },
-  {
    "title": "News Continued congestion at ports puts pressure on intra-Asia box rates",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOel8zdHNmalE3MWpWYnZaMUdPNkVuU3UzTkQxMkRDSUhVUEhDcHdYVHUxSXA1NmVwa2dIWVUwRGN6dExEQnBwUDVvWHQ4R2g3N3FoYWs0b3VxbW0tdVc5Zm1PeWdjck9nSEE3eTVNSDZ0TnhQX2JPaUUwTVM3M0h2cTMxajJUNU9MTW9wMFRZVU1MZEtkNVJV?oc=5",
    "source": "The Loadstar",
@@ -1722,20 +1739,6 @@
    "first_seen": "2026-11-05"
   },
   {
-   "title": "BIM Capital, Axelerated Solutions launch $180M fund for AI data centres",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWkyUmszMUhiR2xiV01DOU1udl9Wb21SZVFWTGxMTko4b0dNQnNBWmJ3ZG9CU2JwRm5FWDBuTktwWnhFSDFSSEFLbjdTTW9sRk9IVE5ZUTd5ZmdWUWhsT2tocWU4NTJJZmZnQmNwSEZGcmhHdlN6Z0NYSDAxWVFVdGs1bW8ydlJ2emdsV2JKQ3BBZUdBWXNsWFBZMDR2a21WRHhJYkN3?oc=5",
-   "source": "Dealroom",
-   "published": "2026-11-05",
-   "category_hint": "alt_investment",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "alt_investment"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-06"
-  },
-  {
    "title": "Allianz Global Investors beats €1bn target by 50% with infrastructure credit fund close",
    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQcnFDeE85WS1TWGdORWZfMUU2MUl2elpxR3BrOEJjMzhzVnQtMlplRkhaaU5fUlFDeTdmc1R4eVAtM1dTRmJ6UmhfM2RqVXBoeDJONTd4c2I0bXNXOWN4UnZkbTdhLXRPT0pxUGZna2RlTXBGNS0yN0poS3Q4RHpZek9CZzZTbHk0REdONzZKODgxQnowbEFFMTZpX3dMcFBqQ01iWWV0WVMxRjJoUzI4NzZ0R0lmX2E4a1lJSXVCZ19pYS10Mlh5ZHBaNjh1MnVybzYzSTlZWjVzRjlKaDZXdjlwMXZmc0dhWDRWNXFEb2c5QmdrUjAzNEs3a052NkppWHBRdWF4R1lLWmJ6cUJHcnRIRWF4QjN1VDk1RXlHRVhRQQ?oc=5",
    "source": "AltAssets Private Equity News",
@@ -1746,8 +1749,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "MVL taps Kaia's tokenized fund for first institutional mobility private credit loan",
@@ -1762,6 +1765,20 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-06"
+  },
+  {
+   "title": "Grant Avenue acquires healthcare transportation services firm PatientCare",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWdncWs5QUZVbTktY19ZRU44ZG1NM1BYYzV3TG14RXFvalo5Wk1PQUdIMnBZQjhwMlVaYjlPdUNmbDBMMzFDSG5nQ2RYQzZxS3hQc1RGUXZuak82RDBFV2dQdHdkU0NDYjNudkhvODZGbHRMcmczSUZvYW1pc0laVFRwbUxTOFVLNmNTVm5oTU9FbXBoQXBKbldHWDZ2dHJ2a2RvUVluS0x2WmlTYUE5NUFwMmNQOWps?oc=5",
+   "source": "PEI Private Equity",
+   "published": "2026-11-05",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "The case of Ali Albokhari – Fighting seafarer criminalisation and unjust detention",
@@ -1873,8 +1890,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "Form 8K Macquarie Infrastructure Fund For: 4 November By Investing.com",
@@ -1905,6 +1922,20 @@
    "first_seen": "2026-11-05"
   },
   {
+   "title": "Australia’s CEFC to support wind and transport, not data centres",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd3BScGVLTlFLdnRLckJMRjd1bjUtLXpkUGNCbUFMalF5SXJnZ1ZyakpFZld5dkdNUHBXWUJkRHduenJja25vSElxMzkxTTBuVDBadXFCTjRtdkVhdlRySDJsajlLd1RQYVZpUVNFdHZxV1dwYVdmejZaMVo4YUk3ZXhNcm1MdXA5M2d2WXFuTmFKQ1dfSkJZcW9HRmEzVUR5RnZZbg?oc=5",
+   "source": "Infrastructure Investor",
+   "published": "2026-11-04",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
    "title": "Wabtec: Form 8-K filed 2026-11-04",
    "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126041966/ef20084907_8k.htm",
    "source": "SEC EDGAR (Wabtec)",
@@ -1918,9 +1949,9 @@
    "first_seen": "2026-11-06"
   },
   {
-   "title": "Hanwha Philly Shipyard secures first US Navy shipbuilding contract",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUdMQTU3aDY5T2V2SWVsQjR5cHd4eFVZUWEtLVY5M251Y1dQQlc0cl9YQk1TcmhSNksyemRHQkVMTVhBRXZWZlUwaE02eW9kQmxxZG9qSkNNRFFINmZKd2JfaHhwZnIzVnJ6LTBOQTJjV0pON2FaZHUwLUtTLUhVcURUYmIwWm5fQm9RS2pBelFHaUpNUzR6X3Zn?oc=5",
-   "source": "Container News",
+   "title": "News Major liners set to resume all Asia-Europe services through Suez",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObG1aZTJqXzZPY0UydkxpaU42bkl3OWpleEQ4cFZic1dKQVlYMDBienI3Mlp3QjdpQ3ZTV3QyMHFjYkc5enVMSmpCVkRMYzFkS1ZqSkswZXZoV2ktTW9Kb1BhaHRNTVJFVU1TOVRhMUVsenJWZFFqRG5WVEVBMkozc2oxejRhdjgxQm9fVWZWcFU2NkU?oc=5",
+   "source": "The Loadstar",
    "published": "2026-11-03",
    "category_hint": "container_leasing",
    "feed": "gnews",
@@ -1928,8 +1959,8 @@
    "category_hints": [
     "container_leasing"
    ],
-   "excerpt": "",
-   "first_seen": "2026-11-07"
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "Three freight wagons crash into a locomotive performing maneuvers at Martorell station",
@@ -1998,8 +2029,8 @@
    "category_hints": [
     "alt_investment"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "I Squared Capital Closes $3 Billion Infrastructure Credit Strategy, Doubling Fundraising Target",
@@ -2012,27 +2043,55 @@
    "category_hints": [
     "alt_investment"
    ],
+   "excerpt": "",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "title": "I Squared Capital Closes Second Infrastructure Credit Strategy With $3 Billion of Commitments",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXdiRk1CR2F4THFQM185REt4VzlhVWliZGlnUXFRVTNPd1d0Q21Wa1M5ZzEzUk91UkJqOEFfQ1BpZUw1TW5xdGtpeDVHYXVzM1gyNXJWQWZCajdSZUNVMDhjeDRNelo3djlvWUNZVU96N1R4SVM5V1RGUG9MeVpVMTVsQ0FRNTlWcndudElTNDhqSXVLLVh1U05ORER6UjBIenRVeHBXTFZaVzJyRHc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-03",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
    "first_seen": "2026-11-11",
    "excerpt": ""
   },
   {
-   "title": "Espirito Santos Express fire – most cargo severely damaged or destroyed",
-   "url": "https://www.seatrade-maritime.com/accidents/espirito-santo-express-fire-most-cargo-severely-damaged-or-destroyed",
-   "source": "Seatrade Maritime",
-   "published": "2026-11-02",
-   "category_hint": "container_leasing",
-   "feed": "rss:seatrade-maritime.com",
-   "snippet": "The container ship’s owners Seaspan say the blaze is under control but will take a considerable to time to bring to a port of refuge",
+   "title": "AllianzGI closes €1.5B infrastructure credit fund, well past its €1B target",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHRGQzloOXFXUHZ2Y1hyUzYwNEU5ZDVjV2RiNWNhaHNJZWMtS28wZWdiOEtMcDFOOFRqX0dvX0JJUk8wTW53LUd6cmloc2Y2eE1EUmw5ZTFjVWlzMU1HVkZoRjM5cEhocGFPdWQxWVRHcUJFNnhab1V2YkFMMXJDR1JpOHIzdlkzUTZBbFFMQUd2OVJLS1d1T1hyYzFkT2dTZHQtamFMZTM1QQ?oc=5",
+   "source": "Dealroom",
+   "published": "2026-11-03",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
    "category_hints": [
-    "container_leasing"
+    "alt_investment"
    ],
-   "excerpt": "",
-   "first_seen": "2026-11-02"
+   "first_seen": "2026-11-11",
+   "excerpt": ""
+  },
+  {
+   "title": "I Squared Capital raises $3 billion for infrastructure credit fund amid demand boom",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODNxeVpROGxrREhRVW84MGxESzlLNXZkT2pNclNSaFhOYk1BUkZsVHRwWkVWNFFYQURFekt2Q25iUjVneEdYQ0haeEdMWWQySUlkd2tyOXJqeS05X09ZaWNzRlhVNG1LUkNjc1pVbzFDd2N6U2RLdVZLTXk4WGxwQmk4TjNqUEVCc0xYTHhNcWQxdlFxOW5mRHlQM3Nab2FCUF9vM1lYVQ?oc=5",
+   "source": "Traders Union",
+   "published": "2026-11-03",
+   "category_hint": "alt_investment",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "alt_investment"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "Police deny Bantag escaped arrest in Ifugao",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1J3dWQ1NHhURGxJZm03eTdBdW8wZ1J6QmNZSjFXSkNyVnZKSHIxTXdGSXhVVHk4cUhuS21NQl9Ja2xRT0dFVzR4dlRGeFJKajFWdXJCTml3dDFYQm9sVmFydHd0ZDV5VGNNUkxoMW5laENMai1UQ0RkTW1XNVMxNVZYRDJxOTZyWkpQbFNRVHRQVDhTS3ZqbFZGY9IBoAFBVV95cUxPUmlGZVZqTE8wVUdtd1paajBBWERrUjBFaUM2U1hWQk9YNm94dGlfU2hHU2hyZjBYeTVuQkRLN1BYRVVsaUNPVEpJWUl5OWxzam9CRzMtbWI4a3NUWVdZRVpGRzRsQUJkOFV3TWFFZnlSLWk0NmxkcHNZb2RKeFpXeUtuVEZSVGlqVk9qTGgyeGkwaG5MNWlJUkZXT1hlV0Nq?oc=5",
-   "source": "The Manila Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzFWUXNHMldyZjJpR2JLaHd5MXozTXZDcEdpTUVNYkM5UWxZbHc3MWRzRVhDcmdoRXhROTBhWWNhMHFMRnVNU19aNUhCUG92M2J6eGI3ekZfX0xDeDI4azdMSVVtclJRdlZybElZRUdwUENadWdqMm03R05rWEhDZUY2TktrWmNBQ2hzTA?oc=5",
+   "source": "Newswav",
    "published": "2026-11-02",
    "category_hint": "railcar_leasing",
    "feed": "gnews",
@@ -2127,20 +2186,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-06"
-  },
-  {
-   "title": "Global Rail Contract Round-Up: Locomotives, Wagons, Connectivity - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0dsVkVGMThBaVhIUFVDN3dqMVoxTGdWeFdDSUN5V0dWTjZPemlScGxoNlZ2VlRVckdJZnQ1T1NnZVo2bDdHVWx3cU5VM1pUaTJRVG9tbDM0Vk5ZWUUzcC1MOFVYb0Y4Y0U3SHpyZEM2WktVTl91YUYwdXl3blpVZF9IZ2lDNDREZ1p0U2t4WXBEMTFYTFFTN29IWEFSY2pVRHlaaQ?oc=5",
-   "source": "IndexBox",
-   "published": "2026-11-02",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-02"
   },
   {
    "title": "EU approves €30 million in state aid for EUREGIO terminal near Aachen",
@@ -2254,6 +2299,20 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-04"
+  },
+  {
+   "title": "Trinity Industries Inc (TRN) (Q3 2026) Earnings Call Highlights: Revenue Jumps 18% as Rail ...",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY21Gd2p6LXZKZmZfczZnWWQwMURab2taOVRaWUhxNFd2NDhWaWZxUWxGWm95OEpLYndZZmRqZFRZVmhLLUJ6SXB5Q0E2NDVsbGdRelRpTU01S20zVWlIaUUyajhsYlFGaE40VEpBTng0OTdYZGhvLUd3c1VrRDJDUVcyRXBhUG9wMWdlWUtpOXJMM1ZCZ0JMcUpR?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-30",
+   "category_hint": "railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "railcar_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "Hapag-Lloyd warns of London Gateway rail disruption",
@@ -2408,20 +2467,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-11-07"
-  },
-  {
-   "title": "ITCO & BIC announce digital verification for tank containers",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3lCN2ZhQ2p5dmlZVkVUWFFyT2NCWFI3NjM0YTJ3YlhXUEJlVGFscThMaS1reU1tVERUVDRvc3VBV2FSOUQ3RmpjMDcwaERQQ20yRTlFVmExZWI0VFRqOXIyRmhIRjR1X2FiYmJ3b3ZySGFhVXNqM0ZQQXQyWUFDWjY2UkJUY01ubWFHTklJRXBfYTh0T2xac0M3R1BWZDRuLVV6elhMNldQU21xT2VfQ2gySDZYV2pH?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-29",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
   },
   {
    "title": "RailNetEurope’s capacity planning tool goes fully live",
@@ -2605,20 +2650,6 @@
    "first_seen": "2026-11-09"
   },
   {
-   "title": "Commissioner Harvey Travels to Newport, Rhode Island",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1NORzROaFJIRXhKOTNMRXhLYjZTdVhIX2Z2LUw4aXBTdnBvZ1Q0eWtqbzN5WWwtNk9aQ25TWGZRQ2szS19YamNhS29PZENwaV9NV1F4WF9MU1ZGVHQ2QTJZN2tlMjJTeFltWTZmNFBzNEJjZjhhd1hNcVJfei01S0QxLXZMb29UMG41bQ?oc=5",
-   "source": "Federal Maritime Commission (.gov)",
-   "published": "2026-10-28",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-10-30"
-  },
-  {
    "title": "Railways Africa Q&A With European Union Agency for Railways Executive Director Oana Gherghinescu - Building Interoperability into Africa's Corridors",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVZJSHFiWGNIYVJ4SXlQcG5MSGhfYXNVMmdNRGxfNGdWck1PYTdPQnVMQVZMMXFOc1pYNXMyUWZNdWtVWUhReldIYXhaY2ViWDFuRlV4SkwtdHhfX0psUlpyaS00TTU0TjVVLU9tMVpBR0VxdmFicjQ4MGlnbVZuWTlkajN2alZuSDhBRVJ4Njl0WXM4QzJWanEzQjZiaENDQUpfWThoMjZhcmREckF1WE9MSFhaRG9nd2NuRjZNTlpiRk1ueFZ5LXlINktxOGJ3Qy0xQnIyd3RGUVVVRmswWm5EVUd1c2wtaHBrM1VKZ0xQWTQxQkJOQ0w5cjZmOU9GaXZyaVVlWEo5NEdGSUE?oc=5",
    "source": "Railways Africa",
@@ -2629,8 +2660,8 @@
    "category_hints": [
     "eu_railcar_leasing"
    ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
+   "excerpt": "",
+   "first_seen": "2026-11-11"
   },
   {
    "title": "EU study: ERTMS supplier dependency and fragmentation threaten costs and deployment targets",
@@ -2759,34 +2790,6 @@
    "first_seen": "2026-11-08"
   },
   {
-   "title": "GBX Q3 deep dive: industry headwinds, cost actions, and leasing growth shape outlook",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNUxkNkVRSWhQeVJ6U2I4TXprN3k0SklXZ3JMTzN2UV9EZWpGQjNzTHFSRUJNa2stTkhIX2hibW1TeXFlWHptakVieGpWYmduMThJV0hySVFGLWh4RjZhWGtzZ0hWYzBVUWFIZV9WZjdUd0JQWVRsY25qTlkyQm9na2ZFUmZ3dWdYVURFREJibVdvc0doeEF4SzZETGZ4MFVoZzQ0OEVpU0xXeElnMXhSbG8xM3hOSWFsUm5pNXFJTGtUZ3BHcjZ5VjlxUnlnbkp1cmR3N0VNdVRud3d1?oc=5",
-   "source": "FinancialContent",
-   "published": "2026-10-27",
-   "category_hint": "railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "railcar_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "Los Angeles port reports record-low emissions per container",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd21KZW14bEZDY2JrQzluS1lFTVYzLWE5LTE2Mkp2ejFhcHZnUTRjUGtZcXFFRTJva1V3dHZBVk5Odlo4N0RiN1VOSjZSQTlTR0xIRlFTYW42Y1JIREUteFFmaEdfR2ZoSGNSN0dsWllnMGdteWdqQmg2cTVZSEFRRTRWZ3VDdFFYTVZtNGdSdTdtNktuTkVqZloyYVVJS2ZaWkpDTE9LSHNzYWdsZGs2V0xSdnBpRGxza2dGVzhib3FZdw?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-27",
-   "category_hint": "container_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "container_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
-  },
-  {
    "title": "Ukrainian Railways Sells Hundreds of Unserviceable Freight Wagons ᐉ News from Fakti.bg - Business",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTl9CM1Q5UGZ0djY2YVYtSnVuR2pkSGx1VWd2bGNlX3BkeTRRZnBBVFhXV1VEWEtQbVFqVDRSSXpibUloQVh5Uk9CVmdvR1ZFNmw1dTNyYmJFMERpYk1rQ2U5TVlLT2RoU3VUSF9EWUdzbTd6MjhuMTRZOGZmcVdIN1RTWGRVcnRDYU52enZGLWhBSGxJNXR1cHhudGlJSHRmNFE?oc=5",
    "source": "Fakti.bg",
@@ -2855,6 +2858,20 @@
    ],
    "excerpt": "",
    "first_seen": "2026-10-27"
+  },
+  {
+   "title": "Keolis targets growth in the Middle East rail market",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGx1bjNjXy1YdjQ1aDhDajVLLUJvT3FLQWZRdkF2M0pZclBnRVFNME1YVmlaNWI1bnZxSmRpVmFzZzhWYjlpeTh6TEhUVTZvWWhkWEhLUk5ZV092RFR2SlNlM0pLR1owTXM1Mk01OXptS1lrU3BIYzlqYXJuMUdLNmtUNUlJRklQdkswbXRsUFlxVHN6YVlzS3pnbFFIcC1nLVlWZ0NtMA?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-27",
+   "category_hint": "eu_railcar_leasing",
+   "feed": "gnews",
+   "snippet": "",
+   "category_hints": [
+    "eu_railcar_leasing"
+   ],
+   "first_seen": "2026-11-11",
+   "excerpt": ""
   },
   {
    "title": "The Barking Friday derailment aftermath continues",
@@ -3037,34 +3054,6 @@
    ],
    "excerpt": "",
    "first_seen": "2026-10-27"
-  },
-  {
-   "title": "Leasing firm’s training centre explains tank wagons to chemical company staff",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1p1dEMtYy1xMVlKMGd4OU9KSXVfcFhnWW51QkdDMThVS0xVUXd3ZXFJQUxzeGxTZU52M3lqZzc2clJha0pZNnZ3NHEwT3o4VENHN21BY1A2OEllRlFOVmoxcjQ3OWRrREpNU3pscTFGNjNDcUpRQXgwNWpQVWxfRkZVaDc5ejJINzhFbTJWaHVnQWl4NlhQdXZ1NnNYQ0gyRUpzUEpCMlVrUTJwOFdTaUVXd0pBZG1QTmFsUlg5ZnJhR3NtUUEtZzA3eWczcVVhS3E5YmtJT05WUk42?oc=5",
-   "source": "Railway Gazette International",
-   "published": "2026-10-20",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "excerpt": "",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "title": "ERFA: Rail freight transport under pressure due to lack of funding and cross-border bottlenecks",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEJTb084Zm1CenRGOEdjUWJVV1RhVk9WRGNJZUNiTFdtbWJNZ3RHTUxodnlUTmVBUl8tdjQ3SFFjY3JLR3A3QXJYeUd5Z1lhTHI2TFViNWp3cG9oRmVXcDBsMzFDTUtKdXVTaHhxc1EtMi0tUFM4MTVzWl8wODRZZWJiWmNoMXJkUmk1SkZoWExxQVgteGZWMFdkSEVLbXRLaXFkQm9uSWxWdC1jY1Y2WjNNRWY2SUdPTnMxSGV3YldjU0Nsd3MxZnN3NnprQ2M?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-20",
-   "category_hint": "eu_railcar_leasing",
-   "feed": "gnews",
-   "snippet": "",
-   "category_hints": [
-    "eu_railcar_leasing"
-   ],
-   "first_seen": "2026-11-11",
-   "excerpt": ""
   }
  ]
 }
