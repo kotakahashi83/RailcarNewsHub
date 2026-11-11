@@ -30,6 +30,96 @@
     "collected_at": "2026-11-10T13:25:36-08:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
+    "title_ja": "燃料高による輸送コスト上昇、鉄道には競争上の追い風",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-and-reshape-trade",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "FreightWaves は、第3四半期決算での Ford・Union Pacific・XPO・Valero の経営陣7人の発言を基に、燃料高と運賃上昇が企業ごとに異なる形で表れていると報じた。",
+      "Ford の Sherry Ann House CFO は、燃料価格の上昇が同社の輸送・エネルギーコストを押し上げている一方、トラックやフリート向け車両の需要には現時点で影響は出ていないと述べた。",
+      "輸送インフレの影響は輸送距離・自社で握る輸送網・競合が負う運賃負担の差で決まり、長距離でコスト優位を持つ鉄道には競争上の機会が生じているとされる。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Memphis-area town asks STB to require UP to keep NS intermodal terminal open",
+    "title_ja": "UP-NS統合、Rossvilleターミナル5年維持をSTBに要請",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/memphis-area-town-asks-stb-to-require-up-to-keep-ns-intermodal-terminal-open/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "テネシー州 Rossville 町が、UP-NS 統合後も少なくとも5年間は NS のメンフィス近郊インターモーダルターミナルを開け続けるよう UP に義務づけることを STB に申し立てた。",
+      "UP-NS の運行計画はミシシッピ川対岸のアーカンソー州 Marion のターミナルを優先し Rossville を閉鎖する前提で、Rossville は2012年に1億2,560万ドル（うち連邦補助5,250万ドル）で開設され1日約500リフトを扱う。",
+      "同町は、貨物の Marion 移管で Marion 周辺のトラック交通が57%増え、年間で約430万トラックマイル・1,000万ドルの輸送費・7,200トンのCO2が上乗せされると試算している。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "NTSB releases preliminary report on UP derailment in Kansas",
+    "title_ja": "NTSB、カンザス州でのUP脱線について暫定報告書を公表",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/ntsb-releases-preliminary-report-on-up-derailment-in-kansas/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "NTSB は、10月15日にカンザス州 Greensburg 付近で起きた Union Pacific 列車の脱線について暫定報告書を公表し、37両が脱線、損害額は約240万ドルと推定した。",
+      "列車は機関車3両・中間DPU2両に積載インターモーダル車とオートラック171両を連結して西行中、午前8時25分ごろ脱線したが、負傷者と危険物の流出はなかった。",
+      "脱線前に約56mphで走行中にペナルティブレーキで停止し、ブレーキ管圧を回復して再出発した直後に非常ブレーキがかかって脱線が判明しており、NTSB は脱線車両と軌道構造の調査を続けている。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "C.H. Robinson warns of persistent port and drayage constraints",
+    "title_ja": "米港湾の内陸輸送制約が継続、シャーシ不足と鉄道遅延",
+    "source": "Container News",
+    "url": "https://container-news.com/c-h-robinson-warns-of-persistent-port-and-drayage-constraints/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "C.H. Robinson は11月版 Edge Report で、輸入需要の落ち着く兆しが出ても米コンテナ港の内陸輸送の制約は続くとして、鉄道接続・シャーシ確保・ターミナル予約の逼迫を指摘した。",
+      "Pacific Merchant Shipping Association のデータでは、9月のロサンゼルス/ロングビーチ両港で鉄道搬出待ちの輸入コンテナのターミナル滞留は平均7.19日に達した。",
+      "本船荷役が順調でも、入港の偏りやコンテナ滞留の長期化がトラック・機材・ターミナル予約の需要を押し上げるため、輸入量の減少が直ちに内陸能力の改善につながらないと同社は警告している。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Cargo surge and port congestion send Far East–Middle East rates climbing",
+    "title_ja": "極東-中東/インド航路の運賃指数、年初来250%上昇",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/cargo-surge-and-port-congestion-send-far-east-middle-east-rates-climbing/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "Container Trades Statistics（CTS）によると、極東-中東・インド亜大陸航路の運賃指数が年初来250%・前月比25%上昇し、主要航路で今年最大の伸びとなった。",
+      "ホルムズ海峡の手前に貨物を急いで運び込む動きが重なって今年のピークシーズンの同航路運賃は過去に例のない高水準に達し、新たな港湾混雑の波を招いた。",
+      "同航路の荷動きは中東情勢の悪化以降で初めて9月に回復しており、CTS の Nigel Pusey CEO は足元でも非常に強い価格が続いていると述べている。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "El Niño transport chaos hits LatAm perishables exports",
+    "title_ja": "チリ港湾ストで、さくらんぼ輸出シーズンの出足に遅れ",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/el-nino-transport-chaos-hits-latam-perishables-exports/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "南米南部の農産物輸出業者が、天候不順による作柄悪化に加え、輸送路の寸断・ゲートウェイの問題・高い輸送コストに同時に直面していると The Loadstar が報じた。",
+      "チリでは運送業者が運賃の停滞・燃料高・港とサンティアゴを結ぶ幹線道路の新たな課金に抗議してストを行い、San Antonio 港のコンテナターミナルへのアクセスが遮断された。",
+      "San Antonio はチリの海上さくらんぼ輸出の主要ゲートウェイで、11月9日出航予定だった今季初の「Cherry Express」（積み込みは2日前開始予定）に影響が及んだ。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "FreightCar America, Inc. Reports Third Quarter 2026 Results",
@@ -163,6 +253,21 @@
       "鉄道で輸送する荷主施設への州・地方の土地利用規制が連邦法優先でより厳しく審査される可能性があり、AARは管轄の明確化を歓迎する声明を出した。"
     ],
     "collected_at": "2026-11-10T13:25:36-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Figuring Out Winter Wheel Fractures",
+    "title_ja": "貨車車輪の冬季破損、主因は表面に現れない内部疲労亀裂",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/mw/figuring-out-winter-wheel-fractures/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "約30年にわたり破損した貨車車輪リムを調べてきた専門家が、そのほぼ全てが表面には現れない内部（subsurface）の疲労亀裂から始まっていたと報告した。",
+      "調査した数十例に製造欠陥に起因するものはなく、疲労亀裂自体は通年で進行する一方、車輪鋼の靭性が下がる厳冬期に破損が集中しやすいとされる。",
+      "リム内部の疲労欠陥を検出する検査システムを使う事業者では車輪破損による脱線が大幅に少なく、冬季に向けたフリート検査の優先度を示す内容となっている。"
+    ],
+    "collected_at": "2026-11-11T06:26:41-08:00"
   },
   {
     "category": "rail_industry",
@@ -4888,245 +4993,5 @@
       "リース先にはスロバキアのZSSK Cargoが含まれ、15両のVectron MSを2037年末までの契約で2027年にかけて段階的に受領する予定となっている。"
     ],
     "collected_at": "2026-10-24T13:27:43-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Shippers warned: spot rates no pointer to wider box shipping market",
-    "title_ja": "Sea-Intelligence、スポット運賃の指標性低下を指摘",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/shippers-warned-spot-rates-no-pointer-to-wider-box-shipping-market/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "Sea-Intelligence は WCI と Container Trade Statistics のデータを突き合わせ、スポット運賃と市場全体の動きの乖離が拡大していると分析した。",
-      "比較対象はアジア〜欧州が上海〜ロッテルダムとジェノバ、太平洋航路が上海〜ニューヨークとロサンゼルスの月平均運賃で、両航路ともコロナ禍以降スポットの変動性が高まった。",
-      "契約運賃を含む実勢を測る指標としての信頼性が落ちており、機材需給や調達判断をスポット指標だけに頼るのは危険だと荷主に警告している。"
-    ],
-    "collected_at": "2026-10-12T13:27:25-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Shippers stressing over risks from Suez Canal and Red Sea transits",
-    "title_ja": "紅海の治安悪化でもスエズ回帰が継続、荷主に懸念",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/shippers-stressing-over-risks-from-suez-canal-and-red-sea-transits/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "フーシ派とサウジの対立激化で治安が悪化しているにもかかわらず、アジア〜欧州航路のスエズ運河・紅海経由への復帰が続いている。",
-      "先週は CU Lines の2,400TEU型コンテナ船「CUL Klang」が紅海南部で小火器による攻撃を受けたが、他船社の回帰姿勢は変わらなかった。",
-      "Drewry のコンテナ調査責任者は船社の回帰が自社の想定より前倒しで進んでいると認めており、荷主側では輸送リスクと機材の回転計画の見通しづらさへの不安が強まっている。"
-    ],
-    "collected_at": "2026-10-12T13:27:25-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "US Ports Strengthening Trade Ties With China",
-    "title_ja": "LA・ロングビーチ両港、米中関係の安定を要請",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/us-ports-strengthening-trade-ties-with-china/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "ロングビーチ港は取扱貨物の約55%、隣接するロサンゼルス港は約40%が中国関連で、米中関係の変化が荷動きに直結すると両港トップが指摘した。",
-      "ロングビーチ港の Noel Hacegaba CEO は、米中の安定的で建設的な関係が世界経済と国際サプライチェーンの信頼性に重要だと述べた。",
-      "両港はサンペドロ湾で米国最大のコンテナゲートウェイを形成し、港湾労働者・トラック・倉庫・鉄道・小売を抱える物流網を支えるため、貨物量の振れは空コンテナの偏在にも波及しうる。"
-    ],
-    "collected_at": "2026-10-12T13:27:25-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Gothenburg moves to next phase of Skandia Gateway",
-    "title_ja": "ヨーテボリ港、Skandia Gateway の発破・浚渫に着手",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/dredging-reclamation/2026/10/gothenburg-moves-to-next-phase-of-skandia-gateway/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "ヨーテボリ港はコンテナターミナル南岸壁の西端700mの補強工事を完了し、10月13日から航路の発破・浚渫作業に入る。",
-      "施工は4月に約2億200万スウェーデンクローナで契約した Boskalis Sweden が担当し、入札には5社が参加していた。",
-      "泊地水深を13.5mから17.5mへ深掘りして大型コンテナ船の寄港を可能にする計画で、全体の完成は2028年初頭が見込まれている。"
-    ],
-    "collected_at": "2026-10-12T13:27:25-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "First discussions for a potential overhaul of the General Contract of Use for Wagons",
-    "title_ja": "貨車使用契約GCU全面見直しの初協議がベルンで開催",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/freight/2026/10/12/the-rail-freight-industry-concludes-its-first-discussion-of-gcu-overhaul/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "貨車の国際使用契約GCUの全面見直しに向けた初の協議が10月7日にベルンで開かれ、鉄道事業者・貨車保有者・政策担当者ら40名超が参加した。",
-      "ERFA は20年前の枠組みが実務と乖離していると批判し、事業者・保有者・ECM の役割分担の明確化、出発前検査の解釈統一、欠陥の帰責立証やデータ共有の改善を求めた。",
-      "貨車保有者団体 UIP は年300ユーロの署名企業負担をわずかに引き上げ、紛争解決制度や標準化の財源に充てる案を示し、年内に次の会合を開く予定としている。"
-    ],
-    "collected_at": "2026-10-12T13:27:25-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "personnel",
-    "title": "Cory, CSX chief operating officer, announces retirement",
-    "title_ja": "CSX、Mike Cory 最高執行責任者が退任へ",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/cory-csx-chief-operating-officer-announces-retirement/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "CSX は10月12日、最高執行責任者（COO）の Mike Cory が退任すると発表した。",
-      "COO 職は当面補充せず、Doug Ryhorchuk 運輸担当上級副社長と Casey Albright ネットワーク運営・サービス設計担当上級副社長が Steve Angel CEO に直接報告する体制に移る。",
-      "Angel CEO は Cory 氏が安全性と生産性を過去最高水準へ引き上げたと評価しており、今回の措置は運行部門の指揮系統を CEO 直轄に寄せる組織再編とみられる。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "TrainsPRO Podcast: Why BNSF Is Fighting the UP-NS Merger",
-    "title_ja": "BNSF、UP-NS 合併に反対する理由を詳説",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/trainspro-podcast/trainspro-podcast-why-bnsf-is-fighting-the-up-ns-merger/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "BNSF の Zak Andersen 首席補佐官兼広報担当副社長が Trains のポッドキャストに出演し、UP-NS 合併に反対する理由を説明した。",
-      "合併が成立すると米国の鉄道輸送ユニットの約50%が単一事業者の下に入るため、いかなる是正措置（コンセッション）も STB の2001年合併規則の基準は満たさないと主張している。",
-      "CPKC によるラレド・ゲートウェイ閉鎖がシカゴとメンフィスに与える含意や、申請側が示すトラックから鉄道への転換見通しの妥当性にも疑問を呈した。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Port of Los Angeles sets monthly cargo record",
-    "title_ja": "ロサンゼルス港、9月に過去最高の104万TEU",
-    "source": "Container News",
-    "url": "https://container-news.com/port-of-los-angeles-sets-monthly-cargo-record/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "ロサンゼルス港の2026年9月の取扱量は104万2,652TEU となり、118年の港史で最大の月間取扱量を記録した。",
-      "輸入実入りは54万5,696TEU（前年同月比19%増）、輸出実入りは12万5,751TEU（同10%増）で、空コンテナは約37万1,206TEU と月間ベースの過去最高に達した。",
-      "Gene Seroka 事務局長は堅調な個人消費と荷主の在庫積み増し、同港への貨物シフトを要因に挙げており、記録的な空コンテナ量はアジア向け回送需要の高まりを示している。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Lower container rates are not a return to predictable service, Sogese says",
-    "title_ja": "Sogese、運賃下落は定時性回復を意味せずと警告",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/lower-container-rates-are-not-a-return-to-predictable-service-sogese-says/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "Sogese の Andrea Monti CEO は、スエズ航路の復帰で船腹が戻る一方で船社が抜港により稼働率を守ろうとしており、運賃の下落を定時性の回復と取り違えるべきではないと述べた。",
-      "同社のレポートは、Xeneta による極東〜欧州の定時到着率が8月に6%（2021年終盤以来の低水準）だったとして、9月分が20%超に戻るまで極東〜イタリア間の到着予定に最低8日を上乗せするよう荷主に勧めている。",
-      "Xeneta は110万TEU 規模の貨物滞留を確認したとされ、船腹と需要の再均衡がどの速さで進むかが今後数週間の焦点になるとしている。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Cancelled Sailings Tracker Shows Capacity Gradually Returning",
-    "title_ja": "Drewry、東西航路の抜港率は今後5週で5%に低下",
-    "source": "Hellenic Shipping News (Drewry)",
-    "url": "https://www.hellenicshippingnews.com/drewry-cancelled-sailings-tracker-shows-capacity-gradually-returning/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "Drewry の抜港トラッカーによると、第42週（10月12〜18日）から第46週（11月9〜15日）の主要東西航路では予定713便に対し34便が抜港となり、欠航率は5%にとどまる見通し。",
-      "国慶節明けで船腹が段階的に戻りつつあり予定便の95%が運航される計算だが、抜港はアジア〜北欧州・地中海航路に集中している。",
-      "同航路ではスエズ経由サービスの再開が実質船腹を押し上げており、10月8日時点の WCI が40フィート当たり4,351ドル（前週比2%安）と、運賃の下押し圧力が航路ごとに不均一に強まっている。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "High energy costs threaten rail freight’s viability, warns PKP CEO",
-    "title_ja": "PKP CEO、電力費高騰が鉄道貨物の採算を脅かすと警告",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/poland/2026/10/12/high-energy-costs-threaten-rail-freights-viability-warns-pkp-ceo/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "PKP SA の Alan Beroud CEO は、エネルギーコストと EU における重工業の縮小が鉄道貨物の事業継続性にとって最大の脅威だと述べた。",
-      "ポーランドはベースロード電源の大半を石炭火力に依存しており、EU 排出量取引制度（ETS）の負担が高止まりしていた牽引電力費をさらに押し上げていると指摘した。",
-      "加盟国が鉄道の牽引電力を全面的に非課税にできるとする EU のエネルギー課税案は理事会で審議中で、Beroud CEO は収益環境の悪化が機関車・貨車・ターミナルへの投資資金確保を難しくしていると述べた。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Apogem Capital Raises its Largest Real Assets Fund, Exceeds Target, Closes on $472M",
-    "title_ja": "Apogem、実物資産ファンドで4.72億ドルの調達を完了",
-    "source": "Business Wire",
-    "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-apogem-capital-raises-its-largest-real-assets-fund-exceeds-target-closes-on-472m",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "New York Life 傘下の Apogem Capital は10月12日、実物資産戦略で総額4億7,200万ドルの最終クローズに達したと発表した。",
-      "内訳は Apogem Real Assets Fund IV の3億7,200万ドル（うち従業員出資1,200万ドル）と、別建ての実物資産コインベストメント口座1億ドルで、3億ドルの目標を24%上回った。",
-      "投資対象はエネルギー・天然資源・インフラおよび関連サービスで、北米を中心とする OECD 市場のロウアーミドル〜ミドルマーケット資産に、コインベスト・直接投資・セカンダリーを通じて取り組む。"
-    ],
-    "collected_at": "2026-10-13T06:32:00-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Hapag-Lloyd suspends bookings to three Philippine ports as container crisis deepens",
-    "title_ja": "Hapag-Lloyd、空コンテナ返却難でフィリピン3港の予約を停止",
-    "source": "Splash247",
-    "url": "https://splash247.com/hapag-lloyd-suspends-bookings-to-three-philippine-ports-as-container-crisis-deepens/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "Hapag-Lloyd は空コンテナの返却が滞っていることを理由に、マニラ・バタンガス・スービック向けの新規予約受付を停止した。",
-      "停止はすべての出発地と航路が対象で、2026年12月31日まで続く見込みと報じられている。",
-      "現地トラック業界団体は空コンテナ返却に最長40日を要すると訴えており、輸入超過による機材滞留はストライキにも発展した。"
-    ],
-    "collected_at": "2026-10-17T06:24:49-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "The rail freight industry concludes its first discussion on GCU overhaul",
-    "title_ja": "欧州貨車使用契約GCUの改訂論議、ベルンで初会合",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/business/2026/10/12/the-rail-freight-industry-concludes-its-first-discussion-of-gcu-overhaul/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "10月7日にベルンで、鉄道事業者・貨車保有者・政策担当を含む40人超の専門家が貨車使用一般契約（GCU）の見直しについて初めて協議した。",
-      "欧州鉄道貨物協会（ERFA）は締結から20年を経たGCUが現在のビジネスモデルに合っていないとし、事業者・保有者・保守主体の役割の明確化、貨車不具合の立証責任の偏り、当事者間のデータ共有を論点に挙げた。",
-      "貨車保有者団体UIPは年300ユーロの署名者手数料を若干引き上げて紛争解決制度と標準化の財源にする案を示したが、具体的な改訂は決まらず、年内に拡大セミナーを開く予定である。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Apogem Capital Closes Largest Real Assets Fund Program At $472 Million",
-    "title_ja": "Apogem、実物資産ファンドIV計4.72億ドルでクローズ",
-    "source": "Pulse 2.0",
-    "url": "https://pulse2.com/apogem-capital-closes-largest-real-assets-fund-program-at-472-million/",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "New York Life傘下のApogem Capitalが、実物資産戦略の第4号プログラムを総額4億7,200万ドルでクローズし、同社の実物資産ファンドとして過去最大となった。",
-      "内訳はApogem Real Assets Fund IVが3億7,200万ドル（うち従業員出資1,200万ドル）、実物資産の共同投資口座が1億ドルで、3億ドルの目標を24%上回った。",
-      "投資対象は北米などOECD諸国のロウアーミドル〜ミドルマーケットのエネルギー・天然資源・インフラ関連事業で、2022年9月に約2億6,500万ドルでクローズした前号比で約4割の増加となる。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "500 new freight wagons for scrap metal transport",
-    "title_ja": "ÖBB RCG、金属スクラップ用貨車500両を MFD Rail からリース",
-    "source": "ÖBB Rail Cargo Group",
-    "url": "https://www.railcargo.com/en/news/2026/500-new-freight-wagons-for-scrap-metal-transport",
-    "published_at": "2026-10-12",
-    "summary_ja": [
-      "ÖBB Rail Cargo Group は、軽量金属スクラップやせん断スクラップの輸送向けに新型 Eanos-y 貨車500両を MFD Rail からリースすると発表した。",
-      "同貨車は RCG と MFD Rail が共同開発した4軸車で、積載容積は約95立方メートル・従来比約15%増とし、車体を補強して損傷を抑える設計とした（契約額は非公表）。",
-      "納入は2026年初めに始まり7月末時点で約110両が稼働、2027年半ばの全車投入を目標としており、老朽化して保守負担の大きい貨車の置き換えを狙う。"
-    ],
-    "collected_at": "2026-10-30T13:22:59-07:00"
   }
 ]
