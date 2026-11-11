@@ -2,6 +2,36 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "US container imports hit all-time high in October, Descartes reports",
+    "title_ja": "米国のコンテナ輸入、10月に過去最高の267万TEU",
+    "source": "Container News",
+    "url": "https://container-news.com/us-container-imports-hit-all-time-high-in-october-descartes-reports/",
+    "published_at": "2026-11-11",
+    "summary_ja": [
+      "Descartes Systems Group の Global Shipping Report によると、2026年10月の米国海上コンテナ輸入は2,674,808TEUとなり月間最高を更新した。",
+      "2022年5月の従来最高（2,622,465TEU）を52,343TEU上回り、前月比5%増・前年同月比16%増、1〜10月累計も前年同期比2.3%増で2カ月連続のプラスとなった。",
+      "中国発は4カ月連続増の987,805TEU（前月比6.9%増）で2025年1月以来の高水準、東海岸・ガルフ岸港湾の取扱増も押し上げ要因となった。"
+    ],
+    "collected_at": "2026-11-11T13:23:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Return to Suez transits raises congestion fears at Red Sea ports",
+    "title_ja": "Evergreen、スエズ・紅海航路を再開 港湾混雑に懸念",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/",
+    "published_at": "2026-11-11",
+    "summary_ja": [
+      "スエズ運河経由の運航再開が進む一方、ジェッダなど紅海側港湾での混雑再発への懸念が高まっていると報じられた。",
+      "Alphaliner によると Evergreen は極東〜欧州サービスでスエズ運河・バブエルマンデブ海峡の臨時通航を8回計画し、紅海向けにさらに4航海を充てる。",
+      "16,556TEU型 Ever Eon が先週末に初通航し、7,024〜9,466TEU型を投入する臨時OGRDサービスはジェッダ・ソハナ・アカバに寄港、初船 Ever Superb は11月14日に青島出港予定となっている。"
+    ],
+    "collected_at": "2026-11-11T13:23:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Suez return could limit November freight rate increases, Sogese warns",
     "title_ja": "Sogese、スエズ復帰で11月の運賃値上げは限定的と警告",
     "source": "Container News",
@@ -118,6 +148,36 @@
       "San Antonio はチリの海上さくらんぼ輸出の主要ゲートウェイで、11月9日出航予定だった今季初の「Cherry Express」（積み込みは2日前開始予定）に影響が及んだ。"
     ],
     "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "India’s box building business gets green light",
+    "title_ja": "インド、1,000億ルピーのコンテナ製造振興策が始動",
+    "source": "WorldCargo News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVQ2MjFvRThnTDdaVC1TYTAxMTZpT1lsc183VmxUZzl4NEhxbE43bGZvVmVtaG9uTTZTaDdIM2FzRFlEQUlXZXBBdXotTk9IVjlDSUdUSThMTWk0NUNSbzBzMGJDUFU2ZVl0S0plZnlsZVNHdkJUVzVkUmNaTDk0ZGNxd0VBZEpHMmwxNDZDYld3cnNLODV6N0hqUVZqbm1kRzh3Zkkxbw?oc=5",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "インドのコンテナ製造振興が認可段階に入り、国産コンテナの量産に向けた枠組みが動き出したと報じられた。",
+      "政府は10月28日に総額1,000億ルピー（₹10,000 crore）規模の Container Manufacturing Promotion Scheme を閣議決定し、2039〜40年度までを対象に新設・増設を支援する。",
+      "年産能力を現状の約10倍となる75万TEUへ引き上げて世界生産の約95%を占める中国への依存を下げる狙いで、個別工場は原則として承認から3年以内の稼働が条件とされる。"
+    ],
+    "collected_at": "2026-11-11T13:23:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "DP World shifts 1m teu through alternative corridors amid Hormuz closure",
+    "title_ja": "DP World、約100万TEUを代替回廊へ振り替え",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/dp-world-shifts-1m-teu-through-alternative-corridors-amid-hormuz-closure",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "ホルムズ海峡の閉鎖が続くなか、DP World が約100万TEU相当の貨物を代替回廊経由に振り向けたと報じられた。",
+      "代替ルートはホルムズ海峡外の Fujairah・Khor Fakkan 両港と Jebel Ali からの陸上回廊が軸で、同社は約250万TEU分の新ターミナルを建設する50年コンセッションを Fujairah で取得したとされる。",
+      "内陸輸送を含む代替ルートのコストは従来の4〜5倍に達するとの指摘があり、Jebel Ali の取扱量減少に伴う湾岸での空コンテナ配置や機材回転への影響が続いている。"
+    ],
+    "collected_at": "2026-11-11T13:23:39-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -328,6 +388,21 @@
       "保有事業の売却も進み、8月末に合意したUSI Insurance ServicesのAonへの170億ドルでの売却は第4四半期のクローズが見込まれ、10月には貨車リース会社Infinity TransportationをAresへ約29億ドルで売却する合意も公表している。"
     ],
     "collected_at": "2026-11-09T06:30:43-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Steve Angel aims to transform CSX into a more profitable, productive Class I",
+    "title_ja": "CSX、Angel CEO の下で生産性改革を加速",
+    "source": "Progressive Railroading",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaGd3eTIxQ1NIaFdRRzVicDJGVlJvR3pkSDZ1TnNmSW4xTVhISjVpX3gzdFBhRm83QjVVcm95bkdKbWxsTXpnTHA3UkpjalN4ZVVVZFEyb1ZsTjFicDJ2SzZPQ0FzdDRsejdYUXhsdHZMazV1QmVjeUctdU9GcVBfRWhPUEdtamVJTDBrTTNwMjhJVEw4UGxqWVl1ZlBsSzFBODQ0WktkdWMyc3JPNExFc1V0RG1nTFZCRFktenZLRVpGSUxqZXVsSTZ1TDZubnZHWEZDVkNmNjlpLTUwSnc?oc=5",
+    "published_at": "2026-11-08",
+    "summary_ja": [
+      "2025年9月末にCSX史上8人目の社長兼CEOに就任した Steve Angel 氏が、同社をより収益性と生産性の高いClass Iへ転換させる取り組みを進めている。",
+      "同氏は自らを「ファシリテーター」と位置づけ、継続的改善と「生産性のパイプライン」構築を柱に、優先課題・業績管理・報酬を財務成果に紐付けて実行力を高めてきた。",
+      "2026年上期の実績を踏まえ通期見通しを上方修正し、売上は中〜高一桁%の増加、営業利益率は350bp超の改善、フリーキャッシュフローは80%超の増加を見込む。"
+    ],
+    "collected_at": "2026-11-11T13:23:39-08:00"
   },
   {
     "category": "eu_railcar_leasing",
@@ -1003,6 +1078,21 @@
       "2026年の累計43週では総輸送量が3.8%増で、インターモーダル4.7%増がcarloads2.7%増を上回り、年初来では穀物が10.1%増と最も強い品目となっている。"
     ],
     "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "CIMC reports 14% growth in dry container sales",
+    "title_ja": "CIMC、1〜9月のドライコンテナ販売が14%増",
+    "source": "WorldCargo News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU1QRkFpaVZIRHBqX1RNX0VwTlVSSFJDVm5URUZYZTd1d2YzdFlVN1Z5ZFhRT0lmLURCTVZaSnMzM1VkU3lNenZvYnhIRjRGY2NfR2FOQTF1Sl9CNnpIdXlBcUI1eGxDMHRjN0RoOEpCWUxYOTJ4eDNzZ0Nqa3VBcEdReVhETFVDeFdGRHU2RDdDUnRnbWxfOGR2aW55YjVnVWVEVlFudw?oc=5",
+    "published_at": "2026-11-04",
+    "summary_ja": [
+      "CIMC の2026年1〜9月のドライコンテナ販売は2,055千TEUで、前年同期比約14%増となった。",
+      "第3四半期単独では約92万TEUと前年同期比・前四半期比ともに約35%増、リーファーは南米の果物輸送需要を背景に152,600TEUだった。",
+      "会社側は下半期にコンテナ製造事業の販売量と価格がともに回復したと説明しており、第3四半期の株主帰属純利益7.08億元（前年同期比146%増）の主因は海洋エンジニアリング等の他事業とされる。"
+    ],
+    "collected_at": "2026-11-11T13:23:39-08:00"
   },
   {
     "category": "rail_industry",
