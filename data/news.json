@@ -1,5 +1,80 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Weekly U.S. rail traffic remains strong",
+    "title_ja": "米鉄道輸送量、11月7日週は前年比6.6%増",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/weekly-us-rail-traffic-remains-strong/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "AAR統計によると11月7日までの週の米国の輸送量は車扱とインターモーダル合計で52万6,283ユニット、前年同週比6.6%増となった。",
+      "車扱は22万7,914台で1.3%増にとどまる一方、インターモーダルは29万8,369個で11%増と伸びを主導した。",
+      "年初44週の累計は2,264万1,547ユニットで3.9%増。米加墨9社合計の当該週の輸送量は72万1,559ユニット・6.7%増だった。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "Hapag-Lloyd nearly doubles Q3 EBITDA and raises 2026 outlook",
+    "title_ja": "Hapag-Lloyd、第3四半期EBITDA倍増で通期見通しを上方修正",
+    "source": "Container News",
+    "url": "https://container-news.com/hapag-lloyd-nearly-doubles-q3-ebitda-and-raises-2026-outlook/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "第3四半期のグループEBITDAは17.3億ドルで前年同期の8.66億ドルからほぼ倍増し、EBITは10.9億ドル、純利益は9.99億ドルとなった。",
+      "売上高は68.8億ドル（前年同期54.6億ドル）、平均運賃は前年比約28%上昇して1TEU当たり1,808ドルに達した。",
+      "運賃上昇と高い船腹稼働率が利益を押し上げ通期見通しを引き上げた一方、地政学的緊張と悪天候による運航コスト増が続いており、荷動きの強さはコンテナ機材需給の下支え要因となる。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "HMM operating profit surges 370% in third quarter",
+    "title_ja": "HMM、第3四半期の営業利益が370%増",
+    "source": "Container News",
+    "url": "https://container-news.com/hmm-operating-profit-surges-370-in-third-quarter/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "韓国のHMMは第3四半期の営業利益が1兆4,000億ウォンとなり、前年同期の2,970億ウォンから370%増加した。",
+      "売上高は4兆1,300億ウォンで52%増、純利益は1兆5,400億ウォンで405%増、営業利益率は約34%に達した。",
+      "前四半期比でも売上高21%増・営業利益294%増と改善しており、同社はコスト最適化と船隊運航の効率化を要因に挙げている。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Spanish box terminals face cargo backlog after general strike",
+    "title_ja": "スペイン全国ストでコンテナ荷役停止、滞貨が発生",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "11月11日のスペイン全国ストライキでコンテナターミナルが相次ぎ閉鎖し、本船が沖待ちとなった状態からの復旧作業が始まった。",
+      "Algeciras ではコンテナ荷役が完全に停止し、Valencia は積み揚げを中断、Barcelona も港湾労働者が関わる作業が止まった（主要な海上サービスは継続）。",
+      "滞貨の規模はなお不明で、影響は「ゼロ」とするフォワーダーもある一方、AISデータでは1,072TEU型の Contship Zen が沖待ちを続けていた。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Infranity raises €1.5bn for fourth infra debt fund",
+    "title_ja": "Infranity、第4号インフラ債務戦略で15億ユーロを調達",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/12/infranity-raises-e1-5bn-for-fourth-infra-debt-fund/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "Generali Investments 傘下の Infranity が、インフラ債務戦略第4号を目標額どおり15億ユーロで最終クローズした。",
+      "金額には共同投資ビークルへのコミットメントを含み、前号は2023年にクローズしていた。",
+      "欧州のインフラ資産・企業への投融資を行い、エネルギー移行や脱炭素モビリティなどを対象に既に16件の投資を実行済みとしている。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "US container imports hit all-time high in October, Descartes reports",
@@ -133,6 +208,21 @@
       "KBRAはSCFとカナダ子会社が組成した本件の8クラスの債券に予備格付を付与しており、SCFは2026年6月末時点で設立以来約190億ドルを投融資してきたとしている。"
     ],
     "collected_at": "2026-11-12T06:25:07-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Ports could future-proof to beat box terminal congestion",
+    "title_ja": "主要港のヤード占有率が設計能力超え、滞留が常態化",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/ports-could-future-proof-to-beat-box-terminal-congestion/",
+    "published_at": "2026-11-11",
+    "summary_ja": [
+      "コンテナターミナルのヤード占有率が設計上の想定を大きく上回る状態が続き、サプライチェーン担当者が日々の稼働率確認を迫られている。",
+      "Kuehne+Nagel の集計では東京AOMのヤード密度が96%から113%に上昇し、横浜も100%超、釜山BNCTは全体で約95%に達した。",
+      "大規模な混雑が港湾・海運システムに波状的に波及する局面に入ったとされ、将来を見据えたターミナル能力の確保が課題として指摘されている。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
   },
   {
     "category": "container_leasing",
@@ -313,6 +403,21 @@
       "生産が高水準で続けば、新造価格や中古価格を通じてリース会社の機材調達環境にも影響しうる。"
     ],
     "collected_at": "2026-11-12T06:25:07-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Commerce Initiates Antidumping Duty and Countervailing Duty Investigations of Certain Railway Tank Cars and Subassemblies Thereof from Mexico",
+    "title_ja": "米商務省、メキシコ製タンク車のAD/CVD調査を開始",
+    "source": "U.S. Department of Commerce (ITA)",
+    "url": "https://www.trade.gov/ec-adcvd-case-announcements",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "米商務省は11月10日付で、メキシコ産の鉄道タンク車と組立部品に対する反ダンピング（AD）・補助金相殺（CVD）調査の開始を公表したとされる。",
+      "申立人は Union Tank Car 系の UTLX Manufacturing で、9月30日に提出した申立てではダンピングマージンを12.70〜32.58%と主張している。",
+      "ITCは開始通知の受領から25日以内に予備判定を行う日程で、商務省のCVD予備判定は12月24日が予定とされ、Greenbrier は関税賦課に反対する立場を示している。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -1078,6 +1183,21 @@
       "Drewryも2027年の契約運賃低下を予想し船腹供給の伸びを8.8%とより高く見るなど見方には幅があり、Xeneta自身も新たなサプライチェーン混乱が起きれば予想は覆るとしているが、運賃下落局面ではコンテナ機材の調達コストや中古価格にも下押し圧力がかかる。"
     ],
     "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB orders Union Pacific to make alleged rate hike threat video public",
+    "title_ja": "STB、UP CEO講演動画の公開命令を維持",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/stb-orders-union-pacific-to-make-rate-hike-threat-video-public",
+    "published_at": "2026-11-05",
+    "summary_ja": [
+      "STBは11月4日の決定でUnion Pacificの異議申立てを退け、Vena CEOの荷主向け講演録画の秘密指定を解除する判断を維持した。",
+      "録画は3月にヒューストンで開かれた Southwest Association of Rail Shippers 年次大会での講演で、公開を求めたのは対抗するCPKCだった。",
+      "合併に反対する荷主への運賃引き上げを示唆したとされる発言が審査への参加を抑制したと指摘され、STBは850億ドル規模の買収審査における意見聴取への影響に「重大な懸念」を示している。"
+    ],
+    "collected_at": "2026-11-12T13:21:39-08:00"
   },
   {
     "category": "rail_industry",
