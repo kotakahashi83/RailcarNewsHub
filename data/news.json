@@ -2,6 +2,81 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "CSX recovery from technology outage continues, executive says",
+    "title_ja": "CSX、10月のシステム障害からの完全復旧になお数週間",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/csx-recovery-from-technology-outage-continues-executive-says/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "Kevin Boone CFOは11月11日の投資家向け会議で、10月27日朝に始まったシステム障害からの完全復旧になお「数週間」を要するとの見通しを示した。",
+      "運行指令とPTCは影響を受けなかったが、乗務員呼出しや他鉄道とのインターチェンジデータ交換などが停止し、運行が大幅に制約された。",
+      "同CFOは原因がサイバー攻撃ではなくクラウドサービスに関連するもので、根本原因と修正策はすでに特定済みだと述べた。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "A softer outlook for container demand",
+    "title_ja": "2027年のコンテナ需給に減速観測、リース稼働率低下へ",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/11/a-softer-outlook-for-container-demand/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "Intermodal Europe 2026の講演でChristian Roeloffs氏が、2027年のコンテナ市場は2026年より厳しくなるとの見通しを示した。",
+      "リース会社の稼働率は今年の平均88%から低下し、特に3〜9月に下押しされる見込みで、中古コンテナ価格も軟化、新造価格はほぼ横ばいとされる。",
+      "Drewryはコンテナの退役プールが2027年に247万TEU、2028年に369万TEUへ拡大し、新造による置き換えは減少すると見込んでいる。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Blanked sailings on the rise, with container spot rates on a gentle decline",
+    "title_ja": "コンテナスポット運賃が小幅続落、欠便も増加",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/blanked-sailings-on-the-rise-with-container-spot-rates-on-a-gentle-decline/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "ピークシーズン後の需要減を受け、太平洋航路とアジア〜欧州航路のスポット運賃が週次で小幅な下落を続け、欠便（blank sailing）も増えている。",
+      "DrewryのWCIは上海〜ロッテルダムが前週比3%安の40フィート当たり3,504ドル、上海〜ジェノバは3週連続横ばいの4,168ドルとなった。",
+      "来週適用のFAKはアジア〜北欧州が4,500〜5,000ドル、アジア〜地中海が5,500〜6,600ドルで、アジア〜欧州では年間契約交渉が本格化している。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Los Angeles surpasses 1 million TEUs for second consecutive month",
+    "title_ja": "ロサンゼルス港、2カ月連続で月間100万TEU超",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-los-angeles-surpasses-1-million-teus-for-second-consecutive-month/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "ロサンゼルス港の2026年10月の取扱量は1,026,872TEUで、10月としての過去最高かつ同港史上2番目の月間実績となった。",
+      "9月の史上最高1,042,652TEUに続く2カ月連続の100万TEU超で、6〜10月の5カ月間では約500万TEUと過去最強のペースとなった。",
+      "Gene Seroka局長は消費支出や在庫積み増し、通商政策の変化に加え、他航路の混乱による貨物の流れの変化が高水準の背景にあると説明した。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Germany’s 2027 budget spares rail terminals, but locks in ‘painful’ track subsidy cuts",
+    "title_ja": "ドイツ2027年予算、線路使用料補助の削減を維持",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/13/germanys-2027-budget-spares-rail-terminals-but-locks-in-painful-track-subsidy-cuts/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "ドイツ連邦議会の予算委員会が11月13日未明に2027年連邦予算を可決し、月内に本会議での最終採決を控えている。",
+      "貨物鉄道向けの線路使用料補助は2026年の3億4,500万ユーロから2027年は2億ユーロへ減額される見通しで、貨物関連助成全体では2026年予算比12%減（Allianz pro Schiene集計）。",
+      "一方で道路・鉄道複合輸送向け助成は夏の政府案の7,330万ユーロではなく今年と同額の9,030万ユーロが維持された（業界要望は1億2,000万ユーロ以上）。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "Weekly U.S. rail traffic remains strong",
     "title_ja": "米鉄道輸送量、11月7日週は前年比6.6%増",
     "source": "Trains",
@@ -73,6 +148,36 @@
       "欧州のインフラ資産・企業への投融資を行い、エネルギー移行や脱炭素モビリティなどを対象に既に16件の投資を実行済みとしている。"
     ],
     "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BLET ends Wheeling & Lake Erie strike",
+    "title_ja": "BLET、Wheeling & Lake Erieでのストを即日収束",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/blet-ends-wheeling-lake-erie-strike",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "BLET（機関士・乗務員組合）は、11月11日正午に開始したWheeling & Lake Erie Railwayへのストライキが同日中に解決したと発表した。",
+      "同鉄道が契約上の保護を尊重し、組合所属の車掌の代わりに管理職を充てる運用を停止することに合意したとMark L. Wallace会長が説明した。",
+      "連邦控訴裁が管理職による車掌代替を「major dispute」と判断した先行判決が根拠となり、鉄道労働法下では異例のスト実施となった。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "MEPs push for €91bn CEF with priority for cross-border rail links",
+    "title_ja": "欧州議会委員会、CEFを910億ユーロ超に増額要求",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGE5S2hGaVBPaTB2TTBWVTV2V2p3OGE1aUppRnd3WnFrOGd1QUl4QV9mVk0zU1p0MTRKUGdEcG1Jb01lM2FPR2NFcV9SekdpX0NWd29EY3lfd1I5eWtzNE8zd0Rqc0FiSnVUNmJsWW9hTnhkSmhDRFFXRFp3a05tVVVWR3VJT2UxbS1nYm4wcmJQdEtRQXVQN01mQnFFaEtoVzVDdXJjaEkwck5UWUg3REQ0Q2pHX2ZE?oc=5",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "欧州議会の交通委員会と産業委員会が、2028〜2034年のConnecting Europe Facility（CEF）を910億ユーロ超とするよう求める立場をまとめた。",
+      "この水準は比較対象となる案を約100億ユーロ上回り、国境を越える鉄道路線の整備を優先事項として位置づけている。",
+      "鉄道業界団体はCEFの交通枠削減に一貫して反対しており、今回の委員会の立場は次期EU予算交渉のたたき台となる。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
   },
   {
     "category": "container_leasing",
@@ -223,6 +328,21 @@
       "大規模な混雑が港湾・海運システムに波状的に波及する局面に入ったとされ、将来を見据えたターミナル能力の確保が課題として指摘されている。"
     ],
     "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Societe Generale Assurances and Societe Generale Private Banking launch a private infrastructure fund available through life insurance policies",
+    "title_ja": "SGとPartners Group、個人向けインフラファンドを設定",
+    "source": "MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSTcwUDNWR3dFQU81LWM3VWhranlPM1JOVFpRdE03LW1aRkdiUDhuMUJ1MnIzZndid1dtZHFjMjRNNmFSR2h4Q0E2b1B5TUxTeGxmSy1YV2RnYmdFOUszSVIwTk96NC1XYmdmWlNVVy13OTVLQUlSTmx2Z0xnR25mMnh2cWFLTzdTdmZxczZMdTB5V0p4WXdic0RaX3NidjlqRENsZzk2cmdHZ21Rem1wdTN2YkhENW1reDhzX1pQUmVjOVFVNXZQZ3RWdFZ3bjFwdk1ibU1KOFJQVjlsd2hZR0RJa0M?oc=5",
+    "published_at": "2026-11-11",
+    "summary_ja": [
+      "Partners GroupとSociete Generale Assurances、Societe Generale Private Bankingが共同ファンド「Partners Group Infrastructures Privées」を立ち上げたと報じられた。",
+      "同ファンドはフランスでSGプライベートバンキングが販売し、SG Assurancesの生命保険契約内のユニットリンク型オプションとして提供される。",
+      "立ち上げ時点で地域・セクターの両面に分散した15件超のインフラ資産へのエクスポージャーを持ち、個人投資家の私募市場アクセス拡大を狙うとされる。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
   },
   {
     "category": "container_leasing",
@@ -418,6 +538,21 @@
       "ITCは開始通知の受領から25日以内に予備判定を行う日程で、商務省のCVD予備判定は12月24日が予定とされ、Greenbrier は関税賦課に反対する立場を示している。"
     ],
     "collected_at": "2026-11-12T13:21:39-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Touax to acquire composite boxes",
+    "title_ja": "Touax、Aelerの複合材コンテナを取得しリースバック",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/container-industry/2026/11/touax-to-acquire-composite-boxes/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "Touax Global Container Solutionsが、Aelerの複合材コンテナ「Unit One」の初期フリートを取得・保有し、Aelerへ長期リースすることで合意した。",
+      "Aeler共同創業者のNaïk Londono氏によれば初期フリートは2,500基超の新造ユニットで、生産は2026年10月に南アフリカの工場で始まった。",
+      "両社はTouaxが自社保有分と第三者保有分の双方のUnit Oneを管理する枠組みも整備中で、将来的な運用フリート拡大の余地があるとされる。"
+    ],
+    "collected_at": "2026-11-13T13:23:04-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4843,260 +4978,5 @@
       "乗務員の操作は事故に寄与していないと結論付けられ、NSは事故後に全系統の監査、スプリング分岐器の検査訓練の整備、信号保守員への圧力試験工具の配備を実施した。"
     ],
     "collected_at": "2026-10-22T13:24:55-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Intermodal volume sets record in third quarter",
-    "title_ja": "AAR、第3四半期のインターモーダル輸送量が過去最高",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/intermodal-volume-sets-record-in-third-quarter/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "AARはRail Industry Overviewで、8月・9月および第3四半期のインターモーダル輸送量がいずれも過去最高を記録したと発表した。",
-      "9月は20の商品群のうち17が前年を上回り、2番目に大きい品目である化学品は9月の最高記録を更新し通年でも最高を更新する見込み。",
-      "ディーゼル価格の高騰とトラック輸送能力の逼迫が貨物を鉄道にシフトさせ、総carloadsは9カ月連続で前年超、石炭を除くと経済成長の2倍のペースで伸びている。"
-    ],
-    "collected_at": "2026-10-14T06:26:36-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Full Suez return for container carriers expected by Q1 2027",
-    "title_ja": "スエズ運河のコンテナ船通航、危機前の5割超に回復",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/full-suez-return-for-container-carriers-expected-by-q1-2027",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "BIMCOは紅海・スエズ運河経由のコンテナ船通航が対イラン戦争前の水準の50%超まで戻ったと指摘した。",
-      "Clarksons Researchによると10月の最初の2週間の週平均通航船腹量は75.3万TEUで、2023年同期の145.7万TEUと比べ約半分の水準。",
-      "ONEとHMMが次に復帰する見通しで、2027年第1四半期には完全復帰が見込まれており、航海距離の短縮は実質船腹とコンテナ機材の回転に影響する。"
-    ],
-    "collected_at": "2026-10-14T06:26:36-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "NSR box shipping test 'a success', but S Korean carriers are sceptical",
-    "title_ja": "韓国、北極海航路のコンテナ試験航海を「成功」と評価",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/nsr-box-shipping-test-a-success-but-s-korean-carriers-are-sceptical/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "Panstar Lineの2,758TEU型船Panstar Acroが、北極海航路でのFelixstowe・Rotterdam往復40日間の試験航海を終え釜山に帰港した。",
-      "積載は837TEUで目標を下回ったが、欧州までの所要は20日間で、スエズ経由の約1カ月より短縮された。",
-      "李在明大統領は2030年までの釜山〜欧州定期サービス開設を掲げるが、韓国船社はコストと貨物量の面で慎重な姿勢を崩していない。"
-    ],
-    "collected_at": "2026-10-14T06:26:36-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "U.S. weekly rail traffic shows jump over 2025 levels",
-    "title_ja": "米週間鉄道輸送量、10月10日週は前年比7.2%増",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/us-weekly-rail-traffic-shows-jump-over-2025-levels/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "AARの集計で10月10日に終わる週の米国鉄道輸送量は53万4,256両・個となり、前年同週を7.2%上回った。",
-      "内訳はcarloadsが23万2,004両で3.4%増、インターモーダルが30万2,252個で10.4%増と二桁の伸びとなった。",
-      "年初来40週の累計は2,052万2,546両・個で前年同期比3.6%増、北米9鉄道ベースの週間合計も72万5,403両・個（5.9%増）と堅調が続く。"
-    ],
-    "collected_at": "2026-10-14T13:24:46-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF expands security efforts for intermodal shipments",
-    "title_ja": "BNSF、貨物保安企業Overhaulとの提携を拡大",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/bnsf-expands-security-efforts-for-intermodal-shipments/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "BNSFが貨物保安企業Overhaulとの提携を拡大し、インターモーダル貨物のサプライチェーン保安を強化すると発表した。",
-      "約10年の協業を土台に、BNSFの保安技術と鉄道警察をOverhaulのリスク情報チームと接続する内容で、Overhaulは監視対象貨物で99.9%の保護率を主張している。",
-      "BNSF保安責任者は「予防優先」の体制を進め、陸上輸送で最も安全なモードとしての地位を保つ狙いだと説明した。"
-    ],
-    "collected_at": "2026-10-14T13:24:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "GFS ship sinks after missile attack, second ship sustains damage",
-    "title_ja": "ホルムズ海峡でコンテナ船被弾・沈没、2隻目も損傷",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/gfs-ship-sinks-after-missile-attack-second-ship-sustains-damage/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "Global Feeder Shipping（GFS）のコンテナ船2隻がホルムズ海峡で24時間以内に相次いで被弾し、2,824TEU型「GFS Pride」は火災の後に沈没した。",
-      "シンガポール海事港湾庁によると乗組員21人は全員避難して負傷者はなく、4,350TEU型「GFS Giselle」は船体損傷を受けながら自力で安全な錨地へ退避した。",
-      "原因はロイターが飛翔体による攻撃と伝える一方、イラン革命防衛隊は機雷接触と主張しており、湾岸向けフィーダー輸送と機材の回送計画に影響が及ぶ可能性がある。"
-    ],
-    "collected_at": "2026-10-14T13:24:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "PhilaPort embarks on US$837m expansion, sets sights on doubling container capacity",
-    "title_ja": "PhilaPort、8.4億ドル投資でコンテナ能力倍増へ",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/philaport-embarks-on-us837m-expansion-sets-sights-on-doubling-container-capacity/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "フィラデルフィア港（PhilaPort）が総額8億3,700万ドルの拡張計画に着手し、コンテナ取扱能力を122%引き上げる方針を示した。",
-      "州による3億7,150万ドルの資本投資を呼び水に連邦補助金と民間資金で約4億6,600万ドルを追加調達し、Southport Marine Terminalに50年ぶりとなる全長2,000フィートの新バースを建設する。",
-      "152エーカーのMustin Yard取得や浚渫、荷役機器の導入も含み、6,000人超の雇用創出と自動車取扱能力18%増を見込む（2025年の取扱実績は過去最高の88万9,268TEU）。"
-    ],
-    "collected_at": "2026-10-14T13:24:46-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Medway repairs wagon workshop before building its own in Entroncamento",
-    "title_ja": "MSC系Medway、貨車整備工場を修復し自前工場も計画",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/business/2026/10/14/medway-repairs-wagon-workshop-before-building-its-own-in-entroncamento/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "MSC傘下の鉄道貨物事業者Medwayが、年初の暴風雨で損傷したEntroncamentoの貨車整備工場を修復すると明らかにした。",
-      "同社は同じ敷地に自前の新整備拠点を建設する計画で、4,500万ユーロの投資について当局の認可を待っている段階にある。",
-      "これまで国有整備会社Emefの工場を賃借してきたが、自社整備体制への移行によりイベリア半島での貨車の保守能力確保を図る。"
-    ],
-    "collected_at": "2026-10-14T13:24:46-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Benefit Street bulks up ABF capabilities with Encina deal",
-    "title_ja": "Benefit Street、Encinaの資産担保金融事業を取得",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/14/benefit-street-bulks-up-abf-capabilities-with-encina-deal/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "Franklin Templeton傘下のBenefit Street Partners（BSP）が、プライベートクレジット運用会社Encina Lender Financeとの取引で資産担保金融（ABF）プラットフォームを拡充する。",
-      "Franklin TempletonとBSP関連ファンドが出資する新ファンドが、Encinaの組成した約4億8,000万ドル（3億6,430万ポンド）相当のコミットメントをシードポートフォリオとして取得した。",
-      "Encinaの投資チーム14人がBSPへ移り同戦略の運用・組成を継続する体制で、Franklin Templetonはオルタナ資産3,000億ドル超の運用規模を生かすとしている。"
-    ],
-    "collected_at": "2026-10-14T13:24:46-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Problems with spring switch led to NS derailment and collision in Illinois: NTSB",
-    "title_ja": "NTSB、NSの脱線事故は部門間の連携手順不備が原因と認定",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/problems-with-spring-switch-led-to-ns-derailment-and-collision-in-illinois-ntsb/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "NTSB は、2025年7月18日にイリノイ州Browns近郊で発生した Norfolk Southern の脱線・衝突・危険品漏出事故について、軌道部門と信号部門の連携手順が不十分だったことが原因と認定した。",
-      "東行きマニフェスト列車の24両がスプリングポイント通過中に脱線して隣接側線に停車中の西行き列車に衝突し、危険品タンク車3両が破損して溶融硫黄とエタノールが漏出した。",
-      "現場はセントルイス～ケンタッキー州ルイビル間のほぼ中間にあたる NS Southern West Subdivision で、通過検査中だった停車列車側の機関士と訓練生の2名が負傷した。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "FMC proposes $200,000 voyage fee on Spanish ships",
-    "title_ja": "FMC、スペイン船籍船に1航海20万ドルの課金を提案",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/regulations/fmc-proposes-200-000-voyage-fee-on-spanish-ships",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "米連邦海事委員会（FMC）は10月14日、米国港湾に寄港するスペイン船籍船すべてに1航海あたり20万ドルの手数料を課す方針を発表した。",
-      "2024年12月に開始した調査で、スペインが米海事保安プログラム（MSP）対象の米国船籍船の入港を拒否していると認定したことが根拠となる。",
-      "FMC はこれを米国の外航貿易における「不利な海運状況」と位置付け、国際海上サプライチェーンの効率と信頼性に重大な影響を及ぼすとしている。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "New Holland takes majority stake in Foundation Credit",
-    "title_ja": "New Holland、インフラ債務運用の Foundation Credit を買収",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/14/new-holland-takes-majority-stake-in-foundation-credit/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "ニューヨークのマルチストラテジー運用会社 New Holland Capital（NHC）が、米地方債信用とインフラ債務に特化する Foundation Credit の過半数株式を取得した。",
-      "NHC は買収と併せて Foundation の地方債信用・インフラ債務戦略そのものにも出資し、10年以上に及ぶ両社の関係を土台とする。",
-      "NHC は機関投資家向け絶対収益戦略で83億ドル超を運用しており、戦略パートナーの AGF Capital Partners と共同で Foundation の販売体制と商品開発を支援する。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Georgia Ports secures permit for Savannah Container Terminal",
-    "title_ja": "Georgia Ports、第3コンテナ埠頭の工兵隊許可を取得",
-    "source": "Progressive Railroading",
-    "url": "https://www.progressiverailroading.com/intermodal/news/Georgia-Ports-secures-permit-for-Savannah-Container-Terminal--77949",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "Georgia Ports Authority は、Savannah の Hutchinson Island に計画する新コンテナターミナルについて米陸軍工兵隊（USACE）の許可取得を10月14日の State of the Port で発表した。",
-      "約350エーカー・年間350万TEU 規模で投資額は約23億ドル、着工は2028年1月、開業は2030年代半ばの見込みで、許可自体は9月に下りたとの報道もある。",
-      "GPA は現行約775万TEU の処理能力を今後10年で1,200万TEU へ引き上げる計画で、同ターミナルをその中核と位置づけている。"
-    ],
-    "collected_at": "2026-10-15T13:26:35-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Suez Canal container ship transits exceed half of pre-crisis levels",
-    "title_ja": "スエズ経由のコンテナ船腹、危機前の5割超に回復",
-    "source": "Container News",
-    "url": "https://container-news.com/suez-canal-container-ship-transits-exceed-half-of-pre-crisis-levels/",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "BIMCO が Clarksons Research のデータとして、10月上旬2週間のスエズ運河経由コンテナ船腹量が週平均約75万3,000TEU に達したと指摘した。",
-      "これは2023年同期の146万TEU に対し約5割にあたり、紅海混乱の発生以降で初めて危機前の半分を超えた。",
-      "スエズ運河と喜望峰を合わせた船腹に占めるスエズ経由の比率も10月上旬は36%と、2024年〜2026年半ばの平均8%から急上昇した（危機前は約80%）。"
-    ],
-    "collected_at": "2026-10-18T06:22:26-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Update: Singapore confirms container ship sunk in Hormuz amid fresh Iran attacks",
-    "title_ja": "ホルムズ海峡でシンガポール籍コンテナ船が沈没、攻撃相次ぐ",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/security/iran-claims-mine-sank-container-ship-amid-fresh-hormuz-attacks",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "シンガポール海事港湾庁（MPA）は、10月13日に被弾して損傷・火災を起こしたシンガポール籍コンテナ船GFS Prideが沈没したと確認し、乗組員21人は全員退避した。",
-      "UKMTOは同日、タンカー1隻とコンテナ船3隻（GFS Pride、GFS Giselle、Al Saadiyat）への攻撃に関する4件の警告を新たに発出し、10月の警告は計24件・勧告3件に達した。",
-      "GFS Giselleは入航中に被弾して船体に損傷を受けたが乗組員22人は無事で安全な錨地に到着しており、海峡を通る機材・船腹の運航リスクが一段と高まっている。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "PKP LHS announces plans to buy 12 broad-gauge locomotives",
-    "title_ja": "PKP LHS、広軌ディーゼル機関車12両の調達計画",
-    "source": "RailFreight.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzFTUERiN0N4b3I2aXRkM2VCUUZNZnZnMVJ1WVFMQWl2a3Z2M3VYQXQtOTdlT25QY0pYc21XX1NadkZONk4xVDk4dHFpS3RsTkc4SnFEcF9YTWZCUFdtWjJHUi0xRDN1ZmxCRGs4Q0FpelZrNTVVYU1VR0FLTzdPUUVEclRvSXFmcW5ZM3BOSVF3MENyNjVTWTVteTlxSTVNMncwX2wwZjV3WlVSVGc?oc=5",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "ポーランドの広軌貨物鉄道 PKP LHS が、広軌向けディーゼル機関車12両を新規購入する計画を明らかにした。",
-      "欧州委員会は9月17日の決定2026/2059で、当初は車載・地上の ETCS を備えずに同12両を運行できる免除を同社の広軌線区に認め、代替の安全措置と将来の ETCS 導入時の通知を条件としている。",
-      "報道によれば新型機は出力2,800〜3,000kW・Co-Co 軸配置で Stage V 排ガス基準に適合する仕様とされ、欧州でも数少ない広軌機関車の更新需要を示す案件となる。"
-    ],
-    "collected_at": "2026-10-19T13:24:03-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "In-depth: Alpha Trains achieves maximum 100-point score in 2026 GRESB Infrastructure Assessment for sustainability performance",
-    "title_ja": "Alpha Trains、GRESBインフラ評価で満点・10年連続5つ星",
-    "source": "Global Railway Review",
-    "url": "https://www.globalrailwayreview.com/in-depth-alpha-trains-achieves-maximum-100-point-score-in-2026-gresb-infrastructure-assessment-for-sustainability-performance/2136728.article",
-    "published_at": "2026-10-14",
-    "summary_ja": [
-      "欧州の車両リース会社 Alpha Trains が、2026年の GRESB インフラ評価で満点の100点を獲得し、10年連続で最高の5つ星評価を得たと報じられている。",
-      "前年2025年の評価は99点（9年連続5つ星）で、今回1点を積み上げて満点に到達した。",
-      "カーボンフットプリント算定手法の再構築と GRI 基準に沿った非財務報告の整備が寄与し、特に同社の排出量で最大の比重を占める Scope 3 カテゴリ13（下流のリース資産）の算定方法を見直した点が評価につながったとされる。"
-    ],
-    "collected_at": "2026-11-01T13:25:22-08:00"
   }
 ]
