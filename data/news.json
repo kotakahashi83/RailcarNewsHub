@@ -422,6 +422,21 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Maersk container ship topples STS crane at Yantian",
+    "title_ja": "Maerskの大型船、Yantianで岸壁クレーンを倒壊",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/11/maersk-container-ship-topples-sts-crane-at-yantian/",
+    "published_at": "2026-11-11",
+    "summary_ja": [
+      "11月9日正午ごろ、15,516TEU型コンテナ船「Maersk Cincinnati」が深圳・塩田（Yantian）の岸壁で接岸作業中にSTSクレーン1基を倒壊させた。",
+      "深圳市塩田区応急管理局は11月10日に事故を調査中だと確認し、当日朝には風力8以上の突風を伴うモンスーン警報が出ていたため接岸時の突風が原因として指摘されている。",
+      "世界有数のコンテナ取扱港でクレーン1基を失ったことで同ターミナルの処理能力と2026年の稼働目標に圧力がかかるとみられ、同港では2024年9月にも同種の事故が起きている。"
+    ],
+    "collected_at": "2026-11-14T13:22:52-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Suez return could limit November freight rate increases, Sogese warns",
     "title_ja": "Sogese、スエズ復帰で11月の運賃値上げは限定的と警告",
     "source": "Container News",
@@ -630,6 +645,21 @@
     "collected_at": "2026-11-13T13:23:04-08:00"
   },
   {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Alaska Permanent eyes shift to ‘lower risk’ infra after slower deployment year",
+    "title_ja": "Alaska Permanent、低リスクのインフラ投資へ軸足移行",
+    "source": "Infrastructure Investor",
+    "url": "https://www.infrastructureinvestor.com/alaska-permanent-eyes-shift-to-lower-risk-infra-after-slower-deployment-year/",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "運用資産880億ドルのAlaska Permanent Fundは、投資ペースが鈍化した1年を経て、より低リスクのインフラ資産へ軸足を移す方針を示した。",
+      "インフラとプライベートクレジットを合わせた「private income」の目標配分は10%から9%へ引き下げられる。",
+      "大型機関投資家が実物資産の配分を絞る動きは、インフラファンドやインフラデットの募集環境にとって逆風となる可能性がある。"
+    ],
+    "collected_at": "2026-11-14T13:22:52-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "FreightCar America, Inc. Reports Third Quarter 2026 Results",
@@ -778,6 +808,21 @@
       "リム内部の疲労欠陥を検出する検査システムを使う事業者では車輪破損による脱線が大幅に少なく、冬季に向けたフリート検査の優先度を示す内容となっている。"
     ],
     "collected_at": "2026-11-11T06:26:41-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "earnings",
+    "title": "BNSF Q3 earnings climb 19.3% as rail freight volumes rise",
+    "title_ja": "BNSF、第3四半期純利益19.3%増の17.3億ドル",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/bnsf-q3-earnings-climb-19-3-as-rail-freight-volumes-rise",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "親会社Berkshire Hathawayの開示によると、BNSFの2026年第3四半期の純利益は前年同期の14.5億ドルから19.3%増の17.3億ドルとなった。",
+      "鉄道事業の営業収益は14.7%増の68.7億ドル、車扱・インターモーダルの輸送量は3.9%増で、鉄道営業利益は21.5億ドルから24.8億ドルに拡大した。",
+      "1〜9月累計の純利益も41.3億ドルから13%増の46.6億ドルとなり、輸送量増と運行効率の改善が燃料費の上昇を上回ったと説明されている。"
+    ],
+    "collected_at": "2026-11-14T13:22:52-08:00"
   },
   {
     "category": "rail_industry",
