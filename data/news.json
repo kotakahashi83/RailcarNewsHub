@@ -77,6 +77,51 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "Ag groups weigh in on merger",
+    "title_ja": "農業2団体、UP-NS合併への反対をSTBに提出",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/ag-groups-weigh-in-on-merger/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "イリノイ農業連盟（IFB）を含む農業2団体が、競争低下・コスト上昇・サービス悪化の懸念を理由にUP-NS合併への反対意見をSTBに提出した。",
+      "11月13日付の書簡でIFBのPhilip Nelson会長は、多くの農業荷主が単一鉄道にしか直接接続しておらず、他地域の競争が運賃と輸送品質の歯止めになっていると指摘した。",
+      "IFBは申請が主張する効率化と公共利益が競争・サービス・農産品サプライチェーンへのリスクを上回ることを立証できていないとし、認可する場合でも強制力ある条件付与を求めている。"
+    ],
+    "collected_at": "2026-11-14T06:25:22-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Merger roundup: Schneider throws support behind UP-NS deal",
+    "title_ja": "Schneider、UP-NS合併支持の書簡をSTBに提出",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/merger-roundup-schneider-throws-support-behind-up-ns-deal/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "大手トラック・インターモーダル事業者のSchneider Nationalが、UP-NS合併を支持する立場をSTBに書簡で表明した。",
+      "Jim Filter CEO名の11月11日付書簡はSTBのサイトで公開され、東西直通鉄道がサービスを改善しトラックに対する鉄道の競争力を高めると主張している。",
+      "同社はハイウェイと鉄道の双方を日常的に使う立場から、合併は単なる2社の統合ではなく全国的な貨物輸送網の強化だと位置づけている。"
+    ],
+    "collected_at": "2026-11-14T06:25:22-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Down 2% Last Week",
+    "title_ja": "Drewry WCI、2%下落し40フィート4,305ドル",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-2-last-week-8/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "11月12日付のDrewry World Container Index（WCI）は前週比2%下落し、40フィート当たり4,305ドルとなった。",
+      "下落は太平洋航路とアジア-欧州/地中海航路の運賃低下が主導したとされる。",
+      "前週の1%下落に続く動きで、ピークシーズン後の需要減速を背景に総合指数の小幅安が続いている。"
+    ],
+    "collected_at": "2026-11-14T06:25:22-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "Weekly U.S. rail traffic remains strong",
     "title_ja": "米鉄道輸送量、11月7日週は前年比6.6%増",
     "source": "Trains",
@@ -178,6 +223,36 @@
       "鉄道業界団体はCEFの交通枠削減に一貫して反対しており、今回の委員会の立場は次期EU予算交渉のたたき台となる。"
     ],
     "collected_at": "2026-11-13T13:23:04-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Reefer box production stays strong",
+    "title_ja": "2026年のリーファー生産、前年割れでも高水準の発注続く",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/refrigeration/2026/11/reefer-box-production-stays-strong/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "2026年のリーファーコンテナ生産量は2025年を下回る見込みだが、発注自体は引き続き堅調な水準にあると報じられている。",
+      "老朽リーファーの更新需要、生鮮貨物の荷動き、競争的な新造価格が発注を支える要因として挙げられている。",
+      "メーカー別ではFUWA Guangdongの2026年リーファー生産が前年比42%増の44,272TEUに達したとされる。"
+    ],
+    "collected_at": "2026-11-14T06:25:22-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "'What will actually change this time?' Rail freight questions new Dutch-German rail pact",
+    "title_ja": "オランダ・ドイツが鉄道協力宣言、貨物業界は実効性を疑問視",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/12/what-will-actually-change-this-time-rail-freight-questions-new-dutch-german-rail-pact/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "オランダとドイツが、貨物輸送と軍事輸送（military mobility）を含む鉄道分野での協力強化を掲げた共同宣言に署名した。",
+      "オランダの鉄道貨物業界は宣言を歓迎しつつ、過去の合意と何が変わるのかが見えないとして実効性に疑問を示し、未解決課題のリストを提示している。",
+      "実務面では独Oberhausen-Emmerich間の第3線路工事に伴い、ロッテルダムとドイツを結ぶBetuwe線が11月9〜16日に閉鎖された。"
+    ],
+    "collected_at": "2026-11-14T06:25:22-08:00"
   },
   {
     "category": "container_leasing",
@@ -1048,6 +1123,21 @@
       "AARは史上1位・3位・5位のインターモーダル週がいずれも10月に集中したとし、年初来4.7%増を踏まえ2026年は通年でも過去最高になると見込んでいる（軽油価格の高騰とトラック輸送能力の逼迫が背景）。"
     ],
     "collected_at": "2026-11-09T13:21:39-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Using Eddy Current to Improve Bearing Reconditioning",
+    "title_ja": "MxV Rail、貨車軸受の再生検査に渦流探傷を評価",
+    "source": "Railway Age",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUlrRnB4OHhnM3BDVXR6N1Mzbzh6bW1QdmNWTTY5QTN5UXFrTWhidWhKOGJ3TkVMUDVLdVl1bW5Mb2xFb0lpV2kwRmxod1YtaFhROXZPRVMwTEdWSVUtcVZRODdNdkVCcU9adHdWMVpaTHZ2N3NhMVA1OXJWR0NYZHJVRzQzRi1qQ3ktRG1aMXVpRExNeEE?oc=5",
+    "published_at": "2026-11-06",
+    "summary_ja": [
+      "MxV Railが、貨車軸受（ベアリングカップ）の再生時検査に渦流探傷アレイを用いる多年次研究のフェーズ4を完了したと報じられた。",
+      "現行の軸受再生は目視検査とAAR規則で認められた補修に依存しており、表面下の欠陥を見落とす可能性が課題とされている。",
+      "同研究の以前の段階では渦流探傷が目視では捉えられない内部欠陥を検出した一方、欠陥判定のうち43%は試験で剥離に至らない誤検知だったと報告されている。"
+    ],
+    "collected_at": "2026-11-14T06:25:22-08:00"
   },
   {
     "category": "container_leasing",
@@ -4708,275 +4798,5 @@
       "DM&Eでは協約期間を通じ機関士の時間賃率が複利で41.42%、車掌・制動手が32.63%上昇する見込みで、CPKCは米国側の主要労務コストを長期で固定した。"
     ],
     "collected_at": "2026-10-26T13:24:44-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "No post-peak easing at US container gateways, despite drayage woes",
-    "title_ja": "米港湾でドレージ能力が逼迫、ピーク明けも緩まず",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "米主要コンテナ港でドレージ（港湾トラック輸送）の能力と運賃の逼迫が続き、ピークシーズン明けでも緩和の兆しが見えていない。",
-      "Descartes によると9月の米国のコンテナ輸入は前年同月比10.3%増で、記録的な取扱量が続くヒューストン港を中心に輸送力が圧迫されている。",
-      "8月中旬以降はドライバーが繁忙期の長距離輸送へ流出したことが最大の要因とされ、港湾と内陸鉄道ランプの双方でボトルネックが懸念されている。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Regional container operators adjust to Middle East conflict",
-    "title_ja": "中東情勢で大手フィーダー3社が配船体制を見直し",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/regional-container-operators-adjust-to-middle-east-conflict",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "世界最大手のフィーダー船社3社が中東情勢を受けてサービスを見直し、Global Feeder Shipping（GFS）が輸送力を拡大する一方、X-Press Feeders と DP World は展開を縮小している。",
-      "GFS は過去1年で稼働船腹を約31%拡大したが、AD Ports Group が81%を保有する同社船2隻がホルムズ海峡付近で被弾し、4,350TEU型 GFS Giselle が軽微な損傷、2,824TEU型 GFS Pride は沈没した。",
-      "Alphaliner の9月21日時点の調査では、X-Press Feeders は配船能力ベースで世界最大のフィーダー船社の座を保ちつつ、船隊規模は前年比7.1%縮小している。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Captrain Germany is leasing two Traxx locomotives for international transport operations",
-    "title_ja": "Railpool、Captrain Deutschland に Traxx 2両を追加リース",
-    "source": "Railway PRO",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEc5Z1JlalhnaF9rMHh6Z2xHSmN2cy1BM2daNUdTaWlrWEVEb3hhYnlWMVVOZ2VmWVVPNGlyTlJzQi10cTUxbGlSQk54Rlg0WVc3TjhsWmJlNDJ2LWJGU0VHZTZSWnVzekpCZmtyQjZvTUJzYVBGVHJ2OEJveTNWMVM2dnNfWG8?oc=5",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "機関車リース会社 Railpool が、Captrain Deutschland 傘下の CargoWest 向けに Alstom 製 Traxx Universal（188形）2両を貸し出す協業を継続した。",
-      "2両はドイツ～フランス間の越境輸送に投入され、うち1両は非電化区間に対応するラストマイル用ディーゼルエンジンを搭載している。",
-      "リース期間中の保守・整備は Railpool が担い、独仏両国にある専門提携工場網を通じてサービスを提供する体制をとる。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Kartesia deploys €88m across aviation and maritime deals",
-    "title_ja": "Kartesia、航空・海事・物流の3案件に8,800万ユーロを投融資",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/15/kartesia-deploys-e88m-across-aviation-and-maritime-deals/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "Kartesia Asset Finance（KAF）が3号ファンド KAF III から、欧州と米国の航空・海事・物流分野の3案件に合計8,800万ユーロを投じた。",
-      "内訳はスペインの救難ヘリ3機のリファイナンス1,700万ユーロ、セミトレーラーや冷凍コンテナを含むスペインの物流資産ポートフォリオ向け3,600万ユーロ、米国の洋上風力支援特殊船団のリファイナンス3,500万ユーロ。",
-      "KAF III は欧州投資基金（EIF）からの5,000万ユーロを含む3億6,600万ユーロでクローズしており、同社は数カ月で3件を実行した点を案件パイプラインの厚みの証左と説明している。"
-    ],
-    "collected_at": "2026-10-15T06:26:40-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Low Rhine water level driving barge cargo to capacity-strained road and rail",
-    "title_ja": "ライン川減水でバージ貨物が鉄道・道路に転移",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/low-rhine-water-level-driving-barge-cargo-to-capacity-strained-road-and-rail/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "季節外れのライン川低水位でコンテナバージの運航が制限され、Antwerp と Rotterdam のターミナルへの圧力が高まっている。",
-      "Duisburg-Ruhrort 付近のバージは通常の約3分の2の積載に留まり、Kaub 水位計より上流では一部サービスが停止、バージ割増料金もここ数日で急騰した。",
-      "貨物は鉄道とトラックに振り替わっているが代替輸送力は限られると指摘され（SeasC4U の Gunther Ginckels 氏）、内陸でのコンテナ滞留や機材回転の悪化が懸念される。"
-    ],
-    "collected_at": "2026-10-15T13:26:35-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Liberty Mutual backs Elda River with $500m credit tie up",
-    "title_ja": "Liberty Mutual、Elda River と5億ドルのクレジット提携",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/15/liberty-mutual-backs-elda-river-with-500m-credit-tie-up/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "Liberty Mutual Investments（LMI）と Elda River Capital Management が提携し、クレジット投資に5億ドル（3億7,720万ポンド）を投じる。",
-      "対象はエネルギー・インフラ、電力・再生可能エネルギー、省エネといった Elda River の中核分野のミドルマーケット企業向けシニア・クレジットで、両社の既存関係を拡張するもの。",
-      "LMI は Orion とのインフラ債務マンデートも7.5億ドルに拡大しており、保険資本によるインフラ系プライベートクレジットへの資金流入が続いている。"
-    ],
-    "collected_at": "2026-10-15T13:26:35-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "FreightCar America: Form 8-K - Stockholder Agreement and Termination of Rights Agreement",
-    "title_ja": "FreightCar America、48.8%株主と合意し買収防衛策を解除",
-    "source": "SEC EDGAR (FreightCar America)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1320854/000121390026109859/ea0308698-8k_freightcar.htm",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "FreightCar Americaは10月14日付で、2026年8月5日に導入した株主権利プラン（ライツ・アグリーメント）を大株主との株主間契約の締結に伴い解除したと8-Kで開示した。",
-      "相手方は新株予約権分を含め発行済株式の約48.8%を保有するOC III関連ファンドで、同社は発動基準が20%未満の権利プランを今後導入しないことを約束した。",
-      "大株主が「Material Holder」となる買い手へ株式を譲渡する際は事前に取締役会へ書面通知する条項も設けられ、支配株主下のガバナンス枠組みが整理された。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Regulators place transfer of rail operation at ports of LA and Long Beach on hold",
-    "title_ja": "STB、LA・ロングビーチ港の構内鉄道運行移管を一時停止",
-    "source": "Trains",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVUdhcHoweXV2czhZNVJXSTVuaHpXLTJNNnNDQ2lNVjRUTUVDRUd5R0JZY1ZnNHpLZ1BKT0hreVg4eVFMaXN6a2FNdnE3bTctY0dHaWc0QkhOb3VWdjBkc2JGdXp3VFI4RVpFOVNRUG9sU3oxZFNMeFFIclhtN004YVBaVjBUbTh2d3U4eXBUdS1LZ1RUSWppRGQ2dXRGczNIdnkyS05QbHhNNTdUNHJpQ2k1R19fTk1kTjU5dF9XQ0trM3hiUVBhR1JTNzdhb2UwWU5RMTFwRVJKQQ?oc=5",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "米STBは、ロサンゼルス・ロングビーチ両港の構内鉄道運行をPacific Harbor Line（PHL）からAlameda Belt Line（ABL）へ移管する手続きを一時停止した。",
-      "PHLは10月7日、ABLが必要な契約を締結しておらず無中断の移行手順も示していないとして停止を申し立て、BNSFとUPの50:50合弁であるABLは10月13日に「理由がない」と反論していた。",
-      "ABLの計画では12月3日に構内保守・運行管理を、2027年1月1日に運行責任全体を引き継ぐ予定で、ロングビーチ港湾委員会の採決は10月26日に予定されている。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Italy 'lost' 55,000 freight trains since 2021",
-    "title_ja": "イタリアの貨物列車本数、2021年比で5.5万本減",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/business/2026/10/15/italy-lost-55000-freight-trains-since-2021/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "業界団体Fermerciの報告によると、イタリアで扱われた貨物列車は2021年の384,863本から2025年に329,388本へと14.4%減少した。",
-      "2025年単年でも前年比4.5%減で、ターミナル発着が7,000本超（6.3%減）、専用線が4,000本超（6.7%減）と落ち込みが大きい。",
-      "入換コストが競争力の阻害要因とされ、1月に承認された3,000万ユーロの港湾入換補助は実施令の発出を待つ状態にある。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Germany's 2028 track access charges plan a \"frightening\" prospect for rail freight",
-    "title_ja": "DB InfraGO、2028年の線路使用料で貨物平均14.3%の引き上げを申請",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/15/germanys-2028-track-access-charges-plan-a-frightening-prospect-for-rail-freight/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "DB InfraGOが2028年の線路使用料（TAC）案を提出し、貨物列車は平均14.3%の引き上げとなる見通しを示した。",
-      "重量列車や危険物輸送の区分では引き上げ幅がさらに大きくなるとされ、2027年分では標準貨物区分で12.6%の引き上げが申請されている。",
-      "10月1日にはケルンの裁判所が連邦ネットワーク庁によるDB InfraGOの収入上限（約82億ユーロ）規制を覆し、貨物向けTAC補助も3億4,500万ユーロから2億ユーロへ削減される。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "UK port volume growth not due to EU shippers avoiding ETS, says BPA",
-    "title_ja": "英港湾協会、EUの「ETS回避で貨物が英国へ流出」説に反論",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/uk-port-volume-growth-not-due-to-eu-shippers-avoiding-ets-says-bpa/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "英国港湾協会（BPA）は、EUがフェリクストウ・ロンドン・サウサンプトンを「近隣コンテナ積替港」に指定しようとする動きに反発した。",
-      "指定論の根拠は、スペインの国営港湾管理機関Puertos del Estadoが7月に公表したEU ETS Observatoryの分析で、アルヘシラスなどからのカーボンリーケージを問題視している。",
-      "BPAは英国の取扱量増加はETS回避ではなく新規能力の投入や航路再編・商業競争によるものだと主張し、指定が英国ターミナルへの巨額投資を不当に損ないかねないと警告した。"
-    ],
-    "collected_at": "2026-10-16T13:24:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Weeks Before Key STB Filings, BNSF Warns Rail Merger Threatens Ag Supply Chain",
-    "title_ja": "BNSF、UP-NS合併が農産物サプライチェーンを脅かすと警告",
-    "source": "AgWeb",
-    "url": "https://www.agweb.com/news/policy/weeks-key-stb-filings-bnsf-warns-rail-merger-threatens-ag-supply-chain",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "BNSF は11月18日の STB 向け意見提出期限を前に、UP と NS の合併が農業サプライチェーンを脅かすと警告した。",
-      "同社のZak Andersen氏は、すでに集約が進む業界でこれ以上市場シェアが1社に集中しても農業に利益はないと主張した。",
-      "UP 側は新ルート開設とトラックからのモーダルシフトを強調しており、BNSF・CPKC・CSX は同じ期限で対抗申請を行う見込み。"
-    ],
-    "collected_at": "2026-10-17T06:24:49-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "EQT 'fully focused' on launch of infrastructure secondaries business",
-    "title_ja": "EQT、インフラ・セカンダリー事業の立ち上げに注力",
-    "source": "PEI Secondaries Investor",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMTl6eF9mVjhZSEFDdHpMdmp2ZFZsUWtUbjN0REZPekpZZmRZZVhTWDFKNVFGUVVxZFppVmpGQzVhUmxHVEtZRVhUWmdrRFQxU0Zrc25tZ01QaDUxM0FuTDJkbUVNMVRDeERGbk1QZnE1dmtYVHlSa3JYR0hQc3o5a3lVTmRTdjJsZzNjTlVldzlSV3NtQnFqUXl4QWtXQngwVjFFZ2NIdVpJbms?oc=5",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "EQTは第3四半期決算の電話会議で、インフラ分野のセカンダリー事業の構築に全力を注いでいると説明した。",
-      "CFOは当面の優先課題を投資チームの採用と位置づけ、戦略の確立には時間を要すると述べた。",
-      "同事業は約45日前に完了した Coller Capital の買収を足場とするもので、Coller EQT は2027年初めに次のPEセカンダリー・ファンド CIP X の立ち上げを準備している。"
-    ],
-    "collected_at": "2026-10-17T13:24:15-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Class I Briefs: NS, UP, BNSF",
-    "title_ja": "UP、陸軍1個師団の装備を25本の列車で輸送",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/news/class-i-briefs-ns-up-bnsf/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "Union Pacific は3個旅団・約1万2,000人規模の陸軍1個師団の装備を25本の列車で運び、鉄道による最大級の軍事輸送の一つだったと発表した。",
-      "輸送はコロラド州 Fort Carson とカリフォルニア州 Yermo の間で、6月初旬から48時間間隔で13本を発送し、訓練後の8月に装備を返送した。",
-      "UP はこの実績を、計画中の Norfolk Southern との大陸横断統合が持つ輸送能力の裏付けとして位置づけている。"
-    ],
-    "collected_at": "2026-10-18T06:22:26-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "How Utah’s Inland Port Is Changing Where Containers Get Unloaded and Stored",
-    "title_ja": "ユタ州の内陸港、コンテナ開梱・蔵置の重心を内陸へ",
-    "source": "Container News",
-    "url": "https://container-news.com/how-utahs-inland-port-is-changing-where-containers-get-unloaded-and-stored/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "ソルトレイクシティ西部で Class I 鉄道2社の路線、州の貨物開発機関、逼迫する倉庫市場が重なり、海上コンテナの開梱と蔵置が内陸へ移りつつあると報じられた。",
-      "港湾からコンテナを鉄道で内陸ターミナルへ送れば埠頭とヤードの用地が空き、蔵置・荷役はより安価で混雑の少ない内陸の土地に移ると指摘している。",
-      "背景には Long Beach 港が Union Pacific のソルトレイクシティ・インターモーダル施設へ鉄道輸送する取り組みがあり、ユタ内陸港湾局は多目的トランスロード施設の設計段階にある。"
-    ],
-    "collected_at": "2026-10-18T13:24:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container ships can finally benefit from Elbe deepening near Hamburg",
-    "title_ja": "エルベ川増深、11月17日から喫水13.8mのコンテナ船が通航可能に",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/container-ships-can-finally-benefit-from-elbe-deepening-near-hamburg/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "ドイツ水路当局 GDWS の新ルールにより、2026年11月17日から Cuxhaven〜ハンブルク間を喫水13.8mまでのコンテナ船が潮位に関係なく航行できるようになる。",
-      "エルベ川の増深工事は2019年7月から2021年3月に実施され2022年初めに完了とされたが、2023年夏に航路内で弾薬や堆砂が見つかり利用が制限されていた。",
-      "ハンブルク市の経済当局は潮位依存の大型船向けに約束された水深に20cm足りず工事は未完了との見方を示しており、さらなる喫水拡大は今後の課題とみられる。"
-    ],
-    "collected_at": "2026-10-18T13:24:46-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 10, 2026",
-    "title_ja": "AAR週次輸送量、10月10日週は前年比7.2%増",
-    "source": "Railpace",
-    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-10-2026/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "AARは10月10日までの週の米国鉄道輸送量を53万4,256両・個と発表し、前年同週比7.2%増となった。",
-      "内訳は在来貨車が23万2,004両で3.4%増、インターモーダルが30万2,252個で10.4%増、10商品群のうち8群が増加した。",
-      "金属鉱石・金属が3,621両増の2万2,048両と伸びを主導した一方、石炭は1,156両減の5万7,526両と減少し、年初40週累計は合計2,052万2,546両・個となった。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "NTSB Determines Probable Cause of 2025 NS Derailment in Illinois",
-    "title_ja": "NTSB、NS脱線事故の原因を分岐器整備手順の不備と認定",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/safety/ntsb-determines-probable-cause-of-2025-ns-derailment-in-illinois/",
-    "published_at": "2026-10-15",
-    "summary_ja": [
-      "NTSBは2025年7月18日にイリノイ州Browns付近で起きたNorfolk Southernの脱線・停車列車との衝突について、最終報告書RIR-26-16で原因をNSの修繕・試験手順と保線部門・信号部門の連携の不備と認定した。",
-      "West Simpsonスプリング分岐器は7月14日と17日に補修されたが、補修後の協調検査と機械的な試験が行われず、トングレールの開きに輪軸が乗り上げた。損害額は920万ドル、乗務員2人が負傷した。",
-      "乗務員の操作は事故に寄与していないと結論付けられ、NSは事故後に全系統の監査、スプリング分岐器の検査訓練の整備、信号保守員への圧力試験工具の配備を実施した。"
-    ],
-    "collected_at": "2026-10-22T13:24:55-07:00"
   }
 ]
