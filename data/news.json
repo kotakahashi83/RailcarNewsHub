@@ -1,5 +1,65 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Hapag-Lloyd raises Far East–Europe freight rates from December",
+    "title_ja": "Hapag-Lloyd、極東〜欧州のFAK運賃を12月から引き上げ",
+    "source": "Container News",
+    "url": "https://container-news.com/hapag-lloyd-raises-far-east-europe-freight-rates-from-december/",
+    "published_at": "2026-11-15",
+    "summary_ja": [
+      "Hapag-Lloydは極東発欧州向けのFAK（Freight All Kinds）タリフを、2026年12月1日以降のタリフ日付の船積みから引き上げると発表した。",
+      "北欧州向けは20フィート3,000ドル・40フィート4,500ドル、西地中海/アドリア海向けは5,100ドル・6,400ドル、トルコ・エジプト・東地中海向けは5,300ドル・6,600ドルで、最高額はブルガリアとルーマニアの黒海向けで40フィート6,800ドル。",
+      "対象は20/40フィートのドライおよびハイキューブで、適用は追って通知があるまで継続するとしており、スポット運賃が小幅下落する局面での値戻しを狙う動きとみられる。"
+    ],
+    "collected_at": "2026-11-15T06:23:46-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Sea-Intelligence: Is 2026 TP Peak Season Driven by AI?",
+    "title_ja": "太平洋航路の繁忙期、AI需要起因ではないとの分析",
+    "source": "Container News",
+    "url": "https://container-news.com/sea-intelligence-is-2026-tp-peak-season-driven-by-ai/",
+    "published_at": "2026-11-15",
+    "summary_ja": [
+      "Sea-Intelligenceは米センサス局データの分析から、継続中の2026年の太平洋航路繁忙期はAI投資ブームではなく従来型の消費財が牽引していると結論づけた。",
+      "分析では2022年1月〜2026年9月のアジア発米国向けコンテナ輸入量（重量ベース）をHS8桁コードから7区分に再編し、うち2区分をデータセンター関連の可能性がある品目として切り出した。",
+      "高価格のAI半導体やIT機器はほぼ航空輸送で、データセンター建設に必要な資材でも海上輸送量に目立った影響は見られないとしており、コンテナ機材の需給は従来型消費財の荷動きに左右される構図が続く。"
+    ],
+    "collected_at": "2026-11-15T06:23:46-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Financing: the Luxembourg Rail Protocol can underwrite a rail resurgence",
+    "title_ja": "ルクセンブルク鉄道議定書、車両ファイナンスのコスト低下に寄与",
+    "source": "Railway Gazette",
+    "url": "https://www.railwaygazette.com/in-depth/2026/11/15/financing-the-luxembourg-rail-protocol-can-underwrite-a-rail-resurgence/",
+    "published_at": "2026-11-15",
+    "summary_ja": [
+      "Rail Working Group会長のHoward Rosen氏が、ルクセンブルク鉄道議定書は鉄道車両に対する民間投資家の権利を強く保護し、資金調達コストの低下につながると論じた。",
+      "締約国は欧州連合に加えガボン、ルクセンブルク、パラグアイ、南アフリカ、スペイン、スウェーデン、コンゴ民主共和国（2026年10月1日発効）に広がり、フランス・ドイツ・スイス・イタリア・英国などは署名済みで加入手続きが残っている。",
+      "欧州委員会は加盟国に同議定書の批准を車両投資促進の手段として呼びかけており、貨車・機関車リース会社の調達・ファイナンス環境に関わる論点となっている。"
+    ],
+    "collected_at": "2026-11-15T06:23:46-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "ICTSI throughput rises 13%",
+    "title_ja": "ICTSI、1〜9月の港湾事業収入が24%増",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/11/ictsi-throughput-rises-13/",
+    "published_at": "2026-11-14",
+    "summary_ja": [
+      "ICTSIは2026年1〜9月の港湾事業収入が前年同期の23.4億ドルから24%増の29.0億ドルになったと発表した。",
+      "同期間のコンテナ取扱量は13%増と報じられ、世界各地のターミナルで荷動きが拡大している。",
+      "取扱量の伸びを上回る収入増はTEU当たり単価の上昇を示唆し、コンテナ機材の稼働が高水準で続く環境と整合する。"
+    ],
+    "collected_at": "2026-11-15T06:23:46-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "CSX recovery from technology outage continues, executive says",
@@ -118,6 +178,36 @@
       "前週の1%下落に続く動きで、ピークシーズン後の需要減速を背景に総合指数の小幅安が続いている。"
     ],
     "collected_at": "2026-11-14T06:25:22-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Box production hits record monthly level in October as lines spend big",
+    "title_ja": "ドライコンテナ生産、10月に月間過去最高を記録",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/container-industry/2026/11/box-production-hits-record-monthly-level-in-october-as-lines-spend-big/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "WorldCargo Newsによれば、2026年10月の標準ドライコンテナの生産量が月間として過去最高を記録した。",
+      "同媒体は2026年通年のドライコンテナ生産を約800万TEUと見込み、過去最高だった2021年の813万TEUに迫る水準としている。",
+      "貿易量の伸びが緩やかで海運市況の先行き見通しも慎重なまま船社の大量発注が続いており、新造・中古価格を通じてリース会社の機材調達環境にも影響しうる。"
+    ],
+    "collected_at": "2026-11-15T06:23:46-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "CMA CGM Q3 26 update out: Ocean outperforms, Ceva a mixed bag",
+    "title_ja": "CMA CGM、第3四半期の輸送量5.5%増で市場を上回る",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/cma-cgm-q3-26-update-out-ocean-outperforms-ceva-a-mixed-bag/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "CMA CGMが2026年第3四半期の実績を公表し、コンテナ輸送量は前年同期比5.5%増の650万TEUで市場平均を上回ったとしている。",
+      "提携するGeminiのHapag-LloydとMaerskは同四半期の輸送量が1%近く減少しており、海運部門の数量面で差が付いた。",
+      "物流子会社Cevaの業績は強弱が混在していると報じられ、グループ全体では海運部門が収益を支える構図となっている。"
+    ],
+    "collected_at": "2026-11-15T06:23:46-08:00"
   },
   {
     "category": "rail_industry",
@@ -4603,245 +4693,5 @@
       "Georgeは鉄道間の受け渡し回数が減ることで荷主の貨物追跡が容易になると説明したが、東海岸港湾側はアジア発貨物が西海岸経由のランドブリッジに回帰することを懸念している。"
     ],
     "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "earnings",
-    "title": "J.B. Hunt intermodal volume up 8% on double-digit growth in the East",
-    "title_ja": "J.B. Hunt、第3四半期のインターモーダル輸送量が8%増",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/intermodal/j-b-hunt-intermodal-volume-up-8-on-double-digit-growth-in-the-east/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "J.B. Huntの第3四半期インターモーダル輸送量は前年同期比8%増の585,582ロードとなった。",
-      "東部ネットワークが18%増と二桁成長した一方、大陸横断輸送は1%増にとどまり、伸び率は第2四半期の10%増から減速した。",
-      "同社はトラックと鉄道の運賃格差の縮小を狙い、足元での値上げ方針を示唆している。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Announcements of federal CRISI grants begin",
-    "title_ja": "FRAのCRISI補助金、採択案件の公表が始まる",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/announcements-of-federal-crisi-grants-begin/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "米上院議員らが10月15日、FRAのCRISI（鉄道インフラ・安全改善）補助金の採択案件を3州分で先行公表した。",
-      "今年度は20億ドル超が配分可能で、2021年のインフラ投資・雇用法による増額措置が適用される最終年度にあたる。",
-      "公表分にはメイン州の約90マイルの路線改良に対する3,700万ドルが含まれ、FRAによる全体発表に先行して個別に明らかにされている。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Record monthly container volumes at Port of Long Beach as imports soar",
-    "title_ja": "ロングビーチ港、9月のコンテナ取扱が過去最高の99.7万TEU",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/ports-logistics/record-monthly-container-volumes-at-port-of-long-beach-as-imports-soar",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "ロングビーチ港の9月のコンテナ取扱量は前年同月比25%増の997,177TEUとなり、2024年10月の987,191TEUを上回る月間最高を記録した。",
-      "輸入が31.3%増の509,390TEUと伸びを牽引し、輸出は91,747TEUで輸入対輸出比は5対1を超えた。",
-      "港湾側は高いディーゼル価格やパナマ運河の通航制限を避ける荷主のコスト戦略、米中通商合意への期待を要因に挙げている。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Ex-India spot rates and surcharges ease as peak comes to an end",
-    "title_ja": "インド発のスポット運賃と付加料金、ピーク終了で軟化",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/ex-india-spot-rates-and-surcharges-ease-as-peak-comes-to-an-end/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "インド発西航の荷動きが鈍化し、船社が高騰していた運賃や各種ペナルティ料金の見直しに動いている。",
-      "Hapag-Lloydはインド発のブッキング・キャンセル料を7月下旬以降の1コンテナ300ドルから100ドルへ引き下げた。",
-      "直近まで船社はキャンセル料やコンテナのノーショー料を運賃に上乗せして収益を最大化していたが、需給の緩みで市場が明確に冷え込みつつある。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Japan's Pension Fund Association boosts alternatives allocation to $19bn",
-    "title_ja": "企業年金連合会、オルタナ投資残高を約3兆円に拡大",
-    "source": "Alternative Credit Investor",
-    "url": "https://alternativecreditinvestor.com/2026/10/16/japans-pension-fund-association-boosts-alternatives-allocation-to-19bn/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "企業年金連合会（PFA）は2025-26年度にオルタナティブ投資の残高を約3兆円（約190億ドル）へ引き上げた。",
-      "2026年3月末時点でオルタナは基本年金ポートフォリオの21.3%（前年20.0%）、企業年金ポートフォリオの31.7%（前年27.0%）を占める。",
-      "残高は2025年3月の2兆6,300億円から約14%増加し、実物資産を含む非上場資産への配分拡大が続いている。"
-    ],
-    "collected_at": "2026-10-16T06:30:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "personnel",
-    "title": "Union Pacific Chief Financial Officer Jennifer Hamann to Retire After 35 Years of Service",
-    "title_ja": "Union Pacific、Hamann CFOが2027年初めに退任へ",
-    "source": "SEC EDGAR (Union Pacific)",
-    "url": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000305/a2026-10x168xkexhibit991.htm",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "Union Pacificは10月16日、執行副社長兼CFOのJennifer Hamann氏が2027年初めに退任すると発表した。",
-      "Hamann氏は1992年に監査スタッフとして入社し、35年の在職のうち2020年1月からCFOを務めた同社初の女性CFO。",
-      "財務のほか人事・マーケティング／セールス・IR・内部監査など幅広い部門を歴任しており、UP-NS統合審査が続くなかでの財務トップ交代となる。"
-    ],
-    "collected_at": "2026-10-16T13:24:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Chemical industry groups take aim at UP criticism of trade associations",
-    "title_ja": "化学3団体、UP-NS統合めぐりUnion Pacificの批判に反論",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/chemical-industry-groups-take-aim-at-up-criticism-of-trade-associations/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "米化学業界3団体の幹部が連名記事で、UP-NS統合協議における業界団体の関与を批判したUnion Pacificに反論した。",
-      "連名したのはAmerican Fuel & Petrochemical ManufacturersのChet Thompson氏、Alliance for Chemical DistributionのEric Byer氏、American Chemistry CouncilのChris Jahn氏の3氏で、「我々が仕えるのはUPではなく会員企業であり、報復を恐れる会員から統合反対を指示されている」と主張した。",
-      "3団体はSTBに統合申請の即時却下を求めた5団体に含まれ、今週はVena CEOの講演内容の公開も要求するなど、荷主側の反対姿勢が強まっている。"
-    ],
-    "collected_at": "2026-10-16T13:24:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Wabtec signs R6.6bn agreement to help enhance South African freight loco performance",
-    "title_ja": "Wabtec、Transnetと66億ランドの機関車支援契約を締結",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/south-africa/2026/10/16/wabtec-signs-r6-6bn-agreement-to-help-enhance-south-african-freight-loco-performance/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "Transnet EngineeringとWabtecが、Class 43D・44D機関車を対象とする総額約66億ランドの資材・技術支援契約に調印した。",
-      "調印は10月15日にKoedoespoortで行われ、Transnet Engineering CEOのBessie Mabunda氏とWabtec South Africa取締役のTefo Mokaila氏が署名した。",
-      "Wabtecは部品供給と技術支援に加え状態監視プラットフォーム「Expert on Alert」による予知保全を提供し、稼働率低迷が続くTransnetの主要貨物回廊での機関車可用性と整備回転率の改善を狙う。"
-    ],
-    "collected_at": "2026-10-16T13:24:23-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Asia-Europe spot rates on the rise ahead of new FAK hikes",
-    "title_ja": "アジア欧州航路のスポット運賃、3カ月ぶりに反転上昇",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/carriers-eye-fak-hikes-as-spot-decline-eases-and-capacity-stays-tight/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "3カ月続いたアジア-欧州航路のスポット運賃の下落が今週止まり、反転上昇に転じた。",
-      "DrewryのWCIで上海-ロッテルダムが前週比6%高の40フィート当たり3,522ドル、上海-ジェノバが7%高の3,945ドルとなった。",
-      "10月19日から導入予定のFAK（品目無差別運賃）引き上げが背景にあり、Hapag-Lloydは北欧州向け4,200ドル・地中海向け4,600ドル、CMA CGMは4,600／4,700ドル、MSCは4,500ドルを提示しており、船腹の逼迫が続くなかで欧州向け機材需給にも影響しうる。"
-    ],
-    "collected_at": "2026-10-16T13:24:23-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Xeneta: Carriers Accelerate Red Sea Return With Offered Capacity Doubling In Six Weeks",
-    "title_ja": "紅海復帰が加速、提供船腹が6週間で倍増とXeneta",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/xeneta-carriers-accelerate-red-sea-return-with-offered-capacity-doubling-in-six-weeks/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "海運データ会社 Xeneta は、紅海を通過するサービスで提供される船腹が直近6週間で倍増したと報告した。",
-      "10月5日時点でバブエルマンデブ海峡を片方向以上で通過する週間船腹が大きく増え、スエズ経由への回帰が加速している。",
-      "航路短縮は輸送日数と機材回転の改善につながる一方、実質的な供給力増加はコンテナ機材の需給を緩める要因となる。"
-    ],
-    "collected_at": "2026-10-17T06:24:49-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: World Container Index Up 3% Last Week",
-    "title_ja": "DrewryのWCI、前週比3%上昇し4,485ドル",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-up-3-last-week-6/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "Drewry の World Container Index は10月15日時点で40フィートコンテナ当たり4,485ドルとなり、前週比3%上昇した。",
-      "上昇はアジア-欧州航路の運賃上昇が主因で、上海-ロサンゼルスは3%高の7,884ドル、上海-ニューヨークは1%下落した。",
-      "運賃の底堅さは荷動きの持続を示し、コンテナ機材の稼働率と調達コストを見るうえでの先行指標となる。"
-    ],
-    "collected_at": "2026-10-17T06:24:49-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container carriers adjust rates, add services to Americas, continue gradual return to Suez",
-    "title_ja": "CMA CGM、米州関連航路で運賃値上げとサービス追加",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/container-carriers-adjust-rates-add-services-to-americas-continue-gradual-return-to-suez/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "主要船社が米州関連航路で運賃を引き上げるとともに、既存サービスへの寄港追加やスエズ運河経由への段階的復帰による所要日数短縮を進めている。",
-      "CMA CGMは11月2日からオセアニア－米州間の往復航路で1TEUあたり300ドル、10月15日からアジア発南米向けで1本あたり1,000ドルの値上げを適用する。",
-      "値上げ対象はドライコンテナに加えリーファー、OOG（規格外）貨物、有償の空コンテナ回送にも及び、荷主の機材調達コストを押し上げる要因となる。"
-    ],
-    "collected_at": "2026-10-17T13:24:15-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Rotterdam TEU throughput remains flat in first nine months",
-    "title_ja": "ロッテルダム港、1〜9月のコンテナ取扱は横ばい",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/rotterdam-teu-throughput-remains-flat-in-first-nine-months/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "ロッテルダム港の2026年1〜9月のコンテナ取扱量は1,075万TEU で、前年同期比0.1%増と横ばいだった。",
-      "トン数ベースのコンテナ貨物は2.2%減となった一方、港全体の取扱量は0.9%増の3億2,320万トンだった。",
-      "内陸向け輸送は7.2%増、実入り輸入は8.9%増と伸びたが、トランシップはディープシー・ターミナルの能力制約で20%減少した。"
-    ],
-    "collected_at": "2026-10-18T06:22:26-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Sosteneo raises €150m for clean-energy infrastructure strategy",
-    "title_ja": "Sosteneo、クリーンエネルギー・インフラ2号で初回外部クローズ",
-    "source": "IREI",
-    "url": "https://irei.com/news/sosteneo-raises-e150m-for-clean-energy-infrastructure-strategy/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "Generali Investments 傘下の Sosteneo Infrastructure Partners が、クリーンエネルギー・インフラ第2号ファンドで1.5億ユーロ超の新規コミットメントと共同投資枠を確保し、初回の外部クローズを完了した。",
-      "これにより第2号ビンテージの総コミットメントは4.5億ユーロ（約5.04億ドル）超、同社の運用プラットフォーム全体では11億ユーロ超に達した。",
-      "今回のクローズには新規の機関投資家に加え、1号ファンド最大の外部投資家による再出資と、主要出資者である Generali 保険各社の積み増しが含まれる。"
-    ],
-    "collected_at": "2026-10-18T13:24:46-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Announcements of federal CRISI grants begin",
-    "title_ja": "FRA、CRISI補助金の採択案件の公表を開始",
-    "source": "Trains Magazine",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTBMaDBGSFZrQl9tQWNrNWlEZzgyb1dVcUFqdXJNYjFLU1RoNk4zSTBGdlNfRUhvcTJMRUN0Ym5fS2dhaFMzRE8yeFRHbE5yakhGSEtha1h2a3h2MU5fcy15M2gwZk5PbnBBbFdGMmYtVXJiLUh5V3pnSkctX3BqYTJqVXVEUQ?oc=5",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "連邦鉄道局（FRA）の CRISI（鉄道インフラ・安全改善）補助金について、採択案件の公表が順次始まった。",
-      "州単位ではネブラスカ州に4,300万ドル超、ノースダコタ州に2,400万ドル超（うち Red River Valley & Western 鉄道が2,360万ドル）、ミズーリ州コロンビア市の COLT 鉄道に1,620万ドルが配分されたと伝えられている。",
-      "今回の公募（FY2025・FY2026分）は最大で約20億3,900万ドルの枠が用意されており、短距離鉄道の線路改良や踏切安全対策の原資となる。"
-    ],
-    "collected_at": "2026-10-19T13:24:03-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "SMART, BLET Ratify Agreements With CPKC",
-    "title_ja": "SMART-TDとBLET、CPKCとの新労働協約を批准",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/class-i/smart-blet-ratify-agreements-with-cpkc/",
-    "published_at": "2026-10-16",
-    "summary_ja": [
-      "BLETはCPKC傘下のDakota, Minnesota & Eastern（DM&E）区域を対象とする5年協約を批准し、2025年1月1日に遡る賃上げや食事手当の増額を得た。",
-      "SMART-TDのSoo Line区域（GCA 261）の車掌は2027年12月31日までの3年協約を批准し、投票は10月15日に締め切られ賛成75.6%・投票率81%だった。",
-      "DM&Eでは協約期間を通じ機関士の時間賃率が複利で41.42%、車掌・制動手が32.63%上昇する見込みで、CPKCは米国側の主要労務コストを長期で固定した。"
-    ],
-    "collected_at": "2026-10-26T13:24:44-07:00"
   }
 ]
