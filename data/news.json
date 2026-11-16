@@ -1,5 +1,20 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Countervailing Duty Investigation",
+    "title_ja": "米商務省、メキシコ製タンク車の相殺関税調査を開始",
+    "source": "Federal Register (U.S. Department of Commerce)",
+    "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23291/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-countervailing-duty",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "米商務省は11月16日付官報で、メキシコ産の鉄道タンク車および部分組立品に対する相殺関税(CVD)調査の開始を公告し、同時にアンチダンピング(LTFV)調査も立ち上げた。",
+      "申立人は国内メーカーの UTLX Manufacturing で、申立ては9月30日に受理。ステンレス鋼主体のDOT-111、499psig以上のDOT-105/112、DOT-113極低温車は調査対象から除外される。",
+      "Greenbrier と Trinity Industries はいずれも申立てに反対を表明しており、ITCの予備認定は12月上旬との見方が報じられ、課税に至ればタンク車の調達価格とリース経済性に影響しうる。"
+    ],
+    "collected_at": "2026-11-16T06:30:38-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Hapag-Lloyd raises Far East–Europe freight rates from December",
@@ -43,6 +58,51 @@
       "欧州委員会は加盟国に同議定書の批准を車両投資促進の手段として呼びかけており、貨車・機関車リース会社の調達・ファイナンス環境に関わる論点となっている。"
     ],
     "collected_at": "2026-11-15T06:23:46-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Xeneta Weekly Ocean Container Shipping Market Update: Rates Start To Tumble From Far East To US East Coast Following Record-Breaking Capacity In October",
+    "title_ja": "極東発米東岸の運賃下落、10月の船腹供給は過去最高",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-rates-start-to-tumble-from-far-east-to-us-east-coast-following-record-breaking-capacity-in-october/",
+    "published_at": "2026-11-15",
+    "summary_ja": [
+      "Xenetaによると極東発米国東岸のスポット運賃は11月13日時点で平均1FEU当たり11,249ドルとなり、前週比73ドル(0.6%)下落、10月22日のピークからは2.5%下げた。",
+      "同航路の10月の週平均提供船腹量は過去最高の約17万9,000TEU(前年比10.9%増)に達し、11月1〜13日は16万1,571TEUと10月平均から9.9%減少した。",
+      "極東発北欧州でも10月中旬から11月初めに船腹を1割超絞って一時は運賃を押し上げたが再び下落に転じ、年末までの需要減速で下げ圧力が強まるとみられている。"
+    ],
+    "collected_at": "2026-11-16T06:30:38-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Intra Asia Container Index Retreats",
+    "title_ja": "Drewryのアジア域内コンテナ指数、38ドル下落",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-retreats/",
+    "published_at": "2026-11-15",
+    "summary_ja": [
+      "Drewryのアジア域内コンテナ指数(IACI)は1FEU当たり38ドル下落し、1,440ドルとなった。",
+      "下落は主に中国発の軟化によるもので、同国発の11航路のうち10航路が横ばいか下落。一方でジャカルタ〜上海、ホーチミン〜上海といった小口航路では運賃が上昇した。",
+      "本船の着岸までの待ち時間が短縮して滞船が和らいだことが指数の押し下げ要因とされ、域内運賃は航路ごとのばらつきが大きい不安定な状況が続いている。"
+    ],
+    "collected_at": "2026-11-16T06:30:38-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Los Angeles port chief confident amid ongoing strike threat",
+    "title_ja": "LA港局長、スト懸念下も記録的取扱量の維持に自信",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/ports-logistics/los-angeles-port-chief-confident-amid-ongoing-strike-threat",
+    "published_at": "2026-11-15",
+    "summary_ja": [
+      "ILWU Local 26の監視員(watchmen)約250人によるストライキ期限は11月20日まで再延長され、これで3度目の延長となり、連邦調停の下でPMAとの交渉が続いている。",
+      "ロサンゼルス港のGene Seroka局長は11月12日の説明会で、交渉を当事者に委ねれば良い決着に至るとの見方を示し、スト懸念が記録的なコンテナ取扱いを妨げるとは考えていないと述べた。",
+      "同港の10月までの累計取扱量は910万TEU(前年同期比約5%増)で、PMAによればスト対象ターミナルはロングビーチ港の貨物の約85%、ロサンゼルス港の約33%を扱う。"
+    ],
+    "collected_at": "2026-11-16T06:30:38-08:00"
   },
   {
     "category": "container_leasing",
@@ -373,6 +433,36 @@
       "復路の増加は欧州側での空貨車・空コンテナの滞留を緩和する方向に働き、機材の回転効率に影響しうる。"
     ],
     "collected_at": "2026-11-15T13:23:32-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Regulators allow operator transition at ports of LA, Long Beach to proceed",
+    "title_ja": "STB、LA・LB港の鉄道運行をABLへ移管容認",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/regulators-allow-operator-transition-at-ports-of-la-long-beach-to-proceed/",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "STBは11月12日、BNSFとUnion Pacificの共同出資会社 Alameda Belt Line (ABL) がロサンゼルス・ロングビーチ両港の鉄道運行を引き継ぐ免除について発効の留保を解除し、即時発効とした。",
+      "現在の入換運行者 Pacific Harbor Line が求めた発効延期(stay)の申立ては却下され、STBは移行は複雑になり得るが輸送の混乱を招かずに進められると判断した。",
+      "ロングビーチ港湾委員会は11月9日に2036年までを初期契約期間とするABL契約を承認し、開始時点でTier 4または排出ゼロ機関車24両の配備を求めている。ロサンゼルス側は市議会の最終承認が11月18日に予定されている。"
+    ],
+    "collected_at": "2026-11-16T06:30:38-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Intermodal leads U.S. rail traffic up 6.6% from a year ago",
+    "title_ja": "米鉄道輸送量6.6%増、インターモーダルが牽引",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/intermodal-leads-u-s-rail-traffic-up-6-6-from-a-year-ago",
+    "published_at": "2026-11-12",
+    "summary_ja": [
+      "AARによると11月7日までの週の米国鉄道輸送量は前年同週比6.6%増となり、インターモーダルが11%増と牽引、カーロードは1.3%増だった。",
+      "10の品目グループのうち7つが増加し、自動車・部品が10.4%増、林産品が10.1%増、金属鉱・金属が6.4%増。一方で穀物は2.4%減、非金属鉱物は1.7%減、石炭は1.2%減だった。",
+      "2026年第44週までの累計では総輸送量が前年同期比3.9%増、インターモーダルが4.9%増、カーロードが2.7%増で、穀物は週次では減少しつつも年初来9.7%増と最も伸びている。"
+    ],
+    "collected_at": "2026-11-16T06:30:38-08:00"
   },
   {
     "category": "container_leasing",
@@ -4721,21 +4811,6 @@
       "海事専門家は、シンガポール籍コンテナ船の沈没後もホルムズ海峡の商船通航は停止しないとの見方を示している。",
       "中東産エネルギーへの強い需要と高い運賃収益が一部オペレーターのリスク許容度を支える一方、主要コンテナ船社は同海峡をおおむね回避している。",
       "シンガポールS. Rajaratnam School of International StudiesのCollin Koh氏は、船社が今後も通航を続ける可能性が高いと指摘しており、コンテナ機材の域内配置に偏りが生じうる。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Union Pacific and Norfolk Southern CEOs tout merger benefits for East Coast ports",
-    "title_ja": "UPとNS両CEO、合併は東海岸港湾の競争力向上と主張",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/union-pacific-and-norfolk-southern-ceos-tout-merger-benefits-for-east-coast-ports/",
-    "published_at": "2026-10-17",
-    "summary_ja": [
-      "UPのJim Vena CEOとNSのMark George CEOは10月14日のVirginia Maritime Association主催シンポジウムで、合併により米国の港湾の競争力が高まると述べた。",
-      "両氏は統合ネットワークが東海岸港湾からミシシッピ川以西の内陸市場までシングルラインで結ぶ点を強調し、Venaはカナダ系鉄道の大陸横断単一運行をモデルに挙げた。",
-      "Georgeは鉄道間の受け渡し回数が減ることで荷主の貨物追跡が容易になると説明したが、東海岸港湾側はアジア発貨物が西海岸経由のランドブリッジに回帰することを懸念している。"
     ],
     "collected_at": "2026-10-19T06:26:36-07:00"
   }
