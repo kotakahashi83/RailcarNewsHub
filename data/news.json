@@ -1,6 +1,36 @@
 [
   {
     "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Private railcar owners ask STB for merger conditions to ensure competition",
+    "title_ja": "NAFCA、UP-NS合併に競争維持の条件付与をSTBに要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/private-railcar-owners-ask-stb-for-merger-conditions-to-ensure-competition/",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "貨車メーカー・リース会社・荷主で構成する North America Freight Car Association が11月16日、条件を付さないUP-NS合併は公共の利益に反するとの意見書をSTBに提出した。",
+      "同団体は会員が北米の私有貨車約124万両のうち75万9,000両超を保有またはリースしていると指摘し、合併後の鉄道にサービス水準の維持・改善を促す長期的インセンティブを条件に求めた。",
+      "同日にはルイジアナの化学メーカー Cornerstone Chemical も、既存ゲートウェイと迂回ルートの保護、ファースト／ラストマイル実績の追跡義務化を求める意見書を提出している。"
+    ],
+    "collected_at": "2026-11-17T06:20:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Scout Robotics launches next-gen railroad technology",
+    "title_ja": "Scout Robotics、鉄道インフラ監視システム2種を投入",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/scout-robotics-launches-next-gen-railroad-technology/",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "フィラデルフィア拠点のScout Roboticsが、線路設備の状態把握を狙うインフラ・インテリジェンス製品「Scout X」「Scout T」を発表した。",
+      "同社は2023年にSahay AIとして創業し、2025年に社名変更と本社移転を経て軽量システム「SPARK」を投入した経緯を持つ。",
+      "今回あわせて鉄道業界の上級アドバイザー2名を迎え、個別資産の状態を正確な位置情報とともに経年で追跡できる点を既存の軌道検測サービスとの差別化要素に据えている。"
+    ],
+    "collected_at": "2026-11-17T06:20:37-08:00"
+  },
+  {
+    "category": "railcar_leasing",
     "kind": "regulatory",
     "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Countervailing Duty Investigation",
     "title_ja": "米商務省、メキシコ製タンク車の相殺関税調査を開始",
@@ -88,6 +118,51 @@
       "2022年に始動した同社の信用部門はGreen Credit Fundsと合わせ30億ユーロ超を調達済みで、コペンハーゲン・ロンドン・ニューヨークに20人超の専門家を配置している（今年前半にGreen Credit Fund IIが13億ユーロでファーストクローズ）。"
     ],
     "collected_at": "2026-11-16T13:24:22-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Chicago suburbs seek strict limit on blocked grade crossings as part of UP-NS merger",
+    "title_ja": "シカゴ西郊8市、UP-NS合併で踏切閉塞5分超への対策要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/chicago-suburbs-seek-strict-limit-on-blocked-grade-crossings-as-part-of-up-ns-merger/",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "UP西本線沿いのシカゴ西郊8市が結成した Western Chicagoland Merger Oversight Alliance が11月16日、5分を超える踏切閉塞への緩和措置をUPに義務付けるようSTBに申し立てた。",
+      "参加はBerkeley、Elmhurst、Geneva、Glen Ellyn、Lombard、Villa Park、Wheaton、Winfieldの8市で、列車本数が1日77本から84本（約9%増）となる一方、年間貨物量は7,490万トンから1億170万トン（36%増）になるとの予測を論拠とした。",
+      "同盟は本数と輸送量の伸びの乖離が列車の長大化・重量化を示すとして、踏切閉塞の影響を合併審査で考慮するよう求めている。"
+    ],
+    "collected_at": "2026-11-17T06:20:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "50% Spike: Spot Rates SOAR Earlier Than Expected",
+    "title_ja": "米トラックのスポット運賃、前年比50%超の急騰",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/50-spike-spot-rates-soar-earlier-than-expected",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "11月16日時点の米トラックロード・スポット運賃は1マイル3.56ドルで、前年同期の2.32ドルから50%以上上昇したと報じられた。",
+      "運送会社が荷主の入札を断る比率を示す Tender Rejection Index は12.85%前後と前年の約2倍で、南カリフォルニアが最も需給の逼迫した市場とされる。",
+      "上昇は需要増よりも車両・ドライバー供給の縮小が主因とされ、契約運賃が横ばいのインターモーダルとの価格差が広がることで鉄道へのモーダルシフト圧力が高まる。"
+    ],
+    "collected_at": "2026-11-17T06:20:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Profit decline forecast after a bumper Q3 for container lines",
+    "title_ja": "コンテナ船社、Q3好決算の後に2027年の減益予想",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/profit-decline-forecast-after-a-bumper-q3-for-container-lines",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "コンテナ船社は2026年第3四半期に好決算を並べた一方、今後は利益が減少に向かうとの見通しが伝えられた。",
+      "第3四半期はMaerskの underlying EBITDA が約47億ドル（前年比約75%増）に達して通期見通しを引き上げ、Coscoも1〜9月の株主帰属利益が約46億ドル（約13%増）と報じられている。",
+      "2027年は船腹供給の伸びが荷動きを上回るとの予測（Drewryは供給8.8%増に対し需要6.2%増）が優勢で、船社の収益悪化はコンテナ機材の新造発注やリース需要にも影響しうる。"
+    ],
+    "collected_at": "2026-11-17T06:20:37-08:00"
   },
   {
     "category": "container_leasing",
@@ -4858,50 +4933,5 @@
       "Infinityは米国・カナダ・メキシコの350社超に約5万両の貨車を賃貸しており、KKR傘下のGlobal Atlanticが2016年から出資、2021年以降にフリート簿価を150%拡大させていた。"
     ],
     "collected_at": "2026-11-06T06:23:49-08:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Asia-US container rates mixed as extended peak season demand wanes; tanker rates stable",
-    "title_ja": "アジア発米国向けコンテナ運賃、繁忙期需要の一巡でまちまち",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-mixed-as-extended-peak-season-demand-wanes-tanker-rates-stable/",
-    "published_at": "2026-10-18",
-    "summary_ja": [
-      "東アジア・中国発米国向けのコンテナ運賃は、長引いた繁忙期の需要が一巡し、両岸向けともまちまちの動きとなった。",
-      "米西岸向けは1FEU当たり7,475〜8,300ドル、東岸向けは9,600〜1万1,300ドルで、いずれも2022年半ば以来の高水準近辺にとどまっている。",
-      "Drewry指数では上海〜ロサンゼルスが3%上昇、上海〜ニューヨークが1%下落し、同社は欠便による船腹調整で来週は変動が小さくなるとみている。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Intra Asia Container Index Down 3% Last Week",
-    "title_ja": "Drewryアジア域内コンテナ指数、港湾混雑緩和で3%下落",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-3-last-week-2/",
-    "published_at": "2026-10-18",
-    "summary_ja": [
-      "Drewryのアジア域内コンテナ指数（IACI）は前週比3%下落し、40フィートコンテナ当たり1,453ドルとなった。",
-      "下落は上海発の釜山、ホーチミン、ジャワハルラール・ネルー港向けで目立ち、これらの港で混雑が緩和したことが要因とされる。",
-      "大中華圏から北東・東南・南アジア向けのスポット運賃も需要低迷で軟化し、国慶節連休中に各港が滞留を処理して定時性が改善した。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-    "title_ja": "ホルムズ海峡、攻撃継続下でも商船の通航は続くとの見方",
-    "source": "Hellenic Shipping News",
-    "url": "https://www.hellenicshippingnews.com/one-singapore-ship-was-sunk-but-heres-why-others-are-still-transiting-the-strait-of-hormuz/",
-    "published_at": "2026-10-18",
-    "summary_ja": [
-      "海事専門家は、シンガポール籍コンテナ船の沈没後もホルムズ海峡の商船通航は停止しないとの見方を示している。",
-      "中東産エネルギーへの強い需要と高い運賃収益が一部オペレーターのリスク許容度を支える一方、主要コンテナ船社は同海峡をおおむね回避している。",
-      "シンガポールS. Rajaratnam School of International StudiesのCollin Koh氏は、船社が今後も通航を続ける可能性が高いと指摘しており、コンテナ機材の域内配置に偏りが生じうる。"
-    ],
-    "collected_at": "2026-10-19T06:26:36-07:00"
   }
 ]
