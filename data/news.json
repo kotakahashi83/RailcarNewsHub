@@ -17,6 +17,111 @@
   {
     "category": "railcar_leasing",
     "kind": "news",
+    "title": "Railcar Market: Fleet Shrinks as Demand Rises (2026 Outlook)",
+    "title_ja": "北米貨車、解体が新造を上回りフリート縮小が継続",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/railcar-market-fleet-shrinks-as-demand-rises-2026-outlook",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "北米の貨車新造は年間の解体両数を約15,000両下回っており、フリートが縮小しながら需要が回復しているとされる。",
+      "鋼材価格は第3四半期末時点で前年比63%上昇し、その後さらに5〜6%上昇したと伝えられ、新車価格の上昇が既存貨車のリース料率の上限を押し上げている。",
+      "北米フリートの留置（ストレージ）比率は17.5%で2022年以来の最低水準となり、リース料率の上昇が続く環境と報じられた。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "U.S. Army highlights national security implications of UP-NS merger",
+    "title_ja": "米陸軍、UP-NS合併審査に国防輸送網への影響を提起",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/u-s-army-highlights-national-security-implications-of-up-ns-merger/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "米陸軍輸送司令部（ARTRANS）が11月17日、UP-NS合併審査の論点として国家安全保障をSTBに提起する意見書を提出した。",
+      "両社は全長41,000マイルの戦略鉄道回廊網（STRACNET）のうち約17,600マイルを運営し、60超の国防施設に輸送サービスを提供していると指摘した。",
+      "ARTRANSは合併への賛否は示さず、UP-SP合併やConrail分割など過去の統合後の輸送混乱が国防輸送の即応性を低下させた経緯を踏まえた審査を求めている。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "U.S. Rail Traffic Rises 7.3% in Week Ending November 14",
+    "title_ja": "米鉄道輸送量、11月14日週は7.3%増の52.9万ユニット",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/freight/class-i/u-s-rail-traffic-rises-7-3-in-week-ending-november-14/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "AARによると11月14日までの週の米国発送量は529,919ユニットで前年同週比7.3%増となった。",
+      "車扱いは230,260両で3.3%増（10商品群のうち8群が増加）、インターモーダルは299,659ユニットで10.7%増と二桁の伸びが続いた。",
+      "北米9鉄道の合計は728,661ユニットで7.2%増、年初45週累計では車扱い1,030万両（2.7%増）、インターモーダル1,290万ユニット（5%増）となった。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of Savannah container volumes surge 25% in October",
+    "title_ja": "Savannah港、10月のコンテナ取扱が25%増の56.5万TEU",
+    "source": "Container News",
+    "url": "https://container-news.com/port-of-savannah-container-volumes-surge-25-in-october/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "ジョージア州港湾局によると、Savannah港の10月のコンテナ取扱量は565,366TEUで前年同月比25%増となり、同港史上2番目の月間記録となった。",
+      "2027会計年度の累計取扱量は前年同期比7.8%増（152,991TEU増）で、入港船舶も160隻と5%増加した。",
+      "同局CEOのGriff Lynch氏は、堅調な個人消費と長期化したピークシーズン、内陸インフラの使いやすさが伸びを支えたと説明し、スエズ運河経由の配船復帰が輸送日数の改善に寄与しているとした。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "earnings",
+    "title": "ZIM net profit surges to $830 million in Q3 as freight rates climb",
+    "title_ja": "ZIM、運賃上昇で第3四半期の純利益が8.3億ドルに急増",
+    "source": "Container News",
+    "url": "https://container-news.com/zim-net-profit-surges-to-830-million-in-q3-as-freight-rates-climb/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "ZIMの2026年第3四半期の純利益は8億3,000万ドルで、前年同期の1億2,300万ドルから大幅に増加した。",
+      "売上高は27億1,000万ドル（53%増）、調整後EBITDAは13億3,000万ドルと倍増し、調整後EBITは9億9,300万ドルとなった。",
+      "輸送量は96万2,000TEU（4%増）にとどまり、増収の主因は平均運賃の1TEUあたり2,480ドルへの上昇で、機材需給の引き締まりを示す環境が続いている。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Port of LA Crushes Records: 5M Containers in 5 Months!",
+    "title_ja": "ロサンゼルス港、鉄道待ちコンテナ約9,500本が長期滞留",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/port-of-la-crushes-records-5m-containers-in-5-months",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "ロサンゼルス港のSeroka局長は、鉄道積替えを待つ約9,500本のコンテナが9日以上滞留しており、本来はゼロであるべきだと述べたと報じられた。",
+      "滞留コンテナの約75%はBNSFが扱う貨物とされ、同港の10月の取扱量は100万TEU超で月間として過去2番目の水準だった。",
+      "輸出と空コンテナの回送が記録的な輸入増に追いつかず、西部の鉄道では機関車・乗務員・貨車が不足していることが背景とされている。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "T. Rowe Price favours asset-backed credit over direct lending in 2027",
+    "title_ja": "T. Rowe Price、2027年は資産担保型クレジットを選好",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/18/t-rowe-price-favours-asset-backed-credit-over-direct-lending-in-2027/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "T. Rowe Priceは2027年のグローバル市場見通しで、幅広いダイレクトレンディングよりも資産担保型クレジットなどの専門領域が有望だと指摘した。",
+      "特化型ファイナンスへの需要拡大、リファイナンス需要の増加、技術的な変化を新たな投資機会の要因として挙げている。",
+      "一方で競争激化と資本規制の強化によりリターンの分散が広がるため、より厳格な選別が必要になると警告した。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
     "title": "Private railcar owners ask STB for merger conditions to ensure competition",
     "title_ja": "NAFCA、UP-NS合併に競争維持の条件付与をSTBに要求",
     "source": "Trains",
@@ -148,6 +253,21 @@
       "ニューオーリンズ港は、New Orleans Public Beltが商業的に成立する非排他的な条件を得られない限り合併を支持できないとの立場に転じた。"
     ],
     "collected_at": "2026-11-18T06:23:40-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "France sets weak rail freight path targets despite growth ambitions",
+    "title_ja": "仏SNCF Reseau新契約、貨物列車枠の目標は横ばい",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/17/france-sets-weak-rail-freight-path-targets-despite-growth-ambitions/",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "フランス政府とSNCF Reseauが新たな鉄道パフォーマンス契約を締結し、2033年までに列車増発に対応できる設備更新を目指すとされた。",
+      "契約は長距離貨物列車の線路容量（パス）の品質向上と工事計画の予見性改善を通じ、鉄道貨物輸送量を約20%増やす方針を掲げている。",
+      "一方で割り当てられる貨物列車枠と安定性の目標値は2033年まで2025年実績と同水準かそれ以下にとどまり、成長方針と整合しないとの批判が出ている。"
+    ],
+    "collected_at": "2026-11-18T13:22:19-08:00"
   },
   {
     "category": "railcar_leasing",
