@@ -1,5 +1,20 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Two injured in CN derailment in British Columbia",
+    "title_ja": "CN、BC州Terrace西で脱線し乗務員2人が負傷",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/two-injured-in-cn-derailment-in-british-columbia/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "CNのプリンスルパート方面の路線で11月17日に脱線が発生し、乗務員2人が命に別状のない負傷で病院に搬送された。",
+      "現場はブリティッシュコロンビア州Terraceの西約15kmで、機関車1両と貨車5両が脱線し、一部の車両がスキーナ川に転落してコンテナが水中に見える状況が報じられた。",
+      "脱線地点はコンテナ港プリンスルパートの東約137kmにあるCNのSkeena Subdivision上で、Terraceの消防が1人の救出に当たった。"
+    ],
+    "collected_at": "2026-11-18T06:23:40-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "Private railcar owners ask STB for merger conditions to ensure competition",
@@ -88,6 +103,51 @@
       "同社は2025年に6,696両を2,890万ユーロで売却し、退役機関車106両も約600万ユーロで処分済みで、10月には経営陣が総退陣し再建管理人の下にあるなど処分圧力が続いている。"
     ],
     "collected_at": "2026-11-17T13:22:25-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "TSB of Canada again expresses concerns about flaws in older railcar wheels",
+    "title_ja": "カナダTSB、2003年以前製造の貨車車輪の欠陥に再び警鐘",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/mechanical/tsb-of-canada-again-expresses-concerns-about-flaws-in-older-railcar-wheels/",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "カナダ運輸安全委員会（TSB）は11月17日、2025年2月にオンタリオ州Emo付近で起きたCN列車の脱線に関する調査報告を公表し、2003年のAAR鋼材清浄度基準より前に製造された貨車車輪への懸念を改めて示した。",
+      "脱線車両の車輪は1992年製で、製造上の不純物が現行AAR基準の許容限度を超えており、リム破断（shattered rim）を起こしていた。",
+      "TSBは2003〜2025年にリム破断が関与した脱線を他に14件調査し、うち8件が基準制定前に製造された車輪で、現役の該当車輪数は把握されておらず計画的な退役の仕組みもないと指摘している。"
+    ],
+    "collected_at": "2026-11-18T06:23:40-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Transcontinental merger of Union Pacific and Norfolk Southern divides rail leaders",
+    "title_ja": "UP-NS合併、意見提出期限を前にClass I各社の賛否が二分",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/transcontinental-merger-of-union-pacific-and-norfolk-southern-divides-rail-leaders",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "水曜日のSTBへの意見提出期限を前に、UPとNSは2026年第3四半期決算説明会で、合併がサプライチェーンコストを下げトラックからの貨物獲得につながると主張した。",
+      "競合の対応は分かれ、CPKCはSTBに却下を要求、CSXはパートナーシップを強調、CNは自社事業の保護と新市場開拓を図る合意を挙げ、決算説明会を開かないBNSFはCEO名の声明で反対を表明した。",
+      "UPのJim Vena CEOは両社網の統合で貨物輸送の摩擦が減ると述べ承認に自信を示したが、STBの判断は2027年になる見込み。"
+    ],
+    "collected_at": "2026-11-18T06:23:40-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Maryland, Port of New Orleans, dockworkers union oppose UP-NS merger",
+    "title_ja": "メリーランド州とニューオーリンズ港、UP-NS合併に反対表明",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/maryland-port-of-new-orleans-dockworkers-union-oppose-up-ns-merger/",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "メリーランド州運輸局、ニューオーリンズ港、全米の港湾労組がSTBに対しUP-NS合併への反対を表明した。",
+      "同州はボルチモア港を完全に守る手段は却下のみとしつつ、承認する場合はDundalk海運ターミナルでのCSXの相互スイッチングまたはトラッケージライツ、Seagirtターミナルのインターモーダル再開、恒久的なゲートウェイ保護など12の条件と10年間のSTB監督を求めた。",
+      "ニューオーリンズ港は、New Orleans Public Beltが商業的に成立する非排他的な条件を得られない限り合併を支持できないとの立場に転じた。"
+    ],
+    "collected_at": "2026-11-18T06:23:40-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4858,200 +4918,5 @@
       "労組TSSAは強制解雇を行わない保証を求めており、英政府も従業員の懸念を理解すると表明している。"
     ],
     "collected_at": "2026-10-25T06:25:03-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
-    "title_ja": "KKR、貨車リースInfinityをAresに29億ドルで売却",
-    "source": "Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS29DRlJHY1pGdmZoV1ZrUnJvbXp0S1JvZWxpamZ2aXB1TWZYVU9NWlRucDNYMzlVYkdoc0dGUV9KN0wyVERSTE1TLUJpaHB5bEdkTTN3VElHWlVMMVc5YzEtc1dZMVlMZzFRSlRYQVdMeGx3WV9aZGZYcEFESXQyNmNremFEU0o1bmc5N21IRl9KY2x3MFQ3cHZVRjROa1VuU0ZxM0ZYcXlDR2ZvSTRFR1p4eVJPdUNNOXdN?oc=5",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "KKRは保有する北米貨車リース会社Infinity Transportationを、Ares Management運用のファンドに企業価値ベースで約29億ドルで売却することで合意した。",
-      "Infinityは米国・カナダ・メキシコで約5万両の貨車を保有・管理し、350社を超える借主にリースしており、取引は規制当局の承認を前提に2027年第1四半期の完了が見込まれる。",
-      "KKRは2021年の取得以降にInfinityの簿価を150%拡大させたとしており、AresのMike Rothは同資産が長期投資に適すると述べ、完了後のフリート拡大を支援する方針を示した。"
-    ],
-    "collected_at": "2026-10-19T06:28:07-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "COSCO Shipping Ports throughput jumps in September",
-    "title_ja": "COSCO Shipping Ports、9月の取扱量が15.7%増",
-    "source": "Container News",
-    "url": "https://container-news.com/cosco-shipping-ports-throughput-jumps-in-september/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "COSCO Shipping Ports の2026年9月の世界取扱量は1,104万TEU となり、前年同月比15.7%増と大きく伸びた。",
-      "1〜9月累計は8.5%増の9,391万TEU、第3四半期は9.2%増の3,260万TEU で、Tollerort を除く海外ターミナルは9月が20.7%増の356万TEU、ピレウスのコンテナターミナルも15.3%増の36万6,600TEU だった。",
-      "ターミナル取扱量の二桁増は荷動きの底堅さを示し、コンテナ機材の稼働と回送需要を支える要因となりうる。"
-    ],
-    "collected_at": "2026-10-19T13:24:03-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container freight rates rebound as Asia-Europe indexes diverge",
-    "title_ja": "主要コンテナ運賃指数が一斉上昇、航路別は不均一",
-    "source": "Container News",
-    "url": "https://container-news.com/container-freight-rates-rebound-as-asia-europe-indexes-diverge/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "直近週の運賃評価では主要4総合指数がそろって上昇し、Drewry の WCI が3%高、Freightos Baltic Index（FBX）が2%高となった。",
-      "中国系指数も上昇し、SCFI は10月16日時点で前回の3,664.11から0.42%高の3,679.58、CCFI は0.54%高の1,922.64、NCFI も上げた。",
-      "ただしアジア-欧州では主要2指数の動きが大きく食い違い、太平洋・欧州・大西洋の各市場で回復度合いにばらつきがあるため、機材需給の方向性は読みにくい状況とみられる。"
-    ],
-    "collected_at": "2026-10-19T13:24:03-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "earnings",
-    "title": "FreightCar America, Inc. Updates Full-Year 2026 Outlook and Reports Preliminary Third Quarter 2026 Results",
-    "title_ja": "FreightCar America、タンク車改造受注の除外で通期見通しを下方修正",
-    "source": "SEC EDGAR (FreightCar America)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526425341/rail-ex99_1.htm",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "顧客が契約上の義務を履行できない可能性が高いとして、タンク車改造受注1,285両を受注残から除外し、2026年通期の納入・売上・調整後EBITDA見通しをいずれも下方修正した。",
-      "第3四半期の暫定値は納入662両（前年同期1,304両）、売上7,500万〜7,700万ドル（同1億6,050万ドル）、調整後EBITDAは▲30万〜30万ドル（同1,700万ドル）。",
-      "9月末の受注残は除外後で2,660両・2億8,450万ドル。正式な第3四半期決算は11月9日に公表し、電話会議は11月10日に開催する。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "CSX Uses Drones to Enhance Railcar Inspections at Curtis Bay Terminal",
-    "title_ja": "CSX、ボルチモア石炭ターミナルで空車貨車のドローン点検を導入",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/class-i/csx-uses-drones-to-enhance-railcar-inspections-at-curtis-bay-terminal/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "CSXはボルチモアのCurtis Bay石炭ターミナルで、荷降ろし後の貨車に残る石炭（残炭）を検出するためドローンによる点検を導入した。",
-      "半自動運用のドローンは空車ヤードを約30分で巡回でき、投光器を用いた夜間飛行も承認済みで、映像はリアルタイムと事後の双方で確認できる。",
-      "残炭は寒冷期に凍結して滞留の原因となるため点検需要が高く、同ターミナルは有資格の操縦者と運用手順を整備して本格展開に備えている。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF and CSX team up for faster coast-to-coast domestic intermodal service",
-    "title_ja": "BNSFとCSX、LA〜NJ間100時間の大陸横断インターモーダル列車を開始",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/intermodal/bnsf-and-csx-team-up-for-faster-coast-to-coast-domestic-intermodal-service/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "BNSFとCSXは、ロサンゼルス〜South Kearny（ニュージャージー）間を100時間で結ぶ大陸横断プレミアム・インターモーダル列車を10月5日に運行開始した。",
-      "2025年11月に設定した従来の連絡輸送ダイヤより26時間短縮し、週7日運行。列車記号はBNSF側がZ-LACNWH、CSX側（東行き）がI072。",
-      "基幹荷主は非公表だが沿線観測ではAmazonとされ、1日100本超のコンテナにJ.B. Huntなど他荷主分も加わり、1日あたり100台のトラック輸送を鉄道へ転換したという。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "More than 100 projects receive CRISI funding",
-    "title_ja": "米運輸省、CRISI補助金23億ドルを105件の鉄道事業に交付決定",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/more-than-100-projects-receive-crisi-funding/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "米運輸省・連邦鉄道局（FRA）は10月19日、CRISI（鉄道インフラ・安全改善）補助金として45州とワシントンD.C.の105件に総額23億ドルを交付すると発表した。",
-      "選定は368件・総額122億ドルの申請から行われ、採択件数が最も多かったのはテキサス州の8件だった。",
-      "2021年インフラ投資・雇用法（IIJA）に基づく最後のラウンドで、年10億ドルの事前充当を受けた2025・2026両年度分を合わせて配分した。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "4AI Systems Testing Onboard Sensor System at MxV Rail",
-    "title_ja": "4AI Systems、AAR委員会の選定でMxV Railの車載センサー試験に参加",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/cs/4ai-systems-testing-onboard-sensor-system-at-mxv-rail/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "AAR（米鉄道協会）のTCCO（列車制御・通信・運行）委員会は、4AI Systemsの車載センサーシステム「HORUS」を実証対象に選定した。",
-      "試験は11月にコロラド州のMxV Railで管理環境下の事前統合試験として実施され、招かれたサプライヤーは同社を含め3社のみとされる。",
-      "HORUSは走行中に物体を走査して位置・速度と危険個所を算出するもので、徐行運転時の進路確認と車両・人との衝突防止に向けた相互運用可能な解を探る取り組みの一環。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "US and Europe container spot rates begin to converge",
-    "title_ja": "Xeneta、米欧向けコンテナスポット運賃の格差縮小が始まったと指摘",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/us-and-europe-container-sport-rates-begin-to-converge",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "Xenetaは、アジア発米国向けと北欧州向けのスポット運賃の格差が持続不可能な水準にあり、縮小が始まったと指摘した。",
-      "直近1カ月で米東岸向けは1FEU当たり11,495ドル（▲0.1%）、米西岸向けは8,296ドル（▲0.2%）と伸びが止まり、北欧州向けは2,946ドル（前週比＋2.5%）、地中海向けは4,165ドル（＋3.2%）へ上昇した。",
-      "同社アナリストは、格差縮小は主に米国向け運賃の下落で進み、欧州向けの上昇による寄与は小さいとみている。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Czech and Slovak rail freight operators call for fewer borders on Europe's railways",
-    "title_ja": "チェコ・スロバキア貨物事業者、ETCS統一と国境障壁の撤廃を要求",
-    "source": "RAILMARKET.com",
-    "url": "https://railmarket.com/news/insights/64802-czech-and-slovak-rail-freight-operators-call-for-fewer-borders-on-europe-s-railways",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "スロバキアのAROSが10月8日にブラチスラバで開いた「Railway without Borders」会議で、チェコ・スロバキアの貨物鉄道事業者がETCS導入・工事計画・EU政策の調整強化を求めた。",
-      "チェコ側は、ERTMSを各国独自の追加条件なしに欧州全域で使える安定した製品とし、インターフェースの標準化と仕様変更の抑制を進めるよう要請した。",
-      "迂回運転には有効長・最大重量・牽引・ETCS搭載・車両限界・軸重の適合と国境駅の開放が必要だと指摘し、ŽESNAD.CZはチェコの鉄道貨物市場の約92%を代表するとしている。"
-    ],
-    "collected_at": "2026-10-20T13:22:25-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Blackstone closes fifth energy transition fund at $8.7bn hard cap",
-    "title_ja": "Blackstone、エネルギー転換5号ファンドを87億ドルでクローズ",
-    "source": "IPE Real Assets",
-    "url": "https://realassets.ipe.com/news/blackstone-closes-fifth-energy-transition-fund-at-87bn-hard-cap/10138995.article",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "Blackstoneが10月19日、Blackstone Energy Transition Partners V（BETP V）をハードキャップの87億ドルで最終クローズしたと発表した。",
-      "2025年2月にクローズした前身ファンド（56億ドル）を50%以上上回る規模で、Blackstone自身も1.5億ドルを出資している。",
-      "同ファンドは6月に投資期間に入り既に3つのプラットフォーム企業（Kindle、Fisterra、Viridon）へ投資済みで、同社はエネルギー転換投資で1997年以降34%のネットIRRを示している。"
-    ],
-    "collected_at": "2026-10-21T13:21:29-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Virginia Boosts Maximum Award for 'Truck Diversion' Grants",
-    "title_ja": "バージニア州、トラック転換補助の上限を100万ドルに引き上げ",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/regulatory/virginia-boosts-maximum-award-for-truck-diversion-grants/",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "バージニア州運輸委員会（CTB）の承認を受け、州公共交通局DRPTのRail Industrial Access（RIA）補助金の1件当たり上限が75万ドルから100万ドルへ引き上げられた。",
-      "RIAは荷主の側線・引込線整備を支援してトラック輸送を鉄道へ転換させる制度で、申請は年間を通じて随時受け付けられる。",
-      "DRPTによると同制度は2018年から2026年までに州と民間を合わせ3,800万ドル超の投資を呼び込み、15万台超のトラック輸送分を鉄道に転換した。"
-    ],
-    "collected_at": "2026-10-22T13:24:55-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "KKR to Sell Infinity Transportation to Ares for $2.9 Billion",
-    "title_ja": "KKR、貨車リースInfinityをAresに29億ドルで売却",
-    "source": "KKR",
-    "url": "https://media.kkr.com/news-details?news_id=d0c36c0d-89fa-403b-8f3a-346d93c0067f",
-    "published_at": "2026-10-19",
-    "summary_ja": [
-      "KKRが貨車・インターモーダル機材リースのInfinity Transportationを、Ares運用のAres Infrastructure EquityおよびAres Insurance Solutionsの各ファンドに売却することで合意した。",
-      "企業価値は約29億ドルで、規制当局の承認などを条件に2027年第1四半期の完了を見込む。",
-      "Infinityは米国・カナダ・メキシコの350社超に約5万両の貨車を賃貸しており、KKR傘下のGlobal Atlanticが2016年から出資、2021年以降にフリート簿価を150%拡大させていた。"
-    ],
-    "collected_at": "2026-11-06T06:23:49-08:00"
   }
 ]
