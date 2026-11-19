@@ -122,6 +122,96 @@
   {
     "category": "railcar_leasing",
     "kind": "news",
+    "title": "GATX Corporation: Form 8-K — GABX Leasing LLC Issuance of $500 Million 5.900% Senior Notes due 2032",
+    "title_ja": "GATX・Brookfield JV、5億ドルのシニアノートを発行",
+    "source": "SEC EDGAR (GATX Corporation)",
+    "url": "https://www.sec.gov/Archives/edgar/data/40211/000119312526467128/d174989d8k.htm",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "GATXとBrookfieldの合弁会社GABX Leasing LLCが11月18日、総額5億ドルの2032年2月18日満期シニアノートを発行したと8-Kで開示した。",
+      "表面利率は年5.900%、発行価格は額面の99.881%で、利払いは毎年2月18日と8月18日（初回は2027年2月18日）。",
+      "手取り概算4億9,510万ドルはクレジット契約下のタームローンの一部返済に充当され、ノートはGATXが無担保シニアベースで全額保証する。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Intramotev to develop first federally regulated case for autonomous rail cars",
+    "title_ja": "Intramotev、自動走行貨車で初の連邦規制下実績づくりへ",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/railprime/details/Intramotev-to-develop-first-federally-regulated-case-for-autonomous-rail-cars--78156",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "Intramotevが自走式貨車「TugVolt」をミズーリ州のColumbia Terminal Railroad（COLT）に投入し、自動走行貨車として初の連邦規制下での運行実績づくりに取り組む。",
+      "事業はFRAのCRISI補助金1,600万ドルで賄われ、初号車のColumbia到着は2027年前半から半ばが見込まれている。",
+      "構内入換から公道踏切を含む本線走行へ段階的に拡大し、FRAと全米600超の短距離鉄道が参照できる安全・性能記録を残すことが狙い。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific CEO’s ‘teach you a lesson’ remark echoes through UP-NS merger filings",
+    "title_ja": "UP社長の報復発言、UP-NS合併の意見書で繰り返し引用",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/union-pacific-ceos-teach-you-a-lesson-remark-echoes-through-up-ns-merger-filings/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "Union PacificのJim Vena CEOが2026年3月のSouthwest Association of Rail Shippers会合で述べた、合併に反対する荷主の料率を3〜4%上げるという発言が、STBへの合併意見書で繰り返し取り上げられている。",
+      "11月17〜18日にSTBへ提出された実質的な意見書60件のうち13件が同発言に直接言及し、さらに3件が会合名を挙げずに触れ、3件が発言と結び付けずに報復懸念を示した。",
+      "UPは「場当たり的な発言」、Vena氏自身は冗談と説明しているが、荷主の報復懸念が合併審査の論点として定着しつつある。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Hub Group backs UP-NS merger; Prime Inc. urges rejection, Honda raises competition concerns",
+    "title_ja": "Hub GroupがUP-NS合併を支持、Prime Inc.は却下を要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/hub-group-backs-up-ns-merger-prime-inc-urges-rejection-honda-raises-competition-concerns/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "国内インターモーダル2位のHub GroupがSTBに対し、UP-NS合併は混雑した高速道路からトラック輸送を鉄道へ移す助けになるとして支持を表明した。",
+      "Hubは西側をUP、東側をNSに寄せており、鉄道輸送量の約40%が両社間の接続を経るため合併の恩恵を受けやすいとPhillip Yeager CEOが説明した。",
+      "一方でトラック大手Prime Inc.は却下を求め、Hondaは競争への影響に懸念を示しており、荷主側の立場が分かれている。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Rail Freight Fraud: Organized Crime’s New Tactic?",
+    "title_ja": "組織犯罪が貨物列車を標的、業界はCORCA法案を支持",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/rail-freight-fraud-organized-crimes-new-tactic",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "南カリフォルニアのTehachapi Pass周辺で、低速走行中の貨物列車に乗り込み空気ホースを切断して列車を止め、消費財を投げ落とす組織的な貨物窃盗が問題になっている。",
+      "窃盗は下見役・侵入役・見張り役を使う高度に組織化された手口とされ、11月12日にはUnion Pacific鉄道警察の捜査中に発砲事件が起き、2人が逮捕された。",
+      "業界は法執行機関の連携強化を図る連邦法案CORCAを支持しており、成立すれば鉄道貨物の保安対応や貨物保険の前提にも影響しうる。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "MSC plans to triple capacity at its Aysaport transhipment hub",
+    "title_ja": "MSC、トルコのAsyaport積替拠点を400万TEUへ拡張",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/msc-plans-to-triple-capacity-at-its-aysaport-transhipment-hub/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "MSCが75%を出資するトルコ・テキルダーのAsyaportターミナルを拡張し、取扱能力を現在の275万TEUから年内に400万TEUへ引き上げる計画が報じられた。",
+      "外航バースは1kmから1.4kmへ延伸中で、隣接するフィーダー用バースは既に710mまで延長済み。残り25%はSoyuer Groupが保有する。",
+      "東地中海の積替能力が増えれば、同地域での空コンテナや積替待ち機材の滞留が緩和される可能性がある。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
     "title": "Private railcar owners ask STB for merger conditions to ensure competition",
     "title_ja": "NAFCA、UP-NS合併に競争維持の条件付与をSTBに要求",
     "source": "Trains",
@@ -268,6 +358,21 @@
       "一方で割り当てられる貨物列車枠と安定性の目標値は2033年まで2025年実績と同水準かそれ以下にとどまり、成長方針と整合しないとの批判が出ている。"
     ],
     "collected_at": "2026-11-18T13:22:19-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "ADB Partners with FAST-P and BlackRock to Mobilize Private Capital for Sustainable Infrastructure in Asia",
+    "title_ja": "ADB、BlackRock運用のアジア・インフラ債権ファンドに最大5,750万ドル",
+    "source": "Asian Development Bank",
+    "url": "https://www.adb.org/news/adb-partners-fast-p-and-blackrock-mobilize-private-capital-sustainable-infrastructure-asia",
+    "published_at": "2026-11-17",
+    "summary_ja": [
+      "ADBは、BlackRock傘下のGlobal Infrastructure Partnersが運用するEmerging Asia Infrastructure Credit Fund（EAICF）向けに、最大5,750万ドルの出資を取りまとめたと発表した。",
+      "内訳はADB自己資金が最大3,000万ドル、カナダのCANPAから最大1,000万ドル、Australian Climate Finance Partnershipから最大1,750万ドルで、後二者はADBが受託して運用する。",
+      "同ファンドは7.5億ドルの調達を目標とし、シンガポールMAS主導のブレンデッドファイナンス枠組みFAST-Pの一環として、東南アジア中心のグリーンフィールド/ブラウンフィールド案件にインフラ債権で投資する。"
+    ],
+    "collected_at": "2026-11-19T06:24:36-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4828,215 +4933,5 @@
       "同社のアフターマーケット買収は約1年で3件目（2025年12月 Carly Railcar Components、7月 Southern Parts & Equipment）で、経営陣は即時の利益貢献を見込むとしている。"
     ],
     "collected_at": "2026-11-03T06:23:21-08:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Antwerp-Bruges records highest TEU volumes since Q4 2020",
-    "title_ja": "Antwerp-Bruges港、第3四半期のコンテナ取扱が2020年以来の高水準",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/antwerp-bruges-records-highest-teu-volumes-since-q4-2020/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "ベルギーのAntwerp-Bruges港は、2026年第3四半期のコンテナ取扱が2020年第4四半期以来の最高水準に回復したと公表した。",
-      "1〜9月累計のコンテナ取扱はTEUベースで前年同期比1.2%増の1,020万TEUだった一方、総取扱トン数は0.6%減だった。",
-      "伸びをけん引したのは空コンテナで11.7%増、実コンテナは1.3%減と輸入超過による不均衡が拡大しており、空バンの偏在が続いていることを示す。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Maersk and Hapag-Lloyd reshape Asia–Europe network: Which ports gain or lose?",
-    "title_ja": "MaerskとHapag-Lloyd、Gemini網のアジア〜欧州航路で寄港地を再編",
-    "source": "Container News",
-    "url": "https://container-news.com/maersk-and-hapag-lloyd-reshape-asia-europe-network-which-ports-gain-or-lose/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "MaerskとHapag-Lloydの提携「Gemini」はアジア〜欧州航路の寄港地構成を見直し、港ごとに取扱が増減すると報じられている。",
-      "11月22日には新サービスAE18/SE5が、上海・厦門・タンジュンペレパスとアルヘシラス・タンジェメドを結ぶ形で開始される見込み。",
-      "アジア〜北欧州Loop1では欧州初寄港地がタンジェからロッテルダムに替わり、アジア〜地中海Loop4はダミエッタを追加し上海を南沙に置き換えるとされ、積替拠点の移動は空コンテナの配置にも影響しうる。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "PKP Cargo sells 106 old locomotives for just €6 million",
-    "title_ja": "PKP Cargo、退役機関車106両を約600万ユーロで売却",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/20/pkp-cargo-sells-106-old-locomotives-for-just-e6-million/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "ポーランドのPKP Cargoは、退役させた機関車106両を約600万ユーロで売却した。入札は2026年3月初めに公告されたもの。",
-      "売却対象はET22形100両超と改造型のST45・ST46形で、落札者は解体せず修繕して運用に復帰させることも可能とされる。",
-      "同社はさらに231両を売りに出し9月24日に新たな入札を開始。2025年6月に約7億ユーロの債務を対象とする裁判所手続きの再建計画を提出しており、資産売却はその一環。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Leasing firm's training centre explains tank wagons to chemical company staff",
-    "title_ja": "GATX Rail Europe、化学商社HELM向けにタンク貨車の実務研修を実施",
-    "source": "Railway Gazette International",
-    "url": "https://www.railwaygazette.com/research-training-skills/2026/10/20/leasing-firms-training-centre-explains-tank-wagons-to-chemical-company-staff/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "GATX Rail Europeは、ドイツ・レーテ（Lehrte）のGATX Training Academy Campusで、化学商社HELMの担当者向けにタンク貨車の技術研修を実施した。",
-      "研修ではGATXの保有車種の概要に続き、台枠・輪軸・懸架・緩衝器・ブレーキなどの主要部品、タンク車標記の読み方、連結器とDAC（デジタル自動連結器）までを扱った。",
-      "改造済みのタンク貨車を教材に使うことで工場の作業時間に制約されず実習でき、同社は他社の研修受け入れにも応じるとしている。"
-    ],
-    "collected_at": "2026-10-20T06:26:54-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "ERFA: European rail freight transport under pressure due to lack of funding and cross-border bottlenecks",
-    "title_ja": "ERFA、CEF予算11%削減案と国境ボトルネックに警鐘",
-    "source": "Railway PRO",
-    "url": "https://www.railwaypro.com/wp/erfa-european-rail-freight-transport-under-pressure-due-to-lack-of-funding-and-cross-border-bottlenecks/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "欧州鉄道貨物協会（ERFA）が、インフラ資金の不足と国境での障害により欧州の鉄道貨物輸送が圧迫されていると警告した。",
-      "2028〜2034年のCEF交通予算を458億ユーロから406億ユーロへ約11%削減する案に反対し、国境での待機が最大約20時間に達し、迂回路では列車重量1,200トン・長さ535mに制限される例を挙げた。",
-      "ルーマニアのGiurgiu Nord〜Ruse間は2027年末まで運休の可能性、セルビアのNiš〜Dimitrovgrad間は200日の閉鎖が予定されており、ERFAは工事の国際調整や線路使用料の減免・迂回費用の補填を求めている。"
-    ],
-    "collected_at": "2026-10-20T13:22:25-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Foundation Credit closes second infra fund on $540m",
-    "title_ja": "Foundation Credit、2号インフラ債務ファンドを5.4億ドルでクローズ",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/foundation-credit-closes-second-infra-fund-on-540m-exclusive/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "米インフラ債務運用会社Foundation Creditが、2号ファンド「Foundation Infrastructure Debt Fund II」を5億4,000万ドルでクローズした。",
-      "当初目標の5億ドルを上回る調達で、米国内のミドルマーケット向け・地域インフラ向けのデットに投資するファンドとされる。",
-      "同社は10月14日にNew Holland Capitalが過半数株式を取得したばかりで、CEOのHector Negroniが引き続き運用と日々の経営を統括するとみられる。"
-    ],
-    "collected_at": "2026-10-20T13:22:25-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Maersk updates containerised vehicle booking requirements",
-    "title_ja": "Maersk、コンテナ輸送車両の予約・引受要件を改定",
-    "source": "Container News",
-    "url": "https://container-news.com/maersk-updates-containerised-vehicle-booking-requirements/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "MaerskがIMDGコード改正42-24で電池駆動車両に専用のUN番号が設けられたことを受け、コンテナで運ぶ車両の予約・引受要件を改定した。",
-      "対象は新車・中古車・損傷車両で、乗用車やバイク、e-bike、e-scooter、ボート、フォークリフト、ゴルフカート、航空機まで含まれる。",
-      "損傷車両はコモディティコード004609で予約する必要があり、損傷した電気自動車は引受前に追加審査を求められる場合があるなど、危険物該当性は動力源と状態で判断される。"
-    ],
-    "collected_at": "2026-10-20T13:22:25-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "FreightCar America Advances Aftermarket Growth Strategy with Third Acquisition in Less Than a Year",
-    "title_ja": "FreightCar America、ミシガン州の貨車部品会社を買収",
-    "source": "GlobeNewswire (FreightCar America)",
-    "url": "https://www.globenewswire.com/news-release/2026/10/20/3384984/0/en/freightcar-america-advances-aftermarket-growth-strategy-with-third-acquisition-in-less-than-a-year.html",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "FreightCar Americaは10月20日、ミシガン州Norton Shoresに拠点を置くTrinity Equipment Company（TEC）の買収を発表した。",
-      "TECはOEM向けおよび補修用の貨車部品と締結具を供給する事業者で、今回が同社にとって1年未満で3件目のアフターマーケット買収となる。",
-      "同社は2025年12月にCarly Railcar Components、2026年7月にSouthern Parts & Equipmentを取得済みで、統合的なアフターマーケット基盤の規模拡大を長期成長戦略の柱に据えている。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Intramotev autonomous freight cars to participate in testing funded by CRISI grant",
-    "title_ja": "Intramotev、FRA承認の自律貨車試験にTugVolt 2両を投入",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/short-lines-regionals/intramotev-autonomous-freight-cars-to-participate-in-testing-funded-by-crisi-grant/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "自律貨車開発のIntramotevが、ミズーリ州コロンビア市に交付されたCRISI補助金1,620万ドルの技術パートナーになると発表した。",
-      "同社はコロンビア〜セントラリア間21.4マイルの市営鉄道Columbia Terminal Railroad（COLT）にTugVolt自律貨車2両を投入し、遠隔入換の試験も行う。",
-      "FRAが承認した試験計画に基づき段階的に運行を拡大し、自律貨車運行に関する初の安全プログラム文書化と要員訓練カリキュラム策定、線路改良も補助対象となる。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "NTSB releases preliminary report on Michigan switching fatality",
-    "title_ja": "NTSB、ミシガン州の入換作業死亡事故で予備報告書を公表",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/ntsb-releases-preliminary-report-on-michigan-switching-fatality/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "NTSBは、9月21日にミシガン州グランドラピッズの生コン工場High Grade Materials Co.で起きた入換作業中の死亡事故に関する予備報告書を公表した。",
-      "事故は午前10時27分、2名編成がTrackmobileで積車5両を留置線から積込線へ移動中に発生し、地上で監視役を務めていた同社従業員が複数の貨車に轢かれて死亡した。",
-      "運転者によると最後の無線交信で監視役は手ブレーキを扱うと伝えていた。NTSBは見通し距離の観測と事故再現、近隣のセメント輸送車両の前方映像の確認を進めている。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "AllianzGI beats target to close global infra fund above EUR1bn",
-    "title_ja": "AllianzGI、インフラファンドIIIを10億ユーロ超でクローズ",
-    "source": "Infrastructure Investor",
-    "url": "https://www.infrastructureinvestor.com/allianzgi-beats-target-to-close-global-infra-fund-above-e1bn/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "報道によれば、Allianz Global Investors（AllianzGI）はグローバル分散型インフラ株式ファンド第3号（AGDIEF III）を目標を上回る10億ユーロ超でクローズした。",
-      "AGDIEF IIIは2025年8月に初回クローズし、2026年5月には関連ビークルを含め約10億ユーロの3回目のクローズを公表、AGDIEFシリーズ全体の調達額は30億ユーロを超えている。",
-      "投資対象はエネルギー・通信・輸送に加え社会・環境インフラで、ファンド投資・コインベスト・セカンダリーを組み合わせて地域とセクターを分散する方針を掲げる。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "FRA allocates $2.3 billion in funding for US rail infrastructure",
-    "title_ja": "FRA、CRISIで105件・23億ドルの鉄道整備補助を決定",
-    "source": "Railway News",
-    "url": "https://railway-news.com/fra-allocates-2-3-billion-in-funding-for-us-rail-infrastructure/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "米連邦鉄道局（FRA）はCRISI補助制度で貨物・旅客鉄道の105事業を選定し、約23億ドルの連邦資金を配分すると発表した。",
-      "対象はアラスカを含む45州にまたがり、非連邦側のマッチング拠出約19億ドルを加えた事業規模は合計約42億ドルとなる。",
-      "線路の改修・橋梁更新・容量増強などが対象で、選定事業により2,000マイル超の軌道が改良される見込みで、貨車の運行条件にも影響しうる。"
-    ],
-    "collected_at": "2026-10-24T06:21:37-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Antwerp-Bruges container throughput rebounds as empty volumes surge",
-    "title_ja": "Antwerp-Bruges港、空コンテナ11.7%増で四半期取扱が6年ぶり高水準",
-    "source": "Container News",
-    "url": "https://container-news.com/antwerp-bruges-container-throughput-rebounds-as-empty-volumes-surge/",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "Port of Antwerp-Brugesは第3四半期のコンテナ取扱が2020年第4四半期以来の高水準に回復したと発表した。",
-      "1〜9月のコンテナ取扱はTEUで1.2%増だが、空コンテナが11.7%増と伸びた一方で実入りコンテナは1.3%減と、増加分は空コンテナが占めた。",
-      "同港は輸入増と輸出低迷により主にアジア向けの空コンテナ回送需要が高まったと説明しており、欧州発の機材偏在と回送コストの圧力を示す。"
-    ],
-    "collected_at": "2026-10-24T06:21:37-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "DB Cargo UK sale raises fears over jobs and assets",
-    "title_ja": "DB Cargo UK売却、雇用と機材資産の行方に懸念",
-    "source": "RailFreight.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm04NXUtMkFuWDFjWnI0NWp0U0pCQnkwcXBDOGgwTGx3QWZXZmJrZHNPcmFUWk1JVVdndTBBYUwxZXExMG9CaDRCWEVTeVp0N09vQjBmWkc2QVF6VTRSMzRzaHVxRHk0NDZLTzVhbDlnRlBtWjJ5ZGJUa2N1RmVpY2pQU2tLUnZydzBncmc1RVFvVkNPRTJXVTlLeTJ5SHk3MlFCQQ?oc=5",
-    "published_at": "2026-10-20",
-    "summary_ja": [
-      "Deutsche Bahnが中欧事業への集中のため進めるDB Cargo UKの売却手続きで、雇用と保有資産の行方に懸念が出ていると報じられた。",
-      "同社は英国で約2,150人を雇用し、ディーゼル・電気機関車228両に加え貨車や車両整備事業を保有する。",
-      "労組TSSAは強制解雇を行わない保証を求めており、英政府も従業員の懸念を理解すると表明している。"
-    ],
-    "collected_at": "2026-10-25T06:25:03-07:00"
   }
 ]
