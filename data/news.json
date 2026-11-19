@@ -1,5 +1,50 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Red Sea returns are rewriting carrier reliability, not just transit times",
+    "title_ja": "紅海復帰でアジア欧州航路の定時性が再編、2027年契約の焦点に",
+    "source": "Container News",
+    "url": "https://container-news.com/red-sea-returns-are-rewriting-carrier-reliability-not-just-transit-times/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "MaerskとHapag-Lloydは共同運航のインド-欧州航路ME1を11月からスエズ経由に戻し、初便をSalalah発11月4日、Tangier発11月13日に設定した。",
+      "Hapag-Lloydは11月17日、Gemini提携の他3航路（NE1・NE2・NE3）もスエズ経由に復帰させると発表した。",
+      "スエズ経由は喜望峰回りより航海日数が短い一方、到着時刻の安定性が改善するかは不透明で、2027年の契約交渉では定時性と機材回転が判断材料になる。"
+    ],
+    "collected_at": "2026-11-19T13:25:24-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Poland completes rebuild of freight loading points with military mobility funds",
+    "title_ja": "ポーランドPLK、軍民両用の貨物積込4駅の改良を完了",
+    "source": "RailFreight.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXNjTnhpMlIwR0Rwa2NISUQyR0dLZERLdkV3YXo0OE93bXF3RXRXX25qVTVJQUtoYXp5eHlLcTlLaUc0T2l5MDlEcXhSQzNBSmFaa3lJQ1FvRzVUM2NZalFuckplN0xscW9rbUJJVGsyNkZHZDhsclF5d3dtMVdHZHJPWWR5dFNZWHNzTDc5SVgtWEJEQmQ4TXdCTDlQR0NwS1g4TW4wMHNjeVJsYzBwZzVxcnBNaUJ1a0l3MTNQai14SzNfNUppSkZ6UQ?oc=5",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "PKP PLKはTEN-T網上の積込施設整備事業で、Bierzwnik、Brzezinka Średzka、Oława、Nasielskの4駅の工事を完了した。",
+      "事業費は約2,500万ズロチ（約580万ユーロ）で、EUのCEF軍事機動性資金とポーランドの非軍事防衛準備予算が原資となっている。",
+      "積込ランプ・取付線・照明を改良し、骨材や木材などの一般貨物と軍事輸送の双方に対応する。計画全体では13カ所が対象で、次はヴロツワフのPraczeとKuźnikiを予定する。"
+    ],
+    "collected_at": "2026-11-19T13:25:24-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "regulatory",
+    "title": "ECB to step up scrutiny of banks' private credit exposures",
+    "title_ja": "ECB、銀行のプライベートクレジット向け与信を重点検査へ",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/19/ecb-to-step-up-scrutiny-of-banks-private-credit-exposures/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "ECBは11月19日公表の2027〜29年の監督重点方針で、銀行のプライベートクレジット・ファンドやノンバンク向けエクスポージャーの検査を強化すると表明した。",
+      "新たな現地検査では、ファンド向けファイナンス、資産担保貸付（ABL）、実物資産に投資するファンドへの与信が重点対象となる。",
+      "ECBは銀行とノンバンクの結びつきの拡大が市場ストレス時のリスクを高めると警告しており、設備・輸送機材リースの資金調達環境にも影響しうる。"
+    ],
+    "collected_at": "2026-11-19T13:25:24-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "Two injured in CN derailment in British Columbia",
@@ -208,6 +253,21 @@
       "東地中海の積替能力が増えれば、同地域での空コンテナや積替待ち機材の滞留が緩和される可能性がある。"
     ],
     "collected_at": "2026-11-19T06:24:36-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "State DOTs express merger concerns",
+    "title_ja": "NY州運輸局、UP-NS合併に反対 NJ・ミシガンも条件要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/state-dots-express-merger-concerns/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "ニューヨーク州運輸局は11月18日、UP-NS合併は「少なくとも4つの点で公益を損なう」としてSTBに反対意見を提出した。",
+      "ニュージャージー州とミシガン州の運輸局は、合併申請の情報開示が不十分だとして不満を示した。",
+      "3州はいずれも承認する場合は広範な条件を課すよう求めており、先行提出のメリーランド州はボルチモア港と短距離鉄道の保護を中心に主張していた。"
+    ],
+    "collected_at": "2026-11-19T13:25:24-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -523,6 +583,36 @@
       "Nomura は既存の証券化・プライベートクレジット事業と販売網を、Aventus はクレジット審査と資本管理を担う分担で、同社の証券化・プライベートクレジット責任者 Gordon Sweely は顧客向けの個別設計型ファイナンスの強化と位置付けている。"
     ],
     "collected_at": "2026-11-17T13:22:25-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "50% Spike: Spot Rates SOAR Earlier Than Expected",
+    "title_ja": "トラックのスポット運賃が前年比5割高、鉄道転換を後押し",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/50-spike-spot-rates-soar-earlier-than-expected",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "全米トラックロードのスポット運賃は11月16日時点で1マイル3.56ドルとなり、前年同期の2.32ドルから約5割上昇した。",
+      "Sonarの入札拒否率は12.85%で前年のほぼ2倍、受託物量は前年並みにとどまり、南カリフォルニアなど一部地域で車両供給の逼迫が強まっている。",
+      "軽油価格は10月下旬から約3.5%下落しており、運賃上昇は燃料要因ではなく供給制約によるもので、料率が安定する鉄道・複合輸送への転換圧力となる。"
+    ],
+    "collected_at": "2026-11-19T13:25:24-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "HHLA and Port of Hamburg post lower throughput in first nine months of 2026",
+    "title_ja": "HHLA、1〜9月のコンテナ取扱が7.3%減の444.6万TEU",
+    "source": "WorldCargo News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEluMTB6bzJtTTZPUkxrcHZzYzllWjJNYkdUZkhBMllFTmRiVU9OM2xyYi02T0w1RUlHUmFoVGk4OWJQTmdNbzdLcTAyeXprXzBUQTkyQk0zOXVvZ1ZPY2ZhUlh6T05xYzY5YlZVREhmQ1BGbHJUb3V1eWhhTl9uWk5DYjhNZEVjdDVNcUJHbUhVemdndkNULXlGTUMtQkZid251bUlSN0t1VS1xWWpmZjlWOWh3YWNDYWpaVA?oc=5",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "HHLAの1〜9月のコンテナ取扱量は前年同期比7.3%減の444.6万TEUとなり、ハンブルクの各ターミナルは7.7%減の420.0万TEUだった。",
+      "海外ターミナルも1.6%減の24.6万TEUとなった一方、鉄道を含む複合輸送の取扱量は0.5%増の150.9万TEUと底堅さを保った。",
+      "減少はターミナル自動化工事とストライキによる混乱が主因で、同社は港湾物流部門の通期見通しを「小幅減」から「大幅減」へ引き下げた。"
+    ],
+    "collected_at": "2026-11-19T13:25:24-08:00"
   },
   {
     "category": "container_leasing",
