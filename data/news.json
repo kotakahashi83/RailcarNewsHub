@@ -47,6 +47,81 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "Union Pacific CEO apologizes for rate remark",
+    "title_ja": "UP、CEOの運賃発言をSTBに正式謝罪",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/union-pacific-ceo-apologizes-for-rate-remark/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "Union Pacific は11月19日、合併を支持しない荷主には運賃で報いるとも受け取れるCEOの発言について、STB(陸上運輸委員会)への提出書面で正式に謝罪した。",
+      "この書面は、同発言を理由に CPKC が UP-NS 合併審査の打ち切りを求めた申立てに対する反論として提出された。",
+      "UPは発言が文脈から切り離して伝えられたとの立場を維持しているが、発言は合併審査の提出書類で繰り返し取り上げられ、荷主側の反対論の材料となっている。"
+    ],
+    "collected_at": "2026-11-20T06:24:06-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Sea-Intelligence: NAWC Import Growth at 17.6% in September",
+    "title_ja": "北米西岸、9月の実入り輸入が17.6%増で過去最高",
+    "source": "Container News",
+    "url": "https://container-news.com/sea-intelligence-nawc-import-growth-at-17-6-in-september/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "Sea-Intelligence によると、北米西岸(NAWC)の9月の実入り輸入は145万TEUに急増し、前年同月比17.6%増となった。",
+      "7月が前年比3.9%減と低迷した反動で伸び率は誇張されているものの、9月単月としては2024年の記録を上回る過去最高水準となった。",
+      "2026年第3四半期のNAWC取扱量は前年比2.6%増の832万TEUで、空コンテナ輸出は1.1%増の267万TEUと伸びが鈍く、機材回送の偏在が続いていることを示す。"
+    ],
+    "collected_at": "2026-11-20T06:24:06-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Asia-Europe capacity returns via Suez – but security concerns remain",
+    "title_ja": "アジア欧州航路、船腹6割がスエズ経由に回帰",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-asia-europe-capacity-returns-via-suez-but-security-concerns-remain/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "Drewry の Red Sea Diversion Tracker によると、11月15日までの週にスエズ運河を通航したコンテナ船は双方向計57隻で、前年同週比73%増となった。",
+      "アジア-欧州航路の船腹の60%がスエズ経由に戻り、週50隻超の通航は7週連続となっている。",
+      "喜望峰経由は同週126隻と1月以来の最低水準に減少したが、紅海の安全面の懸念は残り、航路選択は不安定なままとされる。"
+    ],
+    "collected_at": "2026-11-20T06:24:06-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Splash Ports latest: Liner giants go shopping, Panama’s port war escalates and Durban battles gridlock",
+    "title_ja": "船社のターミナル買収が加速、Durbanは滞貨深刻",
+    "source": "Splash247",
+    "url": "https://splash247.com/splash-ports-latest-liner-giants-go-shopping-panamas-port-war-escalates-and-durban-battles-gridlock/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "Alphaliner の調査では、2026年1〜10月にコンテナ船社によるターミナル出資案件が15件超、成立または交渉中となった。",
+      "MSC は BlackRock と組んだ CK Hutchison 港湾事業の228億ドル取得を進めつつ各地でターミナル権益を取得し、Hapag-Lloyd も27ターミナルに関与している。",
+      "背景には混雑下での接岸枠確保があり、南アフリカ Durban では滞貨が悪化、パナマでは CK Hutchison との対立が刑事手続きに発展している。"
+    ],
+    "collected_at": "2026-11-20T06:24:06-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Bi-mode locomotives to be ordered amid lukewarm response to French night train fleet renewal tenders",
+    "title_ja": "Alpha Trains、仏夜行向け機関車27両を4億ユーロで受注へ",
+    "source": "Railway Gazette International",
+    "url": "https://www.railwaygazette.com/night-trains/2026/11/19/bi-mode-locomotives-to-be-ordered-amid-lukewarm-response-to-french-night-train-fleet-renewal-tenders/",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "フランス政府は夜行列車(TET)向けに、リース会社 Alpha Trains を通じて Stadler EuroDual 電気ディーゼル機関車27両を発注することで合意した。",
+      "契約規模は4億ユーロで納入は2030年から、運輸省による最終承認が条件となっている。",
+      "2025年2月に始まった車両更新の入札にはリース会社1社しか応札せず、牽引客車の更新は予算・時期の条件が合わず合意に至らなかった。"
+    ],
+    "collected_at": "2026-11-20T06:24:06-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "Two injured in CN derailment in British Columbia",
     "title_ja": "CN、BC州Terrace西で脱線し乗務員2人が負傷",
     "source": "Trains",
@@ -1273,6 +1348,21 @@
       "品目別では追跡20区分のうち15が前年を上回り、AARはトラックからの転移にとどまらない産業全体の底堅さを示すとみている。"
     ],
     "collected_at": "2026-11-15T13:23:32-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Rail-car repair update: The quest to extend the asset lifecycle",
+    "title_ja": "貨車の寿命延長、補修と部品再生に関心集まる",
+    "source": "Progressive Railroading",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFAtLXYxRFFoWEE1X2dmY2lnNEpiNzFPODZUNHl0aE9Edk5YR1RyRXFwR2t0RG9IRHRxcjJFNVFXYzhFclZsYUFycDQ2ZGptUW9nbG80Z0JaeDBad0l3eVozaHd5bzhFZm1NUmVYODVRWU9ZWV9qMXk2SHNfWVVheWE2UkN6d055Z2JHX1ZRQnV0ZGMyME1GMkhJbWNZaG1MSHVTS2M4WXJxaE9MajJlT01NTDhndko3WTVaQmRqX2g0N1hyZ1E?oc=5",
+    "published_at": "2026-11-11",
+    "summary_ja": [
+      "Progressive Railroading が貨車補修の最新動向を特集し、新造が伸び悩むなかで既存車両の資産寿命をいかに延ばすかが保有者・リース会社の課題になっていると報じた。",
+      "補修業者は輪軸や連結器といった主要部品を再生することで、新品部品を調達せずに性能を回復できると説明しているとされる。",
+      "海外からの新品部品は納期が長期化する一方、部品再生なら3〜5日程度で完了する例もあるとされ、稼働率を重視するリース事業者には現実的な代替手段になりつつある。"
+    ],
+    "collected_at": "2026-11-20T06:24:06-08:00"
   },
   {
     "category": "container_leasing",
@@ -4798,230 +4888,5 @@
       "Siemensは同拠点をVectron整備のコンピテンスセンターと位置づけており、年内にさらに2両、2027年には6両のオーバーホールが計画されている。"
     ],
     "collected_at": "2026-11-07T06:24:37-08:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "earnings",
-    "title": "Wabtec Reports Strong Third Quarter 2026 Results",
-    "title_ja": "Wabtec、3Q26は増収増益で通期EPS見通しを上方修正",
-    "source": "SEC EDGAR (Wabtec)",
-    "url": "https://www.sec.gov/Archives/edgar/data/943452/000094345226000017/a3q26pressreleaseword.htm",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "2026年第3四半期の売上高は31億2,000万ドルで前年同期比8.1%増、GAAP希薄化後EPSは2.42ドル（同33.7%増）となった。",
-      "調整後希薄化後EPSは2.83ドルで22.0%増、営業キャッシュフローは4億5,500万ドル、総受注残は約314億ドル（約23%増）、12カ月受注残は89億9,000万ドルに拡大した。",
-      "通期の調整後EPS見通しを10.85〜11.05ドルへ引き上げて幅を狭めた一方、売上高見通しは123億〜126億ドルで据え置き、売上が市場予想を下回った点が報道で指摘されている。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "The empty container problem isn't a shortage. It's a data problem.",
-    "title_ja": "空コンテナ偏在の主因は不足ではなくデータ不足との分析",
-    "source": "Container News",
-    "url": "https://container-news.com/the-empty-container-problem-isnt-a-shortage-its-a-data-problem/",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "Container Newsは、足元の空コンテナ問題の本質は絶対的な機材不足ではなく、機材の所在と需給を把握するデータの欠如にあると指摘した。",
-      "紅海回避により実質船腹が約12%失われ減速航行がさらに約2%を吸収したとMPC Container ShipsのConstantin Baack CEOは述べ、2026年初の係船率は世界船隊の0.6%にとどまった。",
-      "船腹が満杯近くで稼働すると機材側の緩衝が消え、前倒し出荷時に箱不足だったターミナルが数週間後には保管料やデマレージを払う余剰を抱えるなど、偏在の振幅が大きくなっている。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Freightos Weekly Update: Red Sea container traffic set for full return in Q1",
-    "title_ja": "Freightos、紅海のコンテナ航行は来年1Qに完全復帰と予測",
-    "source": "Container News",
-    "url": "https://container-news.com/freightos-weekly-update-red-sea-container-traffic-set-for-full-return-in-q1/",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "Freightosの週次レポートは、コンテナ船の紅海回帰が進み、来年第1四半期には紅海経由の輸送が完全復帰するとの見通しを示した。",
-      "イランはホルムズ海峡周辺での攻撃頻度を高め、前週にはイランの飛翔体がドバイ系のコンテナ船を沈没させたが、同海峡の通航は依然タンカーが中心とみられる。",
-      "中東の原油輸出が戦前水準に近づく一方で原油価格は1バレル約100ドルの高値圏にとどまり、フーシ派とサウジの衝突も激化するなかで船社は紅海復帰を進めている。"
-    ],
-    "collected_at": "2026-10-21T06:24:34-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "earnings",
-    "title": "CSX Corp. Announces Third Quarter 2026 Results",
-    "title_ja": "CSX、3Q26は売上高40.2億ドルで過去最高・EPS54%増",
-    "source": "SEC EDGAR (CSX Corporation)",
-    "url": "https://www.sec.gov/Archives/edgar/data/0000277948/000027794826000039/pressrelease_q32026.htm",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "CSXが10月21日に2026年第3四半期決算を発表し、売上高は過去最高の40.2億ドル（前年同期比12%増）となった。",
-      "営業利益は15.7億ドルで44%増、営業利益率は880bp改善して39.1%、希薄化後EPSは0.57ドルで54%増。",
-      "輸送量は約169万ユニットで5%増（インターモーダルは7%増）。前年同期に1.64億ドルののれん減損があったため、調整後比較では営業利益25%増・EPS30%増となる。"
-    ],
-    "collected_at": "2026-10-21T13:21:29-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CSX eliminates more than 100 management positions",
-    "title_ja": "CSX、保線部門再編で運行管理職109ポジションを削減",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/csx-eliminates-more-than-100-management-positions",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "CSXがエンジニアリング（保線）機能の再編に伴い、運行管理職109ポジションを削減した。",
-      "対象者のうち58人には運行部門内の別職務が提示され、51人には退職パッケージが提示された。",
-      "同社は2026年1月にも非組合員の約5%に相当する管理職166人を削減しており、今春示した組織再編方針の継続とされる。"
-    ],
-    "collected_at": "2026-10-21T13:21:29-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR: U.S. Rail Traffic Rises 8.5% in Week Ending Oct. 17",
-    "title_ja": "米鉄道輸送量、10月17日週は8.5%増の54万ユニット",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/freight/class-i/aar-u-s-rail-traffic-rises-8-5-in-week-ending-oct-17/",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "AARが10月17日までの週の米国鉄道輸送量を公表し、合計54万135ユニットで前年同週比8.5%増となった。",
-      "内訳は貨車輸送が23万2,120件で3.5%増、インターモーダルが30万8,015ユニットで12.6%増。",
-      "主要10品目のうち9品目が増加し金属鉱石・金属が2,946件増で牽引。年初41週累計では貨車2.7%増・インターモーダル4.6%増と、増勢が続いている。"
-    ],
-    "collected_at": "2026-10-21T13:21:29-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "TOUAX to acquire initial fleet of AELER Unit One composite containers under long-term lease deal",
-    "title_ja": "Touax、AELERの複合材コンテナを長期リースで初期導入",
-    "source": "Container Management",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTS1LcldMWDIwbVlEdXdndUp6QVdEcFJ1ZWp4OG5iNnhsWjAzbW1uRjhkQTg3SWZ3TXRiY3VKZzR6UHNlYktjM09BcmJRVWw5SmxXUEdqYlBuV0gxS1k3VTFXSUNXRl84UjhFdU1LSi1pYUtNbk4wQ01faThTMkdYb1REOWJrVk1sZkFNYldQcVNTVDFIVk1ZOUxwM2NsSGlIRDh1YQ?oc=5",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "Touaxが、スイスAELERの複合材コンテナ「Unit One」の初期フリートを長期リース契約で取得すると報じられた（規模・料率は非開示）。",
-      "Unit Oneはガラス繊維複合材製で標準寸法を保ちつつ積載量・強度・断熱性を高めた箱型で、AELERはCO2排出を約20%、燃料消費を約4%削減できるとしている。",
-      "Touaxはコンテナ部門の2026年上期売上が3,450万ユーロへ減少する一方、トレーディング台数を年1万6,000本から2万8,000本へ拡大し長期リースのフリートを増やす方針を示していた。"
-    ],
-    "collected_at": "2026-10-21T13:21:29-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Virginia Retirement commits $300m to Castlelake asset-based private credit fund",
-    "title_ja": "Virginia州退職年金、Castlelakeの資産担保型私募債に3億ドル",
-    "source": "IPE Real Assets",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3VaaERNN1c0ekhvcG51RUhLRVVURzJEbm9xdE5pVGtiVUVreWRKVlZ5YjFYSlE4TXZQTFp5aXBEaW1ienBjTjRJQW4yRHZGYUI2b1l6QmN5SERqX1VlSHBCeWhHdXZ2eVpSd1V6dzBoQm96RVhYOGt6VUtUMnR1NEdWMGVMQjk4RjF1clpXV1V4cFVsRnVpTmk4eFVRd1B4anVFQjFSUGMyWjdmaTUtdDlRQXZ0NTR0NmpHNnpHdw?oc=5",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "米Virginia Retirement System（VRS）が、Castlelakeの資産担保型プライベートクレジット・ファンドに3億ドルをコミットしたと報じられた。",
-      "VRSは2024年6月にもCastlelakeの資産担保型私募クレジット3号へ2.5億ドルを配分しており、同運用会社との取引を積み増した形となる。",
-      "Castlelakeは航空機など輸送機材を中心とした実物資産担保の与信を手がけており、機関投資家の資産担保ファイナンス（ABF）への配分拡大を示す動きといえる。"
-    ],
-    "collected_at": "2026-10-21T13:21:29-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "BNSF route to El Paso closed by derailment",
-    "title_ja": "BNSF、洪水に伴う脱線でEl Paso線区が閉鎖",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/bnsf-route-to-el-paso-closed-by-derailment/",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "BNSFのEl Paso Subdivisionが、10月20日早朝にニューメキシコ州Leasburgで起きた亜麻仁を積んだ列車の脱線により閉鎖された。",
-      "同社は原因を地域の大規模な洪水と説明し、負傷者や危険物の流出はなく、脱線した貨車数は公表していない。",
-      "復旧は10月22日正午ごろまでかかる見込みで、現場はLas Crucesの北約11マイル、El Pasoの北約54マイルに位置する。"
-    ],
-    "collected_at": "2026-10-22T06:29:05-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "personnel",
-    "title": "IFM Investors Announces Leadership Changes to Its Infrastructure Business in North America",
-    "title_ja": "IFM Investors、北米インフラ投資責任者にKulper氏を起用",
-    "source": "Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3NaQzZieFR3TEJ5OGhoanFuRU1jaFBORUhGdXdRWWh6YUhYclo0alY4RjB4TUhrUEhKdjFpaWNNWEFid1daNy11SmJPNUpHQTA5QlNrX0JlaS13OEF3ZnNyc1VERy1Cc2RlekV6dHlBbVJfX1BEcGg4akZsM2xHRlJERWhjS2RKYVlILXlUNWE3YkJqUkVoRWRfU3g0UldldjExcGVRSQ?oc=5",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "IFM Investorsは北米インフラストラクチャー部門の責任者にMichael Kulper氏を起用すると発表した。",
-      "同氏は北米のインフラ・エクイティ投資の成長戦略を統括し、18年にわたり同職を務めたJulio Garcia氏の後任となる。",
-      "Garcia氏は同社の投資委員会に移り、Kulper氏はTransurbanの北米有料道路事業を率いた後2013年からIFMに在籍している。"
-    ],
-    "collected_at": "2026-10-23T06:29:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "The Government of Canada invests $254 million to support trade diversification and increase trade capacity in the Saint John Trade Corridor",
-    "title_ja": "カナダ政府、Saint John 貨物回廊に最大2.54億加ドルを投資",
-    "source": "Transport Canada",
-    "url": "https://www.canada.ca/en/transport-canada/news/2026/10/the-government-of-canada-invests-254-million-to-support-trade-diversification-and-increase-trade-capacity-in-the-saint-john-trade-corridor.html",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "連邦政府は Trade Diversification Corridors Fund を通じ、Saint John 貨物回廊の整備に最大2.54億加ドルを拠出すると発表した。",
-      "総事業費は約4.63億加ドルで、ニューブランズウィック州が1.165億加ドル、港湾当局や New Brunswick Southern Railway などの事業者が計9,250万加ドルを負担する。",
-      "中核事業は NBSR 線路103kmのロングレール化（本線速度64km/h化）と浚渫・Simms Corner 改修・CBSA コンテナ検査施設の新設で、Port Saint John のコンテナ能力を年85万〜100万TEUに引き上げる狙い。着工は2027年春の予定。"
-    ],
-    "collected_at": "2026-10-23T13:23:38-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "personnel",
-    "title": "CSX eliminates more than 100 management positions",
-    "title_ja": "CSX、エンジニアリング再編で管理職109ポストを削減",
-    "source": "FreightWaves (Yahoo Finance 経由)",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3NzV2U0MXQ3d3lGTllJd3RXdVJObWRscVZOemNLM0RaVXdkWEJTYk9KS3EtUjZsV3dhbEZXSkd0cThzbVJ1NWtHR3Y1cnBDcWNiMWxaQ2ZjMGNadHZHZGtuMGhFQkFuLW9QS2wwV1Rnc01MQnZFQng2NXVNMHFnV3M1ejhyajFfUVVrMUs2Sld6UGlhMjcxN19oYUZZd1hW?oc=5",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "CSXはエンジニアリング部門の再編にともない、運行管理部門の管理職109ポストを削減したと報じられた。",
-      "対象者のうち58人には運行部門内での新たな職務が提示され、51人には退職パッケージが提示されたという。",
-      "同社は2026年1月にも管理職の約5%に当たる166ポストを削減しており、今回の再編は第3四半期決算やCory最高執行責任者の退任発表と同時期に重なった。"
-    ],
-    "collected_at": "2026-10-24T06:21:37-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Autonomous railcar technology earns $16M federal grant",
-    "title_ja": "Intramotev、自律貨車実証に1,620万ドルの連邦補助金",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/autonomous-railcar-technology-earns-16m-federal-grant",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "FRAのCRISI補助金がミズーリ州コロンビア・ターミナル鉄道（COLT）の近代化事業に交付され、Intramotevが技術パートナーとして自律貨車を投入する。",
-      "補助額は1,620.7万ドルで事業総額2,082.7万ドル、Centralia〜Columbia間21.4マイルにTugVolt自律貨車2両を導入する。",
-      "FRA承認の試験プログラムの下、ターミナル構内の遠隔入換から踏切を含む本線での自律運行へ段階的に拡大する計画。"
-    ],
-    "collected_at": "2026-10-28T06:36:23-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "IFM Investors acquires majority stake in Associated British Ports",
-    "title_ja": "IFM、英ABPの過半数株式を約100億ポンドで取得へ",
-    "source": "IPE Real Assets",
-    "url": "https://realassets.ipe.com/news/ifm-investors-acquires-majority-stake-in-associated-british-ports/10139029.article",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "IFM Investors が運用するファンドが、英最大の港湾運営会社 Associated British Ports（ABP）の株式63.9%を取得することで合意した。",
-      "売却するのはカナダの年金運用 CPP Investments（33.9%）と OMERS（30.0%）で、取引額は非開示ながら英FTは100億ポンド超と推定している。",
-      "取引は株主および規制当局の承認を前提に2027年前半の完了が見込まれ、ABP は2006年に28億ポンドで非公開化された経緯がある。"
-    ],
-    "collected_at": "2026-11-02T06:32:04-08:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "FreightCar America Acquires Trinity Equipment Company",
-    "title_ja": "FreightCar America、貨車部品の Trinity Equipment を買収",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/mechanical/freight-cars/freightcar-america-acquires-trinity-equipment-company/",
-    "published_at": "2026-10-21",
-    "summary_ja": [
-      "FreightCar America は貨車部品・締結部品を供給する Trinity Equipment Company (TEC) の買収を完了したと発表した（完了は10月20日と報じられている）。",
-      "TEC は1986年設立のミシガン州拠点の独立系サプライヤーで、OEM向けと補修用の貨車部品・ファスナーを扱う（買収額は非開示）。",
-      "同社のアフターマーケット買収は約1年で3件目（2025年12月 Carly Railcar Components、7月 Southern Parts & Equipment）で、経営陣は即時の利益貢献を見込むとしている。"
-    ],
-    "collected_at": "2026-11-03T06:23:21-08:00"
   }
 ]
