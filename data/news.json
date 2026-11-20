@@ -1,5 +1,110 @@
 [
   {
+    "category": "railcar_leasing",
+    "kind": "regulatory",
+    "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
+    "title_ja": "STB、私有地での私有貨車の留置課金を容認",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/the-1bn-parking-question-stb-says-railroads-can-charge-even-when-cars-and-land-are-private/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "米STBは11月17日の裁定で、私有貨車が私有地に留置されている場合でも鉄道会社が課金できるとの解釈を改めて示した。",
+      "対象となったペンシルベニア州の工業団地をめぐる紛争では、すでに35万4,000ドルの裁判所判決が下されている。",
+      "CSXとNorfolk Southernのデマレージ関連収入は2021年に年額10億ドル近くに達しており、貨車保有者のコスト負担が一層重くなる可能性がある。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "NS CEO: UP merger is rail’s answer to the highway and autonomous trucks",
+    "title_ja": "NSのCEO、UP統合を自動運転トラックへの対抗策と位置付け",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/ns-ceo-up-merger-is-rails-answer-to-the-highway-and-autonomous-trucks/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "Norfolk SouthernのMark George CEOは11月19日のRailTrendsで、Union Pacificとの統合がトラックへのシェア流出を止める手段だと説明した。",
+      "2005年から2025年の輸送量はNSが9%減、CSXが14%減、UPが12%減、BNSFが4%減と、主要Class I 4社がいずれも減少していると述べた。",
+      "自動運転トラックの車両展開が今後3年で加速しインターモーダル貨物を狙うとして、PSRによる効率重視から成長重視への転換が必要だとした。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Shippers’ groups again urge STB to reject UP-NS merger",
+    "title_ja": "化学業界の荷主団体、UP-NS統合の却下をSTBに要請",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/shippers-groups-again-urge-stb-to-reject-up-ns-merger/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "化学業界を中心とする荷主団体連合がSTBに意見書を提出し、Union PacificとNorfolk Southernの統合を却下するよう求めた。",
+      "参加団体はAlliance for Chemical Distribution、American Chemistry Council、AFPM、National Industrial Transportation League、The Fertilizer Instituteの5団体で、個別の化学企業も意見を寄せている。",
+      "意見書は「便益は微々たるもので弊害は重大」として条件付き認可でも死角は残ると主張しつつ、認可する場合の最低限の条件案も併せて示した。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "14 charged in $22.5 million cargo theft ring that stopped moving freight trains",
+    "title_ja": "貨物列車を停止させた2,250万ドル盗難組織、14人を訴追",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/14-charged-in-22-5-million-cargo-theft-ring-that-stopped-moving-freight-trains",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "米連邦検察は、南カリフォルニアの貨物列車を狙った総額2,250万ドル規模の貨物窃盗共謀で計14人を訴追した。",
+      "11月12日提出の49ページの起訴状は122件の具体的行為を列挙し、2024年2月から2026年8月までに70個以上のコンテナが被害にあったとする。",
+      "実行犯グループは列車のエアホースを切断して非常制動を誘発し、停止中にNikeの靴やMilwaukeeの工具などを抜き取ってトラックで搬出していた。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Transpac spots finally on the slide, but Asia-Med spike a surprise",
+    "title_ja": "北米向けスポット運賃が下落、アジア―地中海は意外の急上昇",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "北米西岸・東岸向けの太平洋航路スポット運賃が今週大幅に下落し、ようやく通常の閑散期らしい値動きに戻った。",
+      "半面、DrewryのWCIで上海―ジェノバは前週比40ftあたり6%高の4,436ドルとなり、上海―ロッテルダムは3,496ドルで横ばいだった。",
+      "欧州のフォワーダーは、需給の実態から乖離したアジア―地中海の強さに驚きを示しており、機材配置の判断を難しくしている。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Congestion at transhipment hubs keeps intra-Asia rates firm",
+    "title_ja": "東南アジア主要港の混雑でアジア域内運賃が底堅く",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/congestion-at-transhipment-hubs-keeps-intra-asia-rates-firm/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "中国の港湾混雑が和らいだ一方で、東南アジアのボトルネックが悪化してアジア域内運賃が上昇した。",
+      "Drewryのアジア域内指数（IACI）は11月12日比4ドル高の40ftあたり1,444ドル、上海―マニラは7%高の1,310ドル、上海―レムチャバンは2%高の1,584ドルとなった。",
+      "シンガポールでの本船集中により待機時間が伸び、上海―シンガポールは1%高の2,064ドル、荷主には1週間程度の遅延が告知されている。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "PSA Singapore breaks ground on Tuas Port Phase Two",
+    "title_ja": "PSAシンガポール、Tuas港第2期の21バースを着工",
+    "source": "Container News",
+    "url": "https://container-news.com/psa-singapore-breaks-ground-on-tuas-port-phase-two/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "PSAシンガポールがTuas港第2期の建設に着工し、世界最大のトランシップハブの能力拡張に着手した。",
+      "第2期では水深23メートルの巨大バース21を含む延長8.6キロの岸壁を整備し、2028年から段階的に供用を開始する予定。",
+      "完成後は約1,000台の自動搬送車（IGV）が稼働する計画で、シンガポールの混雑と積み替え遅延が空コンテナの回転を圧迫している現状の緩和が期待される。"
+    ],
+    "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Red Sea returns are rewriting carrier reliability, not just transit times",
