@@ -1,6 +1,21 @@
 [
   {
     "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Watco to begin use of Intramotev autonomous freight cars in Texas",
+    "title_ja": "Watco、Intramotevの自走式貨車をテキサスにも展開",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/mechanical/freight-cars/watco-to-begin-use-of-intramotev-autonomous-freight-cars-in-texas/",
+    "published_at": "2026-11-21",
+    "summary_ja": [
+      "短距離鉄道持株会社Watcoは自走式貨車のIntramotevとの契約を拡大し、テキサス州Seadriftに同社のTugVoltを配備する。",
+      "Seadrift（コーパスクリスティ北東約60マイル）の産業サイトで貨車の入換に使い、既存のイリノイ州Wood River（ソーダ灰の積替基地）に続く2件目の展開となる。",
+      "TugVolt機材はミズーリ・イリノイ・ミシガン・オーストリアでも稼働しており、入換用機関車に代わる貨車側の動力化が実運用段階に入りつつあることを示す。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "railcar_leasing",
     "kind": "regulatory",
     "title": "The $1bn parking question – STB says railroads can charge even when cars and land are private",
     "title_ja": "STB、私有地での私有貨車の留置課金を容認",
@@ -103,6 +118,111 @@
       "完成後は約1,000台の自動搬送車（IGV）が稼働する計画で、シンガポールの混雑と積み替え遅延が空コンテナの回転を圧迫している現状の緩和が期待される。"
     ],
     "collected_at": "2026-11-20T13:22:37-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "personnel",
+    "title": "Wabtec Corporation Appoints Rich J. Freeland to the Board of Directors",
+    "title_ja": "Wabtec、Cummins元COOのFreeland氏を取締役に選任",
+    "source": "SEC EDGAR (Wabtec)",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036126045007/ef20086022_ex99-1.htm",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "Wabtecは11月20日、Rich J. Freeland氏を取締役に選任したと発表し、就任は11月23日付となる。",
+      "Freeland氏（69歳）はCumminsで2014年から2019年の退任まで社長兼COOを務め、40年以上の産業・オペレーション経験を持つ。",
+      "Rafael Santana会長兼CEOは大規模製造業の運営経験と取締役としての知見の組み合わせを評価しており、鉄道機器サプライヤーの統治体制強化につながる。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BLET wins nearly $100 million arbitration award from Union Pacific",
+    "title_ja": "BLET、UPから約9,880万ドルの仲裁裁定を獲得",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/blet-wins-nearly-100-million-arbitration-award-from-union-pacific/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "機関士労組BLETは、交渉で合意した勤務ルールをUnion Pacificが実施しなかったとして、推定9,880万ドルの仲裁裁定を得たと発表した。",
+      "対象は機関士の勤務予見性を高める「11/4」ルール（11日乗務・4日休み）で、2023年5月に合意し同年6月に組合員の批准を受けていた。",
+      "UPは2024年に想定より労働量が得られないとしてルール変更を求めたが、鉄道労働法に基づくSpecial Board of Adjustmentsが組合側に補償を認めた。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB launches review of UP compliance with conditions of Southern Pacific acquisition",
+    "title_ja": "STB、UPのSP買収条件の遵守状況を審査開始",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/regulatory/stb-launches-review-of-up-compliance-with-conditions-of-southern-pacific-acquisition/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "STBは11月19日の決定で、Union Pacificによる1996年のSouthern Pacific買収に付された条件の遵守状況を審査すると決めた。",
+      "2025年11月のBNSFの申立てと2026年8月の補充提出を踏まえ、審議に値する論点が適切に提起されたと判断し、両社に12月3日までの進行日程案の提出を求めた。",
+      "BNSFはUP/SP以前に2社に運ばれていた「2-to-1」地点でUPが顧客への接続を妨げてきたと主張しており、UP-NS統合審査と並行して既存の競争条件が問われる。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Union Pacific–Norfolk Southern merger draws labor support, shipper concerns",
+    "title_ja": "UP-NS統合、労組4団体が支持表明も荷主は懸念",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/union-pacific-norfolk-southern-merger-draws-labor-support-shipper-concerns",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "UPとNorfolk Southernは、審理の打ち切りを求めたCPKCの申立てに反論し、STBに統合審査の継続を要請した。",
+      "11月19日の意見提出期限に合わせて意見書が集中し、鉄道労組4団体が取引を支持する一方、荷主側は顧客の選択肢や報復懸念を訴えた。",
+      "両社は大陸横断の単一運行網の実現を掲げており、UPはCEOの料率発言についても初の公式コメントを出した。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Future funding secure for box owners",
+    "title_ja": "コンテナリース業界、資金調達環境は良好との見方",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/11/future-funding-secure-for-box-owners/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "11月初めにロッテルダムで開かれたIntermodal Europe 2026のコンテナ金融・リースに関する討論で、資金調達環境は良好との見方が示された。",
+      "タンクコンテナリースPeacock Container LeasingのCFO、Charles Lasalle氏は、プライベートエクイティやベンチャー系ファンドからの投資家需要がとくに強いと述べた。",
+      "銀行・ソブリンファンド・エクイティおよびデット商品が業界への資金供給に積極的とされ、機材調達のコスト面には支えとなり得る。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: World Container Index Down 3% Last Week",
+    "title_ja": "Drewry WCI、3%下落し40ftあたり4,176ドル",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-world-container-index-down-3-last-week-8/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "11月19日時点のDrewry World Container Indexは前週比3%下落し、40フィートコンテナあたり4,176ドルとなった。",
+      "太平洋航路は7週連続の下落で、上海〜ニューヨークが9%安の8,194ドル（15週ぶりの低水準）、上海〜ロサンゼルスが5%安の7,026ドル（12週ぶりの低水準）。",
+      "指数は前年同期比で126%高い水準を保つが、船社は需要の弱さに対し欠便で供給を絞っており、機材の回転にも影響しうる。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "FMC warns container lines of 1 March export policy deadline",
+    "title_ja": "FMC、船社に3月1日までの輸出方針提出を再通知",
+    "source": "Seatrade Maritime",
+    "url": "https://www.seatrade-maritime.com/containers/fmc-warns-container-lines-of-1-march-export-policy-deadline",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "FMCは外航定期船社に対し、文書化した輸出方針（documented export policy）を毎年3月1日までに提出する義務を改めて注意喚起した。",
+      "義務は船腹提供の不当な取引拒否に関する2024年最終規則（46 CFR 542.1(j)）に基づき、未提出は規則違反で1日あたり最大約74,943ドルの制裁金が課され得ると報じられている。",
+      "方針には空コンテナを含む機材の確保・割当・配置の考え方やsweeper船、欠便の扱いの記載が求められ、輸出向け機材の運用に実質的な影響を持つ。"
+    ],
+    "collected_at": "2026-11-21T06:20:50-08:00"
   },
   {
     "category": "container_leasing",
@@ -4693,305 +4813,5 @@
       "米中の通商休戦が2027年1月10日まで延長されたことを受けた措置とみられるが、最終告示の公表は確認できておらず、荷主やリース各社は1月以降の再発動も想定した計画を求められる。"
     ],
     "collected_at": "2026-11-10T13:25:36-08:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "earnings",
-    "title": "Union Pacific Reports Third Quarter 2026 Results",
-    "title_ja": "Union Pacific、3Q26はEPS3.49ドルで16%増",
-    "source": "SEC EDGAR (Union Pacific)",
-    "url": "https://www.sec.gov/Archives/edgar/data/0000100885/000010088526000319/a2026-10x228xkex991earning.htm",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Union Pacificは2026年第3四半期の希薄化後EPSが3.49ドル（前年同期3.01ドル、16%増）、調整後は3.53ドルだったと発表した。",
-      "営業収益は72億ドルで15%増、貨物量は6%増、営業比率は59.1%（調整後58.8%）で、燃料価格の上昇が営業比率を140bp悪化させた。",
-      "貨物収入・営業収益・営業利益・純利益がいずれも四半期の過去最高となり、通期は高い一桁台のEPS成長見通しを据え置いた。"
-    ],
-    "collected_at": "2026-10-22T06:29:05-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "earnings",
-    "title": "Norfolk Southern Reports Third Quarter 2026 Results",
-    "title_ja": "NS、3Q26は売上高35億ドルで過去最高",
-    "source": "SEC EDGAR (Norfolk Southern)",
-    "url": "https://www.sec.gov/Archives/edgar/data/0000702165/000119312526428384/nsc-ex99_1.htm",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Norfolk Southernは2026年第3四半期の鉄道営業収益が約35億ドルで四半期として過去最高となり、希薄化後EPSは3.37ドルだったと発表した。",
-      "収益は前年同期比4.23億ドル（14%）増で、輸送量3%増と燃料サーチャージの増加が寄与。営業利益は12億ドル、営業比率は67.4%だった。",
-      "合併関連費用や東オハイオ事故の影響を除く調整後EPSは3.62ドル、調整後営業比率は65.4%で前年同期の63.3%から210bp悪化した。"
-    ],
-    "collected_at": "2026-10-22T06:29:05-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "NWSA records decreased container volume September",
-    "title_ja": "NWSA、9月のコンテナ取扱は8.1%減の26.6万TEU",
-    "source": "Container News",
-    "url": "https://container-news.com/nwsa-records-decreased-container-volume-september/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Northwest Seaport Alliance（シアトル・タコマ）の9月のコンテナ取扱は26万5,692TEUで前年同月比8.1%減、実入り輸入は4.4%減、実入り輸出は9.6%減だった。",
-      "一方で前月比では実入り輸入が21.5%増、実入り輸出が24.2%増と大きく改善し、第4四半期に向けた荷動きの持ち直しを示した。",
-      "1〜9月累計は217万4,231TEUで10.6%減。関税前の駆け込み輸送で2025年の基準が高かったことが主因で、ブレークバルクは13.4%増と堅調だった。"
-    ],
-    "collected_at": "2026-10-22T06:29:05-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Barcelona container traffic broadly stable in first nine months",
-    "title_ja": "バルセロナ港、1〜9月のコンテナ取扱は0.4%減",
-    "source": "WorldCargo News",
-    "url": "https://www.worldcargonews.com/news/2026/10/barcelona-container-traffic-broadly-stable-in-first-nine-months/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "バルセロナ港の2026年1〜9月のコンテナ取扱は282万TEUで、前年同期比0.4%減のほぼ横ばいだった。",
-      "実入り輸入が7.1%増、積み替え貨物も増加した一方、輸出は7.2%減と落ち込み、上半期の4.3%増から減速した。",
-      "総貨物量は1%増の5,280万トン、旅客は4.5%増の480万人で、コンテナ以外は小幅な伸びを維持している。"
-    ],
-    "collected_at": "2026-10-22T06:29:05-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "SBB Cargo to withdraw and resell 21 locomotives amid wagonload overhaul",
-    "title_ja": "SBB Cargo、Re 484形21両を退役させ売却へ",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/22/sbb-cargo-to-withdraw-and-resell-21-locomotives-amid-wagonload-overhaul/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "SBB Cargoは2026年12月のダイヤ改正でBombardier製Re 484形（Traxx）21両すべてを運用から外し、売却に出す方針を示した。",
-      "12月13日に始まる新しい単車扱い輸送モデルでは需要の少ない約50カ所の取扱箇所を廃止し、現行物量の約98%を維持しつつ機関車と人員を削減する。",
-      "対象機はスイスとイタリアでの運行認可を持つため国際市場向けに売却される見込みで、同社は2035年までにStadler製の単一形式へ集約する計画。"
-    ],
-    "collected_at": "2026-10-22T06:29:05-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Intra-Asia rates soften as congestion at major ports begins to ease",
-    "title_ja": "アジア域内コンテナ運賃、主要港の混雑緩和で下落",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "10月15日時点のDrewryのIntra-Asia Container Indexは3%下落し、40フィート当たり平均1,453ドルとなった。",
-      "上海発はNhava Sheva向けが11%安の3,370ドル、釜山向けが8%安の1,000ドル、シンガポール向けが7%安の1,973ドルと主要航路が軟化した。",
-      "中国の国慶節連休で滞留貨物の処理が進み本船待機時間が短縮、Linerlyticaの集計では世界の港湾混雑に占める北アジアの比率が前月の50%から37%へ低下した。"
-    ],
-    "collected_at": "2026-10-22T13:24:55-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Drewry: Suez Traffic Showing Strong Momentum",
-    "title_ja": "スエズ運河のコンテナ船通航、前年同週比120%増",
-    "source": "Hellenic Shipping News (Drewry)",
-    "url": "https://www.hellenicshippingnews.com/drewry-suez-traffic-showing-strong-momentum/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "DrewryのRed Sea Diversion Trackerによると、10月18日までの1週間にスエズ運河を通航したコンテナ船は双方向合計55隻で、前年同週比120%増えた。",
-      "週50隻超の通航は3週連続となり、直近3週の平均は57隻で前の3週平均を36%上回った。",
-      "喜望峰迂回からスエズ航路への復帰が段階的に進んでおり、航路短縮は船腹の実効供給と空コンテナの回転にも影響しうる。"
-    ],
-    "collected_at": "2026-10-22T13:24:55-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "'Europe has the ingredients to make rail freight a success, but requires implementation'",
-    "title_ja": "CER委託調査、欧州鉄道貨物に必要なのは新規立法でなく実施",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/22/europe-has-the-ingredients-to-make-rail-freight-a-success-but-requires-implementation/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "CER（欧州鉄道共同体）が委託した調査は、欧州の鉄道貨物の競争力強化に新たなEU法制は不要で、課題は既存制度の実施にあると結論付けた。",
-      "調査はCapacity Regulationの採択、TEN-Tの性能要件と許認可手続き指令の発効、3月に発効した新たな国家補助枠組みにより枠組みは既に整っていると指摘する。",
-      "回答者が最優先に挙げたのは許認可指令の完全実施、次いでCapacity Regulationの実施で、着手すべき施策としては線路閉鎖の調整や容量計画など運用・行政面の改善が示された。"
-    ],
-    "collected_at": "2026-10-22T13:24:55-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "Trinity Industries, Inc. Form 8-K - Term Loan Agreement (TRL-2026, $349.8 million)",
-    "title_ja": "Trinity、貨車担保で3億4,980万ドルのタームローン組成",
-    "source": "SEC EDGAR (Trinity Industries)",
-    "url": "https://www.sec.gov/Archives/edgar/data/99780/000009978026000131/trn-20261019.htm",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Trinity Industriesは10月19日付でRegions Bankを幹事とする3億4,980万ドルのタームローン契約を締結し、同日に初回実行を完了した。",
-      "借入主体のTRL-2026はこの資金でTrinity傘下2社から貨車群とそのオペレーティングリースを取得し、当該貨車が借入の担保となる。",
-      "売却代金はウェアハウス・クレジット枠の返済と、残高2億8,090万ドルのTRL-2019シリーズ2019-2ノートの全額償還に充当された。"
-    ],
-    "collected_at": "2026-10-23T06:29:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "UP and NS say regulators will reject rival railroads' requests for merger concessions",
-    "title_ja": "UP・NS、競合鉄道の合併条件要求は却下されると主張",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/up-and-ns-say-regulators-will-reject-rival-railroads-requests-for-merger-concessions/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Union PacificとNorfolk Southernの両CEOは、合併審査で競合他社が求める線路使用権などの条件付与をSTBは認めないとの見方を示した。",
-      "BNSF・CSX・CPKCと複数のショートラインは9月、合併が承認された場合に統合ネットワークへのアクセスを求める意向をSTBに表明していた。",
-      "BNSFはシカゴからペンシルベニア州ハリスバーグ・ベツレヘムまで824マイルの線路使用権と、ガルフ岸でのカーロード顧客向け中立スイッチング鉄道の設置を要求するとしている。"
-    ],
-    "collected_at": "2026-10-23T06:29:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "earnings",
-    "title": "GMXT earnings rise on volume and revenue growth",
-    "title_ja": "GMXT、第3四半期の営業利益8.6%増の2億5,510万ドル",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/gmxt-earnings-rise-on-volume-and-revenue-growth/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Ferromex・Ferrosur・Florida East Coast Railwayなどを擁するGrupo Mexico Transportesは、2026年第3四半期の営業利益が8.6%増の2億5,510万ドルになったと発表した。",
-      "売上高は12%増の9億7,840万ドル、輸送量は5%増の524,538カーロードで、営業比率は前年同期から1ポイント悪化の74%だった。",
-      "金属セグメントが15.4%増と伸びを牽引し、インターモーダルが11.8%増、セメントが3.5%増と続いた。"
-    ],
-    "collected_at": "2026-10-23T06:29:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Railroad Earnings Rise as More Cargo Moves From Trucks to Trains",
-    "title_ja": "トラックから鉄道への貨物シフトで北米鉄道の収益改善",
-    "source": "WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGc5aTl0c1YwcU5MLXk3bGZ1RG5EVDZ0eldxV3ZiZC1rbzEyczVKdDU1WElRT2p2RXNtTHgyQmg1NjJhd243Nk1CaWFRNVpmWEkwMlF0NHdnNkhmUFhXMGVWOU9FZXltWUFXWkh0TTY3a2d6dnpDWFpLcWFUX3ppekp0MTlHdm1tcmFHVC1ld0JWeFVCb2lkVVJWT01XTEp6cjllUEdWUE4?oc=5",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "ディーゼル価格の高止まりとトラック輸送能力の逼迫で荷主の貨物が鉄道へ流れ、Class I各社の第3四半期決算を押し上げたと報じられた。",
-      "Union Pacificは四半期として過去最高の売上高を計上し、Norfolk Southernも売上高35億ドルの記録を更新した。",
-      "10月17日までの週の全米インターモーダル輸送量は前年同週比12.6%増と、2桁の伸びが続いている。"
-    ],
-    "collected_at": "2026-10-23T06:29:23-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "World Container Index - 22 October 2026",
-    "title_ja": "Drewry世界コンテナ指数、2%上昇し1FEU=4,585ドル",
-    "source": "Daily Cargo News (Drewry)",
-    "url": "https://thedcn.com.au/news/world-container-index-22-october-2026",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Drewryの世界コンテナ指数（WCI）は10月22日時点で前週比2%上昇し、40フィートコンテナ当たり4,585ドルとなった。",
-      "上昇はアジア〜欧州航路と太平洋航路のスポット運賃の上昇が牽引した。",
-      "船社は欠便（ブランクセーリング）で供給を絞り運賃を下支えする動きを続けており、機材の回転にも影響しうる。"
-    ],
-    "collected_at": "2026-10-23T06:29:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "earnings",
-    "title": "CSX profit jumps on volume and revenue growth",
-    "title_ja": "CSX、第3四半期の営業利益44%増・売上は過去最高",
-    "source": "FreightWaves",
-    "url": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "CSXは第3四半期の営業利益が前年同期比44%増の15億7,000万ドル、売上は12%増の40億2,000万ドルと四半期最高を記録したと発表した。",
-      "1株当たり利益は54%増の57セント、営業比率は60.9%で8.8ポイント改善し、燃費は1,000総トンマイル当たり0.92ガロンで米国での四半期最高となった。",
-      "前年同期のグッドウィル減損の影響を調整すると営業利益は25%増・EPSは30%増で、鉄道従業員数6.2%減のもと生産性が6%向上したことが利益成長を支えた。"
-    ],
-    "collected_at": "2026-10-24T06:21:37-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 17, 2026",
-    "title_ja": "AAR週次輸送量、10月17日週は合計8.5%増の54万単位",
-    "source": "Railpace",
-    "url": "https://railpace.com/aar-reports-weekly-rail-traffic-for-the-week-ending-october-17-2026/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "AARによると10月17日までの週の米国鉄道輸送量は貨車とインターモーダル合計54万135単位で、前年同週比8.5%増となった。",
-      "貨車は23万2,120車で3.5%増、インターモーダルは30万8,015個で12.6%増と、インターモーダルが伸びを主導した。",
-      "10品目中9品目が増加し、鉱石・金属が2,946車増の2万3,306車、穀物が1,470車増の2万2,486車、減少は非金属鉱物の1,089車減のみだった。"
-    ],
-    "collected_at": "2026-10-24T06:21:37-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Pinsly to Acquire Kankakee, Beaverville & Southern Railroad",
-    "title_ja": "Macquarie系Pinsly、イリノイの短距離鉄道KBSRを買収へ",
-    "source": "Railway Age",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGdCWjFlQUVZRm93ejZJOF84ZjVyM3NBazU0eVhidjdsNThvenhzbHJRVWQ1VXZsLUNCcjR0WVhaYkxlNVh4aUw4dml5Y00weV95X2V0UldlcFRhTWNUbEFtRnhxU1ZrM2VLSzB2bjZFMFRHVDFvNHUwSmdnVXpGNW9ORFlabXlLenlWNm5ycWRILWdMV0xNYklPMXVOVlNpR0x1YjVia3ozNmlDTkc4SXF2YVc?oc=5",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "Macquarie傘下の短距離鉄道持株会社Pinsly Railroadが、Kankakee, Beaverville & Southern Railroad（KBSR）の支配権取得について陸上運輸委員会（STB）に免除申請を行った。",
-      "2026年9月16日付の売買契約でStroo家からKBSR株式の100%を取得する内容で、申請者にはMacquarie Infrastructure Partners V関連の投資主体も名を連ねる。",
-      "KBSRはイリノイ州東中部からインディアナ州西中部で穀物など農産物輸送を担うClass III鉄道で、インフラファンドによる北米短距離鉄道の集約が続いていることを示す案件となる。"
-    ],
-    "collected_at": "2026-10-24T13:27:43-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Is the Red Sea safe?",
-    "title_ja": "紅海回帰が加速、戦前比63%の船腹復帰も安全懸念",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/is-the-red-sea-safe-",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "スエズ運河・紅海・バブエルマンデブ経由への復帰が夏以降加速し、戦前の投入船腹の約63%が同ルートに戻ったと報じられた。",
-      "一方でサウジアラビアとイエメンのフーシ派の対立が拡大しており、乗組員と貨物の安全確保が業界の新たな懸念になっている。",
-      "約3年続いた喜望峰迂回からの復帰が定着すれば航海日数の短縮でコンテナ機材の回転が改善する一方、再迂回となれば再び機材が滞留するリスクが残る。"
-    ],
-    "collected_at": "2026-10-24T13:27:43-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "‘Our potential enemies are watching’: EU lawmakers press for speed in military mobility talks",
-    "title_ja": "EU軍事輸送規則の三者協議、車両所有者への補償が最大の争点",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/22/our-potential-enemies-are-watching-eu-lawmakers-press-for-speed-in-military-mobility-talks/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "EU軍事機動（Military Mobility）規則の三者協議（トリローグ）は2回目を終えたが、補償の扱いは未決着と報じられている。",
-      "欧州議会は鉄道事業者・インフラ管理者・車両所有者へのEUレベルの補償を求める一方、理事会はこれを条文から外し各国制度に委ねる立場。",
-      "議会側は年内の規則成立と、緊急時の軍事輸送制度EMERSの2028年までの運用開始を目標に掲げている。"
-    ],
-    "collected_at": "2026-10-25T13:22:45-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "US tank car companies split on antidumping duties for Mexican imports in USITC hearing",
-    "title_ja": "USITC、メキシコ製タンク車の反ダンピング調査で公聴会",
-    "source": "MLex",
-    "url": "https://www.mlex.com/mlex/trade/articles/2540985",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "USITCは10月21日、メキシコ製タンク車と部品に対する反ダンピング・相殺関税調査（701-TA-809／731-TA-1810）の予備段階公聴会を開催した。",
-      "申立ては9月30日にBerkshire Hathaway傘下のUTLX Manufacturingが提出し、ダンピングマージンを12.70〜32.58%と主張、USITCの予備決定期限は11月16日とされる。",
-      "報道によると米タンク車メーカーの主張は関税の支持と反対に分かれており、メキシコ生産を持つTrinityとGreenbrierは申立てに反対、結果次第で北米のタンク車価格と供給に影響しうる。"
-    ],
-    "collected_at": "2026-10-26T13:24:44-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "First Ever Overhauled Vectron Delivered to Beacon Rail",
-    "title_ja": "Beacon Rail、Vectron初の全工程内製オーバーホール車を受領",
-    "source": "Railway-News",
-    "url": "https://railway-news.com/first-ever-overhauled-vectron-delivered-to-beacon-rail/",
-    "published_at": "2026-10-22",
-    "summary_ja": [
-      "スロベニア鉄道の車両整備部門SŽ-VITが全工程を自社で手がけた初のSiemens Vectron（191-023号機）のオーバーホールを完了し、所有するリース会社Beacon Railに引き渡した。",
-      "作業はリュブリャナの整備拠点で行われ、SŽ-VITは2019年のF4台車オーバーホールから電気機関車整備を広げ、2024年からBeacon Railの車両を受託している。",
-      "Siemensは同拠点をVectron整備のコンピテンスセンターと位置づけており、年内にさらに2両、2027年には6両のオーバーホールが計画されている。"
-    ],
-    "collected_at": "2026-11-07T06:24:37-08:00"
   }
 ]
