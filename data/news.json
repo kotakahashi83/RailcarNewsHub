@@ -1,5 +1,35 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Valenciaport container traffic holds steady as vehicle traffic rises",
+    "title_ja": "Valencia港、直近12カ月のコンテナ取扱は562.9万TEUで横ばい",
+    "source": "Container News",
+    "url": "https://container-news.com/valenciaport-container-traffic-holds-steady-as-vehicle-traffic-rises/",
+    "published_at": "2026-11-22",
+    "summary_ja": [
+      "València港湾局管理ターミナルの直近12カ月のコンテナ取扱は562万8,895TEUで、0.15%増とほぼ横ばいだった。",
+      "1〜10月のコンテナ取扱は471万8,532TEUで0.71%減、3港合計の総貨物量も6,593万トンで2.08%減となった。",
+      "一方で鉄道によるコンテナ輸送は25万8,910TEU（20.26%増）に拡大し、内陸輸送の鉄道シフトが進んでいる。"
+    ],
+    "collected_at": "2026-11-22T13:22:44-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "FreightCar America director Gil Benavides buys $227,790 in stock",
+    "title_ja": "FreightCar America取締役、自社株4.9万株を取得",
+    "source": "Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdkVfYWFzUVhKWFRyZGpJRklEaHdtN29wVWNITnluWjk3aHJhM2QwZXRiOVBna284UE1TRGRmYVdmUENaaFlRNWlkeTNuY1d6OF9UMEtyZzVJOV9jY1M0dTd4LVd5c3I0REJQZ3FzTWVrWDYzYnVHZlNCTHBuM01XWlFNNlcybkpKRGktOE5hWFFVVm85TlNtMFIxSnhYTVBrSEdkemhZaHAwazlORVlJdEtxVTZGS3JYYWl2QXNqdzVOTFJnTXc?oc=5",
+    "published_at": "2026-11-22",
+    "summary_ja": [
+      "FreightCar AmericaのGil Benavides取締役が11月16日に自社株を市場で買い付け、SECへのForm 4で開示された。",
+      "取得は3回に分かれ、合計4万9,000株・約22万7,790ドル（1株4.62〜4.71ドル）だった。",
+      "同社株はQ3の大幅減収とガイダンス引き下げで31%下落し証券法上の調査も抱えており、経営陣による買い増しが市場の注目点となっている。"
+    ],
+    "collected_at": "2026-11-22T13:23:23-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "Watco to begin use of Intramotev autonomous freight cars in Texas",
@@ -391,6 +421,21 @@
   },
   {
     "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "Manufacturers Call on STB to Reject Flawed UP-NS Rail Merger Application",
+    "title_ja": "化学・製造業の荷主団体、UP-NS合併の却下をSTBに要求",
+    "source": "American Chemistry Council",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUnpXT2N5N1E2ZTZ6LURXbzhWTlVkZEpPZVR5X3ZwN1Zza2pGek5Bdm5NU1dLYXdKdUVTTnRKbFduOWRGY1BiTnlGbThDVlJ3dzBaRXBvY25UUWxjM3F2UEEyZm45Qm5lUnRYRHlhLUIxdGlld2JCalVQRm1yT0VHM2diVmZKNXZ2QjF2TmlJaldGZ3NMVEF0TEpjSlF3TmtGZ0ZtY2twUUZQdTVBOFIzZVRmYjRBODN0dmFVZlZBaHNndnN6eGFZVXc1Uk83ZGZ1YmhxZHNpTTNrT2dnMnZWeUtaNzRhRW95ZVJtcTRQbTZEZUxKbTUtb2QwZURZS3JPSlJET1otY01FSFhVMkUwdEo0bw?oc=5",
+    "published_at": "2026-11-19",
+    "summary_ja": [
+      "American Chemistry CouncilやNITLなどで構成する荷主団体が、UP-NS合併申請の却下をSTBに求める意見書を提出した。",
+      "団体側は合併による便益は小さいと主張し、仮に認可する場合でも競争を維持するための「最低限の条件」の付与を求めている。",
+      "同じ意見提出期限ではOlinが却下を求め、Hondaも東西各2社による競争が失われる点への懸念を示したと報じられている。"
+    ],
+    "collected_at": "2026-11-22T13:22:44-08:00"
+  },
+  {
+    "category": "rail_industry",
     "kind": "news",
     "title": "Two injured in CN derailment in British Columbia",
     "title_ja": "CN、BC州Terrace西で脱線し乗務員2人が負傷",
@@ -658,6 +703,21 @@
       "執筆は Diana Moss 氏で、エンド・ツー・エンドの統合には競争排除リスクがないという申立人の主張や行動規制による救済策を退け、公益に反すると認定するようSTBに求めている。"
     ],
     "collected_at": "2026-11-22T06:27:12-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Senators Press STB to Oppose Union Pacific-Norfolk Southern Merger",
+    "title_ja": "超党派の上院議員、UP-NS合併の却下をSTBに要請",
+    "source": "DTN Progressive Farmer",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzBLUXFFTHFpWUdsakx3UDZCdFA2VGFFaHJUbmduZGlfU1l5Tzh6TEhSVjFGSWdmSXYtQmhXcDNTYktVWEVjYnA4WWV1TXdhS25GRFp5YklLS2xmeEYwaHdoMVVYcVg0VE9WdTIxaGlZamNUdlREUjVmMklveTZsLXNKZExkbmt4b2ZxTVB6eWpueGxBdXR2MWl1QTMzMm9DaEN1azZyTmtCWUtSZ0txWWVtNFdHYmIyVUE?oc=5",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "超党派の上院議員グループが、UP-NS合併を認可しないようSTBに書簡で要請した。",
+      "報道によれば署名者は共和・民主両党から各4人の計8人で、農産物輸送と荷主の競争環境への影響を問題視している。",
+      "UPのVena CEOが値上げで「教訓を与える」と述べた動画の公開後、議員や州司法長官の意見書で同発言が繰り返し引用されている。"
+    ],
+    "collected_at": "2026-11-22T13:22:44-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -1003,6 +1063,21 @@
       "減少はターミナル自動化工事とストライキによる混乱が主因で、同社は港湾物流部門の通期見通しを「小幅減」から「大幅減」へ引き下げた。"
     ],
     "collected_at": "2026-11-19T13:25:24-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "CIP launches $1bn energy transition credit opportunities fund",
+    "title_ja": "CIP、10億ドル目標のエネルギーインフラ債務ファンドを立ち上げ",
+    "source": "IPE Real Assets",
+    "url": "https://realassets.ipe.com/news/cip-launches-1bn-energy-transition-credit-opportunities-fund/10139404.article",
+    "published_at": "2026-11-16",
+    "summary_ja": [
+      "Copenhagen Infrastructure Partners（CIP）が、エネルギーインフラ向け債務戦略「Credit Opportunities Fund」を立ち上げた。",
+      "調達目標は10億ドル（約9.1億ユーロ）で、OECD諸国のエネルギー転換関連資産に柔軟な資本を供給する。",
+      "CIPの私募クレジット事業は2022年の第1号グリーンクレジットファンド以降で約30億ユーロを調達しており、今回はその延長となる。"
+    ],
+    "collected_at": "2026-11-22T13:22:44-08:00"
   },
   {
     "category": "container_leasing",
@@ -2098,6 +2173,21 @@
       "1〜9月累計の純利益も41.3億ドルから13%増の46.6億ドルとなり、輸送量増と運行効率の改善が燃料費の上昇を上回ったと説明されている。"
     ],
     "collected_at": "2026-11-14T13:22:52-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Cube Infrastructure Fund IV raises €587m in first close",
+    "title_ja": "Cube、第4号インフラファンドの初回クローズで5.87億ユーロ",
+    "source": "IREI",
+    "url": "https://irei.com/news/cube-infrastructure-fund-iv-raises-e587m-in-first-close/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "Cube Infrastructure Managersが、第4号フラッグシップ・インフラファンドの初回クローズで共同投資分を含め5億8,700万ユーロを確保した。",
+      "最終的な調達目標は15億ユーロで、数週間内に1号案件の署名を見込むとしている。",
+      "戦略は欧州ミドルマーケットのコアプラスで、インフレ耐性と成長性を備えたブラウンフィールド資産が主な投資対象となる。"
+    ],
+    "collected_at": "2026-11-22T13:22:44-08:00"
   },
   {
     "category": "rail_industry",
