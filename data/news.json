@@ -1,5 +1,20 @@
 [
   {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Copenhagen Infrastructure Partners announces its first rated, multi-fund Infrastructure Backed Notes programme",
+    "title_ja": "CIP、約17億ユーロのインフラ担保ノート枠を初組成",
+    "source": "Copenhagen Infrastructure Partners (PR Newswire)",
+    "url": "https://www.prnewswire.co.uk/news-releases/copenhagen-infrastructure-partners-announces-its-first-rated-multi-fund-infrastructure-backed-notes-programme-302948170.html",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "Copenhagen Infrastructure Partners（CIP）は、自社ファンドの持分を裏付けとする初の格付け付きマルチファンド型Infrastructure Backed Notes（IBN）プログラムを組成した。",
+      "コミットメント総額は約17億ユーロで、投資家はリスク・リターンや自己資本規制上の要件に応じた階層を選べる構成となっている。",
+      "裏付けはFlagship、Green Credit、Advanced Bioenergy、Growth Marketsの複数ビンテージを通じた洋上・陸上風力、太陽光、蓄電、送電などのインフラ資産で、ファンド持分の証券化という調達手法の広がりを示す。"
+    ],
+    "collected_at": "2026-11-23T06:29:01-08:00"
+  },
+  {
     "category": "container_leasing",
     "kind": "news",
     "title": "Valenciaport container traffic holds steady as vehicle traffic rises",
@@ -30,6 +45,51 @@
     "collected_at": "2026-11-22T13:23:23-08:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BNSF adds California, Texas railroads to Shortline Select program",
+    "title_ja": "BNSF、短距離鉄道2社をShortline Selectに追加",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/bnsf-adds-california-texas-railroads-to-shortline-select-program/",
+    "published_at": "2026-11-22",
+    "summary_ja": [
+      "BNSFは短距離鉄道のModesto & Empire Traction（カリフォルニア州）とTemple & Central Texas Railway（テキサス州）をShortline Selectプログラムに追加した。",
+      "同プログラムは2024年に創設され、既存の10社に今回の2社が加わって参加は計12社となった。",
+      "BNSFのTom Williams最高マーケティング責任者は、短距離鉄道の地域知見と自社ネットワークの広域性を組み合わせる協業の価値を強調した。"
+    ],
+    "collected_at": "2026-11-23T06:29:01-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Drewry: Intra Asia Container Index Keeps Grinding Higher",
+    "title_ja": "Drewryのアジア域内コンテナ指数、小幅続伸",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-keeps-grinding-higher/",
+    "published_at": "2026-11-22",
+    "summary_ja": [
+      "Drewryのアジア域内コンテナ指数（IACI）は前週比4ドル上昇し、40フィートコンテナ当たり1,444ドルとなった。",
+      "北アジア航路での需給圧力の緩和が、東南アジア航路の運賃上昇に相殺され、指数全体はほぼ横ばい圏で推移している。",
+      "中国発の北東アジア・東南アジア・南アジア向けスポット運賃はまちまちで、域内の機材需給に地域差が生じている。"
+    ],
+    "collected_at": "2026-11-23T06:29:01-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "France will lease 27 Alpha Trains dual mode locomotives for 180 refurbished Corail coaches",
+    "title_ja": "仏政府、Alpha Trainsから二電源機関車27両をリース",
+    "source": "RAILMARKET.com",
+    "url": "https://en.railmarket.com/news/rolling-stock/66700-france-will-lease-27-alpha-trains-dual-mode-locomotives-for-180-refurbished-corail-coaches",
+    "published_at": "2026-11-22",
+    "summary_ja": [
+      "フランス政府は夜行列車向けに、リース会社Alpha Trainsから二電源（dual mode）機関車27両を賃借する方針を決めたと報じられている。",
+      "契約規模は約4億ユーロとされ、最初の機関車の営業投入は2030年が見込まれている。",
+      "客車は新造を断念し、既存のCorail客車180両をSNCF Voyageursが車体を残して内装を全面更新する方式に切り替えられた。"
+    ],
+    "collected_at": "2026-11-23T06:29:01-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "Watco to begin use of Intramotev autonomous freight cars in Texas",
@@ -43,6 +103,21 @@
       "TugVolt機材はミズーリ・イリノイ・ミシガン・オーストリアでも稼働しており、入換用機関車に代わる貨車側の動力化が実運用段階に入りつつあることを示す。"
     ],
     "collected_at": "2026-11-21T06:20:50-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Tentative union deal averts strike at Port of LA-Long Beach",
+    "title_ja": "PMAとILWU Local 26が暫定合意、LA/LB港のスト回避",
+    "source": "FreightWaves",
+    "url": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
+    "published_at": "2026-11-21",
+    "summary_ja": [
+      "港湾雇用者団体PMAと警備員組合ILWU Local 26は11月21日に暫定合意に達し、ロサンゼルス・ロングビーチ港でのストライキが回避された。",
+      "対象は両港の6コンテナターミナルで警備を担う約250人で、現行契約は組合員による承認投票まで延長される。",
+      "旧契約は2025年7月に失効しており、他のILWU支部がピケを支持する姿勢を示していたため、感謝祭前の荷動きと空コンテナの滞留への影響が懸念されていた。"
+    ],
+    "collected_at": "2026-11-23T06:29:01-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -718,6 +793,21 @@
       "UPのVena CEOが値上げで「教訓を与える」と述べた動画の公開後、議員や州司法長官の意見書で同発言が繰り返し引用されている。"
     ],
     "collected_at": "2026-11-22T13:22:44-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "UP-NS Merger Conditions: What BNSF Asked the STB",
+    "title_ja": "BNSF、UP-NS合併の却下と代替条件をSTBに要求",
+    "source": "BNSF Railway",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GX2QwWEk1T1Y3UDM4cXJOSmhTMTZfVl9oTUhxMUU2a0ZVejFwaXpWQjU1ZE1BS2N5TzYwb29pSG5tSk9qalBzWnNPQ1d6MmtWWDduZzBlT2VvUmRjWndxaXhNTEpOMDZMT1VKOWtXMU9SY2xkSF9lZnBpSWZhUQ?oc=5",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "BNSFは11月18日、UPとNSによる約850億ドル規模の合併をSTBが却下すべきだと主張し、仮に承認する場合に課すべき条件を併せて示した。",
+      "条件にはシカゴ－ペンシルベニア間のNS線路へのBNSF列車の進入権、NSインターモーダルターミナルへのアクセス、他の大手鉄道との現役接続点から20マイル圏内にある単独鉄道施設の開放、UPのTTX出資比率を50%未満に抑える上限が含まれる。",
+      "ニューオーリンズ、メンフィス、セントルイスのTRRAに関する保護も要求しており、合併反対を表明した州司法長官らと歩調を合わせた形となった。"
+    ],
+    "collected_at": "2026-11-23T06:29:01-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4783,35 +4873,5 @@
       "日曜に水が引き、バラスト交換などの復旧作業で1線目を日曜夜、2線目を月曜未明に開通させる見通しと BNSF は説明した。"
     ],
     "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "FreightCar America faces third probe as shares drop 31% on weak Q3",
-    "title_ja": "FreightCar America株31%安、証券法調査が3件目に",
-    "source": "scanx.trade",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa29yNVNkOFgzSmJxQkszd19KeTdSdW9QZHBqQ01uQmJQR2IxMXB2Q3NUbjRoOGN1UFdRdjlOZHpiTmZwUnFXWkdZSThSdzFUZjNKWGFXb3dhQV9FeG56QWhoSk9MLXdjUUdJazh2SUVudTMxQUozQmp3bGhjcGYwOFpCb0xxT0l0UEFSbUZKTDRqbEtqY2dfS3ZXTVhoaDg2enhXaXd4TThKTDRWTVdsSDlUQW9YdDE3akxn?oc=5",
-    "published_at": "2026-10-24",
-    "summary_ja": [
-      "10月19日公表の第3四半期暫定実績（売上7,500〜7,700万ドル、調整後EBITDAはほぼ損益均衡）と通期見通しの再下方修正を受け、株価は31%下落したと報じられた。",
-      "見通し引き下げの主因は、顧客の契約履行能力に疑義が生じたタンク車改造案件1,285両を受注残から除外したこと。",
-      "10月20日にHolzer & Holzerが証券法順守に関する調査開始を公表し、報道では同種の調査が3件目とされる。"
-    ],
-    "collected_at": "2026-10-25T06:25:03-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Port of Lázaro Cárdenas handles 21% of Mexico's commercial cargo",
-    "title_ja": "Lázaro Cárdenas港、1〜9月のコンテナ取扱3%増",
-    "source": "Container News",
-    "url": "https://container-news.com/port-of-lazaro-cardenas-handles-21-of-mexicos-commercial-cargo/",
-    "published_at": "2026-10-24",
-    "summary_ja": [
-      "メキシコのLázaro Cárdenas港は1〜9月に商業貨物2,151万トンを取り扱い、国内貨物量の21%を占めた。",
-      "コンテナ取扱は200万7,493TEUで前年同期比3%増、寄港は1,339隻で、コンテナ貨物が商業貨物の52%を占めた。",
-      "積替えがコンテナ取扱の48%に達し、太平洋側の再配分ハブとして空コンテナや機材の流動に影響する位置づけが続く。"
-    ],
-    "collected_at": "2026-10-25T06:25:03-07:00"
   }
 ]
