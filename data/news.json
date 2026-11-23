@@ -17,6 +17,36 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Durban backlog delays medicine shipments",
+    "title_ja": "Durban港の滞貨長期化、医薬品貨物30件が通関待ち",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/11/durban-backlog-delays-medicine-shipments/",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "南アフリカのDurban港で医薬品約30件の貨物が通関待ちとなり、公立病院・診療所で供給不足が生じていると報じられた。",
+      "滞貨は8月のコンテナターミナルの基幹システム移行後に拡大したとされ、他媒体の報道では本船の待機が最大12日程度に達したと伝えられている。",
+      "年末の荷動き集中でさらに遅延が延びる可能性が指摘されており、機材の回転低下と空コンテナ滞留コストの増加要因となりうる。"
+    ],
+    "collected_at": "2026-11-23T13:21:53-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Further 15 Fret SNCF locomotives to be put out to auction",
+    "title_ja": "Fret SNCF、機関車15両を追加で競売へ",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/23/further-15-fret-sncf-locomotives-to-be-put-out-to-auction/",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "SNCFの貨物子会社群Rail Logistics Europeが、機関車15両の競売に向けた関心表明の受付を開始した。",
+      "内訳はBB 27000形電気機関車10両（うち7両が稼働中、3両は先月退役）とBB 60000形ディーゼル機関車5両で、売却はオンラインで複数回に分けて行われる。",
+      "2025年1月発効のFret SNCF「discontinuity plan」は計62両の手放しを定めており、今回の15両で要件を満たすと同社は説明している。"
+    ],
+    "collected_at": "2026-11-23T13:21:53-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Valenciaport container traffic holds steady as vehicle traffic rises",
     "title_ja": "Valencia港、直近12カ月のコンテナ取扱は562.9万TEUで横ばい",
     "source": "Container News",
@@ -90,6 +120,21 @@
     "collected_at": "2026-11-23T06:29:01-08:00"
   },
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "NC attorney general opposes proposed Norfolk Southern-Union Pacific merger",
+    "title_ja": "ノースカロライナ州など21州司法長官、UP-NS合併に反対意見書",
+    "source": "WLOS",
+    "url": "https://wlos.com/news/local/nc-attorney-general-opposes-proposed-norfolk-southern-union-pacific-merger",
+    "published_at": "2026-11-22",
+    "summary_ja": [
+      "ノースカロライナ州のJeff Jackson司法長官が他20州の司法長官と共同で、UP-NS合併を却下するようSTBに意見書を提出した。",
+      "意見書はClass I同士の合併に適用される厳格な審査基準の適用を求め、申請側は競争上の弊害を上回る公益を示せていないと主張している。",
+      "同州には3,000マイル超の貨物鉄道があり、うち1,000マイル超をNSが運行しており、食品価格の上昇や州内農家への影響が懸念材料として挙げられた。"
+    ],
+    "collected_at": "2026-11-23T13:21:53-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "news",
     "title": "Watco to begin use of Intramotev autonomous freight cars in Texas",
@@ -118,6 +163,21 @@
       "旧契約は2025年7月に失効しており、他のILWU支部がピケを支持する姿勢を示していたため、感謝祭前の荷動きと空コンテナの滞留への影響が懸念されていた。"
     ],
     "collected_at": "2026-11-23T06:29:01-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "NWSA YTD volumes fall 9.6% despite October growth",
+    "title_ja": "北西シーポート同盟、年初来コンテナ取扱が9.6%減",
+    "source": "WorldCargo News",
+    "url": "https://www.worldcargonews.com/news/2026/11/nwsa-ytd-volumes-fall-9-6-despite-october-growth/",
+    "published_at": "2026-11-21",
+    "summary_ja": [
+      "Northwest Seaport Alliance（シアトル・タコマ）の年初来取扱は240万9,441TEUで、前年同期比9.6%減となった。",
+      "実入り輸入が10.1%減、実入り輸出が2.8%減、国内コンテナが0.4%減だった一方、10月単月の実入り輸入は13.1%増と持ち直した。",
+      "関税の影響はカナダの混雑から流入した完成車で一部相殺されたとしており、西岸ゲートウェイの荷動き低迷は空コンテナの偏在・回送負担につながりうる。"
+    ],
+    "collected_at": "2026-11-23T13:21:53-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -373,6 +433,21 @@
       "Drewry によると上海–ジェノバは6%上昇して1FEU当たり4,436ドル、上海–ロッテルダムは横ばいで、太平洋航路のスポットは7週連続で下落し11月の2回の値上げは不成立となった。"
     ],
     "collected_at": "2026-11-21T13:22:09-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Germany looking for €100m to reverse single wagonload cut",
+    "title_ja": "独連立政権、単車貨物支援の削減撤回へ1億ユーロを模索",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/20/germany-looking-for-e100m-to-reverse-single-wagonload-cut/",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "ドイツの連立与党が2027年予算での単車貨物（single wagonload）支援の削減を撤回するため、約1億ユーロの財源を探していると現地報道が伝えた。",
+      "連邦議会予算委員会が削減を残したまま草案をまとめてから1週間足らずでの動きで、連邦予算はまだ確定していない。",
+      "単車貨物は多数の貨車を要する輸送形態で、支援の行方は欧州の貨車需要と稼働に影響しうる。"
+    ],
+    "collected_at": "2026-11-23T13:21:53-08:00"
   },
   {
     "category": "container_leasing",
