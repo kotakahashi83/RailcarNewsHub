@@ -1,5 +1,20 @@
 [
   {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Intermodal giant J.B. Hunt asks regulators to deny UP-NS merger",
+    "title_ja": "J.B. Hunt、UP・NS統合の却下をSTBに要請",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/intermodal/intermodal-giant-j-b-hunt-asks-regulators-to-deny-up-ns-merger/",
+    "published_at": "2026-11-24",
+    "summary_ja": [
+      "米最大のインターモーダル事業者J.B. Huntが11月18日付の意見書で、UP・NS統合は顧客にとって便益より害が大きいとしてSTBに却下を求めた。",
+      "年間約225万本のインターモーダル輸送実績を踏まえ、申請が掲げる単一線サービスの便益と210万件のトラックから鉄道への転換見通しは実態に合わないと主張している。",
+      "便益が荷主に還元される保証やサービス水準未達時の責任追及の仕組みがないとも指摘しており、西部でBNSF、東部でNSとCSXを使う大口顧客の反対として重みを持つ。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
+  },
+  {
     "category": "alt_investment",
     "kind": "news",
     "title": "Copenhagen Infrastructure Partners announces its first rated, multi-fund Infrastructure Backed Notes programme",
@@ -43,6 +58,36 @@
       "2025年1月発効のFret SNCF「discontinuity plan」は計62両の手放しを定めており、今回の15両で要件を満たすと同社は説明している。"
     ],
     "collected_at": "2026-11-23T13:21:53-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "Consortium of state attorneys general asks regulators to reject merger",
+    "title_ja": "19州と首都の司法長官、UP・NS統合の却下を要求",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/class-i/consortium-of-state-attorneys-general-asks-regulators-to-reject-merger/",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "19州とコロンビア特別区の司法長官が連名で、UP・NS統合の却下を求める63ページの意見書をSTBに提出した。",
+      "11月18日付の書面は、UP・NSに最も有利に解釈しても申請は公共の便益を立証できていないとし、審査はUPのJim Vena CEOの言動により汚染されたと推定すべきだと主張している。",
+      "モンタナ州とアイオワ州は11月17日の共同書面、インディアナ州は11月18日の個別書面でも反対を表明しており、州当局の反対が広がっている。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "European rail freight is carrying fewer tonnes – and losing customers on reliability",
+    "title_ja": "欧州鉄道貨物、輸送トン数減と定時性で顧客離れ",
+    "source": "RAILMARKET.com",
+    "url": "https://railmarket.com/news/freight-rail/66376-european-rail-freight-is-carrying-fewer-tonnes-and-losing-customers-on-reliability",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "CER（欧州鉄道共同体）の経済調査に基づく分析で、欧州の鉄道貨物は輸送距離の長期化によりトンキロの数字が実際のトン数減少を覆い隠していると指摘された。",
+      "顧客離れの主因は信頼性・定時性の低さで、産業需要の弱さがこれに重なっているとされる。",
+      "Eurostatベースでは2025年のEU鉄道貨物は1.8%減の3,682億トンキロと4年連続の減少で、2018年のピークを約10%下回り、貨車リース需要の先行き懸念材料となる。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
   },
   {
     "category": "container_leasing",
@@ -448,6 +493,36 @@
       "単車貨物は多数の貨車を要する輸送形態で、支援の行方は欧州の貨車需要と稼働に影響しうる。"
     ],
     "collected_at": "2026-11-23T13:21:53-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "BLET TEAMSTERS WIN HISTORIC MULTIMILLION-DOLLAR ARBITRATION AWARD AGAINST UNION PACIFIC",
+    "title_ja": "BLET、UPに約9,880万ドルの仲裁裁定を獲得",
+    "source": "PR Newswire (BLET / International Brotherhood of Teamsters)",
+    "url": "https://www.prnewswire.com/news-releases/blet-teamsters-win-historic-multimillion-dollar-arbitration-award-against-union-pacific-302947255.html",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "機関士組合BLETは、Union Pacificに対する仲裁で勝訴し、支払額を約9,880万ドルと見込むと発表した。",
+      "争点は2023年労働協約の「11/4」勤務制度（11日勤務・4日休暇）で、UPが期限までに導入せず協約が求める延長申請も行わなかったと認定された。",
+      "Special Board of Adjustmentは請求資格者に対象期間の1日あたり基本日額の支払いを命じ、UPは30日以内に最終額を算定する必要がある（UPは2025年7月以降は同制度を導入済みと説明）。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "14 charged in train thefts of more than $22.5 million in cargo",
+    "title_ja": "南カリフォルニアの貨物列車窃盗団14人を起訴、被害2,250万ドル",
+    "source": "Trains Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUhOSTRZVUJYcFVkVjJ2Y20ta1JDeElKSlF1TmliWGdpQWhVSmZVcHhNMmRJTENZU2lnLWtIYU8tSUV1OEZmeUpVNTZNQVVBZ1NMYWdpdEV1aS1MU2NTaDNYOE5QaTExOVp5MWZ1Y0c3REp3YU9fVW0xeDNsak9OcGJpaWM3UEEweGRRSkU0VWJsakZGcnJOXzdUV2VfOS1GUW1mUUQ2bmt6d2xG?oc=5",
+    "published_at": "2026-11-20",
+    "summary_ja": [
+      "ロサンゼルスの連邦大陪審が、南カリフォルニアの貨物列車を狙った窃盗団14人を17の訴因で起訴し、13人が逮捕された。",
+      "起訴状によると被害額は約2,250万ドルで、36本を超える列車からNikeのスニーカーやCrocs、電動工具などの輸入消費財が盗まれたとされる。",
+      "ブレーキのエアホースを切断して列車を緊急停止させる手口が指摘されており、鉄道貨物の盗難リスクと保安コストの高まりを示している（被疑者はいずれも無罪が推定される）。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
   },
   {
     "category": "container_leasing",
@@ -883,6 +958,21 @@
       "ニューオーリンズ、メンフィス、セントルイスのTRRAに関する保護も要求しており、合併反対を表明した州司法長官らと歩調を合わせた形となった。"
     ],
     "collected_at": "2026-11-23T06:29:01-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "ADB to invest $57.5m in BlackRock's Asia infrastructure credit fund",
+    "title_ja": "ADB、BlackRockのアジアインフラ債務ファンドに最大5,750万ドル",
+    "source": "DealStreetAsia",
+    "url": "https://www.dealstreetasia.com/?p=501411",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "アジア開発銀行が、BlackRock傘下のGlobal Infrastructure Partnersが運用するEmerging Asia Infrastructure Credit Fundへ最大5,750万ドルを投じる。",
+      "内訳はADB自身の最大3,000万ドルに加え、ADBが受託管理するカナダの気候・自然基金から最大1,000万ドル、豪州のClimate Finance Partnershipから最大1,750万ドル。",
+      "同ファンドは7.5億ドル規模を目標に東南アジアで10〜20件のシニア・メザニンデットを組成する計画で、シンガポール主導のブレンデッドファイナンス枠組みFAST-Pの一環となる。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -1513,6 +1603,21 @@
       "共通規格づくりが進めば、リース会社や船社が複数メーカー混在のリーファー機材を一元的に監視しやすくなる可能性がある。"
     ],
     "collected_at": "2026-11-15T13:23:32-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Brookfield obtains $26b for flagship infrastructure strategy, anticipates first close in coming weeks",
+    "title_ja": "Brookfield、旗艦インフラ戦略に260億ドルを確保",
+    "source": "Institutional Real Estate, Inc.",
+    "url": "https://irei.com/news/brookfield-obtains-26b-for-flagship-infrastructure-strategy-anticipates-first-close-in-coming-weeks/",
+    "published_at": "2026-11-13",
+    "summary_ja": [
+      "Brookfieldは第3四半期決算で、旗艦インフラ戦略（Brookfield Infrastructure Fund VI）に約260億ドルのコミットメントを確保したと報告した。",
+      "9月30日の四半期末以降にさらに約130億ドルが積み上がったとされ、ファーストクローズは数週間内、2027年初めまでに300億ドルの調達を見込む。",
+      "前身のFund Vは280億ドルで世界最大のクローズドエンド型インフラファンドであり、Tritonを傘下に持つBrookfieldの輸送実物資産への投資余力が一段と拡大する。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
   },
   {
     "category": "rail_industry",
@@ -2353,6 +2458,21 @@
       "戦略は欧州ミドルマーケットのコアプラスで、インフレ耐性と成長性を備えたブラウンフィールド資産が主な投資対象となる。"
     ],
     "collected_at": "2026-11-22T13:22:44-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "earnings",
+    "title": "FCA Reports Lower 3Q26 Revenue, 28% Increase in Backlog Value",
+    "title_ja": "FreightCar America、3Q26は減収も受注残額28%増",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/mechanical/freight-cars/fca-reports-lower-3q26-revenue-28-increase-in-backlog-value/",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "FreightCar Americaの2026年第3四半期は売上高7,650万ドルで前年同期の1億6,050万ドルから減少し、貨車納入は49%減となった。",
+      "受注残は2,660両・2億8,450万ドルで前年同期の2億2,200万ドルから28%増えたが、顧客の履行能力に疑義が生じた1,285両（約8,100万ドル）を期中に受注残から除外している。",
+      "売上総利益率は8.8%（前年同期15.1%）、調整後EBITDAは10万ドルとほぼ損益均衡まで低下した一方、アフターマーケット売上は65%増で通期見通しは据え置き、期末後にTrinity Equipment Companyの買収を完了した。"
+    ],
+    "collected_at": "2026-11-24T06:23:25-08:00"
   },
   {
     "category": "rail_industry",
@@ -4918,35 +5038,5 @@
       "申請は12.70〜32.58%のダンピングマージンを主張しており、メキシコでタンク車を製造する Trinity Industries と Greenbrier はいずれも申請内容に反対の立場を表明している。"
     ],
     "collected_at": "2026-11-04T13:23:33-08:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "Judge rules speech by UP’s CEO must be made public",
-    "title_ja": "UP-NS合併審査、Vena CEO講演の録音公開を行政法判事が命令",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/regulatory/judge-rules-speech-by-ups-ceo-must-be-made-public/",
-    "published_at": "2026-10-25",
-    "summary_ja": [
-      "行政法判事が、UP-NS合併審査の一環としてVena CEOの講演録音を公開すべきと裁定した。",
-      "対象は2026年3月のSouthwest Association of Rail Shippers会合での講演で、UPが主張した「機密・専有情報」には当たらないと判断された。",
-      "7月にBaldwin上院議員が「合併に公然と賛成しない顧客への値上げをちらつかせる脅し」と指摘し、CPKCと荷主団体連合が公開を求めていた。"
-    ],
-    "collected_at": "2026-10-25T13:22:45-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Flooding closes BNSF main line in New Mexico",
-    "title_ja": "BNSF、ニューメキシコの本線が洪水で一時不通",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/flooding-closes-bnsf-main-line-in-new-mexico/",
-    "published_at": "2026-10-25",
-    "summary_ja": [
-      "Rio San Jose の氾濫により、BNSF の Southern Transcon がニューメキシコ州 Marmon–Laguna 間で週末に不通となった。",
-      "被害が大きかったのは Gallup サブディビジョンのマイルポスト69.7〜72.7で、同区間は1日平均59本の貨物列車が通る。",
-      "日曜に水が引き、バラスト交換などの復旧作業で1線目を日曜夜、2線目を月曜未明に開通させる見通しと BNSF は説明した。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
   }
 ]
