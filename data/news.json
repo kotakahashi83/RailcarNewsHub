@@ -120,6 +120,51 @@
     "collected_at": "2026-11-24T13:22:40-08:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Gulftainer-CULines link-up will bring China-Gulf capacity injection",
+    "title_ja": "CULines、Gulftainer提携で中国〜湾岸航路を増強",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/gulftainer-culines-link-up-will-bring-china-gulf-capacity-injection/",
+    "published_at": "2026-11-24",
+    "summary_ja": [
+      "中国船社 CULines が港湾運営の Gulftainer と提携し、UAE の Khor Fakkan 港で優先的な荷役権を確保したうえで中国〜ペルシャ湾航路の大幅な増強を準備していると報じられた。",
+      "同社は大型コンテナ船3隻を同航路に投入する見通しで、Khor Fakkan は Fujairah（UAE）や Sohar（オマーン）と並び、ホルムズ海峡を迂回して中東へ貨物を流す主要な代替港になっている。",
+      "海峡封鎖で湾岸向け貨物が滞留し、アジア〜中東の運賃は過去にない水準まで上昇しており、迂回港経由の荷動き拡大はコンテナ機材の滞留・偏在にも影響しうる。"
+    ],
+    "collected_at": "2026-11-25T06:24:13-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "UNIFE seeks firmer foreign subsidy rules in EU rail strategy",
+    "title_ja": "UNIFE、EU鉄道産業戦略で外国補助金規制の強化を要求",
+    "source": "Railway Supply",
+    "url": "https://www.railway.supply/unife-seeks-firmer-foreign-subsidy-rules-in-eu-rail-strategy/",
+    "published_at": "2026-11-24",
+    "summary_ja": [
+      "欧州鉄道産業連盟 UNIFE が、11月30日のEU運輸理事会に向けて鉄道分野に特化した産業戦略の策定着手を各国運輸相に求めた。",
+      "World Rail Market Study 2026 によるとEU系サプライヤーの世界シェアは56%まで低下しており、UNIFE は逸失機会を年間約970億ユーロ規模と見積もっている。",
+      "具体的な要求は、外国補助金規則（FSR）の厳格な執行と抜け穴の封鎖、策定中の公共調達法への欧州優先条項の導入、CEF と欧州競争力基金による資金拡充である。"
+    ],
+    "collected_at": "2026-11-25T06:24:13-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Evermill launches infra credit strategy",
+    "title_ja": "Evermill Capital、インフラ債権戦略を新設",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/24/evermill-launches-infra-credit-strategy/",
+    "published_at": "2026-11-24",
+    "summary_ja": [
+      "Delancey が出資する英プライベートクレジット運用会社 Evermill Capital が、実物資産クレジット事業を不動産からインフラへ広げる新戦略を立ち上げた。",
+      "新戦略は Tim Floyd がパートナーとして率いる。同氏はインフラ金融の経験20年超で、直近は Westbourne Capital で13年にわたり欧州インフラクレジット事業を構築してきた。",
+      "同社はすでにキャッシュフロー・マッチング型のインフラ案件に1億ポンド超をコミットしており、ネットゼロ関連投資やAI計算基盤の建設に伴う資金需要の拡大を背景と説明している。"
+    ],
+    "collected_at": "2026-11-25T06:24:13-08:00"
+  },
+  {
     "category": "alt_investment",
     "kind": "news",
     "title": "Copenhagen Infrastructure Partners announces its first rated, multi-fund Infrastructure Backed Notes programme",
@@ -193,6 +238,36 @@
       "Eurostatベースでは2025年のEU鉄道貨物は1.8%減の3,682億トンキロと4年連続の減少で、2018年のピークを約10%下回り、貨車リース需要の先行き懸念材料となる。"
     ],
     "collected_at": "2026-11-24T06:23:25-08:00"
+  },
+  {
+    "category": "railcar_leasing",
+    "kind": "news",
+    "title": "Trinity Industries Sees Railcar Deliveries Rebounding in 2027, but Tariffs Cloud Outlook",
+    "title_ja": "Trinity、2027年の業界貨車納入は3万両台へ回復と予想",
+    "source": "MarketBeat",
+    "url": "https://www.marketbeat.com/instant-alerts/event-trinity-industries-sees-railcar-deliveries-rebounding-in-2027-but-tariffs-cloud-outlook-2026-11-23/",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "Trinity Industries の経営陣は、2026年を業界貨車納入のサイクル底と位置付け、2027年は納入が回復に向かうとの見方を示した。",
+      "足元の業界納入は2026年が2万3,000〜2万5,000両程度とされる一方、2027年は3万〜3万5,000両への増加が見込まれており、退役車両の置き換え需要と輸送量の回復が支えとされる。",
+      "ただし関税の不透明感がタンク車の発注判断を遅らせており、同社はメキシコ生産車へのSection 232適用について米税関に明確化を求めている。2027年の正式ガイダンスは2027年2月に示す予定。"
+    ],
+    "collected_at": "2026-11-25T06:24:13-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "New southern Ontario port set to open in 2031",
+    "title_ja": "カナダ、Sault Ste. Marieに新貨物港を2031年開業へ",
+    "source": "Progressive Railroading",
+    "url": "https://www.progressiverailroading.com/railprime/details/New-southern-Ontario-port-set-to-open-in-2031--78172",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "Hamilton-Oshawa Port Authority（HOPA）が主導し、オンタリオ州 Sault Ste. Marie に多用途の新貨物港を整備する計画が動き出した。",
+      "連邦政府と州政府がそれぞれ1億2,500万カナダドル（計2億5,000万カナダドル）を拠出し、船席・鉄道トランスロード設備・荷役エリアと入居可能な産業用地を整備、2031年のフル稼働時に年間350万トン超の取扱いを目標とする。",
+      "開業後は CN と CPKC の双方からアクセスできる見込みだが港内鉄道の運行事業者は未定で、2027年に環境調査と詳細設計、2029年に本格工事を予定している。"
+    ],
+    "collected_at": "2026-11-25T06:24:13-08:00"
   },
   {
     "category": "container_leasing",
@@ -1078,6 +1153,21 @@
       "同ファンドは7.5億ドル規模を目標に東南アジアで10〜20件のシニア・メザニンデットを組成する計画で、シンガポール主導のブレンデッドファイナンス枠組みFAST-Pの一環となる。"
     ],
     "collected_at": "2026-11-24T06:23:25-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "regulatory",
+    "title": "Germany signs off on 12.9% hike for freight track access charges",
+    "title_ja": "独BNetzA、2027年の貨物線路使用料12.9%引き上げを認可",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/18/germany-signs-off-on-12-9-hike-for-freight-track-access-charges/",
+    "published_at": "2026-11-18",
+    "summary_ja": [
+      "ドイツ連邦ネットワーク庁（BNetzA）が DB InfraGO の2027年線路使用料を正式に認可し、貨物は平均12.9%、地域旅客は7.7%、長距離旅客は5%の引き上げとなる。",
+      "新料金は12月13日のダイヤ改正から適用され、貨物の標準料率は1列車キロあたり3.48ユーロから3.92ユーロへ上がり、貨物事業者の負担増は年間約1億1,200万ユーロと試算されている。",
+      "貨物事業者側は補助金削減と合わせた実質的なコスト増は約75%に達すると主張しており、DB InfraGO は2028年にも貨物で平均14.3%の追加引き上げを見込んでいる。"
+    ],
+    "collected_at": "2026-11-25T06:24:13-08:00"
   },
   {
     "category": "railcar_leasing",
@@ -4873,275 +4963,5 @@
       "国際整合の維持と国内事業者のコスト低減が狙いで、現段階は提案（NPRM）であり最終規則ではない。"
     ],
     "collected_at": "2026-10-29T13:24:01-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Norfolk Southern to serve new Audi plant in Georgia",
-    "title_ja": "Audi、NS路線沿いのジョージア州に初の米国工場",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/norfolk-southern-to-serve-new-audi-plant-in-georgia/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "Audi が初の米国工場をジョージア州メーコン近郊の Middle Georgia Megasite に建設すると10月24日に発表した。",
-      "投資額は40億ドル、新規雇用は約4,500人で、着工は2028年、年産約20万台の本格稼働は2031年を見込む。",
-      "敷地の北側を Norfolk Southern の Albany District 本線が走り、サバンナ港まで171マイルと、完成車・部品の鉄道輸送需要につながる立地。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "regulatory",
-    "title": "US formalises two-month suspension of Chinese vessel fees",
-    "title_ja": "USTR、中国船向け港湾料金措置の停止を2カ月延長",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/regulations/us-formalises-two-month-suspension-of-chinese-vessel-fees",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "USTR が10月23日公表の通知で、中国の海運・造船を対象とする Section 301 措置の停止をさらに2カ月延長する手続きに入った。",
-      "延長期間は2027年1月9日までで、その間は輸送サービス料やクレーンなど関連品目の関税の支払い義務が発生しない。",
-      "当初の1年間の停止は11月9日に失効予定だったが、9月の米中首脳会談での合意を今回の通知で正式化した形となる。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Asia - Europe container spot rates see October recovery",
-    "title_ja": "アジア発欧州向けコンテナ運賃、10月に上昇へ反転",
-    "source": "Seatrade Maritime",
-    "url": "https://www.seatrade-maritime.com/containers/asia-europe-container-spot-rates-see-october-recovery",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "7月から下落していたアジア発欧州向けのスポット運賃が9月末で底を打ち、10月は上昇に転じた。",
-      "Xeneta のデータでは極東発北欧州向けが前週比6.8%高の1FEU当たり3,698ドル、地中海向けが5.8%高の4,442ドル。",
-      "紅海・スエズ回帰で船腹が戻っても運賃が上がる状況が続き、ホルムズ危機前比では北欧州向けが67%高、地中海向けが33%高の水準にある。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "China-India rates ease but port delays still a strain on services",
-    "title_ja": "中国発インド向け運賃が下落、港湾遅延は依然継続",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/china-india-rates-ease-but-port-delays-still-a-strain-on-services/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "インドの祭事需要が一巡し、中国の主要積地からインド向けのスポット運賃が10〜20%下落した。",
-      "上海発 JNPA（Nhava Sheva）向け40フィートは1カ月前の約3,800ドルから約3,200ドルへ、上海発チェンナイ向けも3,900ドルから3,200ドルへ低下した。",
-      "香港・シンガポール発も下落傾向だが、インド側の港湾混雑と遅延がサービスの制約として残り、機材の回転に影響しうる。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Valenciaport reports September container growth despite weaker transshipment",
-    "title_ja": "バレンシア港、9月のコンテナ取扱が5.5%増",
-    "source": "Container News",
-    "url": "https://container-news.com/valenciaport-reports-september-container-growth-despite-weaker-transshipment/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "バレンシア港湾局（APV）が10月23日に公表した9月の取扱量は49万8,837TEUで、前年同月比5.48%増となった。",
-      "実コンテナの輸出は5.68%増、輸入は11.68%増、総貨物量は2.05%増の660万トンだった。",
-      "一方で実コンテナの積み替えは0.82%減の17万9,002本と小幅減にとどまったが、年初来の減少傾向は続いている。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "regulatory",
-    "title": "Romania ‘disciplines’ rail freight: no more “warehouses on wheels”",
-    "title_ja": "ルーマニア、貨車の「動く倉庫」化を抑える規則案",
-    "source": "RailFreight.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk5yZmNqTWRKbEtta1JFdkNwOTNoQTJpc3RXYm1hRGVXeFFCZjMyWElDdWFVR3pxVmdyOGRIV1RFZUhzTnZFZnBVN2ktQzd0LTZnaTRNNkcxX2cxeWE5LXhmVVVQN04yZUp0MDVnWE9lVTBWWk1ST21wRHY0QlU1dmRZZEdDNlVyeW1xcWNRekdacm5uTElQS0RpNkIwRjVybENaaHRZVzlFeUJmangyTWw3RQ?oc=5",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "ルーマニア運輸省が、コンスタンツァ港へ計画外に到着する貨物列車の受け入れを制限する省令案をまとめたと報じられている。",
-      "ダイヤ外列車の優先的な取り扱いを認めず、遅延を招いた事業者には積載順位の後退や罰金の引き上げを課す内容とされる。",
-      "滞留した貨車が事実上の保管スペースとして使われる状態の是正が狙いで、現時点では案の段階とみられるため確定事項としては扱えない。"
-    ],
-    "collected_at": "2026-10-26T06:27:46-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "MSC’s MEDLOG joins consortium to operate Júndiz intermodal terminal",
-    "title_ja": "MSC系MEDLOG、スペインJúndizターミナルの運営権を獲得",
-    "source": "Container News",
-    "url": "https://container-news.com/mscs-medlog-joins-consortium-to-operate-jundiz-intermodal-terminal/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "スペインの鉄道インフラ管理者Adifが、Vitoria-Júndiz複合輸送ターミナルの運営契約をMSCグループのMEDLOG Spain Logisticを含む企業連合に付与した。",
-      "契約期間は当初6年で延長により最長20年、合弁のTerminal Intermodal Júndizは当初6年で約30万ITU（複合輸送単位）の取扱を計画する。",
-      "連合にはBilbao港とPasaia港の港湾局やÁlava州の機関も参加し、バスク圏の港湾と内陸を結ぶコンテナ鉄道輸送の強化が狙い。"
-    ],
-    "collected_at": "2026-10-26T13:24:44-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "earnings",
-    "title": "Greenbrier Reports Fourth Quarter and Fiscal 2026 Results",
-    "title_ja": "Greenbrier、FY26通期純利益79百万ドルで6割減益",
-    "source": "SEC EDGAR (The Greenbrier Companies)",
-    "url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431928/gbx-ex99_1.htm",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "8月末締めのFY2026通期は売上24.6億ドル（前期比24%減）、純利益79百万ドル（同61%減、1株2.49ドル）と大幅減益。",
-      "第4四半期は新造貨車受注3,400両・6億ドル、納入3,600両で、受注残は8月末時点で14,000両・推定21億ドルとFY2024以来初めて前四半期から増加。",
-      "FY2027見通しは売上28〜32億ドル、EPS2.75〜3.75ドル、北米業界納入26,000〜28,000両で、関税の不透明感による貨車購入の先送りからの回復を想定。"
-    ],
-    "collected_at": "2026-10-27T06:38:05-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "personnel",
-    "title": "Greenbrier Elects Emanuel Pearlman to Board of Directors",
-    "title_ja": "Greenbrier、Atlasとの合意でPearlman氏を取締役に選任",
-    "source": "SEC EDGAR (The Greenbrier Companies)",
-    "url": "https://www.sec.gov/Archives/edgar/data/923120/000119312526431927/gbx-ex99_1.htm",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "GreenbrierはEmanuel（Manny）Pearlman氏をClass III取締役に選任し、2026年10月27日付で就任すると発表。",
-      "選任はAtlas Holdingsとのcooperation agreement（協調合意）の一環で、取締役会は11名に拡大する。",
-      "Pearlman氏は2027年の年次株主総会で改選に臨む予定で、会社は投資運用分野での同氏の経験を収益力改善戦略に活かすとしている。"
-    ],
-    "collected_at": "2026-10-27T06:38:05-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "SMART-TD’s Soo Line members ratify agreement with CPKC",
-    "title_ja": "SMART-TDのSoo Line組合員、CPKCとの3年協約を批准",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/smart-tds-soo-line-members-ratify-agreement-with-cpkc/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "旧Soo Line管内で働くSMART-TD（鉄道運輸労組）の組合員が、CPKCとの3年協約を批准したと組合が発表。",
-      "協約は2027年12月31日まで有効で、時給の大幅な引き上げを含み、賃上げは2025年に遡及、新たな引き上げは2027年1月1日発効。",
-      "10月15日に締め切られた投票は賛成75.6%・反対24.4%で、有権者の81%が投票に参加した。"
-    ],
-    "collected_at": "2026-10-27T06:38:05-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CSX expands Chambersburg, Pa., intermodal terminal",
-    "title_ja": "CSX、Chambersburgインターモーダル拠点の能力を増強",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/csx-expands-chambersburg-pa-intermodal-terminal/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "CSXは貨物量の増加に対応し、ペンシルベニア州Chambersburgのインターモーダルターミナルにゴムタイヤ式ガントリークレーン1基とリーチスタッカー2台を追加した。",
-      "コンテナ・シャーシ・従業員用の駐車スペースを拡張し、整備施設の拡張工事も進行中で、さらなる追加投資も検討している。",
-      "同ターミナルの取扱量は2023年の約159,000ユニットから2025年に約192,000ユニットへと約21%増加している。"
-    ],
-    "collected_at": "2026-10-27T06:38:05-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "The PFL Railcar Market Report for October 25, 2026",
-    "title_ja": "タンク車オンライン数25.5万両に微減、DOT-117置換ペースに遅れ",
-    "source": "PFL Petroleum",
-    "url": "https://pflpetroleum.com/reports/pfl-railcar-report-10-26-2026/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "週次のPFL Railcar Market Reportによると、Class I 6社の線路上にあるタンク車は10月21日までの4週間平均で約255,400両と、前期比0.2%減となった。",
-      "BTS集計では2026年のタンク車製造計画は約2,800両にとどまり、残る非DOT-117の可燃性液体用タンク車を置き換えるのに必要とされる年約4,247両を大きく下回る。",
-      "同レポートは、北米向けタンク車を多く製造する国に課される関税にも言及しており、置換の遅れと併せて今後の供給制約要因になりうると見られる。"
-    ],
-    "collected_at": "2026-10-28T13:25:39-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "CSX sees rail conversion opportunities from battered trucking market",
-    "title_ja": "CSX、トラック市況の悪化を追い風にモーダルシフト獲得を強化",
-    "source": "Supply Chain Dive",
-    "url": "https://www.supplychaindive.com/news/csx-sees-rail-conversion-opportunities-from-battered-trucking-market/833858/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "CSXは第3四半期決算説明に関連し、荷主のトラック輸送データを守秘のうえ分析してインターモーダルに転換可能なレーンを特定する取り組みを強化していると説明した。",
-      "同社の営業責任者は、高止まりする軽油価格、トラック供給力の減少、高いトラック運賃がインターモーダル部門の追い風になっていると指摘した。",
-      "第3四半期は化学品輸送量がトラックからの転換により前年同期比7%増え、廃棄物や石油製品も有望分野に挙げられた一方、トラック積載率の高い林産品は転換が難しいとされた。"
-    ],
-    "collected_at": "2026-10-28T13:25:39-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "London Gateway resumes empty container acceptance",
-    "title_ja": "London Gateway、空コンテナの受け入れを再開",
-    "source": "Container News",
-    "url": "https://container-news.com/london-gateway-resumes-empty-container-acceptance/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "Maerskは、英London Gatewayターミナルが10月26日12時に空コンテナの受け入れ制限を解除し、返却受け入れを再開したと通知した。",
-      "制限は10月23日付の顧客アドバイザリーで示されていたもので、再開後もハウラーは返却前にVBS（車両予約システム）の枠を確保する必要がある。",
-      "同港では悪天候による鉄道貨物の停止など混乱が続いており、Maerskは返却指示をMATS Onlineで随時確認するよう求めている。"
-    ],
-    "collected_at": "2026-10-28T13:25:39-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Union Pacific ordered to release video of threat to raise rates on shippers that don't support merger",
-    "title_ja": "UP、荷主への値上げ示唆動画の開示を命じられる",
-    "source": "Axios",
-    "url": "https://www.axios.com/pro/supply-chain-deals/2026/10/26/union-pacific-video-threat-rates-shippers-merger",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "STBの行政法判事は10月23日、UPのJim Vena CEOが映った動画をUPに開示させる命令を出した。",
-      "動画は3月のヒューストンでの荷主向け講演で、NS合併に公に賛同しない荷主への値上げを示唆したとされるもの。",
-      "判事は報復を容認しないと明記。UPは発言が文脈から切り取られたとし、荷主500社超を含む2,000超の支持者がいると主張している。"
-    ],
-    "collected_at": "2026-10-29T13:24:01-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Ukrainian Railways starts selling freight cars unfit for operation",
-    "title_ja": "UZ、運用不能の貨車490両を競売 入札は11月3日",
-    "source": "GMK Center",
-    "url": "https://gmk.center/en/news/ukrainian-railways-starts-selling-freight-cars-unfit-for-operation/",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "ウクライナ鉄道(UZ)は運用に適さない貨車490両を4ロット（各約120〜130両）に分けて売却する競売を開始した。",
-      "4ロットの開始価格は合計約6,180万フリブニャ（付加価値税別）で、入札はProzorro.Saleで11月3日に予定されている。",
-      "対象はゴンドラ車と鉱物・セメント用ホッパー車で、解体・保管コストの回避を狙う総額102億フリブニャのコスト削減策の一環。"
-    ],
-    "collected_at": "2026-10-29T13:24:01-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "news",
-    "title": "FreightCar America, Inc. To Release Third Quarter 2026 Results On November 9, 2026",
-    "title_ja": "FreightCar America、第3四半期決算を11月9日に発表",
-    "source": "FreightCar America (GlobeNewswire)",
-    "url": "https://www.globenewswire.com/news-release/2026/10/26/3388565/0/en/freightcar-america-inc-to-release-third-quarter-2026-results-on-november-9-2026.html",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "FreightCar America は2026年第3四半期決算を11月9日の市場引け後に発表すると公表した。",
-      "決算に関する電話会議は翌11月10日に予定されている。",
-      "同社は10月19日に、顧客が契約を履行しない可能性が高いとしてタンク車改造受注1,285両を受注残から除外し2026年見通しを下方修正しており、9月末の受注残は2,660両・2億8,450万ドルとなっている。"
-    ],
-    "collected_at": "2026-11-02T06:32:04-08:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Notice of Extension of the Deadline for Determining the Adequacy of the Antidumping and Countervailing Duty Petitions: Certain Railway Tank Cars and Parts Thereof From Mexico",
-    "title_ja": "商務省、メキシコ製タンク車のAD/CVD調査開始判断を11月9日に延期",
-    "source": "Federal Register (U.S. Department of Commerce)",
-    "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21792/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and",
-    "published_at": "2026-10-26",
-    "summary_ja": [
-      "米商務省は9月30日にUTLX Manufacturingが提出したメキシコ製タンク車および部品の反ダンピング・相殺関税申請について、調査開始の可否を判断する期限を延長する告示を10月26日付で出した。",
-      "延長理由は申請書だけでは業界支持（industry support）の要件を満たすかが明確でないためで、新たな判断期限は11月9日、事件番号は A-201-872（AD）および C-201-873（CVD）となる。",
-      "申請は12.70〜32.58%のダンピングマージンを主張しており、メキシコでタンク車を製造する Trinity Industries と Greenbrier はいずれも申請内容に反対の立場を表明している。"
-    ],
-    "collected_at": "2026-11-04T13:23:33-08:00"
   }
 ]
