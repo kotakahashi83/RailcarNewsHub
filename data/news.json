@@ -77,6 +77,51 @@
   {
     "category": "rail_industry",
     "kind": "news",
+    "title": "Weekly U.S. rail traffic remains ahead of 2025 levels",
+    "title_ja": "米週間鉄道輸送量、インターモーダル8.3%増で前年超え",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/weekly-u-s-rail-traffic-remains-ahead-of-2025-levels-2/",
+    "published_at": "2026-11-25",
+    "summary_ja": [
+      "AARによると11月21日までの週の米国鉄道輸送量は54万111台（カーロード＋インターモーダル）で、前年同週比4.7%増となった。",
+      "内訳はカーロードが23万5148台で0.5%増、コンテナ・トレーラーが30万4963台で8.3%増。年初来累計は2371万1577台で4%増。",
+      "北米9社ベースの輸送量は73万7413台で4.2%増と、カーロードが横ばい圏にとどまる一方でインターモーダル主導の伸びが続いている。"
+    ],
+    "collected_at": "2026-11-26T06:22:07-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Return of container shipping to Suez Canal is causing European port congestion and impacting Asia-UK shipments, says Davies Turner",
+    "title_ja": "スエズ回帰で欧州港湾混雑、英国向けコンテナに遅延",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/return-of-container-shipping-to-suez-canal-is-causing-european-port-congestion-and-impacting-asia-uk-shipments-says-davies-turner/",
+    "published_at": "2026-11-25",
+    "summary_ja": [
+      "英大手フォワーダーのDavies Turnerは、コンテナ船のスエズ運河ルート回帰に伴いアジア発英国向け輸送に混乱が生じていると指摘した。",
+      "同社オーシャン部門ディレクターのTony Cole氏によれば、喜望峰経由だった船が短縮ルートの船に追いつき、主要欧州港に本船到着が集中して混雑を招いている。",
+      "一部船社は英国向けコンテナを本来の揚げ地ではなく欧州ハブ港で陸揚げしており（後続輸送の回復計画は表明済み）、機材の滞留と回送負担が増すおそれがある。"
+    ],
+    "collected_at": "2026-11-26T06:22:07-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Maersk warns of UK logistics bottlenecks as port congestion persists globally",
+    "title_ja": "Maersk、港湾混雑の継続で英国物流の目詰まりを警告",
+    "source": "The Loadstar",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekN3SlB5NFJ0Y0xkZmJwTW5CUWJDbUdOTXBJZGJnWmdqRDBONlhVRFJpSjZnUVFYZkxTVW9UNHZPMlZBMmZ3NkpyQ0ZtTFVoU3FnYkdOTEpjZGJqcXBMTUJBTGJvN0hQWmdmWkd1ZmlQb1hCQ0RTSTZOREJJd3VnRXlfWmJxYjJfWEFLZ0xBSFhLNHhLSG5TcXFrZmlsc1FnUEZ0WE1XYVhJVTZtS2FJ?oc=5",
+    "published_at": "2026-11-25",
+    "summary_ja": [
+      "Maerskは、世界各地で港湾混雑が続くなかで英国の物流にボトルネックが生じていると警告したと報じられた。",
+      "同社は北欧州の港湾についても混雑水準がさらに高まる見通しを示しているとされる。",
+      "混雑の長期化はコンテナの港頭滞留を延ばすため、機材の回転率低下を通じてコンテナ需給と調達コストを締め付ける要因となる。"
+    ],
+    "collected_at": "2026-11-26T06:22:07-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
     "title": "Intermodal giant J.B. Hunt asks regulators to deny UP-NS merger",
     "title_ja": "J.B. Hunt、UP・NS統合の却下をSTBに要請",
     "source": "Trains",
@@ -4843,215 +4888,5 @@
       "設備立ち上げに3年、生産支援に10年を認める枠組みで、Sonowal海運相は約1兆ルピーの投資を呼び込みうるとしており、中国勢に集中する新造コンテナ供給の構図に影響する可能性がある。"
     ],
     "collected_at": "2026-11-03T13:24:10-08:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Container freight rates diverge as global benchmarks rise and Asian indexes weaken",
-    "title_ja": "コンテナ運賃、WCIが15週ぶり高値も中国系指数は停滞",
-    "source": "Container News",
-    "url": "https://container-news.com/container-freight-rates-diverge-as-global-benchmarks-rise-and-asian-indexes-weaken/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "DrewryのWCIは前週比2%上昇し40フィート当たり4,585ドルと15週ぶりの高値、Freightos Baltic Index（FBX）も5%上昇して3,560ドルとなった。",
-      "一方でCCFIは下落し、SCFIは10月23日時点で0.05%高の3,681.34ポイント、NCFIも小幅高にとどまった。",
-      "アジア-欧州航路ではDrewryが上昇を示す一方NYSHEX運賃指数（NYFI）は下落を続け、指標間・航路間で方向感が分かれている。"
-    ],
-    "collected_at": "2026-10-27T06:38:05-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Hambantota Port sees new opportunities as container ships return to Suez",
-    "title_ja": "Suez回帰見通しでHambantota港がコンテナ能力拡張へ",
-    "source": "Container News",
-    "url": "https://container-news.com/hambantota-port-sees-new-opportunities-as-container-ships-return-to-suez/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "スリランカのHambantota International Port Group（HIPG）は紅海・スエズ経由のコンテナ輸送の本格回復を見込み、コンテナ取扱能力の拡張を準備していると表明。",
-      "海事コンサルLinerlyticaは10月の分析で、2027年第1四半期までにスエズ航路へのコンテナ輸送が全面的に回帰すると予測している。",
-      "東西基幹航路から約10海里という立地を生かし積替えハブとしての地位強化を狙うが、回復ペースは治安情勢と各船社の判断に左右されるとみられる。"
-    ],
-    "collected_at": "2026-10-27T06:38:05-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Can railroads hang on to this year’s traffic gains?",
-    "title_ja": "Class I各社、トラックからの転移貨物の定着が焦点",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/can-railroads-hang-on-to-this-years-traffic-gains/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "記録的なディーゼル価格高とドライバー規制の厳格化によるトラック輸送力の逼迫で、今年の国内インターモーダル輸送量は8%増加し、一部のカーロード品目も押し上げられた。",
-      "UPのJim Vena CEOは燃料高が鉄道の対トラック優位を広げたとしつつ、燃料価格が下がった後も顧客をつなぎ留めるには一貫して信頼できるサービスが不可欠だと決算電話会議で述べた。",
-      "UPとNSの経営陣は一部貨物のトラック回帰を見込んでおり、転移貨物がどの程度定着するかは今後の貨車需要を左右する要素となる。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "Pennsylvania congressman asks FRA, Norfolk Southern about recent Altoona-area derailments",
-    "title_ja": "米下院議員、NSの相次ぐ脱線でFRAに説明要求",
-    "source": "Trains",
-    "url": "https://www.trains.com/pro/freight/class-i/pennsylvania-congressman-asks-fra-norfolk-southern-about-recent-altoona-area-derailments/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "ペンシルベニア州選出のJohn Joyce下院議員が、FRAのDavid Fink長官とNorfolk Southernに対し、同州ブレア郡で今年2月以降に起きた4件の脱線に関する質問状を送付した。",
-      "直近は10月23日にアルトゥーナで発生した脱線で、少なくとも11両の貨車が絡み、危険物積載車も含まれていたが漏洩は確認されていない。",
-      "UP-NS合併の審査が続くなかでの照会であり、NSの安全記録に対する議会と連邦当局の監視が強まる形となる。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Tariff anouncements cause cargo chaos for box terminals, says TiL",
-    "title_ja": "関税発表の急変が貨物急増を招く、TiL幹部がターミナル負荷を指摘",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/tariff-anouncements-cause-cargo-chaos-for-box-terminals-says-til/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "カルタヘナで開かれたTOC Americasで、TiL Groupの北米ターミナル投資担当ディレクターTom van Eynde氏が、関税の水準そのものより突然の発表が高コストな貨物急増を引き起こすと述べた。",
-      "関税はコンテナ荷動きを消滅させるのではなく移転させており、カナダの港湾経由で米国向けだった貨物がTiLの米国ターミナルへ流れている例を挙げた。",
-      "導入と撤回が繰り返される過去1〜2年の状況をターミナル側は吸収しきれておらず、機材の滞留や処理能力の逼迫につながりうる。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "No rail freight from London Gateway and Tilbury after storms",
-    "title_ja": "英London GatewayとTilbury、嵐被害で鉄道貨物が停止",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/no-rail-freight-from-london-gateway-and-tilbury-after-storms/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "金曜に英南東部を襲った嵐で1km超の線路が損壊し、脱線も重なってDP World London Gatewayなど主要ターミナルへの鉄道サービスが停止した。",
-      "Forth Portsは今週TilburyとTilbury 2への鉄道便が運行されないと顧客に通知し、DP WorldはLondon Gatewayで縮小ダイヤの運行にとどまるとして復旧作業をNetwork Railと進めていると説明した。",
-      "荷主は内陸コンテナ輸送の代替手段確保に追われており、英国内でのコンテナ機材の回転悪化が懸念される。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Champi’s support won’t reverse market trend",
-    "title_ja": "台風Champiと港湾混雑が運賃を一時下支え、下落基調は不変",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/champis-support-wont-reverse-market-trend/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "Linerlyticaによると、2026年最強とされる台風Champiが土曜に台湾へ上陸し、世界の港湾滞留の35%を占める北アジアの混雑をさらに悪化させた。",
-      "高雄・台北・基隆の主要港が金曜に閉鎖され、本船スケジュールが乱れて一部で最大3日の遅延が生じている。",
-      "ただし船腹過剰と激しい値下げ競争、冬の閑散期入りが重く、コンテナ運賃の下落基調は反転しないとみられる。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "container_leasing",
-    "kind": "news",
-    "title": "Maersk the most reliable carrier – but hits and misses for Gemini",
-    "title_ja": "8〜9月の定時率、MSCが68.9%でGeminiを僅差で上回る",
-    "source": "The Loadstar",
-    "url": "https://theloadstar.com/maersk-the-most-reliable-carrier-hits-and-misses-for-gemini/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "Sea-Intelligenceによると、東西基幹航路の8〜9月の定時到着率はMSCが68.9%、Gemini Cooperationが68.4%で、MSCが僅差で首位となった。",
-      "MaerskとHapag-LloydによるGeminiの定時率は前月比9.4ポイント低下し、1.2ポイント低下にとどまったMSCに逆転を許した。",
-      "個別船社ではMaerskが最も高い定時率を記録したものの、Geminiが掲げる約90%の目標には遠く、スケジュールの不安定さはコンテナ機材の回転に影響する。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "eu_railcar_leasing",
-    "kind": "news",
-    "title": "Dynamic Coupling: a blueprint for more capacity and competitiveness?",
-    "title_ja": "走行中に連結・解結するDynamic Coupling、欧州貨物鉄道で実証進む",
-    "source": "RailFreight.com",
-    "url": "https://www.railfreight.com/railfreight/2026/10/27/dynamic-coupling-a-blueprint-for-more-capacity-and-competitiveness/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "DC-FREIGHTコンソーシアムが開発するDynamic Couplingは、走行中に貨車群を連結・解結し、行き先の異なる輸送が同一の線路容量を共有できるようにする技術。",
-      "6カ国8者が参加して認証と実装を目指しており、最初の製品は時速40kmまでの運転支援機能で、より高速に対応する製品は後続で投入される予定。",
-      "DirecTrainSのAlberto Mandler CEOはDACやERTMSと競合しないとし、初期投資が小さく混雑路線の容量増に寄与しうると説明している。"
-    ],
-    "collected_at": "2026-10-27T13:23:20-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "regulatory",
-    "title": "STB Judge Rules SWARS Vena Keynote Address Video ‘Public’",
-    "title_ja": "STB判事、UP CEO講演動画の機密指定解除を命令",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/regulatory/stb-judge-rules-swars-vena-keynote-address-video-public/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "STBの行政法判事が、UPがディスカバリーで「機密」指定したVena CEOの講演動画について指定解除を命じた。",
-      "判断は10月23日付で、UPは10月30日までに機密表示なしで動画を提出する必要があり、CPKCが10月6日に申し立てていた。",
-      "対象は約900人が参加した2026年3月のSWARS年次総会の基調講演で、合併を支持しない荷主への運賃引き上げ示唆が問題視されていた。"
-    ],
-    "collected_at": "2026-10-28T06:36:23-07:00"
-  },
-  {
-    "category": "rail_industry",
-    "kind": "news",
-    "title": "RailState data shows strike’s impact on coal traffic at Port of Prince Rupert",
-    "title_ja": "Prince Rupert港のストで石炭列車が48%減",
-    "source": "Trains Magazine",
-    "url": "https://www.trains.com/pro/freight/railstate-data-shows-strikes-impact-on-coal-traffic-at-port-of-prince-rupert/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "RailStateの線路脇センサーデータで、Trigon Pacific Terminals向けの石炭・石油コークス列車が港湾ストの影響で大幅に減少した。",
-      "10月2〜25日は週5.8本で8〜9月の週11.2本から48%減、最大顧客Conuma Coalの列車は週8.1本から2.9本に落ち込んだ。",
-      "一部列車はバンクーバーのWestshoreへ振り替えられ、カナダ産業関係委員会は10月27日にTrigonへ請負業者の使用停止を命じた。"
-    ],
-    "collected_at": "2026-10-28T06:36:23-07:00"
-  },
-  {
-    "category": "alt_investment",
-    "kind": "news",
-    "title": "Oregon PERF commits $330m to Brookfield’s global infrastructure strategy",
-    "title_ja": "Oregon PERF、Brookfieldのインフラ戦略に3.3億ドルをコミット",
-    "source": "IPE Real Assets",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbTVJRGl3cWxEVnB5QmlocnR5SGxJRG9HQ1phMU9nSjZCa1ZnZ3U5UnhuSTdYS2VrRmJCUk5IVDhqWXo2OWpyMDRueGtqQXdhZUhWemJtZVozZlJnOWZBZ3ZEMWprUFNPeUdiM1VaNEIzNUNsdTlEU1pSS3RQZEhjSDRvSmNwQ2JIRGM3b1hNNEdUeWFacTVEMmlYSnZNOTY3TGVtRGUtaWQ5emZ5aGRmUl9RYzZ2WUI1aldF?oc=5",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "米オレゴン州公務員年金基金（Oregon PERF）が、Brookfieldのグローバルインフラ戦略に総額3億3,000万ドルをコミットしたと報じられた。",
-      "内訳はクローズドエンド型のBrookfield Infrastructure Fund VIと関連する共同投資ビークルで、州財務局ベースでは同ファンドへのコミットは3億ドルとされる（同ファンドは300億ドルの調達を目標）。",
-      "Oregon PERFは2026年にインフラ・天然資源分野で5〜7本のファンド等へ最大10億ドルを投じる方針で、6月にもBlackstone、Cube、LS Powerの3戦略に計5億2,500万ドルをコミットしている。"
-    ],
-    "collected_at": "2026-10-28T13:25:39-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "earnings",
-    "title": "Greenbrier Reports $79MM in Fiscal 2026 Net Earnings as Railcar Backlog Grows",
-    "title_ja": "Greenbrier、FY26純利益79百万ドル 受注残14,000両に増加",
-    "source": "Railway Age",
-    "url": "https://www.railwayage.com/mechanical/freight-cars/greenbrier-reports-79mm-in-fiscal-2026-net-earnings-as-railcar-backlog-grows/",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "Greenbrierは8月31日に終了した2026年度の純利益を7,900万ドル（希薄化後EPS2.49ドル）と発表し、第4四半期は900万ドル（同0.27ドル）、売上は5億9,100万ドルで前年同期の7億5,950万ドルから22%減少した。",
-      "第4四半期の新規受注は3,400両・6億ドル相当、納入は3,600両で、期末受注残は14,000両・推定21億ドルと2024年度以来初めて前四半期比で増加した。",
-      "自社保有リースフリートは2026年度に23%増の20,900両まで拡大し、稼働率は98%を維持した一方、タンク車の関税不透明感が長期投資の意思決定を遅らせていると説明された。"
-    ],
-    "collected_at": "2026-10-29T06:58:22-07:00"
-  },
-  {
-    "category": "railcar_leasing",
-    "kind": "regulatory",
-    "title": "Hazardous Materials: Harmonization With International Standards",
-    "title_ja": "PHMSA、危険物規則の国際基準調和へ規則案",
-    "source": "Federal Register (PHMSA)",
-    "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21922/hazardous-materials-harmonization-with-international-standards",
-    "published_at": "2026-10-27",
-    "summary_ja": [
-      "PHMSAは危険物規則(HMR)を最新の国際基準に合わせて改正する規則案を10月27日付の官報に掲載した。",
-      "対象は正式輸送品名・危険性区分・容器等級・特別規定・容器承認に加え、航空輸送の数量制限や船舶積載要件。",
-      "国際整合の維持と国内事業者のコスト低減が狙いで、現段階は提案（NPRM）であり最終規則ではない。"
-    ],
-    "collected_at": "2026-10-29T13:24:01-07:00"
   }
 ]
