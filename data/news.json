@@ -1,5 +1,50 @@
 [
   {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Washington opens fresh tariff front across 14 economies",
+    "title_ja": "USTR、14の国・地域に最大35%の新関税を提案",
+    "source": "Splash247",
+    "url": "https://splash247.com/washington-opens-fresh-tariff-front-across-14-economies/",
+    "published_at": "2026-11-26",
+    "summary_ja": [
+      "USTRが産業過剰能力に関する調査結果を公表し、14の国・地域からの輸入に最大35%の関税を課す案を示した。",
+      "提案税率はベトナムが最も高く、インドは最大25%、中国とシンガポールは最大20%、EUは15%で日本・韓国・台湾も同程度の上限とされた。",
+      "中国とベトナムの造船業が政策支援で競争を歪めていると名指しされており、措置は未実施だがコンテナ輸送に新たな貿易の不確実性をもたらす。"
+    ],
+    "collected_at": "2026-11-26T13:25:19-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "earnings",
+    "title": "PKP Cargo back in the red, still losing money on its operations",
+    "title_ja": "PKP Cargo、2億6,300万ズロチの評価損で再び赤字転落",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/26/pkp-cargo-back-in-the-red-still-losing-money-on-its-operations/",
+    "published_at": "2026-11-26",
+    "summary_ja": [
+      "PKP Cargoは2億6,300万ズロチの資産評価損を計上し、第3四半期は再び損失に転落した。",
+      "評価損を除いても営業段階の赤字が続いており、上半期に約2,700万ユーロの純利益を確保した流れが反転した。",
+      "石炭調達を巡る調査では管財人が不服を申し立てており、同社は11月に貨車2,929両の追加売却を打ち出すなど資産整理を続けている。"
+    ],
+    "collected_at": "2026-11-26T13:25:19-08:00"
+  },
+  {
+    "category": "alt_investment",
+    "kind": "news",
+    "title": "Regulators cut red tape on securitisation in boost for alts lenders",
+    "title_ja": "英PRAとFCA、証券化規制を緩和し10年で1.68億ポンド節減",
+    "source": "Alternative Credit Investor",
+    "url": "https://alternativecreditinvestor.com/2026/11/26/regulators-cut-red-tape-on-securitisation-in-boost-for-alts-lenders/",
+    "published_at": "2026-11-26",
+    "summary_ja": [
+      "英国のPRAとFCAが証券化規制を見直し、証券化債務の発行コスト低減と投資家による取得の容易化を図る。",
+      "当局は10年間で約1億6,800万ポンドのコスト削減を見込み、デューデリジェンスと情報開示の簡素化、リスク保有要件の柔軟化、単純な再証券化の限定的容認を盛り込んだ。",
+      "オルタナ系貸し手の資金調達余地が広がる一方、恩恵を受けるには資産の質やデータ・業務基盤の強さを示す必要があるとの指摘が出ている。"
+    ],
+    "collected_at": "2026-11-26T13:25:19-08:00"
+  },
+  {
     "category": "rail_industry",
     "kind": "news",
     "title": "S&P upgrades CPKC to A- on diversified growth, Mexico-US corridor",
@@ -388,6 +433,21 @@
       "開業後は CN と CPKC の双方からアクセスできる見込みだが港内鉄道の運行事業者は未定で、2027年に環境調査と詳細設計、2029年に本格工事を予定している。"
     ],
     "collected_at": "2026-11-25T06:24:13-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "regulatory",
+    "title": "STB to Review Implementation of UP-SP Merger ‘Dispatching Provisions’",
+    "title_ja": "STB、UP-SP合併条件の平等運行規定の履行審査に着手",
+    "source": "Railway Age",
+    "url": "https://www.railwayage.com/regulatory/stb-to-review-implementation-of-up-sp-merger-dispatching-provisions/",
+    "published_at": "2026-11-23",
+    "summary_ja": [
+      "STBは1996年のUP-SP合併承認に付された「平等運行（equal dispatching）」条項の履行について審査手続きを開始した。",
+      "BNSFは申立ての対象をUP線上を走る自社の線路使用権列車に絞り込み、RASAの修正ではなくUPによる四半期・年次報告の命令を求めている。",
+      "UPは仲裁での解決を主張したが、STBは合併条件の履行に広く影響する論点だとして退け、両社に12月3日までの進行日程案の提出を指示した。"
+    ],
+    "collected_at": "2026-11-26T13:25:19-08:00"
   },
   {
     "category": "container_leasing",
@@ -2610,6 +2670,21 @@
     "collected_at": "2026-11-17T13:22:25-08:00"
   },
   {
+    "category": "container_leasing",
+    "kind": "regulatory",
+    "title": "Notice of Modification of Section 301 Action: China's Targeting of the Maritime, Logistics, and Shipbuilding Sectors for Dominance",
+    "title_ja": "USTR、中国船への港湾手数料の停止を2027年1月まで延長",
+    "source": "Federal Register (USTR)",
+    "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22867/notice-of-modification-of-section-301-action-chinas-targeting-of-the-maritime-logistics-and",
+    "published_at": "2026-11-10",
+    "summary_ja": [
+      "USTRは11月10日の官報告示で、中国の海運・物流・造船分野を対象とする301条措置の停止を2027年1月9日午後11時59分（米東部時間）まで延長した。",
+      "停止期間中は海上輸送サービス手数料の支払い義務が生じず、中国製のship-to-shoreクレーンなど荷役機器への追加関税も停止対象に含まれる。",
+      "2025年11月10日に始まった1年間の停止に続く措置で、約60件の意見提出を経て、停止の前提となる状況が継続していると判断された。"
+    ],
+    "collected_at": "2026-11-26T13:25:19-08:00"
+  },
+  {
     "category": "railcar_leasing",
     "kind": "earnings",
     "title": "FreightCar America, Inc. Reports Third Quarter 2026 Results",
@@ -2803,6 +2878,21 @@
       "売上総利益率は8.8%（前年同期15.1%）、調整後EBITDAは10万ドルとほぼ損益均衡まで低下した一方、アフターマーケット売上は65%増で通期見通しは据え置き、期末後にTrinity Equipment Companyの買収を完了した。"
     ],
     "collected_at": "2026-11-24T06:23:25-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "New leasing of locomotives in early November",
+    "title_ja": "欧州リース各社、11月初旬にVectronとDragon 2を相次ぎ投入",
+    "source": "RAILMARKET.com",
+    "url": "https://en.railmarket.com/news/rolling-stock/66012-latest-locomotive-leases-cargounit-alpha-trains-and-ontrain-deliver-to-freight-operators",
+    "published_at": "2026-11-09",
+    "summary_ja": [
+      "11月初旬、CARGOUNITとAlpha TrainsがVectronとSmartronを、OnTrainがDragon 2を貨物事業者へ追加リースした。",
+      "Alpha Trainsはドイツの新規顧客Dinlok GroupにSiemens Vectron ACを引き渡し、顧客基盤を広げた。",
+      "OnTrainがQemetica Cargoに納めたDragon 2は4両目で、10両（追加10両のオプション付き）の発注分として2026〜2027年に順次納入される。"
+    ],
+    "collected_at": "2026-11-26T13:25:19-08:00"
   },
   {
     "category": "rail_industry",
