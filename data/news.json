@@ -2,6 +2,96 @@
   {
     "category": "container_leasing",
     "kind": "news",
+    "title": "Maersk revises US and Canada demurrage and detention tariffs",
+    "title_ja": "Maersk、北米のD&D料率を2027年1月から改定",
+    "source": "Container News",
+    "url": "https://container-news.com/maersk-revises-us-and-canada-demurrage-and-detention-tariffs/",
+    "published_at": "2026-11-27",
+    "summary_ja": [
+      "Maerskは2027年1月1日以降のPrice Calculation Dateを基準に、米国とカナダのデマレージ・ディテンション料率を改定すると発表した。",
+      "対象はドライコンテナ、稼働/非稼働リーファー、米国の鉄道ランプ、Newark経由の機材で、日額料率の多くは現行水準より引き上げとなる。",
+      "一方で農産品の輸出ディテンション無料期間は見直され、乾草は4〜9月が10営業日・10〜3月が14営業日、その他農産品は7営業日となり、機材の滞留コスト構造が荷主ごとに変わる。"
+    ],
+    "collected_at": "2026-11-27T13:20:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "Container spot rates set to rise as carriers launch peak season surcharges",
+    "title_ja": "アジア発欧州で12月1日からPSS、コンテナ運賃上昇の見通し",
+    "source": "The Loadstar",
+    "url": "https://theloadstar.com/container-spot-rates-set-to-rise-as-carriers-launch-peak-season-surcharges/",
+    "published_at": "2026-11-27",
+    "summary_ja": [
+      "今週のスポット運賃で上昇したのはアジア〜地中海航路のみで、Drewryのスポット指数は上海〜ジェノバが前週比8%高の40フィート当たり4,802ドルとなった。",
+      "上海〜ロッテルダムは2週連続で3,485ドルと横ばいだが、CMA CGMとHapag-Lloydが12月1日からアジア〜北欧州に40フィート1,000ドル、Hapag-Lloydはアジア〜地中海に1,500ドルのPSSを設定した。",
+      "2027年の春節が早いことを根拠とした値上げ圧力で、太平洋航路とアジア〜欧州航路の運賃格差が拡大しており、年末の荷動き前倒しがコンテナ機材の回転にも影響しうる。"
+    ],
+    "collected_at": "2026-11-27T13:20:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
+    "title": "UK port congestion, empty-container restrictions add upward pressure to freight rates",
+    "title_ja": "英国港湾で空コンテナ返却制限、機材需給が逼迫",
+    "source": "Hellenic Shipping News",
+    "url": "https://www.hellenicshippingnews.com/uk-port-congestion-empty-container-restrictions-add-upward-pressure-to-freight-rates/",
+    "published_at": "2026-11-27",
+    "summary_ja": [
+      "英国のコンテナ物流網の混雑が船腹と機材の実効キャパシティを圧迫し、運賃に上昇圧力を加えていると報じられた。",
+      "Maerskは11月24日の顧客向け通知で、高水準の輸入量・網内混雑・悪天候・鉄道輸送の混乱が英国とアイルランドの港湾および内陸オペレーションを圧迫していると説明した。",
+      "空機材のボトルネックも深刻で、London Gatewayは11月24日に空コンテナの返却受け入れを停止し、Felixstowe QuayとTilbury Quayも空コンテナ受け入れを停止したままとされ、空コンテナの滞留が機材需給を一段と締め付けている。"
+    ],
+    "collected_at": "2026-11-27T13:20:41-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Swiss rail freight share falls to lowest level ever recorded",
+    "title_ja": "スイスの鉄道貨物シェア、35%で過去最低に低下",
+    "source": "RailFreight.com",
+    "url": "https://www.railfreight.com/railfreight/2026/11/27/swiss-rail-freight-share-falls-to-lowest-level-ever-recorded/",
+    "published_at": "2026-11-27",
+    "summary_ja": [
+      "スイス連邦統計局の新統計によると、2025年の陸上貨物輸送における鉄道のシェアは35%まで低下し、観測史上最低となった。",
+      "鉄道の輸送実績は5.5%減の91億トンキロに落ち込み、一方で道路貨物は2.7%増の169.1億トンキロに拡大した。",
+      "アルプス越え輸送を含む欧州の主要回廊で鉄道シフトが後退していることは、同国を通過する貨車の稼働と欧州貨車リース需要の下振れ要因となる。"
+    ],
+    "collected_at": "2026-11-27T13:20:41-08:00"
+  },
+  {
+    "category": "eu_railcar_leasing",
+    "kind": "news",
+    "title": "Railway supply industry news round-up",
+    "title_ja": "Eurofima、ÖBB向け車両調達に4,000万ユーロを融資",
+    "source": "Railway Gazette",
+    "url": "https://www.railwaygazette.com/business/2026/11/27/railway-supply-industry-news-round-up-34/",
+    "published_at": "2026-11-27",
+    "summary_ja": [
+      "車両ファイナンス機関のEurofimaが、オーストリア連邦鉄道の子会社Rail Equipment GmbH & Coに対し、Stadler製の救援・消火列車9編成の取得資金として4,000万ユーロを供与した。",
+      "この取引はÖBB-Infrastruktur向けの近代的な車両調達を支援する総額2億5,000万ユーロの枠組み契約の第2トランシェに当たる。",
+      "同じ週の供給業界動向では、車両試験・保守ソフトのIGH Automationがドイツ鉄道産業協会VDBに加盟し、UNIFEの調査では仏独西伊墺6社・10万人の従業員のうち50歳以上が29歳未満を3倍超上回る企業もあるなど、保守・改造能力の担い手不足が課題として示された。"
+    ],
+    "collected_at": "2026-11-27T13:20:41-08:00"
+  },
+  {
+    "category": "rail_industry",
+    "kind": "news",
+    "title": "New product improves cybersecurity for rail computer systems",
+    "title_ja": "CylusとMoxa、鉄道車載コンピュータのサイバー防御で提携",
+    "source": "Trains",
+    "url": "https://www.trains.com/pro/freight/new-product-improves-cybersecurity-for-rail-computer-systems/",
+    "published_at": "2026-11-27",
+    "summary_ja": [
+      "鉄道向けサイバーセキュリティのCylusと産業用コンピュータのMoxaが提携し、Moxaの車載鉄道用コンピュータ上でCylusOneのセキュリティソフトを動作させる構成の互換性確保を発表した。",
+      "対象はデータを収集地点で処理するエッジコンピューティング構成で、クラウドとの通信量や処理負荷を抑えられる点が利点とされる。",
+      "Moxaは機関車の運転室に収まる小型で耐環境性の高い機器を供給しており、車載機器のソフト・ハード互換性の確保は鉄道事業者の設置・設定作業の負担軽減につながる。"
+    ],
+    "collected_at": "2026-11-27T13:20:41-08:00"
+  },
+  {
+    "category": "container_leasing",
+    "kind": "news",
     "title": "Washington opens fresh tariff front across 14 economies",
     "title_ja": "USTR、14の国・地域に最大35%の新関税を提案",
     "source": "Splash247",
